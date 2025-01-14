@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ```
 - main.py: Collects the JSON response of financial reports by emiten code
-- step_2.py: Collects data into financial_report_file.xlsx 
+- step_2.py: Collects data into financial_report_file.xlsx based on collecting the request.json 
 - step3.py: Updates data in Book4.xlsx
 ```
 
