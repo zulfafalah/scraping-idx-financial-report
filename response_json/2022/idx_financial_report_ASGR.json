@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ASGR",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ASGR",
+      "File_Modified": "2023-02-23T18:07:52.49",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Astra Graphia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "5ce98765-d0f9-4813-a788-9309521155a1",
+          "File_Modified": "2023-02-23T18:07:52.49",
+          "File_Name": "Surat Pengantar ASGR dan Entitas 2022 (OJK).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASGR/Surat Pengantar ASGR dan Entitas 2022 (OJK).pdf",
+          "File_Size": 286044,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "2ebaf0c2-eb61-4d90-8a20-cc305bdbe889",
+          "File_Modified": "2023-02-23T18:07:52.49",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASGR/inlineXBRL.zip",
+          "File_Size": 113701,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "31a7f404-17bb-4ff4-a325-d1347409fc25",
+          "File_Modified": "2023-02-23T18:07:52.49",
+          "File_Name": "FinancialStatement-2022-Tahunan-ASGR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASGR/FinancialStatement-2022-Tahunan-ASGR.xlsx",
+          "File_Size": 1176249,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "33461d7a-c635-4006-ae6b-0aabaf680def",
+          "File_Modified": "2023-02-23T18:07:52.49",
+          "File_Name": "FinancialStatement-2022-Tahunan-ASGR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASGR/FinancialStatement-2022-Tahunan-ASGR.pdf",
+          "File_Size": 80337,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "1328ae49-51dd-4fc1-ab84-1ac3e278deae",
+          "File_Modified": "2023-02-23T18:07:52.49",
+          "File_Name": "PT Astra Graphia Tbk 1222.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASGR/PT Astra Graphia Tbk 1222.pdf",
+          "File_Size": 5210080,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "274bfff5-8d6e-4013-9488-a170dd618585",
+          "File_Modified": "2023-02-23T18:07:52.49",
+          "File_Name": "E019 Pelaporan fakta Material XBRL ASGR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASGR/E019 Pelaporan fakta Material XBRL ASGR.pdf",
+          "File_Size": 8935,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "dde1acff-24ee-4ee3-9313-b0379f2d54e5",
+          "File_Modified": "2023-02-23T18:07:52.49",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASGR/instance.zip",
+          "File_Size": 161239,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "2a9911ee-d516-4833-be84-25ab29e375e3",
+          "File_Modified": "2023-02-23T18:07:52.49",
+          "File_Name": "Ikhtisar Kinerja PT Astra Graphia Tbk (ASGR) 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASGR/Ikhtisar Kinerja PT Astra Graphia Tbk (ASGR) 2022.pdf",
+          "File_Size": 212795,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "6f0202d2-3d50-4025-a209-418d3d249de3",
+          "File_Modified": "2023-02-23T18:07:52.49",
+          "File_Name": "AnnualReport2022-ASGR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202303/fa23867475_20360e6744.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "4c3edeb5-b2a0-4683-9f1a-aaafdbe9a75f",
+          "File_Modified": "2023-02-23T18:07:52.49",
+          "File_Name": "Dirstat-2022-AG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASGR/Dirstat-2022-AG.pdf",
+          "File_Size": 997128,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "a700d01c-6b39-41e9-af3f-b2856a7b10b0",
+          "File_Modified": "2023-02-23T18:07:52.49",
+          "File_Name": "Surat Pengantar ASGR dan Entitas 2022 (BEI).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASGR/Surat Pengantar ASGR dan Entitas 2022 (BEI).pdf",
+          "File_Size": 253121,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra Graphia Tbk"
+        }
+      ]
+    }
+  ]
+}

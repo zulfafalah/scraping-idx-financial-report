@@ -1,0 +1,90 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DAYA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DAYA",
+      "File_Modified": "2022-03-14T08:56:18.38",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Duta Intidaya Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "672c4fcb-5451-4026-918f-7825ba594431",
+          "File_Modified": "2022-03-14T08:56:18.38",
+          "File_Name": "FinancialStatement-2021-Tahunan-DAYA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DAYA/FinancialStatement-2021-Tahunan-DAYA.xlsx",
+          "File_Size": 158693,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "d736ee78-6ec9-4b33-a5be-99cc2c4d225c",
+          "File_Modified": "2022-03-14T08:56:18.38",
+          "File_Name": "FinancialStatement-2021-Tahunan-DAYA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DAYA/FinancialStatement-2021-Tahunan-DAYA.pdf",
+          "File_Size": 41329,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "0c0c4e57-0111-4df4-9742-a60aa36d42d4",
+          "File_Modified": "2022-03-14T08:56:18.38",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DAYA/instance.zip",
+          "File_Size": 28164,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "e7c49c87-08c1-43c2-a29f-89d9c9316292",
+          "File_Modified": "2022-03-14T08:56:18.38",
+          "File_Name": "Signed FS DID 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DAYA/Signed FS DID 2021.pdf",
+          "File_Size": 2438199,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "f4bb1c5f-ee19-41bf-8cb6-f3775acca228",
+          "File_Modified": "2022-03-14T08:56:18.38",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DAYA/inlineXBRL.zip",
+          "File_Size": 57996,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        }
+      ]
+    }
+  ]
+}

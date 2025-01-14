@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PADI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PADI",
+      "File_Modified": "2024-04-01T17:44:37.437",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Minna Padi Investama Sekuritas Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "cd2503e1-5301-453b-9a08-28f515390209",
+          "File_Modified": "2024-04-01T17:44:37.437",
+          "File_Name": "AnnualReport2023-PADI-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/af7333ea38_fc2334084c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "917f3d63-5aca-478e-a00b-9ee8fa756c0d",
+          "File_Modified": "2024-04-01T17:44:37.437",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PADI/inlineXBRL.zip",
+          "File_Size": 117296,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "64d40a91-a48e-407a-869b-ad87a2e7a97f",
+          "File_Modified": "2024-04-01T17:44:37.437",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PADI/instance.zip",
+          "File_Size": 58892,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "e69f4f4f-af3c-4b63-b64b-b3adf5fb759d",
+          "File_Modified": "2024-04-01T17:44:37.437",
+          "File_Name": "FinancialStatement-2023-Tahunan-PADI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PADI/FinancialStatement-2023-Tahunan-PADI.pdf",
+          "File_Size": 299013,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "9ca05703-b32a-4076-a6da-3a0084f80dd9",
+          "File_Modified": "2024-04-01T17:44:37.437",
+          "File_Name": "Surat Pernyataan Direksi dan Komisaris.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PADI/Surat Pernyataan Direksi dan Komisaris.pdf",
+          "File_Size": 665209,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "a62d360c-9ae1-4068-a4e7-90102f17c140",
+          "File_Modified": "2024-04-01T17:44:37.437",
+          "File_Name": "FinancialStatement-2023-Tahunan-PADI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PADI/FinancialStatement-2023-Tahunan-PADI.xlsx",
+          "File_Size": 164662,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "84e440c7-8634-4571-aa73-df074ce697e6",
+          "File_Modified": "2024-04-01T17:44:37.437",
+          "File_Name": "AnnualReport2023-PADI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/41eb13a964_ccbbc819b3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "64eb7b9e-53bb-4e47-8821-e85dff32e030",
+          "File_Modified": "2024-04-01T17:44:37.437",
+          "File_Name": "AnnualReport2023-PADI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/c8e4fe1b6a_45f164eba1.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "0ac0845b-3416-43c2-8697-394646aea117",
+          "File_Modified": "2024-04-01T17:44:37.437",
+          "File_Name": "AnnualReport2023-PADI-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/5543709e5e_afad9f2c8a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "64c0895f-1f4f-435d-8bd6-9b847d9798e8",
+          "File_Modified": "2024-04-01T17:44:37.437",
+          "File_Name": "LK PT Minna Padi Investama Sekuritas 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PADI/LK PT Minna Padi Investama Sekuritas 31 Des 2023.pdf",
+          "File_Size": 2651678,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        }
+      ]
+    }
+  ]
+}

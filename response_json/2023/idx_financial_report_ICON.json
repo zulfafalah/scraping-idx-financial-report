@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ICON",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ICON",
+      "File_Modified": "2024-05-16T11:48:04.093",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Island Concepts Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "73218e8c-1a68-4750-987a-227d5b14cf22",
+          "File_Modified": "2024-05-16T11:48:04.093",
+          "File_Name": "AnnualReport2023-ICON-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/5eee291370_5de6d82672.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "b262b9a0-aff2-4f9d-a0dd-61b494531857",
+          "File_Modified": "2024-05-16T11:48:04.093",
+          "File_Name": "FinancialStatement-2023-Tahunan-ICON.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ICON/FinancialStatement-2023-Tahunan-ICON.xlsx",
+          "File_Size": 305467,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "56885331-808d-4a3d-a2ce-6634281da275",
+          "File_Modified": "2024-05-16T11:48:04.093",
+          "File_Name": "AnnualReport2023-ICON.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/00ae5370fa_a5491796df.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "804fc6f9-b65f-4fae-b83a-b68322b79b12",
+          "File_Modified": "2024-05-16T11:48:04.093",
+          "File_Name": "SPD_BOD ICON DEC 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ICON/SPD_BOD ICON DEC 2023.pdf",
+          "File_Size": 390055,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "104c664b-bd3d-427f-b5e4-0d4f2dffb238",
+          "File_Modified": "2024-05-16T11:48:04.093",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ICON/instance.zip",
+          "File_Size": 112869,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "b8b49e27-8fa1-483a-965b-a47e8fde67ba",
+          "File_Modified": "2024-05-16T11:48:04.093",
+          "File_Name": "Laporan Audit PT Icon Tbk 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ICON/Laporan Audit PT Icon Tbk 2023.pdf",
+          "File_Size": 6511039,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "0f691fef-c158-42e0-ac68-b9be35e188d1",
+          "File_Modified": "2024-05-16T11:48:04.093",
+          "File_Name": "AnnualReport2023-ICON-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/0d769b0382_c3247abb51.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "533d88ce-a538-4ce8-93ae-c990d6e5a7e7",
+          "File_Modified": "2024-05-16T11:48:04.093",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ICON/inlineXBRL.zip",
+          "File_Size": 216568,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TDPM",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TDPM",
+      "File_Modified": "2022-11-14T23:52:33.007",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Tianrong Chemicals Industry Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TDPM",
+          "File_ID": "d0835eb3-c322-4acb-8788-2df132bde59b",
+          "File_Modified": "2022-11-14T23:52:33.007",
+          "File_Name": "Pengantar LK Des2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TDPM/Pengantar LK Des2021.pdf",
+          "File_Size": 230003,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Tianrong Chemicals Industry Tbk"
+        },
+        {
+          "Emiten_Code": "TDPM",
+          "File_ID": "e33c2f6a-4582-4358-9968-48e609f52017",
+          "File_Modified": "2022-11-14T23:52:33.007",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TDPM/inlineXBRL.zip",
+          "File_Size": 59213,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Tianrong Chemicals Industry Tbk"
+        },
+        {
+          "Emiten_Code": "TDPM",
+          "File_ID": "e8c2222f-de36-4c0e-ad44-5ad80f801235",
+          "File_Modified": "2022-11-14T23:52:33.007",
+          "File_Name": "FinancialStatement-2021-Tahunan-TDPM.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TDPM/FinancialStatement-2021-Tahunan-TDPM.xlsx",
+          "File_Size": 159579,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Tianrong Chemicals Industry Tbk"
+        },
+        {
+          "Emiten_Code": "TDPM",
+          "File_ID": "b96c6b38-4ec9-42f3-baaa-1327edc2416a",
+          "File_Modified": "2022-11-14T23:52:33.007",
+          "File_Name": "LK 31 DES 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TDPM/LK 31 DES 2021.pdf",
+          "File_Size": 5332116,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Tianrong Chemicals Industry Tbk"
+        },
+        {
+          "Emiten_Code": "TDPM",
+          "File_ID": "6cf017a0-99c4-4bbd-a4af-5ce289e79390",
+          "File_Modified": "2022-11-14T23:52:33.007",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TDPM/instance.zip",
+          "File_Size": 29106,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Tianrong Chemicals Industry Tbk"
+        },
+        {
+          "Emiten_Code": "TDPM",
+          "File_ID": "5bbc54db-dbe5-43d8-8b08-33afc63716f3",
+          "File_Modified": "2022-11-14T23:52:33.007",
+          "File_Name": "AnnualReport2021-TDPM-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202212/4eb42a6dc2_b4a6c79486.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Tianrong Chemicals Industry Tbk"
+        },
+        {
+          "Emiten_Code": "TDPM",
+          "File_ID": "0349320e-7c3b-41bd-9e02-f544c2bfad2b",
+          "File_Modified": "2022-11-14T23:52:33.007",
+          "File_Name": "FinancialStatement-2021-Tahunan-TDPM.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TDPM/FinancialStatement-2021-Tahunan-TDPM.pdf",
+          "File_Size": 55956,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Tianrong Chemicals Industry Tbk"
+        }
+      ]
+    }
+  ]
+}

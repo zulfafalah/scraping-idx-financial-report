@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MPPA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MPPA",
+      "File_Modified": "2024-03-28T21:46:07.057",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Matahari Putra Prima Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "8dfe9484-a459-496a-b406-744f86e6c859",
+          "File_Modified": "2024-03-28T21:46:07.057",
+          "File_Name": "009 OJK Penyampaian Lap Keu Tahunan 31Dec23.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MPPA/009 OJK Penyampaian Lap Keu Tahunan 31Dec23.pdf",
+          "File_Size": 560527,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "ca8819ed-345e-4830-8013-8ad55b4cb507",
+          "File_Modified": "2024-03-28T21:46:07.057",
+          "File_Name": "FinancialStatement-2023-Tahunan-MPPA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MPPA/FinancialStatement-2023-Tahunan-MPPA.pdf",
+          "File_Size": 703205,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "f4b5a739-58be-4351-a793-9312ea05c38a",
+          "File_Modified": "2024-03-28T21:46:07.057",
+          "File_Name": "FinancialStatement-2023-Tahunan-MPPA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MPPA/FinancialStatement-2023-Tahunan-MPPA.xlsx",
+          "File_Size": 348124,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "bc815ae4-82ba-4a2d-80b0-0d1ce2058292",
+          "File_Modified": "2024-03-28T21:46:07.057",
+          "File_Name": "Checklist Lap Keu PT MPPA 31 Dec 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MPPA/Checklist Lap Keu PT MPPA 31 Dec 2023.pdf",
+          "File_Size": 2425908,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "59d5222f-1c03-497d-81a4-2bdfcbbfb56e",
+          "File_Modified": "2024-03-28T21:46:07.057",
+          "File_Name": "Matahari Putra Prima GA 31 Des 23.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MPPA/Matahari Putra Prima GA 31 Des 23.pdf",
+          "File_Size": 4807986,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "148e1565-1b67-4a22-bc74-33ff4b1f9cef",
+          "File_Modified": "2024-03-28T21:46:07.057",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MPPA/instance.zip",
+          "File_Size": 128934,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "776d6dc4-c4f1-4836-a183-4a764f29ca42",
+          "File_Modified": "2024-03-28T21:46:07.057",
+          "File_Name": "AnnualReport2023-MPPA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/84aef2c954_9b4564c4ae.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "56c7d9ec-4f3a-4e02-84f7-1e2f38d77ee7",
+          "File_Modified": "2024-03-28T21:46:07.057",
+          "File_Name": "AnnualReport2023-MPPA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/426cfce18a_845234c70b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "43456e58-3241-406e-90b4-e66cc39fbb1f",
+          "File_Modified": "2024-03-28T21:46:07.057",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MPPA/inlineXBRL.zip",
+          "File_Size": 249943,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "61e84371-5eba-423b-8f1f-089096187934",
+          "File_Modified": "2024-03-28T21:46:07.057",
+          "File_Name": "AnnualReport2023-MPPA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/447e43015f_f7d03229f7.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "a6cdc09a-87c4-40ea-b4d7-8e99a7b499e3",
+          "File_Modified": "2024-03-28T21:46:07.057",
+          "File_Name": "SPD 31 Dec 2023_signed.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MPPA/SPD 31 Dec 2023_signed.pdf",
+          "File_Size": 989448,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        }
+      ]
+    }
+  ]
+}

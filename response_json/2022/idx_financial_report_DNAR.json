@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DNAR",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DNAR",
+      "File_Modified": "2023-03-21T15:47:06.99",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Bank Oke Indonesia Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "20dc6192-71f6-4552-9ba0-f3ec7254515b",
+          "File_Modified": "2023-03-21T15:47:06.99",
+          "File_Name": "FinancialStatement-2022-Tahunan-DNAR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DNAR/FinancialStatement-2022-Tahunan-DNAR.xlsx",
+          "File_Size": 578187,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "d66a1f55-73b6-4856-b6c6-30da265fdb27",
+          "File_Modified": "2023-03-21T15:47:06.99",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DNAR/instance.zip",
+          "File_Size": 96759,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "86bc03bb-139d-43b8-96b7-5d2edf2b5696",
+          "File_Modified": "2023-03-21T15:47:06.99",
+          "File_Name": "FinancialStatement-2022-Tahunan-DNAR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DNAR/FinancialStatement-2022-Tahunan-DNAR.pdf",
+          "File_Size": 193302,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "8ded9f90-d80c-4436-8410-6a136f98ea69",
+          "File_Modified": "2023-03-21T15:47:06.99",
+          "File_Name": "DNAR LKT BOI 31Des 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DNAR/DNAR LKT BOI 31Des 22.pdf",
+          "File_Size": 2963228,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "e2068be6-6145-422e-89f8-f4bd91a444e7",
+          "File_Modified": "2023-03-21T15:47:06.99",
+          "File_Name": "AnnualReport2022-DNAR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/c3f47b0014_68b26b0adc.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "32e5764f-7a0e-4e24-9c65-4cefd62f0416",
+          "File_Modified": "2023-03-21T15:47:06.99",
+          "File_Name": "DNAR Pengantar Penyampaian LKT 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DNAR/DNAR Pengantar Penyampaian LKT 2022.pdf",
+          "File_Size": 200180,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "87965d1b-0e07-463e-a70b-d9d2f0916b4c",
+          "File_Modified": "2023-03-21T15:47:06.99",
+          "File_Name": "DNAR Surat Pernyataan.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DNAR/DNAR Surat Pernyataan.pdf",
+          "File_Size": 785995,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "89caf09d-6698-4129-85ba-ec13023f33db",
+          "File_Modified": "2023-03-21T15:47:06.99",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DNAR/inlineXBRL.zip",
+          "File_Size": 140972,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        }
+      ]
+    }
+  ]
+}

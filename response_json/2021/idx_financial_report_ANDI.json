@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ANDI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ANDI",
+      "File_Modified": "2022-04-25T18:03:51.653",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Andira Agro Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "c29c944c-80de-4fa5-9d4a-8e88d22a0f90",
+          "File_Modified": "2022-04-25T18:03:51.653",
+          "File_Name": "AnnualReport2021-ANDI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202207/9d6bd3e2c6_dabea4c875.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "14fa6661-48ae-46b2-9741-c17a19e03bc1",
+          "File_Modified": "2022-04-25T18:03:51.653",
+          "File_Name": "CHECKLIST PT ANDIRA AGRO TBK Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ANDI/CHECKLIST PT ANDIRA AGRO TBK Des 2021.pdf",
+          "File_Size": 4502552,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "4b489644-bf7c-4741-aec0-f299ff48013a",
+          "File_Modified": "2022-04-25T18:03:51.653",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ANDI/instance.zip",
+          "File_Size": 28553,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "58498b5f-e303-4f82-af9e-03fbc071d0f3",
+          "File_Modified": "2022-04-25T18:03:51.653",
+          "File_Name": "FinancialStatement-2021-Tahunan-ANDI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ANDI/FinancialStatement-2021-Tahunan-ANDI.pdf",
+          "File_Size": 44040,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "1a6973ec-f162-4666-ae41-11ea133f8cfe",
+          "File_Modified": "2022-04-25T18:03:51.653",
+          "File_Name": "LK PT ANDIRA AGRO TBK PER 31 DES 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ANDI/LK PT ANDIRA AGRO TBK PER 31 DES 2021.pdf",
+          "File_Size": 4008970,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "260f43a4-06f3-45ea-a7b5-193c8d082a1b",
+          "File_Modified": "2022-04-25T18:03:51.653",
+          "File_Name": "001.DIR.OJK-BEI.IV.2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ANDI/001.DIR.OJK-BEI.IV.2022.pdf",
+          "File_Size": 205746,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "3cb763cb-c0e6-43f8-a5fd-d4e961ca3f85",
+          "File_Modified": "2022-04-25T18:03:51.653",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ANDI/inlineXBRL.zip",
+          "File_Size": 58461,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "77f71f19-dca6-4fc1-b586-8b4e55ea303d",
+          "File_Modified": "2022-04-25T18:03:51.653",
+          "File_Name": "FinancialStatement-2021-Tahunan-ANDI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ANDI/FinancialStatement-2021-Tahunan-ANDI.xlsx",
+          "File_Size": 159143,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "2ed06ec0-29c4-4756-b866-f127d3d9d910",
+          "File_Modified": "2022-04-25T18:03:51.653",
+          "File_Name": "1. SPD 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ANDI/1. SPD 2021.pdf",
+          "File_Size": 253307,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        }
+      ]
+    }
+  ]
+}

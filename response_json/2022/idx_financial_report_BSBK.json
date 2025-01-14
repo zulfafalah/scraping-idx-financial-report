@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BSBK",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BSBK",
+      "File_Modified": "2023-04-03T19:40:52.85",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Wulandari Bangun Laksana Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "b445053a-6e37-489e-8a75-4b0462ad845a",
+          "File_Modified": "2023-04-03T19:40:52.85",
+          "File_Name": "AnnualReport2022-BSBK-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/8e76ae7e6b_6e1fcbe5ea.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "04e0c7e0-2290-4ffd-a020-eeaedede4aa4",
+          "File_Modified": "2023-04-03T19:40:52.85",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSBK/inlineXBRL.zip",
+          "File_Size": 224769,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "e4ab0fbb-7113-4beb-9219-1638d47dbde3",
+          "File_Modified": "2023-04-03T19:40:52.85",
+          "File_Name": "Laporan Keuangan 31 Desember 2022 BSBK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSBK/Laporan Keuangan 31 Desember 2022 BSBK.pdf",
+          "File_Size": 5673408,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "52c5e141-ec4b-45df-9438-9f327e4bb3fd",
+          "File_Modified": "2023-04-03T19:40:52.85",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSBK/instance.zip",
+          "File_Size": 178728,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "8fcd358f-ff4e-4a84-bc94-c8e04cccfe04",
+          "File_Modified": "2023-04-03T19:40:52.85",
+          "File_Name": "Penjelasan Penurunan 20persen Liabilitas BSBK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSBK/Penjelasan Penurunan 20persen Liabilitas BSBK.pdf",
+          "File_Size": 521599,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "a0937ddc-b5ac-42bc-a86f-f6de1a0b86f0",
+          "File_Modified": "2023-04-03T19:40:52.85",
+          "File_Name": "FinancialStatement-2022-Tahunan-BSBK.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSBK/FinancialStatement-2022-Tahunan-BSBK.xlsx",
+          "File_Size": 1142604,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "28538645-d495-4544-8e62-9e5415250ff1",
+          "File_Modified": "2023-04-03T19:40:52.85",
+          "File_Name": "Surat Pernyataan Direksi BSBK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSBK/Surat Pernyataan Direksi BSBK.pdf",
+          "File_Size": 917395,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "b5c85d10-5ac2-43aa-98be-c23b21682ed8",
+          "File_Modified": "2023-04-03T19:40:52.85",
+          "File_Name": "FinancialStatement-2022-Tahunan-BSBK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSBK/FinancialStatement-2022-Tahunan-BSBK.pdf",
+          "File_Size": 155187,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        }
+      ]
+    }
+  ]
+}

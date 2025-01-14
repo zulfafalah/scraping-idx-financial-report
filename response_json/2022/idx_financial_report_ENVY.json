@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ENVY",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ENVY",
+      "File_Modified": "2023-10-12T17:23:01.493",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Envy Technologies Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "b3eec006-a7b8-476b-b86e-0fc333d3f669",
+          "File_Modified": "2023-10-12T17:23:01.493",
+          "File_Name": "Penjelasan Atas Perubahan - ENVY thn 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ENVY/Penjelasan Atas Perubahan - ENVY thn 2022.pdf",
+          "File_Size": 460765,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "e68f3162-a91d-4250-bfc5-14a0b4d4b925",
+          "File_Modified": "2023-10-12T17:23:01.493",
+          "File_Name": "AnnualReport2022-ENVY.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7dc876d51c_da934ac378.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "add5711b-5b48-43e1-85ca-7594d9369006",
+          "File_Modified": "2023-10-12T17:23:01.493",
+          "File_Name": "FinancialStatement-2022-Tahunan-ENVY.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ENVY/FinancialStatement-2022-Tahunan-ENVY.xlsx",
+          "File_Size": 1173820,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "f33fa72c-9b1e-4c18-a025-a0f0440ff569",
+          "File_Modified": "2023-10-12T17:23:01.493",
+          "File_Name": "FinancialStatement-2022-Tahunan-ENVY.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ENVY/FinancialStatement-2022-Tahunan-ENVY.pdf",
+          "File_Size": 59423,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "8873d89a-c6ca-4bd2-bf17-e68eac743e42",
+          "File_Modified": "2023-10-12T17:23:01.493",
+          "File_Name": "Final Report Konsolidasian Envy Tbk 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ENVY/Final Report Konsolidasian Envy Tbk 31 Des 2022.pdf",
+          "File_Size": 5088290,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "06001fa9-307b-41b2-b098-20cbc6e8bbc7",
+          "File_Modified": "2023-10-12T17:23:01.493",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ENVY/inlineXBRL.zip",
+          "File_Size": 186654,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "f877a56a-1098-43cf-b4ca-98b3bcf405b4",
+          "File_Modified": "2023-10-12T17:23:01.493",
+          "File_Name": "AnnualReport2022-ENVY-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/826d9128e2_e41a3b31a5.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "0ee7c2fb-2180-4ab3-86f0-b46d6c8eb9e8",
+          "File_Modified": "2023-10-12T17:23:01.493",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ENVY/instance.zip",
+          "File_Size": 159767,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

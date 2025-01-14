@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TOTL",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TOTL",
+      "File_Modified": "2022-03-29T09:47:13.023",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Total Bangun Persada Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "8d81ca78-bfb2-4c73-9d34-5b53e1272596",
+          "File_Modified": "2022-03-29T09:47:13.023",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOTL/inlineXBRL.zip",
+          "File_Size": 53793,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "d2c40f49-d3d1-44cf-bc3d-64430bc6922a",
+          "File_Modified": "2022-03-29T09:47:13.023",
+          "File_Name": "FinancialStatement-2021-Tahunan-TOTL.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOTL/FinancialStatement-2021-Tahunan-TOTL.xlsx",
+          "File_Size": 154606,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "5c418a0a-e7e4-41f8-b051-daad5f37e363",
+          "File_Modified": "2022-03-29T09:47:13.023",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOTL/instance.zip",
+          "File_Size": 26922,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "c08df58c-a32f-4925-8af0-fa0ec86988b5",
+          "File_Modified": "2022-03-29T09:47:13.023",
+          "File_Name": "Checklist TOTL FY 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOTL/Checklist TOTL FY 2021.pdf",
+          "File_Size": 2774592,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "2a09edea-9e24-4257-b641-9bf7b87c93ad",
+          "File_Modified": "2022-03-29T09:47:13.023",
+          "File_Name": "Audit report TOTL FY 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOTL/Audit report TOTL FY 2021.pdf",
+          "File_Size": 6464301,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "9ac324e6-d362-4b40-ade2-3369dcdf236c",
+          "File_Modified": "2022-03-29T09:47:13.023",
+          "File_Name": "TOTL Penyampaian Lapkeu FY_2021 (Maret2022).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOTL/TOTL Penyampaian Lapkeu FY_2021 (Maret2022).pdf",
+          "File_Size": 1540625,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "9636c056-7694-4d1e-8c1f-b3d62c5e7c68",
+          "File_Modified": "2022-03-29T09:47:13.023",
+          "File_Name": "FinancialStatement-2021-Tahunan-TOTL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOTL/FinancialStatement-2021-Tahunan-TOTL.pdf",
+          "File_Size": 51728,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        }
+      ]
+    }
+  ]
+}

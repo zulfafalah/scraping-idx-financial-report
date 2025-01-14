@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TAMA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TAMA",
+      "File_Modified": "2022-04-05T12:22:22.453",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Lancartama Sejati Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "43372d0d-53e8-4785-933c-0f5f2eb2f422",
+          "File_Modified": "2022-04-05T12:22:22.453",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAMA/inlineXBRL.zip",
+          "File_Size": 53389,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "88e0025b-8f96-42d7-9d45-8ef83e5078ea",
+          "File_Modified": "2022-04-05T12:22:22.453",
+          "File_Name": "FinancialStatement-2021-Tahunan-TAMA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAMA/FinancialStatement-2021-Tahunan-TAMA.pdf",
+          "File_Size": 43079,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "9c875474-68f1-47e3-bcee-e90b969ed9ec",
+          "File_Modified": "2022-04-05T12:22:22.453",
+          "File_Name": "FinancialStatement-2021-Tahunan-TAMA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAMA/FinancialStatement-2021-Tahunan-TAMA.xlsx",
+          "File_Size": 154192,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "dc9dfde7-d752-464f-a36c-651c02a2997f",
+          "File_Modified": "2022-04-05T12:22:22.453",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAMA/instance.zip",
+          "File_Size": 26460,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "23bf3456-c205-470f-92b5-72020c7dfde0",
+          "File_Modified": "2022-04-05T12:22:22.453",
+          "File_Name": "AnnualReport2021-TAMA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/cd997350fa_3dc77b3943.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "3585c098-cd3d-4fa4-bc20-68e63a269ae6",
+          "File_Modified": "2022-04-05T12:22:22.453",
+          "File_Name": "SPD PT LTS 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAMA/SPD PT LTS 2021.pdf",
+          "File_Size": 587494,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "69aa1599-50b4-45fd-b355-ec06105eb6ba",
+          "File_Modified": "2022-04-05T12:22:22.453",
+          "File_Name": "3. LKA PT Lancartama Sejati Tbk 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAMA/3. LKA PT Lancartama Sejati Tbk 31 Desember 2021.pdf",
+          "File_Size": 3978234,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BHIT",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BHIT",
+      "File_Modified": "2022-07-26T19:48:42.813",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT MNC Asia Holding Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BHIT",
+          "File_ID": "7e32f886-a9ed-433c-9cba-2655cdf498c1",
+          "File_Modified": "2022-07-26T19:48:42.813",
+          "File_Name": "FinancialStatement-2021-Tahunan-BHIT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BHIT/FinancialStatement-2021-Tahunan-BHIT.xlsx",
+          "File_Size": 160387,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT MNC Asia Holding Tbk"
+        },
+        {
+          "Emiten_Code": "BHIT",
+          "File_ID": "ca4c6c7a-ac5a-41b4-8628-397c97919aad",
+          "File_Modified": "2022-07-26T19:48:42.813",
+          "File_Name": "Audited FS BHIT 31 Des 2021 Reissued.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BHIT/Audited FS BHIT 31 Des 2021 Reissued.pdf",
+          "File_Size": 5289761,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT MNC Asia Holding Tbk"
+        },
+        {
+          "Emiten_Code": "BHIT",
+          "File_ID": "66c6bef4-9d54-4b98-b105-c6a98608d908",
+          "File_Modified": "2022-07-26T19:48:42.813",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BHIT/instance.zip",
+          "File_Size": 29950,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT MNC Asia Holding Tbk"
+        },
+        {
+          "Emiten_Code": "BHIT",
+          "File_ID": "527d6014-0210-4f41-83f9-d5d6a482c980",
+          "File_Modified": "2022-07-26T19:48:42.813",
+          "File_Name": "AnnualReport2021-BHIT-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202207/988fa65257_6eb05f62fa.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT MNC Asia Holding Tbk"
+        },
+        {
+          "Emiten_Code": "BHIT",
+          "File_ID": "be2746c8-4ca5-40fb-b59c-a7502a32d6d9",
+          "File_Modified": "2022-07-26T19:48:42.813",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BHIT/inlineXBRL.zip",
+          "File_Size": 59446,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT MNC Asia Holding Tbk"
+        },
+        {
+          "Emiten_Code": "BHIT",
+          "File_ID": "90c177d7-f71c-4044-bbd5-ed6efc011655",
+          "File_Modified": "2022-07-26T19:48:42.813",
+          "File_Name": "FinancialStatement-2021-Tahunan-BHIT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BHIT/FinancialStatement-2021-Tahunan-BHIT.pdf",
+          "File_Size": 88060,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT MNC Asia Holding Tbk"
+        }
+      ]
+    }
+  ]
+}

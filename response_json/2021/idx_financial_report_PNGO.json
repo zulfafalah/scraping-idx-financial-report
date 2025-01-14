@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PNGO",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PNGO",
+      "File_Modified": "2022-04-14T23:59:27.183",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Pinago Utama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "d2f8b245-b9e5-4a76-af5e-86cebc95c255",
+          "File_Modified": "2022-04-14T23:59:27.183",
+          "File_Name": "SURAT PERNYATAAN DIREKSI PNGO LK TAHUNAN 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNGO/SURAT PERNYATAAN DIREKSI PNGO LK TAHUNAN 2021.pdf",
+          "File_Size": 507829,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "b64dad27-a848-4d91-a2b8-1c553d89dfaa",
+          "File_Modified": "2022-04-14T23:59:27.183",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNGO/instance.zip",
+          "File_Size": 29203,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "711bddb6-aec3-4674-bc82-78267175ace6",
+          "File_Modified": "2022-04-14T23:59:27.183",
+          "File_Name": "FinancialStatement-2021-Tahunan-PNGO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNGO/FinancialStatement-2021-Tahunan-PNGO.xlsx",
+          "File_Size": 159874,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "2561c391-e9e7-4b94-ac11-9922c23bcb78",
+          "File_Modified": "2022-04-14T23:59:27.183",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNGO/inlineXBRL.zip",
+          "File_Size": 59313,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "7cc8fb6f-c8b5-4bc0-93f5-737e37655b8b",
+          "File_Modified": "2022-04-14T23:59:27.183",
+          "File_Name": "PNGO Checklist Pengungkapan LK TAHUNAN 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNGO/PNGO Checklist Pengungkapan LK TAHUNAN 2021.pdf",
+          "File_Size": 1308815,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "5cf385a9-e06e-4ef2-bb0d-45e0da76dd52",
+          "File_Modified": "2022-04-14T23:59:27.183",
+          "File_Name": "SURAT PENGANTAR PNGO LK TAHUNAN 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNGO/SURAT PENGANTAR PNGO LK TAHUNAN 2021.pdf",
+          "File_Size": 414692,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "2cefb152-bae1-42c0-b4aa-96e2c026d4dc",
+          "File_Modified": "2022-04-14T23:59:27.183",
+          "File_Name": "FinancialStatement-2021-Tahunan-PNGO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNGO/FinancialStatement-2021-Tahunan-PNGO.pdf",
+          "File_Size": 51199,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "c8485121-652a-42d0-84fb-9eed21708315",
+          "File_Modified": "2022-04-14T23:59:27.183",
+          "File_Name": "PNGO LK TAHUNAN 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNGO/PNGO LK TAHUNAN 2021.pdf",
+          "File_Size": 4561834,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        }
+      ]
+    }
+  ]
+}

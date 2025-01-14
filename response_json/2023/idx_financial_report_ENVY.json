@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ENVY",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ENVY",
+      "File_Modified": "2024-04-03T14:28:50.597",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Envy Technologies Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "8894f500-5c44-4b61-baba-20386f174f5c",
+          "File_Modified": "2024-04-03T14:28:50.597",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ENVY/inlineXBRL.zip",
+          "File_Size": 212726,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "a85de26a-7fe9-444c-b539-120a5802e57f",
+          "File_Modified": "2024-04-03T14:28:50.597",
+          "File_Name": "ENVY - CHECKLIST OJK 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ENVY/ENVY - CHECKLIST OJK 2023.pdf",
+          "File_Size": 1548807,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "bc587e29-eb03-4266-a159-a1a286251f85",
+          "File_Modified": "2024-04-03T14:28:50.597",
+          "File_Name": "AnnualReport2023-ENVY-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/a7bb4e1660_4c14d006a6.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "ad3f81d0-569d-4a7c-8cfb-9e478366d2f8",
+          "File_Modified": "2024-04-03T14:28:50.597",
+          "File_Name": "LK Audit_Envy_2023 Terbit.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ENVY/LK Audit_Envy_2023 Terbit.pdf",
+          "File_Size": 5916393,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "56c98de7-bf67-4008-80c7-ef1b8a0b8700",
+          "File_Modified": "2024-04-03T14:28:50.597",
+          "File_Name": "FinancialStatement-2023-Tahunan-ENVY.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ENVY/FinancialStatement-2023-Tahunan-ENVY.pdf",
+          "File_Size": 640885,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "293b9969-fc00-4cd3-a570-0dd1af3f885e",
+          "File_Modified": "2024-04-03T14:28:50.597",
+          "File_Name": "FinancialStatement-2023-Tahunan-ENVY.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ENVY/FinancialStatement-2023-Tahunan-ENVY.xlsx",
+          "File_Size": 302306,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "e110efce-b05d-4cf3-bda3-45ee3752de4d",
+          "File_Modified": "2024-04-03T14:28:50.597",
+          "File_Name": "AnnualReport2023-ENVY.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/ba1262811c_0b85b0576e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "8552bf05-7240-4023-9868-b47223b348a3",
+          "File_Modified": "2024-04-03T14:28:50.597",
+          "File_Name": "Penjelasan Atas Perubahan - ENVY thn 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ENVY/Penjelasan Atas Perubahan - ENVY thn 2023.pdf",
+          "File_Size": 124393,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "85ac5c4b-20c8-422a-aca7-b91cf4797bf2",
+          "File_Modified": "2024-04-03T14:28:50.597",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ENVY/instance.zip",
+          "File_Size": 110052,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

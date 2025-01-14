@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MITI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MITI",
+      "File_Modified": "2024-03-26T12:04:33.507",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Mitra Investindo Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "a24bb35c-8976-449a-91d4-7782de84b43e",
+          "File_Modified": "2024-03-26T12:04:33.507",
+          "File_Name": "AnnualReport2023-MITI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/b19df1d11f_fc35611d21.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "0c371e51-2234-460a-8e4c-df8d9f694620",
+          "File_Modified": "2024-03-26T12:04:33.507",
+          "File_Name": "AnnualReport2023-MITI-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/8282773917_93cc88706a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "ec63545c-6618-44ed-a42f-d5cdd3aee8b9",
+          "File_Modified": "2024-03-26T12:04:33.507",
+          "File_Name": "FinancialStatement-2023-Tahunan-MITI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MITI/FinancialStatement-2023-Tahunan-MITI.xlsx",
+          "File_Size": 214917,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "41d1e529-4b77-46f1-9951-497cf2ba7972",
+          "File_Modified": "2024-03-26T12:04:33.507",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MITI/inlineXBRL.zip",
+          "File_Size": 266744,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "270cf9e7-3c10-428a-a827-50df4997d47d",
+          "File_Modified": "2024-03-26T12:04:33.507",
+          "File_Name": "FinancialStatement-2023-Tahunan-MITI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MITI/FinancialStatement-2023-Tahunan-MITI.pdf",
+          "File_Size": 732374,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "6c4c4171-8c66-4ed5-b8fe-5d4c0591a1f5",
+          "File_Modified": "2024-03-26T12:04:33.507",
+          "File_Name": "Penjelasan Penurunan Liabilitas 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MITI/Penjelasan Penurunan Liabilitas 2023.pdf",
+          "File_Size": 222203,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "bb3d5453-3441-4dc2-8744-c5fa43b9b67e",
+          "File_Modified": "2024-03-26T12:04:33.507",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MITI/instance.zip",
+          "File_Size": 131824,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "f4ca3ae9-3284-4d48-8815-029819d5eb07",
+          "File_Modified": "2024-03-26T12:04:33.507",
+          "File_Name": "Surat Pernyataan Direksi MITI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MITI/Surat Pernyataan Direksi MITI.pdf",
+          "File_Size": 340559,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "c16bd7ee-8d60-4935-a54c-973e00a9fd88",
+          "File_Modified": "2024-03-26T12:04:33.507",
+          "File_Name": "FS PT Mitra Investindo Tbk 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MITI/FS PT Mitra Investindo Tbk 2023.pdf",
+          "File_Size": 3328211,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "01b2407b-fbd9-4d5b-b693-bdfc7758c60e",
+          "File_Modified": "2024-03-26T12:04:33.507",
+          "File_Name": "AnnualReport2023-MITI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/490b67bdb9_a15e76405f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "db0ca2f5-2332-4c9f-a559-da588e09ad4b",
+          "File_Modified": "2024-03-26T12:04:33.507",
+          "File_Name": "Checklist Pengungkapan LK MITI 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MITI/Checklist Pengungkapan LK MITI 2023.pdf",
+          "File_Size": 1182148,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        }
+      ]
+    }
+  ]
+}

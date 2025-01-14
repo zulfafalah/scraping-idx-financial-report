@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AMAN",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AMAN",
+      "File_Modified": "2022-04-29T13:31:44.1",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Makmur Berkah Amanda Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "667ac45a-5898-4593-a07d-3aaa74627713",
+          "File_Modified": "2022-04-29T13:31:44.1",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMAN/inlineXBRL.zip",
+          "File_Size": 53578,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "a06eabab-db04-4518-b16d-1de881d759cc",
+          "File_Modified": "2022-04-29T13:31:44.1",
+          "File_Name": "FinancialStatement-2021-Tahunan-AMAN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMAN/FinancialStatement-2021-Tahunan-AMAN.pdf",
+          "File_Size": 46709,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "108e5059-d788-4c26-babe-affd4933fec3",
+          "File_Modified": "2022-04-29T13:31:44.1",
+          "File_Name": "PT Makmur Berkah Amanda 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMAN/PT Makmur Berkah Amanda 31 Des 2021.pdf",
+          "File_Size": 6049961,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "9f6325fe-c918-46a6-ae68-5d004ff6c9e9",
+          "File_Modified": "2022-04-29T13:31:44.1",
+          "File_Name": "FinancialStatement-2021-Tahunan-AMAN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMAN/FinancialStatement-2021-Tahunan-AMAN.xlsx",
+          "File_Size": 154267,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "7d282f91-1648-4b3e-9d00-cdc789f2bf20",
+          "File_Modified": "2022-04-29T13:31:44.1",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMAN/instance.zip",
+          "File_Size": 26572,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "3d722460-a7e5-4476-9ac5-fccb6562fb46",
+          "File_Modified": "2022-04-29T13:31:44.1",
+          "File_Name": "AnnualReport2021-AMAN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/fcf8f652b9_730890f449.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        }
+      ]
+    }
+  ]
+}

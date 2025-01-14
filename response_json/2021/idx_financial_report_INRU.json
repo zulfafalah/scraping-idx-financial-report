@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "INRU",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "INRU",
+      "File_Modified": "2022-04-27T12:35:13.6",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Toba Pulp Lestari Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "d5f60ab9-44d7-4d75-b650-0db9dee268f1",
+          "File_Modified": "2022-04-27T12:35:13.6",
+          "File_Name": "FinancialStatement-2021-Tahunan-INRU.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INRU/FinancialStatement-2021-Tahunan-INRU.xlsx",
+          "File_Size": 158434,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        },
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "e136449c-f4d6-4a3c-b8e0-34ea6b2581dc",
+          "File_Modified": "2022-04-27T12:35:13.6",
+          "File_Name": "FinancialStatement-2021-Tahunan-INRU.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INRU/FinancialStatement-2021-Tahunan-INRU.pdf",
+          "File_Size": 46065,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        },
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "b15547c1-f1db-4bf7-8eb5-3610c8807bd6",
+          "File_Modified": "2022-04-27T12:35:13.6",
+          "File_Name": "Laporan Tahunan 2021 INRU.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INRU/Laporan Tahunan 2021 INRU.pdf",
+          "File_Size": 5254352,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        },
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "920c1c43-a6cc-49fa-965d-3f97d0438c62",
+          "File_Modified": "2022-04-27T12:35:13.6",
+          "File_Name": "AnnualReport2021-INRU-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/c5c2d780a5_267498e796.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        },
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "df9fc7a3-b2bc-44d2-9ee7-3feb518614ee",
+          "File_Modified": "2022-04-27T12:35:13.6",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INRU/inlineXBRL.zip",
+          "File_Size": 57805,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        },
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "dabbff9a-3c8b-4d97-8bf9-893cf82cef06",
+          "File_Modified": "2022-04-27T12:35:13.6",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INRU/instance.zip",
+          "File_Size": 28046,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        },
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "ca83cd81-50b4-4324-9101-b478c336125d",
+          "File_Modified": "2022-04-27T12:35:13.6",
+          "File_Name": "Surat Pernyataan Direksi 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INRU/Surat Pernyataan Direksi 2021.pdf",
+          "File_Size": 693590,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        }
+      ]
+    }
+  ]
+}

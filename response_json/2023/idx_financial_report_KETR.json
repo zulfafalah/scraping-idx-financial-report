@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "KETR",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "KETR",
+      "File_Modified": "2024-03-27T16:43:16.517",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Ketrosden Triasmitra Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "8d99a103-01db-47d2-acb1-0ee7b1f736cb",
+          "File_Modified": "2024-03-27T16:43:16.517",
+          "File_Name": "FinancialStatement-2023-Tahunan-KETR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KETR/FinancialStatement-2023-Tahunan-KETR.pdf",
+          "File_Size": 735264,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "38567c2f-5b62-4690-870f-6aee7534a169",
+          "File_Modified": "2024-03-27T16:43:16.517",
+          "File_Name": "Laporan Keuangan Tahunan 2023_KETR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KETR/Laporan Keuangan Tahunan 2023_KETR.pdf",
+          "File_Size": 7363298,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "d435514f-a9af-428e-891a-b38b9454c809",
+          "File_Modified": "2024-03-27T16:43:16.517",
+          "File_Name": "Surat Penjelasan Perubahan Aset Liabilitas_Des 23.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KETR/Surat Penjelasan Perubahan Aset Liabilitas_Des 23.pdf",
+          "File_Size": 772549,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "8c338ac0-2cd4-4135-b058-2de8815a5d00",
+          "File_Modified": "2024-03-27T16:43:16.517",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KETR/inlineXBRL.zip",
+          "File_Size": 275161,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "35c2c1f7-e1a0-45c0-a83a-5bffe4625564",
+          "File_Modified": "2024-03-27T16:43:16.517",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KETR/instance.zip",
+          "File_Size": 140855,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "6fa3198a-b14a-4ba5-a2c8-016d17d1efee",
+          "File_Modified": "2024-03-27T16:43:16.517",
+          "File_Name": "AnnualReport2023-KETR.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/faf10f637d_6d2d8847e7.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "c6ab7046-07d3-4c2b-b589-65c90979ae9c",
+          "File_Modified": "2024-03-27T16:43:16.517",
+          "File_Name": "FinancialStatement-2023-Tahunan-KETR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KETR/FinancialStatement-2023-Tahunan-KETR.xlsx",
+          "File_Size": 332093,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "361d5f95-bb17-4e10-b90c-8980f616e06a",
+          "File_Modified": "2024-03-27T16:43:16.517",
+          "File_Name": "AnnualReport2023-KETR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/8c5ae822c3_798f5ce9b7.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        }
+      ]
+    }
+  ]
+}

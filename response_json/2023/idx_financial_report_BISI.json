@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BISI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BISI",
+      "File_Modified": "2024-03-26T20:08:17.067",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "BISI INTERNATIONAL Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "1d76f764-f78e-4511-89e1-8a50e0a95b54",
+          "File_Modified": "2024-03-26T20:08:17.067",
+          "File_Name": "FinancialStatement-2023-Tahunan-BISI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BISI/FinancialStatement-2023-Tahunan-BISI.pdf",
+          "File_Size": 661542,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "80dd12bb-985a-48d9-8712-271c06570117",
+          "File_Modified": "2024-03-26T20:08:17.067",
+          "File_Name": "AnnualReport2023-BISI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/0eda379c33_38a7afbbd2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "a26dfa00-436b-4d12-a997-40b44249919a",
+          "File_Modified": "2024-03-26T20:08:17.067",
+          "File_Name": "BISI 231231IE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BISI/BISI 231231IE.pdf",
+          "File_Size": 1721536,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "d6516059-7493-4a60-9633-5d107531b99b",
+          "File_Modified": "2024-03-26T20:08:17.067",
+          "File_Name": "BISI Checklist 12-2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BISI/BISI Checklist 12-2023.pdf",
+          "File_Size": 1471546,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "d8ec8a31-2f9f-43ba-9f78-c28a3c67a8a0",
+          "File_Modified": "2024-03-26T20:08:17.067",
+          "File_Name": "BISI 004 BISI-PM III 2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BISI/BISI 004 BISI-PM III 2024.pdf",
+          "File_Size": 738750,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "53020afe-0c82-44b9-9afa-d77ae9a167a6",
+          "File_Modified": "2024-03-26T20:08:17.067",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BISI/instance.zip",
+          "File_Size": 114331,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "7c89eb92-3196-4744-aa14-6af01528ac67",
+          "File_Modified": "2024-03-26T20:08:17.067",
+          "File_Name": "FinancialStatement-2023-Tahunan-BISI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BISI/FinancialStatement-2023-Tahunan-BISI.xlsx",
+          "File_Size": 314485,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "ec747e4e-a5b7-4399-89b0-8f7808f5747c",
+          "File_Modified": "2024-03-26T20:08:17.067",
+          "File_Name": "AnnualReport2023-BISI-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/aaf1154abe_c9fd30b29b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "a317d005-7f69-4aa4-a77d-4ccb81e00899",
+          "File_Modified": "2024-03-26T20:08:17.067",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BISI/inlineXBRL.zip",
+          "File_Size": 223777,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "6f70f2dd-b4e2-447d-a98d-e2490ef293d8",
+          "File_Modified": "2024-03-26T20:08:17.067",
+          "File_Name": "AnnualReport2023-BISI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/3631284027_034619255b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        }
+      ]
+    }
+  ]
+}

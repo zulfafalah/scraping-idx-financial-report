@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BKSW",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BKSW",
+      "File_Modified": "2023-03-30T11:14:12.103",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Bank QNB Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "5c7c31a9-933b-49b9-8996-27d26be4b653",
+          "File_Modified": "2023-03-30T11:14:12.103",
+          "File_Name": "AnnualReport2022-BKSW-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/a300cc1b77_a11c2d595e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "e96f51c2-7d5f-42e3-9c2a-0ec02ba8cde8",
+          "File_Modified": "2023-03-30T11:14:12.103",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKSW/inlineXBRL.zip",
+          "File_Size": 100090,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "7042d2c1-eec1-4c32-b580-76a2fe995238",
+          "File_Modified": "2023-03-30T11:14:12.103",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKSW/instance.zip",
+          "File_Size": 80702,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "29f9eaa5-8d57-4df1-ac13-c144559197f3",
+          "File_Modified": "2023-03-30T11:14:12.103",
+          "File_Name": "PT Bank QNB Indonesia Tbk 30 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKSW/PT Bank QNB Indonesia Tbk 30 Des 2022.pdf",
+          "File_Size": 5443314,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "b48f4417-4f73-4a63-b90d-0f41b737b69a",
+          "File_Modified": "2023-03-30T11:14:12.103",
+          "File_Name": "Surat Pernyataan Direksi Dec 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKSW/Surat Pernyataan Direksi Dec 2022.pdf",
+          "File_Size": 358076,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "35393a73-dd29-4fdf-8985-9b8e6a195476",
+          "File_Modified": "2023-03-30T11:14:12.103",
+          "File_Name": "FinancialStatement-2022-Tahunan-BKSW.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKSW/FinancialStatement-2022-Tahunan-BKSW.pdf",
+          "File_Size": 94068,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "a110c345-3a64-4ece-aa58-c6a6885ceff8",
+          "File_Modified": "2023-03-30T11:14:12.103",
+          "File_Name": "FinancialStatement-2022-Tahunan-BKSW.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKSW/FinancialStatement-2022-Tahunan-BKSW.xlsx",
+          "File_Size": 571954,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

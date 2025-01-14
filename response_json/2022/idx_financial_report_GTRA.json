@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GTRA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GTRA",
+      "File_Modified": "2023-05-10T09:18:34.593",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "f973ea6e-1318-4f7a-b206-0d22cd77322f",
+          "File_Modified": "2023-05-10T09:18:34.593",
+          "File_Name": "FinancialStatement-2022-Tahunan-GTRA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GTRA/FinancialStatement-2022-Tahunan-GTRA.xlsx",
+          "File_Size": 1193452,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "eda7ab1e-19b1-42e5-a4e8-9b15ef29848a",
+          "File_Modified": "2023-05-10T09:18:34.593",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GTRA/inlineXBRL.zip",
+          "File_Size": 247343,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "75cdaa6c-75ef-44ab-baf7-bce37d605444",
+          "File_Modified": "2023-05-10T09:18:34.593",
+          "File_Name": "Surat Pernyataan Direksi LK 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GTRA/Surat Pernyataan Direksi LK 2022.pdf",
+          "File_Size": 471296,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "8f0c12cd-2976-4254-aeaa-8b07f672a1fb",
+          "File_Modified": "2023-05-10T09:18:34.593",
+          "File_Name": "AnnualReport2022-GTRA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/daa3aa835b_bbd825422e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "32c857a8-d9af-482a-bb99-b8399c7260f3",
+          "File_Modified": "2023-05-10T09:18:34.593",
+          "File_Name": "AnnualReport2022-GTRA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/7871f5752b_7c00266e0e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "a952ecbd-f9b0-4295-82b1-20f339aaa65e",
+          "File_Modified": "2023-05-10T09:18:34.593",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GTRA/instance.zip",
+          "File_Size": 194833,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "f209b3a5-1180-497d-8e73-ddedf1345d33",
+          "File_Modified": "2023-05-10T09:18:34.593",
+          "File_Name": "AnnualReport2022-GTRA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/dfba6fd90d_d6da3337c0.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "f996199e-d719-42ac-9272-f7c13b7382e9",
+          "File_Modified": "2023-05-10T09:18:34.593",
+          "File_Name": "FinancialStatement-2022-Tahunan-GTRA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GTRA/FinancialStatement-2022-Tahunan-GTRA.pdf",
+          "File_Size": 880740,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "e2ae1a93-79b5-4213-9f74-8a6b2b219e65",
+          "File_Modified": "2023-05-10T09:18:34.593",
+          "File_Name": "AnnualReport2022-GTRA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/7871f5752b_7c00266e0e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "0aa7de9a-b420-4a93-ad4c-9929a016b130",
+          "File_Modified": "2023-05-10T09:18:34.593",
+          "File_Name": "PT Grahaprima Suksesmandiri Tbk 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GTRA/PT Grahaprima Suksesmandiri Tbk 31 Des 2022.pdf",
+          "File_Size": 3197360,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        }
+      ]
+    }
+  ]
+}

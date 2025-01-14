@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BPTR",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BPTR",
+      "File_Modified": "2022-03-30T09:58:09.663",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Batavia Prosperindo Trans Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "a176fc5e-f9e4-4f9d-a79d-406c4ab5e60b",
+          "File_Modified": "2022-03-30T09:58:09.663",
+          "File_Name": "FinancialStatement-2021-Tahunan-BPTR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BPTR/FinancialStatement-2021-Tahunan-BPTR.xlsx",
+          "File_Size": 159546,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "d5785a91-9bc8-4082-969c-5f3a03696ddd",
+          "File_Modified": "2022-03-30T09:58:09.663",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BPTR/inlineXBRL.zip",
+          "File_Size": 58993,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "ca55864e-06dd-4c69-8e3c-2a9c5c52eaa1",
+          "File_Modified": "2022-03-30T09:58:09.663",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BPTR/instance.zip",
+          "File_Size": 28831,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "303a7993-7fd4-47a7-b2c8-7281316acd5c",
+          "File_Modified": "2022-03-30T09:58:09.663",
+          "File_Name": "Perubahan 20 persen aset dan liabilitas Q4 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BPTR/Perubahan 20 persen aset dan liabilitas Q4 2021.pdf",
+          "File_Size": 62778,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "d7193962-e07e-49e0-bd8e-90c5655bafdc",
+          "File_Modified": "2022-03-30T09:58:09.663",
+          "File_Name": "Report BPT 2021_release with SPD Opini.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BPTR/Report BPT 2021_release with SPD Opini.pdf",
+          "File_Size": 1209751,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "b55f7466-37d8-4549-adde-db93138e7421",
+          "File_Modified": "2022-03-30T09:58:09.663",
+          "File_Name": "FinancialStatement-2021-Tahunan-BPTR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BPTR/FinancialStatement-2021-Tahunan-BPTR.pdf",
+          "File_Size": 47720,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        }
+      ]
+    }
+  ]
+}

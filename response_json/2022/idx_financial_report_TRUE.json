@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TRUE",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TRUE",
+      "File_Modified": "2023-04-21T16:19:16.983",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Triniti Dinamik Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "b81fcb66-30c8-44fd-ae70-72c61ca239ad",
+          "File_Modified": "2023-04-21T16:19:16.983",
+          "File_Name": "PT Triniti Dinamik Tbk 31 Des 2022 - Final.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TRUE/PT Triniti Dinamik Tbk 31 Des 2022 - Final.pdf",
+          "File_Size": 3238400,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "f4b1f2e4-6438-422b-9ffa-3328633fc852",
+          "File_Modified": "2023-04-21T16:19:16.983",
+          "File_Name": "AnnualReport2022-TRUE-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/0cbcc6e788_75d707b24c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "c752b907-9aee-4028-badc-8c1bf1ad5dbb",
+          "File_Modified": "2023-04-21T16:19:16.983",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TRUE/instance.zip",
+          "File_Size": 175075,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "c8fe19f1-88c6-4d91-8c84-9d1189672004",
+          "File_Modified": "2023-04-21T16:19:16.983",
+          "File_Name": "FinancialStatement-2022-Tahunan-TRUE.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TRUE/FinancialStatement-2022-Tahunan-TRUE.xlsx",
+          "File_Size": 1139238,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "fc4df988-370a-4e2e-8acf-ee68be0b1ffe",
+          "File_Modified": "2023-04-21T16:19:16.983",
+          "File_Name": "FinancialStatement-2022-Tahunan-TRUE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TRUE/FinancialStatement-2022-Tahunan-TRUE.pdf",
+          "File_Size": 108088,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "e7375d4a-3c95-4a87-a806-d6f5b8f6b88a",
+          "File_Modified": "2023-04-21T16:19:16.983",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TRUE/inlineXBRL.zip",
+          "File_Size": 169461,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GULA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GULA",
+      "File_Modified": "2024-03-29T11:16:18.087",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Aman Agrindo Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "GULA",
+          "File_ID": "ef067846-86c6-4940-9072-6f0b8aa652b2",
+          "File_Modified": "2024-03-29T11:16:18.087",
+          "File_Name": "GULA-LK Tahunan 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GULA/GULA-LK Tahunan 2023.pdf",
+          "File_Size": 3191873,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aman Agrindo Tbk"
+        },
+        {
+          "Emiten_Code": "GULA",
+          "File_ID": "81859afb-0bec-4584-9ba4-c287029e360d",
+          "File_Modified": "2024-03-29T11:16:18.087",
+          "File_Name": "Penjelasan atas perubahan asset.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GULA/Penjelasan atas perubahan asset.pdf",
+          "File_Size": 500366,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aman Agrindo Tbk"
+        },
+        {
+          "Emiten_Code": "GULA",
+          "File_ID": "bac63f6a-3ddf-4da9-b39a-34449c79cc26",
+          "File_Modified": "2024-03-29T11:16:18.087",
+          "File_Name": "AnnualReport2023-GULA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/388dd1f54a_49ab3a5e32.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aman Agrindo Tbk"
+        },
+        {
+          "Emiten_Code": "GULA",
+          "File_ID": "b2512d04-318e-418d-b5bd-658626923923",
+          "File_Modified": "2024-03-29T11:16:18.087",
+          "File_Name": "AnnualReport2023-GULA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/d1aee0a6a6_dc0dc2257f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aman Agrindo Tbk"
+        },
+        {
+          "Emiten_Code": "GULA",
+          "File_ID": "d3bed045-60fc-4cdd-ad26-8d5caa5ec381",
+          "File_Modified": "2024-03-29T11:16:18.087",
+          "File_Name": "FinancialStatement-2023-Tahunan-GULA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GULA/FinancialStatement-2023-Tahunan-GULA.pdf",
+          "File_Size": 736673,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aman Agrindo Tbk"
+        },
+        {
+          "Emiten_Code": "GULA",
+          "File_ID": "05a115df-d6ba-40e6-93de-0864d03c7bca",
+          "File_Modified": "2024-03-29T11:16:18.087",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GULA/instance.zip",
+          "File_Size": 135698,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aman Agrindo Tbk"
+        },
+        {
+          "Emiten_Code": "GULA",
+          "File_ID": "dc712249-2ced-4ed6-867a-156eb3fbe1c7",
+          "File_Modified": "2024-03-29T11:16:18.087",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GULA/inlineXBRL.zip",
+          "File_Size": 269696,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aman Agrindo Tbk"
+        },
+        {
+          "Emiten_Code": "GULA",
+          "File_ID": "9c7d7293-ef2e-4e95-aabe-c670be597e60",
+          "File_Modified": "2024-03-29T11:16:18.087",
+          "File_Name": "GULA-Checklist Bapepam.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GULA/GULA-Checklist Bapepam.pdf",
+          "File_Size": 993971,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aman Agrindo Tbk"
+        },
+        {
+          "Emiten_Code": "GULA",
+          "File_ID": "411e907f-e51e-4bc7-b294-cd5a4f253bd9",
+          "File_Modified": "2024-03-29T11:16:18.087",
+          "File_Name": "Surat Pengantar.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GULA/Surat Pengantar.pdf",
+          "File_Size": 444576,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aman Agrindo Tbk"
+        },
+        {
+          "Emiten_Code": "GULA",
+          "File_ID": "ca2387a6-ab7a-47f6-ba4e-89e3315137a6",
+          "File_Modified": "2024-03-29T11:16:18.087",
+          "File_Name": "AnnualReport2023-GULA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/9285c4b99a_e2229cb9c2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aman Agrindo Tbk"
+        },
+        {
+          "Emiten_Code": "GULA",
+          "File_ID": "0789a305-63af-4dd5-91f7-d7f07aecfc5d",
+          "File_Modified": "2024-03-29T11:16:18.087",
+          "File_Name": "FinancialStatement-2023-Tahunan-GULA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GULA/FinancialStatement-2023-Tahunan-GULA.xlsx",
+          "File_Size": 372715,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aman Agrindo Tbk"
+        }
+      ]
+    }
+  ]
+}

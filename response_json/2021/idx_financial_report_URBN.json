@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "URBN",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "URBN",
+      "File_Modified": "2022-05-01T14:16:35.317",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Urban Jakarta Propertindo Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "6624215b-1121-4cdd-ad0a-099f4728b002",
+          "File_Modified": "2022-05-01T14:16:35.317",
+          "File_Name": "FinancialStatement-2021-Tahunan-URBN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/URBN/FinancialStatement-2021-Tahunan-URBN.pdf",
+          "File_Size": 50476,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "99c06c48-1e3c-4b8e-84be-af82f2fd1d30",
+          "File_Modified": "2022-05-01T14:16:35.317",
+          "File_Name": "UJP_Surat Penyampaian LK Interim Des21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/URBN/UJP_Surat Penyampaian LK Interim Des21.pdf",
+          "File_Size": 341208,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "319014c8-e113-42bd-a15e-01a1b2799d05",
+          "File_Modified": "2022-05-01T14:16:35.317",
+          "File_Name": "AnnualReport2021-URBN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/3bd5a8f712_a138739c9c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "e992b136-9e8c-4bcc-8316-7a876d06564a",
+          "File_Modified": "2022-05-01T14:16:35.317",
+          "File_Name": "LAI FS_UJP_31Des2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/URBN/LAI FS_UJP_31Des2021.pdf",
+          "File_Size": 3835180,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "6566fe19-8664-4bcb-bb23-f750eb65d272",
+          "File_Modified": "2022-05-01T14:16:35.317",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/URBN/instance.zip",
+          "File_Size": 27053,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "3ab7ea85-720c-44d5-8cfa-2e850c19c02c",
+          "File_Modified": "2022-05-01T14:16:35.317",
+          "File_Name": "SPD UJP Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/URBN/SPD UJP Des 2021.pdf",
+          "File_Size": 419051,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "1a78cc1e-a8eb-4f49-a8db-a31cb5aa3683",
+          "File_Modified": "2022-05-01T14:16:35.317",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/URBN/inlineXBRL.zip",
+          "File_Size": 54426,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "47304ae7-99d3-4f68-b834-a3259f7bc29d",
+          "File_Modified": "2022-05-01T14:16:35.317",
+          "File_Name": "Checklist UJP 31 Desember 2021_1.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/URBN/Checklist UJP 31 Desember 2021_1.pdf",
+          "File_Size": 1984649,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "285b56d2-fe47-4ce1-8b4d-cc5ba51776df",
+          "File_Modified": "2022-05-01T14:16:35.317",
+          "File_Name": "FinancialStatement-2021-Tahunan-URBN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/URBN/FinancialStatement-2021-Tahunan-URBN.xlsx",
+          "File_Size": 154858,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "FAPA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "FAPA",
+      "File_Modified": "2024-04-05T18:56:33.05",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT FAP Agri Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "bd20358c-0b1e-422a-aa24-26f83d5481e7",
+          "File_Modified": "2024-04-05T18:56:33.05",
+          "File_Name": "FinancialStatement-2023-Tahunan-FAPA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/FAPA/FinancialStatement-2023-Tahunan-FAPA.pdf",
+          "File_Size": 829961,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "be6b25c0-ab39-4601-997f-a41186483b47",
+          "File_Modified": "2024-04-05T18:56:33.05",
+          "File_Name": "FinancialStatement-2023-Tahunan-FAPA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/FAPA/FinancialStatement-2023-Tahunan-FAPA.xlsx",
+          "File_Size": 400436,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "7731a9c3-1f1d-4cb3-a603-6754492865a6",
+          "File_Modified": "2024-04-05T18:56:33.05",
+          "File_Name": "AnnualReport2023-FAPA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/ba49e2c2fd_6f1f1a8e74.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "5d2e961a-f8cc-418b-9cb0-a02877f95b41",
+          "File_Modified": "2024-04-05T18:56:33.05",
+          "File_Name": "AnnualReport2023-FAPA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/20db5caf97_41f017f6c5.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "a024caaf-039a-435f-8957-ab45820c2367",
+          "File_Modified": "2024-04-05T18:56:33.05",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/FAPA/inlineXBRL.zip",
+          "File_Size": 291227,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "0874b256-6b33-4196-8cdc-0a8b298fd0c3",
+          "File_Modified": "2024-04-05T18:56:33.05",
+          "File_Name": "FAPA_SPD 1223.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/FAPA/FAPA_SPD 1223.pdf",
+          "File_Size": 573567,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "3823c396-7591-4a22-b2fd-148a60ace030",
+          "File_Modified": "2024-04-05T18:56:33.05",
+          "File_Name": "AnnualReport2023-FAPA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/80c8babbb2_2c3f0ae62f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "8a5ddde2-f2cd-4b01-94cd-1b54861bca6e",
+          "File_Modified": "2024-04-05T18:56:33.05",
+          "File_Name": "FAPA_LK Audited 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/FAPA/FAPA_LK Audited 2023.pdf",
+          "File_Size": 4866838,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "315e0573-7558-4dac-9946-dcd64a399a8b",
+          "File_Modified": "2024-04-05T18:56:33.05",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/FAPA/instance.zip",
+          "File_Size": 159995,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        }
+      ]
+    }
+  ]
+}

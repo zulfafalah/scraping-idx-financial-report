@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "URBN",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "URBN",
+      "File_Modified": "2023-07-18T16:12:25.567",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Urban Jakarta Propertindo Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "81e3c80c-3ae0-4a7a-beda-541243e03d46",
+          "File_Modified": "2023-07-18T16:12:25.567",
+          "File_Name": "CHECKLIST UJP 2022 - V2.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/URBN/CHECKLIST UJP 2022 - V2.pdf",
+          "File_Size": 856059,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "47f47da3-ea7a-432d-a366-7d2cb6f2676b",
+          "File_Modified": "2023-07-18T16:12:25.567",
+          "File_Name": "UJP Surat Penyampaian LK Interim Des22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/URBN/UJP Surat Penyampaian LK Interim Des22.pdf",
+          "File_Size": 370596,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "510f4d09-2c97-47fc-a5d7-498de7395f2d",
+          "File_Modified": "2023-07-18T16:12:25.567",
+          "File_Name": "Report Final UJP Konsol 2022 - full set v1.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/URBN/Report Final UJP Konsol 2022 - full set v1.pdf",
+          "File_Size": 4583841,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "6db017d1-6a43-4192-873f-8114a0a2ced2",
+          "File_Modified": "2023-07-18T16:12:25.567",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/URBN/inlineXBRL.zip",
+          "File_Size": 187138,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "52f1ee07-e3bf-438e-a9fc-e864fbdf1e13",
+          "File_Modified": "2023-07-18T16:12:25.567",
+          "File_Name": "AnnualReport2022-URBN-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202307/8adede0cf8_d75dc26838.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "3cf6f540-1a3b-4bd2-848f-10f016db1b8a",
+          "File_Modified": "2023-07-18T16:12:25.567",
+          "File_Name": "FinancialStatement-2022-Tahunan-URBN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/URBN/FinancialStatement-2022-Tahunan-URBN.pdf",
+          "File_Size": 138505,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "38e60b5e-33c0-4094-8b9a-39a9044dc79b",
+          "File_Modified": "2023-07-18T16:12:25.567",
+          "File_Name": "AnnualReport2022-URBN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202307/68bbbf7ab7_3b15f15803.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "34638f95-ade5-4874-827d-70690dc51609",
+          "File_Modified": "2023-07-18T16:12:25.567",
+          "File_Name": "AnnualReport2022-URBN.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202307/88560580d7_68df28789e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "3411b670-318a-4ea0-9f6c-beeeebfc0363",
+          "File_Modified": "2023-07-18T16:12:25.567",
+          "File_Name": "18072023 KI LKT 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/URBN/18072023 KI LKT 2022.pdf",
+          "File_Size": 269130,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "254dff9f-6e0f-4fe1-8f05-9756ee0fd76e",
+          "File_Modified": "2023-07-18T16:12:25.567",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/URBN/instance.zip",
+          "File_Size": 165435,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "63660e9b-1f6e-4795-887a-bf718f50b19c",
+          "File_Modified": "2023-07-18T16:12:25.567",
+          "File_Name": "FinancialStatement-2022-Tahunan-URBN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/URBN/FinancialStatement-2022-Tahunan-URBN.xlsx",
+          "File_Size": 1140102,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "5e2a43f2-07fc-478e-a04f-c029978385b5",
+          "File_Modified": "2023-07-18T16:12:25.567",
+          "File_Name": "Directors Statement UJP 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/URBN/Directors Statement UJP 2022.pdf",
+          "File_Size": 529574,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        }
+      ]
+    }
+  ]
+}

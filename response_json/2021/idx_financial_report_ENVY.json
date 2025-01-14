@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ENVY",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ENVY",
+      "File_Modified": "2023-08-02T19:40:32.263",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Envy Technologies Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "b7140355-434d-4950-b441-127ebffa75ac",
+          "File_Modified": "2023-08-02T19:40:32.263",
+          "File_Name": "AnnualReport2021-ENVY.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/efc343f866_de6459bf85.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "f747c907-e353-422d-95f6-daba30e793c5",
+          "File_Modified": "2023-08-02T19:40:32.263",
+          "File_Name": "FinancialStatement-2021-Tahunan-ENVY.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ENVY/FinancialStatement-2021-Tahunan-ENVY.pdf",
+          "File_Size": 64829,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "ce621827-6c70-4d15-bca1-939129ad2904",
+          "File_Modified": "2023-08-02T19:40:32.263",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ENVY/instance.zip",
+          "File_Size": 160102,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "45d50f33-68ce-42ad-a03d-0dadb8b789f5",
+          "File_Modified": "2023-08-02T19:40:32.263",
+          "File_Name": "Penjelasan Atas Perubahan - ENVY thn 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ENVY/Penjelasan Atas Perubahan - ENVY thn 2021.pdf",
+          "File_Size": 460751,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "fee1996e-8c75-4577-afe4-16403944716c",
+          "File_Modified": "2023-08-02T19:40:32.263",
+          "File_Name": "FINAL Audit Report Envy Tbk 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ENVY/FINAL Audit Report Envy Tbk 2021.pdf",
+          "File_Size": 2044032,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "d0a31254-c95f-4f47-a93b-6008841a7d08",
+          "File_Modified": "2023-08-02T19:40:32.263",
+          "File_Name": "FinancialStatement-2021-Tahunan-ENVY.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ENVY/FinancialStatement-2021-Tahunan-ENVY.xlsx",
+          "File_Size": 1175033,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "14947e63-46ae-47e8-9b28-ee15ad96b727",
+          "File_Modified": "2023-08-02T19:40:32.263",
+          "File_Name": "AnnualReport2021-ENVY-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7064c9c9f5_96a20a5c7a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ENVY",
+          "File_ID": "dda6a987-d945-47e6-a9e5-f49aca384fb2",
+          "File_Modified": "2023-08-02T19:40:32.263",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ENVY/inlineXBRL.zip",
+          "File_Size": 187175,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Envy Technologies Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

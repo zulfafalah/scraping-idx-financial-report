@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TPIA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TPIA",
+      "File_Modified": "2024-04-25T15:27:49.407",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Chandra Asri Pacific Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "162f842b-e6d3-4906-875b-62f3374b0bb8",
+          "File_Modified": "2024-04-25T15:27:49.407",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TPIA/instance.zip",
+          "File_Size": 166367,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "b6bf7941-5cfd-4fdc-a38a-92bdf435f3f2",
+          "File_Modified": "2024-04-25T15:27:49.407",
+          "File_Name": "AnnualReport2023-TPIA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/a8092d7a4a_db62a1763f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "8e710252-a417-423e-9741-b3c60375cad7",
+          "File_Modified": "2024-04-25T15:27:49.407",
+          "File_Name": "AnnualReport2023-TPIA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/4072e69f5b_1873d9dab9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "a13053ae-6173-4549-95d5-e51dd45ccb06",
+          "File_Modified": "2024-04-25T15:27:49.407",
+          "File_Name": "FinancialStatement-2023-Tahunan-TPIA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TPIA/FinancialStatement-2023-Tahunan-TPIA.pdf",
+          "File_Size": 790026,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "8263495a-ec0f-4d4a-bff3-f9a32fefe97e",
+          "File_Modified": "2024-04-25T15:27:49.407",
+          "File_Name": "Surat Pernyataan Direksi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TPIA/Surat Pernyataan Direksi.pdf",
+          "File_Size": 374445,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "7a45cbfb-8319-426c-a678-53f3d279181c",
+          "File_Modified": "2024-04-25T15:27:49.407",
+          "File_Name": "AnnualReport2023-TPIA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/b88c445cd4_c37bd4499e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "63a39bc5-3bf0-4f97-9893-61083c37a4b2",
+          "File_Modified": "2024-04-25T15:27:49.407",
+          "File_Name": "FinancialStatement-2023-Tahunan-TPIA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TPIA/FinancialStatement-2023-Tahunan-TPIA.xlsx",
+          "File_Size": 396341,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "ff2a118e-bf7f-4dff-9407-e83f8ba82ff6",
+          "File_Modified": "2024-04-25T15:27:49.407",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TPIA/inlineXBRL.zip",
+          "File_Size": 306632,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "94d44607-70cf-4e3b-850c-0caaf2b6de39",
+          "File_Modified": "2024-04-25T15:27:49.407",
+          "File_Name": "AnnualReport2023-TPIA-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/0dec96e4a5_c31ded54d2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "557b1a34-cc45-40e7-9da4-4311ee5ffff3",
+          "File_Modified": "2024-04-25T15:27:49.407",
+          "File_Name": "Final Report PT CAP Tbk-31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TPIA/Final Report PT CAP Tbk-31 Des 2023.pdf",
+          "File_Size": 5528139,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "3fe680cf-c32a-405d-a4e6-9455c5900970",
+          "File_Modified": "2024-04-25T15:27:49.407",
+          "File_Name": "CAP Financial Statemens Checklist FY 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TPIA/CAP Financial Statemens Checklist FY 2023.pdf",
+          "File_Size": 1545744,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "659066b4-8e23-488e-80da-d51c0d114d7c",
+          "File_Modified": "2024-04-25T15:27:49.407",
+          "File_Name": "Penjelasan 20 Persen Kenaikan.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TPIA/Penjelasan 20 Persen Kenaikan.pdf",
+          "File_Size": 109340,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        }
+      ]
+    }
+  ]
+}

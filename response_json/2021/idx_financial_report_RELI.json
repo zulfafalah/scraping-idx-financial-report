@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "RELI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "RELI",
+      "File_Modified": "2022-04-27T11:26:39.27",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Reliance Sekuritas Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "fa707389-9b86-4ba2-ae9f-bc77551550bb",
+          "File_Modified": "2022-04-27T11:26:39.27",
+          "File_Name": "FinancialStatement-2021-Tahunan-RELI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RELI/FinancialStatement-2021-Tahunan-RELI.xlsx",
+          "File_Size": 147543,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "d877aab5-ebf7-4bd2-b72e-d650edbf32f8",
+          "File_Modified": "2022-04-27T11:26:39.27",
+          "File_Name": "FinancialStatement-2021-Tahunan-RELI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RELI/FinancialStatement-2021-Tahunan-RELI.pdf",
+          "File_Size": 41906,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "912e050f-b924-4abe-a042-d6b9a099d733",
+          "File_Modified": "2022-04-27T11:26:39.27",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RELI/instance.zip",
+          "File_Size": 23978,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "ba925e57-542e-4529-9b05-f796795fc296",
+          "File_Modified": "2022-04-27T11:26:39.27",
+          "File_Name": "AnnualReport2021-RELI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/85818b44a6_564684b049.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "b3c1b014-c015-4fb7-9fb3-654860076951",
+          "File_Modified": "2022-04-27T11:26:39.27",
+          "File_Name": "Financial Statement Audited 2021 LS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RELI/Financial Statement Audited 2021 LS.pdf",
+          "File_Size": 2680861,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "da4efab6-00d7-43d3-a23c-7de3572a34ba",
+          "File_Modified": "2022-04-27T11:26:39.27",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RELI/inlineXBRL.zip",
+          "File_Size": 47051,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "48426f3d-f723-4b63-b930-87bf177b3aea",
+          "File_Modified": "2022-04-27T11:26:39.27",
+          "File_Name": "Direktorat Pencatatan PT Bursa Efek Indonesia.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RELI/Direktorat Pencatatan PT Bursa Efek Indonesia.pdf",
+          "File_Size": 110028,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

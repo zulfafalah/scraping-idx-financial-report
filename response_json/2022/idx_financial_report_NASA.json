@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "NASA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "NASA",
+      "File_Modified": "2023-04-05T09:19:52.54",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Andalan Perkasa Abadi Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "f1cc2d56-c58d-47f2-b62a-b05ee1fa2951",
+          "File_Modified": "2023-04-05T09:19:52.54",
+          "File_Name": "AnnualReport2022-NASA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/1ee8fc2acb_13dfe654b6.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "62539ffb-dc4e-4d16-8e44-704756b13ce9",
+          "File_Modified": "2023-04-05T09:19:52.54",
+          "File_Name": "checklist OJK PT APA 31 des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NASA/checklist OJK PT APA 31 des 2022.pdf",
+          "File_Size": 616851,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "97a6a498-a04e-4140-95f4-87b780494812",
+          "File_Modified": "2023-04-05T09:19:52.54",
+          "File_Name": "LAI PT ANDALAN PERKASA TBK 2022_.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NASA/LAI PT ANDALAN PERKASA TBK 2022_.pdf",
+          "File_Size": 3616968,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "513284f6-339e-4c6b-9044-902702eb4397",
+          "File_Modified": "2023-04-05T09:19:52.54",
+          "File_Name": "FinancialStatement-2022-Tahunan-NASA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NASA/FinancialStatement-2022-Tahunan-NASA.pdf",
+          "File_Size": 98236,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "d8381d58-02c6-47f3-9357-97127d8df277",
+          "File_Modified": "2023-04-05T09:19:52.54",
+          "File_Name": "LAI PT ANDALAN PERKASA TBK 31 des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NASA/LAI PT ANDALAN PERKASA TBK 31 des 2022.pdf",
+          "File_Size": 863293,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "d516ff85-b9f9-486b-8a8b-e2d0d0494c84",
+          "File_Modified": "2023-04-05T09:19:52.54",
+          "File_Name": "Penjelasan perubahan aset liabilitas 31 des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NASA/Penjelasan perubahan aset liabilitas 31 des 2022.pdf",
+          "File_Size": 147537,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "77f23d09-ebd5-4c8a-ad7f-2bf6227077d4",
+          "File_Modified": "2023-04-05T09:19:52.54",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NASA/instance.zip",
+          "File_Size": 172707,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "8e50735f-a5ab-4cf4-b635-a10acdb784d6",
+          "File_Modified": "2023-04-05T09:19:52.54",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NASA/inlineXBRL.zip",
+          "File_Size": 178121,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "712031a5-cbdc-46c2-96a4-32f99baf54d7",
+          "File_Modified": "2023-04-05T09:19:52.54",
+          "File_Name": "FinancialStatement-2022-Tahunan-NASA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NASA/FinancialStatement-2022-Tahunan-NASA.xlsx",
+          "File_Size": 1182440,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "c4d14caf-c1c5-4a20-b0db-95f04946123d",
+          "File_Modified": "2023-04-05T09:19:52.54",
+          "File_Name": "Surat Pengantar PT APA 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NASA/Surat Pengantar PT APA 31 Des 2022.pdf",
+          "File_Size": 124745,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        }
+      ]
+    }
+  ]
+}

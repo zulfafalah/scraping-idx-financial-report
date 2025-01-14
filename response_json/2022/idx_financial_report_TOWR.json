@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TOWR",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TOWR",
+      "File_Modified": "2023-03-27T15:22:14.14",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Sarana Menara Nusantara Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "c288c18f-dea8-460c-9ba8-0f0f3848b54a",
+          "File_Modified": "2023-03-27T15:22:14.14",
+          "File_Name": "FinancialStatement-2022-Tahunan-TOWR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TOWR/FinancialStatement-2022-Tahunan-TOWR.pdf",
+          "File_Size": 201956,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "3286ba0a-f711-48ae-b8aa-64ed3a5ea5b6",
+          "File_Modified": "2023-03-27T15:22:14.14",
+          "File_Name": "SMN_bilingual_31_dec_2022_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TOWR/SMN_bilingual_31_dec_2022_released.pdf",
+          "File_Size": 2294986,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "a12eac43-7232-4376-ad15-72e233eecfff",
+          "File_Modified": "2023-03-27T15:22:14.14",
+          "File_Name": "AnnualReport2022-TOWR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/255a9f5217_b48e9bf5d6.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "1c769bd5-29e9-4384-a275-a1f9e4db3d2b",
+          "File_Modified": "2023-03-27T15:22:14.14",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TOWR/instance.zip",
+          "File_Size": 187669,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "43a96ab7-9086-44e9-960e-9ed4998247b5",
+          "File_Modified": "2023-03-27T15:22:14.14",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TOWR/inlineXBRL.zip",
+          "File_Size": 189948,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "e7d32d30-4ab4-409b-b866-e03b4ae0eb4a",
+          "File_Modified": "2023-03-27T15:22:14.14",
+          "File_Name": "FinancialStatement-2022-Tahunan-TOWR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TOWR/FinancialStatement-2022-Tahunan-TOWR.xlsx",
+          "File_Size": 1179629,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        }
+      ]
+    }
+  ]
+}

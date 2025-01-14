@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AMAN",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AMAN",
+      "File_Modified": "2024-03-28T15:17:15.053",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Makmur Berkah Amanda Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "cb838b5a-4fc7-4d2c-9797-ce113f80f035",
+          "File_Modified": "2024-03-28T15:17:15.053",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMAN/inlineXBRL.zip",
+          "File_Size": 236902,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "24ab6673-b21f-4d62-8b70-1c39ce7d058a",
+          "File_Modified": "2024-03-28T15:17:15.053",
+          "File_Name": "AnnualReport2023-AMAN-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/b7d7495c42_f0cdf41e1d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "640a595c-ac3c-4a16-9f74-703d037dbdd2",
+          "File_Modified": "2024-03-28T15:17:15.053",
+          "File_Name": "PT Makmur Berkah Amanda Audited 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMAN/PT Makmur Berkah Amanda Audited 31 Desember 2023.pdf",
+          "File_Size": 8439543,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "61e1cd0e-65a2-4135-81fc-ba2914a24a1d",
+          "File_Modified": "2024-03-28T15:17:15.053",
+          "File_Name": "AnnualReport2023-AMAN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/d71e21bebc_771e84d20e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "e02f0a80-0f43-49af-9673-eb270da244b1",
+          "File_Modified": "2024-03-28T15:17:15.053",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMAN/instance.zip",
+          "File_Size": 124366,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "9ca463c2-f944-48d8-9988-3b85c5d4fcf0",
+          "File_Modified": "2024-03-28T15:17:15.053",
+          "File_Name": "FinancialStatement-2023-Tahunan-AMAN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMAN/FinancialStatement-2023-Tahunan-AMAN.xlsx",
+          "File_Size": 160732,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "bd3e75c2-0ba7-44bc-97b8-4e194ed417e6",
+          "File_Modified": "2024-03-28T15:17:15.053",
+          "File_Name": "FinancialStatement-2023-Tahunan-AMAN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMAN/FinancialStatement-2023-Tahunan-AMAN.pdf",
+          "File_Size": 667085,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "3a3a2a6e-d90f-45bd-a65c-e0210a8b885d",
+          "File_Modified": "2024-03-28T15:17:15.053",
+          "File_Name": "AnnualReport2023-AMAN.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/4e20c419f1_fd85cfd544.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        }
+      ]
+    }
+  ]
+}

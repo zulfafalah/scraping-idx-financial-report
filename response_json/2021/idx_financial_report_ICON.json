@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ICON",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ICON",
+      "File_Modified": "2022-05-09T18:40:53.46",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Island Concepts Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "f2a15357-5157-4516-8861-be22b76d2902",
+          "File_Modified": "2022-05-09T18:40:53.46",
+          "File_Name": "LK ICON 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ICON/LK ICON 2021.pdf",
+          "File_Size": 2620341,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "ba7a418a-1d98-4a8b-a9d7-59129bd7b97a",
+          "File_Modified": "2022-05-09T18:40:53.46",
+          "File_Name": "BOD ICON Desember 2021 (1).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ICON/BOD ICON Desember 2021 (1).pdf",
+          "File_Size": 69934,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "9d2d9eef-e8ee-4c1c-953f-a134577e92ec",
+          "File_Modified": "2022-05-09T18:40:53.46",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ICON/instance.zip",
+          "File_Size": 29518,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "22c8e37c-09a4-4e5e-bfe8-c66e21511911",
+          "File_Modified": "2022-05-09T18:40:53.46",
+          "File_Name": "FinancialStatement-2021-Tahunan-ICON.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ICON/FinancialStatement-2021-Tahunan-ICON.xlsx",
+          "File_Size": 160454,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "d31eacf9-d036-4d9a-a935-f02435fd5216",
+          "File_Modified": "2022-05-09T18:40:53.46",
+          "File_Name": "FinancialStatement-2021-Tahunan-ICON.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ICON/FinancialStatement-2021-Tahunan-ICON.pdf",
+          "File_Size": 51140,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "54897043-5e99-4aec-b1dd-003ace81645d",
+          "File_Modified": "2022-05-09T18:40:53.46",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ICON/inlineXBRL.zip",
+          "File_Size": 60173,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ICON",
+          "File_ID": "a92d57f2-1c39-4d07-a037-7271b1d1d62e",
+          "File_Modified": "2022-05-09T18:40:53.46",
+          "File_Name": "AnnualReport2021-ICON-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/ee412ffa65_24a289d755.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Island Concepts Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

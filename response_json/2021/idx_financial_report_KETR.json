@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "KETR",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "KETR",
+      "File_Modified": "2022-04-08T17:45:59.793",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Ketrosden Triasmitra Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "4b76cf7c-0259-422d-9a86-0968b1745954",
+          "File_Modified": "2022-04-08T17:45:59.793",
+          "File_Name": "SP Perubahan Aset dan Liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/KETR/SP Perubahan Aset dan Liabilitas.pdf",
+          "File_Size": 677452,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "2d6c956b-45e2-4a01-92cc-73c766bdfa68",
+          "File_Modified": "2022-04-08T17:45:59.793",
+          "File_Name": "FinancialStatement-2021-Tahunan-KETR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/KETR/FinancialStatement-2021-Tahunan-KETR.xlsx",
+          "File_Size": 159896,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "6fbb7ae4-acf6-495e-862b-d49910d63c37",
+          "File_Modified": "2022-04-08T17:45:59.793",
+          "File_Name": "SP Tanggung Jawab LK Audited Periode 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/KETR/SP Tanggung Jawab LK Audited Periode 31 Des 2021.pdf",
+          "File_Size": 800228,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "534fac82-18c0-43e1-87b9-1667449b6ee2",
+          "File_Modified": "2022-04-08T17:45:59.793",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/KETR/inlineXBRL.zip",
+          "File_Size": 59536,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "41673355-a668-44d1-9eaf-ab2612818c83",
+          "File_Modified": "2022-04-08T17:45:59.793",
+          "File_Name": "FinancialStatement-2021-Tahunan-KETR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/KETR/FinancialStatement-2021-Tahunan-KETR.pdf",
+          "File_Size": 51193,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "665b82b0-7368-4026-abe8-ab54a9be4eb1",
+          "File_Modified": "2022-04-08T17:45:59.793",
+          "File_Name": "FS PT Ketrosden Triasmitra December 31 2021 2Y.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/KETR/FS PT Ketrosden Triasmitra December 31 2021 2Y.pdf",
+          "File_Size": 5685145,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "5597eb92-4eae-4664-a257-1bb0f60d450c",
+          "File_Modified": "2022-04-08T17:45:59.793",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/KETR/instance.zip",
+          "File_Size": 29244,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        },
+        {
+          "Emiten_Code": "KETR",
+          "File_ID": "7561c749-068e-4ab4-8493-5280f9338cd1",
+          "File_Modified": "2022-04-08T17:45:59.793",
+          "File_Name": "AnnualReport2021-KETR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/32ecfbdc5c_36460a80c1.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ketrosden Triasmitra Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "YELO",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "YELO",
+      "File_Modified": "2024-05-07T16:00:51.883",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Yelooo Integra Datanet Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "255cf5da-b321-45ad-b000-33a2fa9b234b",
+          "File_Modified": "2024-05-07T16:00:51.883",
+          "File_Name": "AnnualReport2023-YELO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/df447da54a_4f83b66050.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "0b54d2b4-00ce-47f8-8c96-d21801d28be1",
+          "File_Modified": "2024-05-07T16:00:51.883",
+          "File_Name": "Perubahan Atas Liabilitas dan Aset Des 2023 Yelooo.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YELO/Perubahan Atas Liabilitas dan Aset Des 2023 Yelooo.pdf",
+          "File_Size": 114412,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "e081526c-c5e7-4b82-963f-30ca2cf15caa",
+          "File_Modified": "2024-05-07T16:00:51.883",
+          "File_Name": "FinancialStatement-2023-Tahunan-YELO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YELO/FinancialStatement-2023-Tahunan-YELO.xlsx",
+          "File_Size": 328569,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "e1545d57-aebb-49a5-9a0c-3111ed8efd3f",
+          "File_Modified": "2024-05-07T16:00:51.883",
+          "File_Name": "FinancialStatement-2023-Tahunan-YELO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YELO/FinancialStatement-2023-Tahunan-YELO.pdf",
+          "File_Size": 672800,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "a8bc229c-441b-46c5-9dad-7290e4b16536",
+          "File_Modified": "2024-05-07T16:00:51.883",
+          "File_Name": "Financial Statement Annnual 2023 YELOOO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YELO/Financial Statement Annnual 2023 YELOOO.pdf",
+          "File_Size": 8559695,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "52e3146c-bdef-49ee-a137-da4573c3fea2",
+          "File_Modified": "2024-05-07T16:00:51.883",
+          "File_Name": "Checklist Annual 2023 YELOOO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YELO/Checklist Annual 2023 YELOOO.pdf",
+          "File_Size": 3077106,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "daa53999-fa64-4e3f-aaa0-e0777b9497fd",
+          "File_Modified": "2024-05-07T16:00:51.883",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YELO/inlineXBRL.zip",
+          "File_Size": 234175,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "29cd1c5e-fe6a-473a-bb07-ae33869c59d4",
+          "File_Modified": "2024-05-07T16:00:51.883",
+          "File_Name": "Perubahan Atas Liabilitas dan Aset 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YELO/Perubahan Atas Liabilitas dan Aset 2023.pdf",
+          "File_Size": 108040,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "a5c5a680-ba8f-444c-9df7-6d7dcc6a32c9",
+          "File_Modified": "2024-05-07T16:00:51.883",
+          "File_Name": "AnnualReport2023-YELO-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/5239f06efc_6f058a30bf.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "96351f84-b715-496b-ab8e-81e23f4a290d",
+          "File_Modified": "2024-05-07T16:00:51.883",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YELO/instance.zip",
+          "File_Size": 120834,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "129c1fed-6b4b-41a5-beca-eb74d76f3f0a",
+          "File_Modified": "2024-05-07T16:00:51.883",
+          "File_Name": "AnnualReport2023-YELO.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/873ccd7656_1d850d2fbe.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        }
+      ]
+    }
+  ]
+}

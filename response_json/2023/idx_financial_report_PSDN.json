@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PSDN",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PSDN",
+      "File_Modified": "2024-04-18T12:02:00.667",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Prasidha Aneka Niaga Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "bf6bf876-287e-4129-9977-37f789f64ad9",
+          "File_Modified": "2024-04-18T12:02:00.667",
+          "File_Name": "Check List OJK 12 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSDN/Check List OJK 12 2023.pdf",
+          "File_Size": 846217,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "453893aa-45ba-49c6-a913-92b6197755b5",
+          "File_Modified": "2024-04-18T12:02:00.667",
+          "File_Name": "FinancialStatement-2023-Tahunan-PSDN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSDN/FinancialStatement-2023-Tahunan-PSDN.pdf",
+          "File_Size": 723976,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "f24e26e4-2f6c-403e-b61a-bb40c083cf66",
+          "File_Modified": "2024-04-18T12:02:00.667",
+          "File_Name": "AnnualReport2023-PSDN.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/1ad407e90e_37a225ee64.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "da9f8f59-5ae4-423c-b8fa-0dfdac48bc3a",
+          "File_Modified": "2024-04-18T12:02:00.667",
+          "File_Name": "AnnualReport2023-PSDN-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/3f562c209a_94e426e2b2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "c6425ba8-49a1-4e30-b91d-2907aa9f2c51",
+          "File_Modified": "2024-04-18T12:02:00.667",
+          "File_Name": "AnnualReport2023-PSDN-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/fd989fff24_69954857d6.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "397f3154-f098-4d95-9706-298acd84fc6c",
+          "File_Modified": "2024-04-18T12:02:00.667",
+          "File_Name": "FinancialStatement-2023-Tahunan-PSDN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSDN/FinancialStatement-2023-Tahunan-PSDN.xlsx",
+          "File_Size": 363139,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "fc134b92-bfb0-4fec-8d92-77b17b3a4ecc",
+          "File_Modified": "2024-04-18T12:02:00.667",
+          "File_Name": "AnnualReport2023-PSDN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/5d118d4b14_9763232eee.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "3244ea16-9a5c-409f-9a23-893e8ec2f41f",
+          "File_Modified": "2024-04-18T12:02:00.667",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSDN/instance.zip",
+          "File_Size": 126918,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "e85fd3cb-29f7-40b5-9c05-af60e91c7471",
+          "File_Modified": "2024-04-18T12:02:00.667",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSDN/inlineXBRL.zip",
+          "File_Size": 262836,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "00749493-d2e6-4113-be9f-eb9c5ffdd4c8",
+          "File_Modified": "2024-04-18T12:02:00.667",
+          "File_Name": "Final Report Konsolidasi PT PAN Tbk 31Des2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSDN/Final Report Konsolidasi PT PAN Tbk 31Des2023.pdf",
+          "File_Size": 6634466,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "1f3d4dc3-0fa4-49d3-b7c5-55f9a2612361",
+          "File_Modified": "2024-04-18T12:02:00.667",
+          "File_Name": "Penjelasan Perubahan Asset dan Liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSDN/Penjelasan Perubahan Asset dan Liabilitas.pdf",
+          "File_Size": 1184980,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        }
+      ]
+    }
+  ]
+}

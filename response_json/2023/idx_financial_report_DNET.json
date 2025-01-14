@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DNET",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DNET",
+      "File_Modified": "2024-03-29T17:45:38.323",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Indoritel Makmur Internasional Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "DNET",
+          "File_ID": "6f5cc67e-f481-4cb2-8274-44bfc048eb7d",
+          "File_Modified": "2024-03-29T17:45:38.323",
+          "File_Name": "DNET_31_dec 2023_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DNET/DNET_31_dec 2023_released.pdf",
+          "File_Size": 6289653,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indoritel Makmur Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "DNET",
+          "File_ID": "1fc3a06e-2884-4c09-982b-748f3510e53f",
+          "File_Modified": "2024-03-29T17:45:38.323",
+          "File_Name": "AnnualReport2023-DNET-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/d50107668c_645956ac68.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indoritel Makmur Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "DNET",
+          "File_ID": "219e41f6-7e5a-45c7-8f52-b18d19b9feaf",
+          "File_Modified": "2024-03-29T17:45:38.323",
+          "File_Name": "016-DNET CS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DNET/016-DNET CS.pdf",
+          "File_Size": 260014,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indoritel Makmur Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "DNET",
+          "File_ID": "d6d9ec36-c98a-43bb-9b8e-c001325c82a1",
+          "File_Modified": "2024-03-29T17:45:38.323",
+          "File_Name": "FinancialStatement-2023-Tahunan-DNET.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DNET/FinancialStatement-2023-Tahunan-DNET.xlsx",
+          "File_Size": 152965,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indoritel Makmur Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "DNET",
+          "File_ID": "67324f65-e3c9-4379-82c6-ff5c8b2e225c",
+          "File_Modified": "2024-03-29T17:45:38.323",
+          "File_Name": "FinancialStatement-2023-Tahunan-DNET.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DNET/FinancialStatement-2023-Tahunan-DNET.pdf",
+          "File_Size": 673782,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indoritel Makmur Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "DNET",
+          "File_ID": "7dfd363e-6f6d-4d96-879c-219d6e608d85",
+          "File_Modified": "2024-03-29T17:45:38.323",
+          "File_Name": "AnnualReport2023-DNET-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/e68261d324_dc37e63726.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indoritel Makmur Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "DNET",
+          "File_ID": "777cfccd-660c-4981-bd6b-669ea1883174",
+          "File_Modified": "2024-03-29T17:45:38.323",
+          "File_Name": "AnnualReport2023-DNET.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7b14691ddb_2e7d711d05.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indoritel Makmur Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "DNET",
+          "File_ID": "17f2ccd4-c56a-4897-9940-10f82bd6d7d8",
+          "File_Modified": "2024-03-29T17:45:38.323",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DNET/instance.zip",
+          "File_Size": 121258,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indoritel Makmur Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "DNET",
+          "File_ID": "6904d1c1-cbf6-4fc2-a7ca-a22d23241b88",
+          "File_Modified": "2024-03-29T17:45:38.323",
+          "File_Name": "Checklist Pengungkapan_Dec 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DNET/Checklist Pengungkapan_Dec 2023.pdf",
+          "File_Size": 831249,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indoritel Makmur Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "DNET",
+          "File_ID": "76fc2e2e-7035-48da-9791-ccf094d1c1b9",
+          "File_Modified": "2024-03-29T17:45:38.323",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DNET/inlineXBRL.zip",
+          "File_Size": 235573,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indoritel Makmur Internasional Tbk."
+        }
+      ]
+    }
+  ]
+}

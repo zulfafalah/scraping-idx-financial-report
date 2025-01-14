@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SMMA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SMMA",
+      "File_Modified": "2022-04-28T23:05:56.403",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Sinar Mas Multiartha Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "f0a5681e-75a0-4f65-b37b-0cfdd58e3953",
+          "File_Modified": "2022-04-28T23:05:56.403",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/SMMA/inlineXBRL.zip",
+          "File_Size": 55112,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        },
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "952751d5-29f5-4baf-a8b7-132fa7c5a3a2",
+          "File_Modified": "2022-04-28T23:05:56.403",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/SMMA/instance.zip",
+          "File_Size": 28989,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        },
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "da9ade62-f40a-4640-a942-660d6fe61218",
+          "File_Modified": "2022-04-28T23:05:56.403",
+          "File_Name": "AnnualReport2021-SMMA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/d7dddd3b8b_dc75167f0a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        },
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "56e2be04-5a82-45b6-8bf2-f6a5e5a78ecd",
+          "File_Modified": "2022-04-28T23:05:56.403",
+          "File_Name": "FinancialStatement-2021-Tahunan-SMMA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/SMMA/FinancialStatement-2021-Tahunan-SMMA.pdf",
+          "File_Size": 64630,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        },
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "875a86fd-fd50-428d-8d97-3c6c024728cc",
+          "File_Modified": "2022-04-28T23:05:56.403",
+          "File_Name": "PT Sinar Mas Multiartha Tbk Final.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/SMMA/PT Sinar Mas Multiartha Tbk Final.pdf",
+          "File_Size": 3379173,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        },
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "b83e140a-bf3e-46ce-8094-2027c557a0af",
+          "File_Modified": "2022-04-28T23:05:56.403",
+          "File_Name": "FinancialStatement-2021-Tahunan-SMMA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/SMMA/FinancialStatement-2021-Tahunan-SMMA.xlsx",
+          "File_Size": 156069,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AMFG",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AMFG",
+      "File_Modified": "2024-03-14T08:13:16.043",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Asahimas Flat Glass Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "cb9c651a-0674-4830-8b54-5d41fd17e0c4",
+          "File_Modified": "2024-03-14T08:13:16.043",
+          "File_Name": "AnnualReport2023-AMFG.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/555e6a03be_7bdefa7700.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "c2e4886f-7ac0-41cf-8402-c0fc10d1757d",
+          "File_Modified": "2024-03-14T08:13:16.043",
+          "File_Name": "AnnualReport2023-AMFG-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/0a88b69cfc_99e46b9673.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "53fc9887-030d-4a3e-916b-c1606dca1b91",
+          "File_Modified": "2024-03-14T08:13:16.043",
+          "File_Name": "LK 31 Dec 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMFG/LK 31 Dec 2023.pdf",
+          "File_Size": 5624893,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "834693f6-25df-4a1d-befe-38b4661d05a4",
+          "File_Modified": "2024-03-14T08:13:16.043",
+          "File_Name": "FinancialStatement-2023-Tahunan-AMFG.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMFG/FinancialStatement-2023-Tahunan-AMFG.xlsx",
+          "File_Size": 355948,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "27079a62-e567-4e5d-bd72-5c9f0cfc47f9",
+          "File_Modified": "2024-03-14T08:13:16.043",
+          "File_Name": "AnnualReport2023-AMFG-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/ab2d2fffa6_468ce4ce10.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "c9962543-9d2b-45b8-9172-36a2dcff9456",
+          "File_Modified": "2024-03-14T08:13:16.043",
+          "File_Name": "FinancialStatement-2023-Tahunan-AMFG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMFG/FinancialStatement-2023-Tahunan-AMFG.pdf",
+          "File_Size": 719460,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "a962f2a9-b0ad-43c6-a5cd-f502f482a248",
+          "File_Modified": "2024-03-14T08:13:16.043",
+          "File_Name": "AnnualReport2023-AMFG.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/18ca93d0a1_9b9a0a220b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "3fdce683-87a5-4be1-aa0b-505a44475d1b",
+          "File_Modified": "2024-03-14T08:13:16.043",
+          "File_Name": "CHECKLIST LAPORAN KEUANGAN - 31 DEC 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMFG/CHECKLIST LAPORAN KEUANGAN - 31 DEC 2023.pdf",
+          "File_Size": 1529432,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "b0c880e0-0fa6-42ac-81fd-a8931d0a40b0",
+          "File_Modified": "2024-03-14T08:13:16.043",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMFG/inlineXBRL.zip",
+          "File_Size": 258113,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "c31fdd15-f769-4bf4-b6fa-d89c3fb687a0",
+          "File_Modified": "2024-03-14T08:13:16.043",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMFG/instance.zip",
+          "File_Size": 131709,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        }
+      ]
+    }
+  ]
+}

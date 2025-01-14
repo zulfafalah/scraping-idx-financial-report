@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MFIN",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MFIN",
+      "File_Modified": "2023-03-10T13:13:50.077",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Mandala Multifinance Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "d0b4d033-59ec-40d7-b4e6-0fe9056ece39",
+          "File_Modified": "2023-03-10T13:13:50.077",
+          "File_Name": "FinancialStatement-2022-Tahunan-MFIN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MFIN/FinancialStatement-2022-Tahunan-MFIN.pdf",
+          "File_Size": 60289,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "ae4eccc6-5c40-4d35-b313-ca200d75a557",
+          "File_Modified": "2023-03-10T13:13:50.077",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MFIN/inlineXBRL.zip",
+          "File_Size": 86419,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "0f3f6f19-60ec-48fe-9009-373cd08516de",
+          "File_Modified": "2023-03-10T13:13:50.077",
+          "File_Name": "CHECKLIST PENGUNGKAPAN LAPORAN KEUANGAN_MMF 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MFIN/CHECKLIST PENGUNGKAPAN LAPORAN KEUANGAN_MMF 2022.pdf",
+          "File_Size": 976699,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "f58042be-f2d2-413b-a86b-46a918751005",
+          "File_Modified": "2023-03-10T13:13:50.077",
+          "File_Name": "AnnualReport2022-MFIN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/cefddf5133_5fc55ce84f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "34de0d78-9749-4791-b599-888f9f4b7311",
+          "File_Modified": "2023-03-10T13:13:50.077",
+          "File_Name": "FinancialStatement-2022-Tahunan-MFIN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MFIN/FinancialStatement-2022-Tahunan-MFIN.xlsx",
+          "File_Size": 569095,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "d79ac3d1-80e1-4b1e-813a-257b60c7f0e3",
+          "File_Modified": "2023-03-10T13:13:50.077",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MFIN/instance.zip",
+          "File_Size": 77000,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "4d64fdf0-7c63-4904-b8ef-7d8ca90d36d4",
+          "File_Modified": "2023-03-10T13:13:50.077",
+          "File_Name": "LKFS FINAL MFIN 1222.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MFIN/LKFS FINAL MFIN 1222.pdf",
+          "File_Size": 5002053,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "1012891d-fcea-4a29-871c-d79507629c90",
+          "File_Modified": "2023-03-10T13:13:50.077",
+          "File_Name": "Penj. Kenaikan lebih dr 20 persen Audited 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MFIN/Penj. Kenaikan lebih dr 20 persen Audited 2022.pdf",
+          "File_Size": 619060,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        }
+      ]
+    }
+  ]
+}

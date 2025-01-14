@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AMFG",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AMFG",
+      "File_Modified": "2023-03-30T17:43:57.877",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Asahimas Flat Glass Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "84c1df16-abd0-417e-97d8-9635d303bb08",
+          "File_Modified": "2023-03-30T17:43:57.877",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMFG/inlineXBRL.zip",
+          "File_Size": 212251,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "f451762e-dc46-4597-a2a1-b8114bc2ecad",
+          "File_Modified": "2023-03-30T17:43:57.877",
+          "File_Name": "OJK Checklist LK 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMFG/OJK Checklist LK 2022.pdf",
+          "File_Size": 1480384,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "51b06a6f-13a2-4632-b552-0a54985e8899",
+          "File_Modified": "2023-03-30T17:43:57.877",
+          "File_Name": "LK_AMFG 31 Dec 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMFG/LK_AMFG 31 Dec 2022.pdf",
+          "File_Size": 7282645,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "62059648-3a49-4ca4-b04e-8235bafb0e70",
+          "File_Modified": "2023-03-30T17:43:57.877",
+          "File_Name": "FinancialStatement-2022-Tahunan-AMFG.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMFG/FinancialStatement-2022-Tahunan-AMFG.xlsx",
+          "File_Size": 1181868,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "d7ae92c3-a36a-4616-9449-eb5b40d1d38b",
+          "File_Modified": "2023-03-30T17:43:57.877",
+          "File_Name": "AnnualReport2022-AMFG-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/fd46f3a3b5_5a3144ea78.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "c07ebd72-1ed5-44d3-9654-372717a6b6ed",
+          "File_Modified": "2023-03-30T17:43:57.877",
+          "File_Name": "FinancialStatement-2022-Tahunan-AMFG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMFG/FinancialStatement-2022-Tahunan-AMFG.pdf",
+          "File_Size": 235504,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        },
+        {
+          "Emiten_Code": "AMFG",
+          "File_ID": "c6a52257-8438-443d-ba7a-cef48537789a",
+          "File_Modified": "2023-03-30T17:43:57.877",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMFG/instance.zip",
+          "File_Size": 180701,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Asahimas Flat Glass Tbk"
+        }
+      ]
+    }
+  ]
+}

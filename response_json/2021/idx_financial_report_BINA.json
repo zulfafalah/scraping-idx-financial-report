@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BINA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BINA",
+      "File_Modified": "2022-04-27T16:48:47.44",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Bank Ina Perdana Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "16ef85ca-ed44-4e09-ba48-bc8e5d1b669d",
+          "File_Modified": "2022-04-27T16:48:47.44",
+          "File_Name": "Bank Ina Perdana tbk 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BINA/Bank Ina Perdana tbk 31 Desember 2021.pdf",
+          "File_Size": 4284756,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "8e0aaa59-3490-4b4a-83f7-50e9001d99e2",
+          "File_Modified": "2022-04-27T16:48:47.44",
+          "File_Name": "Penjelasan Manajemen 311221.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BINA/Penjelasan Manajemen 311221.pdf",
+          "File_Size": 213941,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "9a7ab2ce-c9e3-4ae6-a672-9b35f93e945e",
+          "File_Modified": "2022-04-27T16:48:47.44",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BINA/inlineXBRL.zip",
+          "File_Size": 59315,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "d8453330-0e2a-4814-9127-a2003f56dd73",
+          "File_Modified": "2022-04-27T16:48:47.44",
+          "File_Name": "FinancialStatement-2021-Tahunan-BINA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BINA/FinancialStatement-2021-Tahunan-BINA.pdf",
+          "File_Size": 53916,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "17941530-b28d-4a37-b6dd-561b5fa348c3",
+          "File_Modified": "2022-04-27T16:48:47.44",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BINA/instance.zip",
+          "File_Size": 29913,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "5aced6bd-2e6f-47bd-a2b5-fb334f6921b9",
+          "File_Modified": "2022-04-27T16:48:47.44",
+          "File_Name": "FinancialStatement-2021-Tahunan-BINA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BINA/FinancialStatement-2021-Tahunan-BINA.xlsx",
+          "File_Size": 160480,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MITI",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MITI",
+      "File_Modified": "2023-04-11T13:47:32.447",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Mitra Investindo Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "fa77454f-989b-4fc4-96ad-08589485f4c0",
+          "File_Modified": "2023-04-11T13:47:32.447",
+          "File_Name": "MITI - Checklist Pengungkapan LK 31 December 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MITI/MITI - Checklist Pengungkapan LK 31 December 2022.pdf",
+          "File_Size": 1095530,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "50c0dcee-991e-47fa-9761-407132fb8095",
+          "File_Modified": "2023-04-11T13:47:32.447",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MITI/instance.zip",
+          "File_Size": 173646,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "0bc1ad6f-7a49-41f1-81b6-e77fa8748970",
+          "File_Modified": "2023-04-11T13:47:32.447",
+          "File_Name": "MITI - Perubahan Aset dan Liabilitas 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MITI/MITI - Perubahan Aset dan Liabilitas 2022.pdf",
+          "File_Size": 705640,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "64de57af-6d7f-468b-99d5-44f006daab9b",
+          "File_Modified": "2023-04-11T13:47:32.447",
+          "File_Name": "FS PT Mitra Investindo Tbk  2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MITI/FS PT Mitra Investindo Tbk  2022.pdf",
+          "File_Size": 3874304,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "ab104d17-d5e2-4cc3-ba6a-5eac3131b6ec",
+          "File_Modified": "2023-04-11T13:47:32.447",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MITI/inlineXBRL.zip",
+          "File_Size": 152305,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "a1a62287-4f18-4c95-bdcf-31dffff21210",
+          "File_Modified": "2023-04-11T13:47:32.447",
+          "File_Name": "AnnualReport2022-MITI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/32e2cb68b0_3855a1a344.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "7013f6eb-3043-450a-a13c-4d2448a2b042",
+          "File_Modified": "2023-04-11T13:47:32.447",
+          "File_Name": "FinancialStatement-2022-Tahunan-MITI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MITI/FinancialStatement-2022-Tahunan-MITI.xlsx",
+          "File_Size": 1187646,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "54404adf-c6ea-40ad-84e4-6805902baf73",
+          "File_Modified": "2023-04-11T13:47:32.447",
+          "File_Name": "FinancialStatement-2022-Tahunan-MITI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MITI/FinancialStatement-2022-Tahunan-MITI.pdf",
+          "File_Size": 108628,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        },
+        {
+          "Emiten_Code": "MITI",
+          "File_ID": "662d9c58-93a8-439e-8a08-f205246518d1",
+          "File_Modified": "2023-04-11T13:47:32.447",
+          "File_Name": "MITI - Pernyataan Direksi 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MITI/MITI - Pernyataan Direksi 2022.pdf",
+          "File_Size": 353974,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra Investindo Tbk"
+        }
+      ]
+    }
+  ]
+}

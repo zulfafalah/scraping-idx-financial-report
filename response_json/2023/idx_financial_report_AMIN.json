@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AMIN",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AMIN",
+      "File_Modified": "2024-04-30T10:03:33.727",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Ateliers Mecaniques D Indonesie Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "AMIN",
+          "File_ID": "7d1a6661-45c8-452a-b82b-0e6cbad53d8d",
+          "File_Modified": "2024-04-30T10:03:33.727",
+          "File_Name": "FinancialStatement-2023-Tahunan-AMIN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMIN/FinancialStatement-2023-Tahunan-AMIN.pdf",
+          "File_Size": 698524,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ateliers Mecaniques D Indonesie Tbk."
+        },
+        {
+          "Emiten_Code": "AMIN",
+          "File_ID": "cea7a268-4465-44cf-8607-69419a7b6f43",
+          "File_Modified": "2024-04-30T10:03:33.727",
+          "File_Name": "AnnualReport2023-AMIN.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/7b5443d4c2_e8d3077243.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ateliers Mecaniques D Indonesie Tbk."
+        },
+        {
+          "Emiten_Code": "AMIN",
+          "File_ID": "211b237c-f954-40f3-9da2-69601f8594c0",
+          "File_Modified": "2024-04-30T10:03:33.727",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMIN/inlineXBRL.zip",
+          "File_Size": 254422,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ateliers Mecaniques D Indonesie Tbk."
+        },
+        {
+          "Emiten_Code": "AMIN",
+          "File_ID": "9080c0dc-17cc-4350-be58-12f077c68fc2",
+          "File_Modified": "2024-04-30T10:03:33.727",
+          "File_Name": "CHECKLIST G.VII 31.01.24-PT ATMINDO Tbk.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMIN/CHECKLIST G.VII 31.01.24-PT ATMINDO Tbk.pdf",
+          "File_Size": 1184713,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ateliers Mecaniques D Indonesie Tbk."
+        },
+        {
+          "Emiten_Code": "AMIN",
+          "File_ID": "55ea3237-4b7d-4091-9b68-3227a8ac252a",
+          "File_Modified": "2024-04-30T10:03:33.727",
+          "File_Name": "surat pengantar Lap keu Tahunan per 31 Jan 2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMIN/surat pengantar Lap keu Tahunan per 31 Jan 2024.pdf",
+          "File_Size": 322586,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ateliers Mecaniques D Indonesie Tbk."
+        },
+        {
+          "Emiten_Code": "AMIN",
+          "File_ID": "34cf30a0-43ff-4034-8b34-32774a27b0d8",
+          "File_Modified": "2024-04-30T10:03:33.727",
+          "File_Name": "AnnualReport2023-AMIN-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/4a42a4627c_2e820aa3b2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ateliers Mecaniques D Indonesie Tbk."
+        },
+        {
+          "Emiten_Code": "AMIN",
+          "File_ID": "de637c85-b006-4b01-9156-8dce418dd43a",
+          "File_Modified": "2024-04-30T10:03:33.727",
+          "File_Name": "Laporan Keuangan PT ATMINDO Tbk 31 Januari 2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMIN/Laporan Keuangan PT ATMINDO Tbk 31 Januari 2024.pdf",
+          "File_Size": 2117332,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ateliers Mecaniques D Indonesie Tbk."
+        },
+        {
+          "Emiten_Code": "AMIN",
+          "File_ID": "d2020082-67aa-4023-8453-b3708d6a60d7",
+          "File_Modified": "2024-04-30T10:03:33.727",
+          "File_Name": "AnnualReport2023-AMIN-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/fcfd0a2745_0daed6bc98.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ateliers Mecaniques D Indonesie Tbk."
+        },
+        {
+          "Emiten_Code": "AMIN",
+          "File_ID": "7a91c0c9-8947-4bb9-b20c-94a2e15e981e",
+          "File_Modified": "2024-04-30T10:03:33.727",
+          "File_Name": "AnnualReport2023-AMIN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/6704c07f1c_e5d68b2e01.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ateliers Mecaniques D Indonesie Tbk."
+        },
+        {
+          "Emiten_Code": "AMIN",
+          "File_ID": "b9378f53-77e9-4adf-8a69-c108281daba5",
+          "File_Modified": "2024-04-30T10:03:33.727",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMIN/instance.zip",
+          "File_Size": 126510,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ateliers Mecaniques D Indonesie Tbk."
+        },
+        {
+          "Emiten_Code": "AMIN",
+          "File_ID": "b89c0934-68b3-493a-82ac-e320988ca1a8",
+          "File_Modified": "2024-04-30T10:03:33.727",
+          "File_Name": "FinancialStatement-2023-Tahunan-AMIN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMIN/FinancialStatement-2023-Tahunan-AMIN.xlsx",
+          "File_Size": 354925,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ateliers Mecaniques D Indonesie Tbk."
+        }
+      ]
+    }
+  ]
+}

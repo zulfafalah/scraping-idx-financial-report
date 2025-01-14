@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GOTO",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GOTO",
+      "File_Modified": "2022-05-30T16:49:35.593",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "6bcbb3a0-a123-467b-a320-29005b7ee467",
+          "File_Modified": "2022-05-30T16:49:35.593",
+          "File_Name": "GOTO_LKFS_2021_Audit.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GOTO/GOTO_LKFS_2021_Audit.pdf",
+          "File_Size": 7810517,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "f265d451-3d14-4ae4-9bf7-975fbf458208",
+          "File_Modified": "2022-05-30T16:49:35.593",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GOTO/instance.zip",
+          "File_Size": 32004,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "b8d4e201-1db1-4f14-865c-b9bf4f59743d",
+          "File_Modified": "2022-05-30T16:49:35.593",
+          "File_Name": "FinancialStatement-2021-Tahunan-GOTO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GOTO/FinancialStatement-2021-Tahunan-GOTO.pdf",
+          "File_Size": 168049,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "9f8f391b-3fbe-4703-bdea-9b0c3b893904",
+          "File_Modified": "2022-05-30T16:49:35.593",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GOTO/inlineXBRL.zip",
+          "File_Size": 60944,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "295d2ea5-1a97-47c3-98d3-fcd18b7a99c1",
+          "File_Modified": "2022-05-30T16:49:35.593",
+          "File_Name": "FinancialStatement-2021-Tahunan-GOTO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GOTO/FinancialStatement-2021-Tahunan-GOTO.xlsx",
+          "File_Size": 163051,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "54a04af6-e5c3-493c-a62c-b704e5a96369",
+          "File_Modified": "2022-05-30T16:49:35.593",
+          "File_Name": "AnnualReport2021-GOTO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/57502b7299_364f988c4f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        }
+      ]
+    }
+  ]
+}

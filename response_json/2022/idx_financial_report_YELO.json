@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "YELO",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "YELO",
+      "File_Modified": "2023-04-01T00:12:11.8",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Yelooo Integra Datanet Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "95a0421f-fdf4-4a8e-b719-94f885c1c96d",
+          "File_Modified": "2023-04-01T00:12:11.8",
+          "File_Name": "AnnualReport2022-YELO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/6430fe27db_ffc8675429.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "0ffdebab-b005-4f7c-aae3-30f7be950e80",
+          "File_Modified": "2023-04-01T00:12:11.8",
+          "File_Name": "Financial Statement Annnual 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/YELO/Financial Statement Annnual 2022.pdf",
+          "File_Size": 9441588,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "6dda856f-ac26-4f39-a6d0-927eb9b5cb3d",
+          "File_Modified": "2023-04-01T00:12:11.8",
+          "File_Name": "FinancialStatement-2022-Tahunan-YELO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/YELO/FinancialStatement-2022-Tahunan-YELO.pdf",
+          "File_Size": 95467,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "891ba86b-9baf-412d-bca0-deb2e3329062",
+          "File_Modified": "2023-04-01T00:12:11.8",
+          "File_Name": "FinancialStatement-2022-Tahunan-YELO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/YELO/FinancialStatement-2022-Tahunan-YELO.xlsx",
+          "File_Size": 1179731,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "ca2c45c6-f3cb-476a-96f6-eab98ac0c54b",
+          "File_Modified": "2023-04-01T00:12:11.8",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/YELO/instance.zip",
+          "File_Size": 173246,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "7a359c51-e248-4ad4-ad3a-0c614c402d6d",
+          "File_Modified": "2023-04-01T00:12:11.8",
+          "File_Name": "Perubahan Atas Liabilitas dan Aset Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/YELO/Perubahan Atas Liabilitas dan Aset Desember 2022.pdf",
+          "File_Size": 187795,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "b7007cb4-13b8-4b9f-8ca8-7510d5776736",
+          "File_Modified": "2023-04-01T00:12:11.8",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/YELO/inlineXBRL.zip",
+          "File_Size": 141351,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "275ea031-fae2-472f-a5e3-94f0641c6252",
+          "File_Modified": "2023-04-01T00:12:11.8",
+          "File_Name": "Checklist Annual 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/YELO/Checklist Annual 2022.pdf",
+          "File_Size": 784877,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        }
+      ]
+    }
+  ]
+}

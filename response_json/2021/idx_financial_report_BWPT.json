@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BWPT",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BWPT",
+      "File_Modified": "2022-04-30T19:44:31.747",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Eagle High Plantations Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "41d2986a-91ae-47f8-96ca-c66eff53e4c3",
+          "File_Modified": "2022-04-30T19:44:31.747",
+          "File_Name": "PT Eagle High Plantations Tbk 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BWPT/PT Eagle High Plantations Tbk 2021.pdf",
+          "File_Size": 3257411,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "820b6f78-fc57-4757-9c4c-76f5098b2c01",
+          "File_Modified": "2022-04-30T19:44:31.747",
+          "File_Name": "014 Pelaporan LKT 2021 PT EHP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BWPT/014 Pelaporan LKT 2021 PT EHP.pdf",
+          "File_Size": 181566,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "8155d5f0-50e6-4d18-8805-26c5910454d6",
+          "File_Modified": "2022-04-30T19:44:31.747",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BWPT/instance.zip",
+          "File_Size": 28781,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "ea8b123b-2b01-4491-a593-65ff471ee504",
+          "File_Modified": "2022-04-30T19:44:31.747",
+          "File_Name": "FinancialStatement-2021-Tahunan-BWPT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BWPT/FinancialStatement-2021-Tahunan-BWPT.pdf",
+          "File_Size": 59121,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "ddf067c0-f4f6-40fb-8f63-8890482e48e5",
+          "File_Modified": "2022-04-30T19:44:31.747",
+          "File_Name": "FinancialStatement-2021-Tahunan-BWPT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BWPT/FinancialStatement-2021-Tahunan-BWPT.xlsx",
+          "File_Size": 159076,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "60d1574f-0b3e-4b84-8134-de3591a83515",
+          "File_Modified": "2022-04-30T19:44:31.747",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BWPT/inlineXBRL.zip",
+          "File_Size": 58724,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        }
+      ]
+    }
+  ]
+}

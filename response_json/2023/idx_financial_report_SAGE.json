@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SAGE",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SAGE",
+      "File_Modified": "2024-04-01T14:11:52.087",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Saptausaha Gemilangindah Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "SAGE",
+          "File_ID": "d7c1efa9-121f-4fd2-a382-0ec36ab4b5b3",
+          "File_Modified": "2024-04-01T14:11:52.087",
+          "File_Name": "SPD - PT Saptausaha Gemilangindah Tbk 311223.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SAGE/SPD - PT Saptausaha Gemilangindah Tbk 311223.pdf",
+          "File_Size": 555208,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Saptausaha Gemilangindah Tbk"
+        },
+        {
+          "Emiten_Code": "SAGE",
+          "File_ID": "36564c95-6c12-4adc-9b55-9545a9313861",
+          "File_Modified": "2024-04-01T14:11:52.087",
+          "File_Name": "AnnualReport2023-SAGE-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/525e3e7cb7_11dbd36b50.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Saptausaha Gemilangindah Tbk"
+        },
+        {
+          "Emiten_Code": "SAGE",
+          "File_ID": "eee98e9e-8f6e-4690-8b46-eeeb7bca1594",
+          "File_Modified": "2024-04-01T14:11:52.087",
+          "File_Name": "FinancialStatement-2023-Tahunan-SAGE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SAGE/FinancialStatement-2023-Tahunan-SAGE.pdf",
+          "File_Size": 660831,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Saptausaha Gemilangindah Tbk"
+        },
+        {
+          "Emiten_Code": "SAGE",
+          "File_ID": "2e5e61df-93fd-4df4-ae23-5ec75335e6b8",
+          "File_Modified": "2024-04-01T14:11:52.087",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SAGE/inlineXBRL.zip",
+          "File_Size": 232237,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Saptausaha Gemilangindah Tbk"
+        },
+        {
+          "Emiten_Code": "SAGE",
+          "File_ID": "50c4c3b6-197e-41fc-b7fb-9784268bab98",
+          "File_Modified": "2024-04-01T14:11:52.087",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SAGE/instance.zip",
+          "File_Size": 124998,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Saptausaha Gemilangindah Tbk"
+        },
+        {
+          "Emiten_Code": "SAGE",
+          "File_ID": "41455ac2-f282-4e40-8edb-e2415a586a4c",
+          "File_Modified": "2024-04-01T14:11:52.087",
+          "File_Name": "FinancialStatement-2023-Tahunan-SAGE.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SAGE/FinancialStatement-2023-Tahunan-SAGE.xlsx",
+          "File_Size": 326194,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Saptausaha Gemilangindah Tbk"
+        },
+        {
+          "Emiten_Code": "SAGE",
+          "File_ID": "cc17aabf-0e68-4891-b305-50c9f9befbe8",
+          "File_Modified": "2024-04-01T14:11:52.087",
+          "File_Name": "AnnualReport2023-SAGE.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/14f69fd49a_1c9583fc0a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Saptausaha Gemilangindah Tbk"
+        },
+        {
+          "Emiten_Code": "SAGE",
+          "File_ID": "30fd78ab-bbfd-4b6f-b7b9-2cb2e2c7c974",
+          "File_Modified": "2024-04-01T14:11:52.087",
+          "File_Name": "SAGE Checklist LKT Q4.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SAGE/SAGE Checklist LKT Q4.pdf",
+          "File_Size": 2466284,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Saptausaha Gemilangindah Tbk"
+        },
+        {
+          "Emiten_Code": "SAGE",
+          "File_ID": "6dc31cce-c7a5-4158-9d8c-2d559727c1c5",
+          "File_Modified": "2024-04-01T14:11:52.087",
+          "File_Name": "PT Saptausaha Gemilangindah Tbk 311223.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SAGE/PT Saptausaha Gemilangindah Tbk 311223.pdf",
+          "File_Size": 3066468,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Saptausaha Gemilangindah Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GOTO",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GOTO",
+      "File_Modified": "2024-03-19T16:35:21.637",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "0f367b2e-9b72-4355-b0b5-d19d57824a57",
+          "File_Modified": "2024-03-19T16:35:21.637",
+          "File_Name": "AnnualReport2023-GOTO-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/c4ce7d20dd_04c57d068a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "3e6164c1-338f-4636-b187-2e8e1183518b",
+          "File_Modified": "2024-03-19T16:35:21.637",
+          "File_Name": "AnnualReport2023-GOTO-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/e2162897d0_fff4cda70b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "419ec7e5-a1e6-431e-b52e-6557757c5bcc",
+          "File_Modified": "2024-03-19T16:35:21.637",
+          "File_Name": "AnnualReport2023-GOTO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/da2012d3e2_ddd2c22410.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "0d011200-859b-4b24-b4f0-9338a6f22d0a",
+          "File_Modified": "2024-03-19T16:35:21.637",
+          "File_Name": "FinancialStatement-2023-Tahunan-GOTO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOTO/FinancialStatement-2023-Tahunan-GOTO.xlsx",
+          "File_Size": 354001,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "d4910645-b65e-4380-a006-a29abc37d469",
+          "File_Modified": "2024-03-19T16:35:21.637",
+          "File_Name": "FinancialStatement-2023-Tahunan-GOTO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOTO/FinancialStatement-2023-Tahunan-GOTO.pdf",
+          "File_Size": 714238,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "fb1b3477-65e4-4b49-90e7-199cbb4a7295",
+          "File_Modified": "2024-03-19T16:35:21.637",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOTO/instance.zip",
+          "File_Size": 137205,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "e8f736f2-d8c7-4164-b6c8-3855c0682bd4",
+          "File_Modified": "2024-03-19T16:35:21.637",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOTO/inlineXBRL.zip",
+          "File_Size": 259334,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "655a2749-355b-4c9a-b269-656150d7a284",
+          "File_Modified": "2024-03-19T16:35:21.637",
+          "File_Name": "GOTO_Penjelasan atas Perubahan Aset_19032024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOTO/GOTO_Penjelasan atas Perubahan Aset_19032024.pdf",
+          "File_Size": 286687,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "fd2b1e5f-8fe0-4df5-b467-8a3cd1e4ab43",
+          "File_Modified": "2024-03-19T16:35:21.637",
+          "File_Name": "AnnualReport2023-GOTO.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/2b0a7267f9_4bfbd6e8a8.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "e4e0bdd7-6aa2-4fe5-9ca1-b80ecac3e076",
+          "File_Modified": "2024-03-19T16:35:21.637",
+          "File_Name": "LK GOTO_31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOTO/LK GOTO_31 Des 2023.pdf",
+          "File_Size": 1389511,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        }
+      ]
+    }
+  ]
+}

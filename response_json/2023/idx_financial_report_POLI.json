@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "POLI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "POLI",
+      "File_Modified": "2024-04-05T14:15:47.567",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Pollux Hotels Group Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "aaabcdf6-3232-4a42-b562-15ded4b10989",
+          "File_Modified": "2024-04-05T14:15:47.567",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/POLI/inlineXBRL.zip",
+          "File_Size": 274577,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "dc51474c-7ffc-4c28-b0cd-e4483f0e1bf8",
+          "File_Modified": "2024-04-05T14:15:47.567",
+          "File_Name": "Checklist ojk 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/POLI/Checklist ojk 2023.pdf",
+          "File_Size": 29655539,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "4b25863b-082b-4362-9776-01ddf6419da0",
+          "File_Modified": "2024-04-05T14:15:47.567",
+          "File_Name": "AnnualReport2023-POLI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/edb74eec0c_d0aaba12db.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "5caeea56-9433-4ed9-93cd-b33b069e4537",
+          "File_Modified": "2024-04-05T14:15:47.567",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/POLI/instance.zip",
+          "File_Size": 151887,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "5d84abaf-cf2c-4621-a707-2d6cb2ae6d49",
+          "File_Modified": "2024-04-05T14:15:47.567",
+          "File_Name": "Final Report PT PHG  31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/POLI/Final Report PT PHG  31 Des 2023.pdf",
+          "File_Size": 4222740,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "fb3a87f3-9ed9-4813-88ab-6c7f3cd56e82",
+          "File_Modified": "2024-04-05T14:15:47.567",
+          "File_Name": "FinancialStatement-2023-Tahunan-POLI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/POLI/FinancialStatement-2023-Tahunan-POLI.pdf",
+          "File_Size": 769936,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "f71440e7-a945-4ab2-976a-72f3106936d5",
+          "File_Modified": "2024-04-05T14:15:47.567",
+          "File_Name": "Konfirm kenaikan aset dan liabilitas diatas 20prsn.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/POLI/Konfirm kenaikan aset dan liabilitas diatas 20prsn.pdf",
+          "File_Size": 550355,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "200a493a-149c-4791-a540-8da3874ba003",
+          "File_Modified": "2024-04-05T14:15:47.567",
+          "File_Name": "AnnualReport2023-POLI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/1570780e6b_302dba6d7b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "646319e1-d9ef-4f90-bdcf-96f2d3de4d94",
+          "File_Modified": "2024-04-05T14:15:47.567",
+          "File_Name": "FinancialStatement-2023-Tahunan-POLI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/POLI/FinancialStatement-2023-Tahunan-POLI.xlsx",
+          "File_Size": 198288,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "65a4aac0-f3a8-4320-a696-ce2d3663faee",
+          "File_Modified": "2024-04-05T14:15:47.567",
+          "File_Name": "4. SPD 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/POLI/4. SPD 31 Desember 2023.pdf",
+          "File_Size": 383680,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        }
+      ]
+    }
+  ]
+}

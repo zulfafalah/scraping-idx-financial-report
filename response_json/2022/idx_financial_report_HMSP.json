@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "HMSP",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "HMSP",
+      "File_Modified": "2023-03-30T16:02:46.26",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "HM Sampoerna Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "HMSP",
+          "File_ID": "b977fa62-46ee-40f3-80cc-3bc0ee518bb9",
+          "File_Modified": "2023-03-30T16:02:46.26",
+          "File_Name": "OJK Checklist - 2022 - signed.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HMSP/OJK Checklist - 2022 - signed.pdf",
+          "File_Size": 1854998,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "HM Sampoerna Tbk"
+        },
+        {
+          "Emiten_Code": "HMSP",
+          "File_ID": "a79f9b65-fe87-4d2c-8ea8-442b84444d3d",
+          "File_Modified": "2023-03-30T16:02:46.26",
+          "File_Name": "041CLDHMSIII2023 - penjelasan 20 (signed).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HMSP/041CLDHMSIII2023 - penjelasan 20 (signed).pdf",
+          "File_Size": 124073,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "HM Sampoerna Tbk"
+        },
+        {
+          "Emiten_Code": "HMSP",
+          "File_ID": "c6c2b822-69a0-45ef-98c6-c741cf413153",
+          "File_Modified": "2023-03-30T16:02:46.26",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HMSP/inlineXBRL.zip",
+          "File_Size": 158782,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "HM Sampoerna Tbk"
+        },
+        {
+          "Emiten_Code": "HMSP",
+          "File_ID": "5c31a436-b9bc-4bc6-9ab6-ed04d9b22592",
+          "File_Modified": "2023-03-30T16:02:46.26",
+          "File_Name": "040CLDHMSIII2023 - checklist OJK (signed).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HMSP/040CLDHMSIII2023 - checklist OJK (signed).pdf",
+          "File_Size": 137115,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "HM Sampoerna Tbk"
+        },
+        {
+          "Emiten_Code": "HMSP",
+          "File_ID": "2cce5c89-4ce7-41b3-80f2-f3eedb046a2e",
+          "File_Modified": "2023-03-30T16:02:46.26",
+          "File_Name": "039CLDHMSIII2023 - BEI (signed).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HMSP/039CLDHMSIII2023 - BEI (signed).pdf",
+          "File_Size": 132558,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "HM Sampoerna Tbk"
+        },
+        {
+          "Emiten_Code": "HMSP",
+          "File_ID": "ec8703e6-5c7e-4279-a447-59cf6d27af18",
+          "File_Modified": "2023-03-30T16:02:46.26",
+          "File_Name": "Signed FS HM Sampoerna 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HMSP/Signed FS HM Sampoerna 2022.pdf",
+          "File_Size": 3336633,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "HM Sampoerna Tbk"
+        },
+        {
+          "Emiten_Code": "HMSP",
+          "File_ID": "d32592cb-6ce7-4e89-8cd2-a2cccb8da844",
+          "File_Modified": "2023-03-30T16:02:46.26",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HMSP/instance.zip",
+          "File_Size": 186049,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "HM Sampoerna Tbk"
+        },
+        {
+          "Emiten_Code": "HMSP",
+          "File_ID": "bb282971-b9f0-4544-9619-3fe5182f25bf",
+          "File_Modified": "2023-03-30T16:02:46.26",
+          "File_Name": "038CLDHMSIII2023 - OJK (signed).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HMSP/038CLDHMSIII2023 - OJK (signed).pdf",
+          "File_Size": 153263,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "HM Sampoerna Tbk"
+        },
+        {
+          "Emiten_Code": "HMSP",
+          "File_ID": "013f37f9-0317-4878-8331-83b4a7a9c210",
+          "File_Modified": "2023-03-30T16:02:46.26",
+          "File_Name": "FinancialStatement-2022-Tahunan-HMSP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HMSP/FinancialStatement-2022-Tahunan-HMSP.pdf",
+          "File_Size": 143444,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "HM Sampoerna Tbk"
+        },
+        {
+          "Emiten_Code": "HMSP",
+          "File_ID": "86a60f51-9926-47f5-8b65-0056066ed872",
+          "File_Modified": "2023-03-30T16:02:46.26",
+          "File_Name": "FinancialStatement-2022-Tahunan-HMSP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HMSP/FinancialStatement-2022-Tahunan-HMSP.xlsx",
+          "File_Size": 1196131,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "HM Sampoerna Tbk"
+        },
+        {
+          "Emiten_Code": "HMSP",
+          "File_ID": "c642a783-4413-4e5e-a2e0-6ee9f46af383",
+          "File_Modified": "2023-03-30T16:02:46.26",
+          "File_Name": "Director Statement HMS Q4 2022 (signed).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HMSP/Director Statement HMS Q4 2022 (signed).pdf",
+          "File_Size": 475159,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "HM Sampoerna Tbk"
+        },
+        {
+          "Emiten_Code": "HMSP",
+          "File_ID": "589d3a4d-68ca-43d2-9a48-8eb7815ebf44",
+          "File_Modified": "2023-03-30T16:02:46.26",
+          "File_Name": "AnnualReport2022-HMSP-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/96fe4a8e06_64a35fe4cc.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "HM Sampoerna Tbk"
+        }
+      ]
+    }
+  ]
+}

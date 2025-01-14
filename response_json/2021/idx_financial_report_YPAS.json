@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "YPAS",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "YPAS",
+      "File_Modified": "2022-04-08T11:25:52.84",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Yanaprima Hastapersada Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "74e2821a-b91a-4146-9ebb-432a94fb329f",
+          "File_Modified": "2022-04-08T11:25:52.84",
+          "File_Name": "Lap Keu Tahunan KAP 31 Des 21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YPAS/Lap Keu Tahunan KAP 31 Des 21.pdf",
+          "File_Size": 2066018,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "71cec21a-0a95-495f-978d-c3a425d6e3ba",
+          "File_Modified": "2022-04-08T11:25:52.84",
+          "File_Name": "FinancialStatement-2021-Tahunan-YPAS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YPAS/FinancialStatement-2021-Tahunan-YPAS.xlsx",
+          "File_Size": 159375,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "becdd83f-cc85-4e4a-892e-0094954e1a29",
+          "File_Modified": "2022-04-08T11:25:52.84",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YPAS/inlineXBRL.zip",
+          "File_Size": 58659,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "ec6644cd-85e0-4644-9c5d-00eb4353c1db",
+          "File_Modified": "2022-04-08T11:25:52.84",
+          "File_Name": "check list Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YPAS/check list Des 2021.pdf",
+          "File_Size": 1840941,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "93989e02-976e-4ea8-bd5a-54f4df41e3b0",
+          "File_Modified": "2022-04-08T11:25:52.84",
+          "File_Name": "AnnualReport2021-YPAS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/c8cd575707_6195014fa9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "a0d551b2-8ea3-4b6c-94c4-a5f5205db88d",
+          "File_Modified": "2022-04-08T11:25:52.84",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YPAS/instance.zip",
+          "File_Size": 28687,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "1850b0bb-d337-4cf6-a8db-fce028469ba7",
+          "File_Modified": "2022-04-08T11:25:52.84",
+          "File_Name": "FinancialStatement-2021-Tahunan-YPAS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YPAS/FinancialStatement-2021-Tahunan-YPAS.pdf",
+          "File_Size": 43565,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        }
+      ]
+    }
+  ]
+}

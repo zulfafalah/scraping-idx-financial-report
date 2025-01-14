@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "CMNP",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "CMNP",
+      "File_Modified": "2023-04-28T16:49:29.487",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Citra Marga Nusaphala Persada Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "f43e9137-6182-4a04-b7f4-534985d5f151",
+          "File_Modified": "2023-04-28T16:49:29.487",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CMNP/instance.zip",
+          "File_Size": 178899,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "3a8f6b66-5126-4cba-8e67-ec9cba0b816e",
+          "File_Modified": "2023-04-28T16:49:29.487",
+          "File_Name": "Pengantar LKK 31 Des 2022 PT CMNP Tbk (OJK).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CMNP/Pengantar LKK 31 Des 2022 PT CMNP Tbk (OJK).pdf",
+          "File_Size": 561483,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "dfb864a3-d648-4c92-aff5-003cc1504102",
+          "File_Modified": "2023-04-28T16:49:29.487",
+          "File_Name": "AnnualReport2022-CMNP-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/913943b175_6484c196dc.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "b29cd816-e423-4144-af49-336b8f231c0e",
+          "File_Modified": "2023-04-28T16:49:29.487",
+          "File_Name": "FinancialStatement-2022-Tahunan-CMNP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CMNP/FinancialStatement-2022-Tahunan-CMNP.pdf",
+          "File_Size": 139580,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "30810de0-c343-4811-adac-76c1ab76c5de",
+          "File_Modified": "2023-04-28T16:49:29.487",
+          "File_Name": "Pengantar LKK 31 Des 2022 PT CMNP Tbk (BEI).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CMNP/Pengantar LKK 31 Des 2022 PT CMNP Tbk (BEI).pdf",
+          "File_Size": 537570,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "56e30fdd-20d1-4a30-9d87-34df337dbb56",
+          "File_Modified": "2023-04-28T16:49:29.487",
+          "File_Name": "SPD 31 Des 2022.PDF",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CMNP/SPD 31 Des 2022.PDF",
+          "File_Size": 745053,
+          "File_Type": ".PDF",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "cd809b17-e01b-4c93-b9e8-3d0520038b0e",
+          "File_Modified": "2023-04-28T16:49:29.487",
+          "File_Name": "PT Citra Marga Nusaphala Persada 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CMNP/PT Citra Marga Nusaphala Persada 31 Des 2022.pdf",
+          "File_Size": 6296397,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "4d673118-7f4d-4801-8cd6-43b67dc8008c",
+          "File_Modified": "2023-04-28T16:49:29.487",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CMNP/inlineXBRL.zip",
+          "File_Size": 163338,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "fa23481c-2d79-47bd-8221-7941dfbbd2a5",
+          "File_Modified": "2023-04-28T16:49:29.487",
+          "File_Name": "surat penjelasan liabilitas.PDF",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CMNP/surat penjelasan liabilitas.PDF",
+          "File_Size": 592995,
+          "File_Type": ".PDF",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "c00beb5f-feed-4ef0-8839-79df6bb4962e",
+          "File_Modified": "2023-04-28T16:49:29.487",
+          "File_Name": "FinancialStatement-2022-Tahunan-CMNP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CMNP/FinancialStatement-2022-Tahunan-CMNP.xlsx",
+          "File_Size": 1177515,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        }
+      ]
+    }
+  ]
+}

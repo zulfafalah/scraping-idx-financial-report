@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PEGE",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PEGE",
+      "File_Modified": "2024-03-27T16:20:09.853",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Panca Global Kapital Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "b4b26d79-1977-4f74-9dfc-499d5d45b762",
+          "File_Modified": "2024-03-27T16:20:09.853",
+          "File_Name": "FinancialStatement-2023-Tahunan-PEGE.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PEGE/FinancialStatement-2023-Tahunan-PEGE.xlsx",
+          "File_Size": 302292,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "5753216e-3d17-45a6-beb1-3df1a1d4e424",
+          "File_Modified": "2024-03-27T16:20:09.853",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PEGE/inlineXBRL.zip",
+          "File_Size": 212879,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "730ea0da-4574-4843-b0a4-3ea0b1ab0097",
+          "File_Modified": "2024-03-27T16:20:09.853",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PEGE/instance.zip",
+          "File_Size": 110171,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "d50e7110-0868-41d8-979b-6e67ebf6166d",
+          "File_Modified": "2024-03-27T16:20:09.853",
+          "File_Name": "AnnualReport2023-PEGE.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/a25160d039_16bd0bf527.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "8544befb-f929-491c-8ac5-34ecc823241a",
+          "File_Modified": "2024-03-27T16:20:09.853",
+          "File_Name": "CHECKLIST PENGUNGKAPAN LK PGK 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PEGE/CHECKLIST PENGUNGKAPAN LK PGK 2023.pdf",
+          "File_Size": 1128413,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "d3df3a56-433d-420f-a94f-4f972a33df6f",
+          "File_Modified": "2024-03-27T16:20:09.853",
+          "File_Name": "AnnualReport2023-PEGE-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/1c7f95d132_7df854a622.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "12638da6-454b-41c8-a000-5a639508d4e0",
+          "File_Modified": "2024-03-27T16:20:09.853",
+          "File_Name": "Perubahan Total Aset 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PEGE/Perubahan Total Aset 2023.pdf",
+          "File_Size": 1030862,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "5d391852-6e1b-4d5b-ba46-657d7dfe8c5d",
+          "File_Modified": "2024-03-27T16:20:09.853",
+          "File_Name": "PT Panca Global Kapital Tbk 2023 KONSOL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PEGE/PT Panca Global Kapital Tbk 2023 KONSOL.pdf",
+          "File_Size": 2584209,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "8d77ad84-740a-4f7e-9214-1da3d8cb8417",
+          "File_Modified": "2024-03-27T16:20:09.853",
+          "File_Name": "FinancialStatement-2023-Tahunan-PEGE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PEGE/FinancialStatement-2023-Tahunan-PEGE.pdf",
+          "File_Size": 640497,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "1a7dde58-4d97-4202-8fa0-cf92a5d56684",
+          "File_Modified": "2024-03-27T16:20:09.853",
+          "File_Name": "AnnualReport2023-PEGE-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/2233286493_3b5316b1cb.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "41461581-12e4-48be-9fef-f17adb870002",
+          "File_Modified": "2024-03-27T16:20:09.853",
+          "File_Name": "Surat Pernyataan Dirkom LKT 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PEGE/Surat Pernyataan Dirkom LKT 2023.pdf",
+          "File_Size": 546227,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DSNG",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DSNG",
+      "File_Modified": "2024-03-04T19:56:38.917",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Dharma Satya Nusantara Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "81b804cb-f1e1-4f0e-8cfd-d5baa2b50dda",
+          "File_Modified": "2024-03-04T19:56:38.917",
+          "File_Name": "FinancialStatement-2023-Tahunan-DSNG.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSNG/FinancialStatement-2023-Tahunan-DSNG.xlsx",
+          "File_Size": 304117,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "3f789c0d-7bf5-41ac-bf80-90df3acda667",
+          "File_Modified": "2024-03-04T19:56:38.917",
+          "File_Name": "Director statement 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSNG/Director statement 2023.pdf",
+          "File_Size": 373426,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "e42a4e1e-9fa3-4da8-85a2-9cd44a490dc2",
+          "File_Modified": "2024-03-04T19:56:38.917",
+          "File_Name": "DSN-OJK Checklist - Dec 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSNG/DSN-OJK Checklist - Dec 2023.pdf",
+          "File_Size": 984946,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "b5efcb6d-9c78-4746-81da-2c3d8eab48ac",
+          "File_Modified": "2024-03-04T19:56:38.917",
+          "File_Name": "AnnualReport2023-DSNG-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/d3c5dfee2a_c71c8e2e8e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "f89f70db-0710-40dd-bf29-7b16e8fe442c",
+          "File_Modified": "2024-03-04T19:56:38.917",
+          "File_Name": "AnnualReport2023-DSNG.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/531a12aa01_f11d6d2c8a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "4fe6560b-c367-4f07-9830-a5a2e3728253",
+          "File_Modified": "2024-03-04T19:56:38.917",
+          "File_Name": "Surat Pengantar LK FY23.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSNG/Surat Pengantar LK FY23.pdf",
+          "File_Size": 254138,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "640f1928-da62-4cb4-9554-e9658450dac3",
+          "File_Modified": "2024-03-04T19:56:38.917",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSNG/inlineXBRL.zip",
+          "File_Size": 216559,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "7c2982fb-da10-4d4a-be2e-b88d31847292",
+          "File_Modified": "2024-03-04T19:56:38.917",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSNG/instance.zip",
+          "File_Size": 112804,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "34c79b6e-aee9-4b30-822f-e16db7db6589",
+          "File_Modified": "2024-03-04T19:56:38.917",
+          "File_Name": "FS DSN Tbk and Subs 31 Dec 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSNG/FS DSN Tbk and Subs 31 Dec 2023.pdf",
+          "File_Size": 4972139,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "895bfc80-3645-4c04-ad66-facd4267c03e",
+          "File_Modified": "2024-03-04T19:56:38.917",
+          "File_Name": "FinancialStatement-2023-Tahunan-DSNG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSNG/FinancialStatement-2023-Tahunan-DSNG.pdf",
+          "File_Size": 654276,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        }
+      ]
+    }
+  ]
+}

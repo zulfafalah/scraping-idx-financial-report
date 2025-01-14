@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BKDP",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BKDP",
+      "File_Modified": "2023-04-12T23:18:47.6",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Bukit Darmo Property Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "ab9794bc-0bf7-43bf-bb95-1d836a7d0ffc",
+          "File_Modified": "2023-04-12T23:18:47.6",
+          "File_Name": "FINAL LKT PT BKDP2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKDP/FINAL LKT PT BKDP2022.pdf",
+          "File_Size": 5331814,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "f56b14b7-6ba6-45a2-becd-332693fb798a",
+          "File_Modified": "2023-04-12T23:18:47.6",
+          "File_Name": "Pernyataan Direksi ttg LKT 2022 - PT.BKDP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKDP/Pernyataan Direksi ttg LKT 2022 - PT.BKDP.pdf",
+          "File_Size": 696719,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "f5c3d739-9f44-4569-bd8d-4e2784d9906f",
+          "File_Modified": "2023-04-12T23:18:47.6",
+          "File_Name": "AnnualReport2022-BKDP-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/d5f498877a_53c3cce620.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "02d91652-4597-425e-b3f4-97b573ddb098",
+          "File_Modified": "2023-04-12T23:18:47.6",
+          "File_Name": "FinancialStatement-2022-Tahunan-BKDP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKDP/FinancialStatement-2022-Tahunan-BKDP.pdf",
+          "File_Size": 62820,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "a8df398e-e83c-49fa-abd9-4805f24d130e",
+          "File_Modified": "2023-04-12T23:18:47.6",
+          "File_Name": "FinancialStatement-2022-Tahunan-BKDP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKDP/FinancialStatement-2022-Tahunan-BKDP.xlsx",
+          "File_Size": 1129267,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "cef9f6fe-cb0e-4389-a822-50e94f90a830",
+          "File_Modified": "2023-04-12T23:18:47.6",
+          "File_Name": "AnnualReport2022-BKDP.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/8488aab231_8c0f42a23d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "c50b970e-795a-4dcb-98dd-b02638ebe11b",
+          "File_Modified": "2023-04-12T23:18:47.6",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKDP/instance.zip",
+          "File_Size": 150683,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "e47777bd-6499-4cd9-bd3c-c3721b1944d6",
+          "File_Modified": "2023-04-12T23:18:47.6",
+          "File_Name": "Iklan Media Indonesia LKT 2022 - PT.BKDP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKDP/Iklan Media Indonesia LKT 2022 - PT.BKDP.pdf",
+          "File_Size": 893080,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "ed0a6ed2-0c8b-4387-8f0e-f8a9e17041ad",
+          "File_Modified": "2023-04-12T23:18:47.6",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKDP/inlineXBRL.zip",
+          "File_Size": 98934,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "5d64143a-d2c3-404a-a722-3e6ff9863495",
+          "File_Modified": "2023-04-12T23:18:47.6",
+          "File_Name": "Pengantar LKT 2022 - PT. BKDP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKDP/Pengantar LKT 2022 - PT. BKDP.pdf",
+          "File_Size": 493185,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "02072067-8fee-417a-b227-ca8d157bf97b",
+          "File_Modified": "2023-04-12T23:18:47.6",
+          "File_Name": "AnnualReport2022-BKDP-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/77220e05c5_a0cfe1c95d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "2e922d8b-9fe4-4c79-b4da-e58e908c50a2",
+          "File_Modified": "2023-04-12T23:18:47.6",
+          "File_Name": "AnnualReport2022-BKDP-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/d5f498877a_53c3cce620.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MGRO",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MGRO",
+      "File_Modified": "2024-03-29T06:30:34.077",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Mahkota Group Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "c3d1d1ad-2a45-4245-93bb-8f8378c886a4",
+          "File_Modified": "2024-03-29T06:30:34.077",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MGRO/inlineXBRL.zip",
+          "File_Size": 264666,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "d731d8cd-051b-4745-bd2f-b06b3e3603ea",
+          "File_Modified": "2024-03-29T06:30:34.077",
+          "File_Name": "Surat Pengantar LK Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MGRO/Surat Pengantar LK Des 2023.pdf",
+          "File_Size": 636346,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "93893f5b-89bf-4ca5-b0f7-06cf343c04ca",
+          "File_Modified": "2024-03-29T06:30:34.077",
+          "File_Name": "FinancialStatement-2023-Tahunan-MGRO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MGRO/FinancialStatement-2023-Tahunan-MGRO.xlsx",
+          "File_Size": 365375,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "9951396d-f053-419f-88b2-4792d2738dfe",
+          "File_Modified": "2024-03-29T06:30:34.077",
+          "File_Name": "CHECKLIST MGRO DES 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MGRO/CHECKLIST MGRO DES 2023.pdf",
+          "File_Size": 1350966,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "f1e6107a-189d-4a5d-901b-97e2a53b568e",
+          "File_Modified": "2024-03-29T06:30:34.077",
+          "File_Name": "AnnualReport2023-MGRO-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/cb70a35c1b_997a3ac122.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "17ba9fcd-77ad-4657-98c2-fc44369f3ce1",
+          "File_Modified": "2024-03-29T06:30:34.077",
+          "File_Name": "AnnualReport2023-MGRO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/bfc73fcb55_5ba3f6a8f5.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "d721f4d5-83b7-4f4a-852d-7e6f20a5c61a",
+          "File_Modified": "2024-03-29T06:30:34.077",
+          "File_Name": "Mahkota Group dan Entitas Anak Dec 31 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MGRO/Mahkota Group dan Entitas Anak Dec 31 2023.pdf",
+          "File_Size": 6208893,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "bd742b4b-8fb8-4f43-a8ca-583fadb72b8f",
+          "File_Modified": "2024-03-29T06:30:34.077",
+          "File_Name": "FinancialStatement-2023-Tahunan-MGRO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MGRO/FinancialStatement-2023-Tahunan-MGRO.pdf",
+          "File_Size": 749916,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "37646896-2c4b-4177-bf66-7f14167e6970",
+          "File_Modified": "2024-03-29T06:30:34.077",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MGRO/instance.zip",
+          "File_Size": 143287,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "ec71ae79-9b25-45b7-af8c-d7a46522a988",
+          "File_Modified": "2024-03-29T06:30:34.077",
+          "File_Name": "AnnualReport2023-MGRO.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/eae9eb99f0_4a5d957e7c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        }
+      ]
+    }
+  ]
+}

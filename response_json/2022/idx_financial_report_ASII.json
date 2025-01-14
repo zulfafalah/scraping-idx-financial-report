@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ASII",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ASII",
+      "File_Modified": "2023-02-27T20:00:29.187",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Astra International Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "336dc690-8e12-4108-9c52-17ea592a9efc",
+          "File_Modified": "2023-02-27T20:00:29.187",
+          "File_Name": "LACC- 070 - Report to OJK 1222.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASII/LACC- 070 - Report to OJK 1222.pdf",
+          "File_Size": 243623,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "872e3046-faed-4278-a954-35dab0b02a05",
+          "File_Modified": "2023-02-27T20:00:29.187",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASII/instance.zip",
+          "File_Size": 187417,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "734c8125-c8c0-47b6-ac6e-799424dc1f86",
+          "File_Modified": "2023-02-27T20:00:29.187",
+          "File_Name": "Bahan Publikasi Astra Des 2022 - Bisnis Indonesia.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASII/Bahan Publikasi Astra Des 2022 - Bisnis Indonesia.pdf",
+          "File_Size": 459996,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "4a6c6951-6470-4698-86e4-ea56d521c115",
+          "File_Modified": "2023-02-27T20:00:29.187",
+          "File_Name": "LACC- 072 - Report to BEI 1222.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASII/LACC- 072 - Report to BEI 1222.pdf",
+          "File_Size": 238391,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "2a5b1ea8-e71f-444d-ab78-829526acf3d7",
+          "File_Modified": "2023-02-27T20:00:29.187",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASII/inlineXBRL.zip",
+          "File_Size": 239963,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "9a2e1940-963b-4895-99ca-d0c8ba47ec19",
+          "File_Modified": "2023-02-27T20:00:29.187",
+          "File_Name": "Bahan Publikasi Astra Des 2022 - The Jakarta Post.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASII/Bahan Publikasi Astra Des 2022 - The Jakarta Post.pdf",
+          "File_Size": 462444,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "84d10363-b326-4202-be6c-50763d5edba1",
+          "File_Modified": "2023-02-27T20:00:29.187",
+          "File_Name": "Astra Account December 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASII/Astra Account December 2022.pdf",
+          "File_Size": 6917865,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "3e6635c1-4ab5-490c-aa71-672a12246500",
+          "File_Modified": "2023-02-27T20:00:29.187",
+          "File_Name": "AnnualReport2022-ASII-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202303/4022b7bb2b_2f3a337a2a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "9f16828a-092e-4b37-9a13-aec632e6554f",
+          "File_Modified": "2023-02-27T20:00:29.187",
+          "File_Name": "FinancialStatement-2022-Tahunan-ASII.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASII/FinancialStatement-2022-Tahunan-ASII.pdf",
+          "File_Size": 241923,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "731e0d7a-7409-4a92-81ce-e50e8457e776",
+          "File_Modified": "2023-02-27T20:00:29.187",
+          "File_Name": "FinancialStatement-2022-Tahunan-ASII.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ASII/FinancialStatement-2022-Tahunan-ASII.xlsx",
+          "File_Size": 1196034,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Astra International Tbk"
+        }
+      ]
+    }
+  ]
+}

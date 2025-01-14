@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "RUNS",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "RUNS",
+      "File_Modified": "2024-05-21T23:48:27.557",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Global Sukses Solusi Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "d559c8eb-d97b-4a27-8032-08cea5d5ecbf",
+          "File_Modified": "2024-05-21T23:48:27.557",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RUNS/instance.zip",
+          "File_Size": 114514,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "9a31d5c9-f4d9-4eb0-b55f-2790e25c326f",
+          "File_Modified": "2024-05-21T23:48:27.557",
+          "File_Name": "Penjelasan Aset Liabilitas_LKT_2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RUNS/Penjelasan Aset Liabilitas_LKT_2023.pdf",
+          "File_Size": 423347,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "f4323464-daea-490e-ae70-3d45921b8d67",
+          "File_Modified": "2024-05-21T23:48:27.557",
+          "File_Name": "FinancialStatement-2023-Tahunan-RUNS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RUNS/FinancialStatement-2023-Tahunan-RUNS.pdf",
+          "File_Size": 660687,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "26fb97e9-5e1e-46c7-8f89-aa47976fbf5b",
+          "File_Modified": "2024-05-21T23:48:27.557",
+          "File_Name": "LKT_Audited_RUNS 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RUNS/LKT_Audited_RUNS 31 Des 2023.pdf",
+          "File_Size": 3670694,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "d97d8308-0aa9-4f73-80dd-cad734ed1f18",
+          "File_Modified": "2024-05-21T23:48:27.557",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RUNS/inlineXBRL.zip",
+          "File_Size": 224391,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "1e86b727-7713-40d5-8a5d-6dc719e6a30e",
+          "File_Modified": "2024-05-21T23:48:27.557",
+          "File_Name": "FinancialStatement-2023-Tahunan-RUNS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RUNS/FinancialStatement-2023-Tahunan-RUNS.xlsx",
+          "File_Size": 315165,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "21ad0a9e-a042-47ea-b83d-e3122171f56b",
+          "File_Modified": "2024-05-21T23:48:27.557",
+          "File_Name": "AnnualReport2023-RUNS.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/8b733e278a_d207fe8664.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "6572e2d2-bfff-4b64-bc9c-470f92ae2581",
+          "File_Modified": "2024-05-21T23:48:27.557",
+          "File_Name": "AnnualReport2023-RUNS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f9edf879dd_2b6f29ce42.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "9ff13528-46f6-4bfb-9be5-d41ad36c5ce4",
+          "File_Modified": "2024-05-21T23:48:27.557",
+          "File_Name": "Checklist PT GSS Tbk 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RUNS/Checklist PT GSS Tbk 2023.pdf",
+          "File_Size": 1328457,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        }
+      ]
+    }
+  ]
+}

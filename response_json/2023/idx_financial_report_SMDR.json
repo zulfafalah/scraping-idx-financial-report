@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SMDR",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SMDR",
+      "File_Modified": "2024-03-28T08:42:28.137",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Samudera Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "bfc22b7e-9c46-4349-8c77-f61d325a4edf",
+          "File_Modified": "2024-03-28T08:42:28.137",
+          "File_Name": "FinancialStatement-2023-Tahunan-SMDR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SMDR/FinancialStatement-2023-Tahunan-SMDR.pdf",
+          "File_Size": 627153,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "8be02137-7696-4bb1-b446-4d57c9c300d6",
+          "File_Modified": "2024-03-28T08:42:28.137",
+          "File_Name": "AnnualReport2023-SMDR.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7d1257f79a_40ac9d4918.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "0a34f30a-215c-4fe7-8805-668e762380a5",
+          "File_Modified": "2024-03-28T08:42:28.137",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SMDR/instance.zip",
+          "File_Size": 113088,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "7e8a6cef-a7c5-4838-b1c9-86ae8536b60b",
+          "File_Modified": "2024-03-28T08:42:28.137",
+          "File_Name": "FinancialStatement-2023-Tahunan-SMDR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SMDR/FinancialStatement-2023-Tahunan-SMDR.xlsx",
+          "File_Size": 297850,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "aedb4725-e643-47eb-8596-e162974d272a",
+          "File_Modified": "2024-03-28T08:42:28.137",
+          "File_Name": "PT Samudera indonesia tbk _31 Des 2023_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SMDR/PT Samudera indonesia tbk _31 Des 2023_released.pdf",
+          "File_Size": 3242508,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "3421a871-67e8-4ec0-bdae-0bbe9accc567",
+          "File_Modified": "2024-03-28T08:42:28.137",
+          "File_Name": "VIII.G.7 Checklist OJK Samudera Indonesia_2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SMDR/VIII.G.7 Checklist OJK Samudera Indonesia_2023.pdf",
+          "File_Size": 1495888,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "1511abfa-717c-423a-b9db-70736777ea2e",
+          "File_Modified": "2024-03-28T08:42:28.137",
+          "File_Name": "AnnualReport2023-SMDR-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/880afb2520_8be0353cac.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "15ac2247-7c53-4a68-be1f-9b3ea417c163",
+          "File_Modified": "2024-03-28T08:42:28.137",
+          "File_Name": "AnnualReport2023-SMDR-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/bd97109e27_07a65d19e9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "fd9565d3-491d-474f-8ad7-0fa0a1dad928",
+          "File_Modified": "2024-03-28T08:42:28.137",
+          "File_Name": "AnnualReport2023-SMDR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/bcfd05e3e8_ddd8d46f50.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "a47b23ca-394d-4456-84b3-810b86a3a47e",
+          "File_Modified": "2024-03-28T08:42:28.137",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SMDR/inlineXBRL.zip",
+          "File_Size": 210788,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

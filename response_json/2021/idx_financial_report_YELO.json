@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "YELO",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "YELO",
+      "File_Modified": "2022-04-11T17:58:39.413",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Yelooo Integra Datanet Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "53c551dd-7c1f-4470-987c-aac941a123a9",
+          "File_Modified": "2022-04-11T17:58:39.413",
+          "File_Name": "AnnualReport2021-YELO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/6cef2957b4_eed0154b3b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "7816a970-654f-475f-97ef-feccc300cbf0",
+          "File_Modified": "2022-04-11T17:58:39.413",
+          "File_Name": "FinancialStatement-2021-Tahunan-YELO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YELO/FinancialStatement-2021-Tahunan-YELO.pdf",
+          "File_Size": 43504,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "3c50ddf9-e342-47b6-b6e5-35c2704b3851",
+          "File_Modified": "2022-04-11T17:58:39.413",
+          "File_Name": "Surat Pernyataan Direksi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YELO/Surat Pernyataan Direksi.pdf",
+          "File_Size": 197548,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "f0cc8b83-6fa0-41b4-beff-655625937d3e",
+          "File_Modified": "2022-04-11T17:58:39.413",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YELO/inlineXBRL.zip",
+          "File_Size": 59177,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "f6b9aa3e-7057-42e6-945c-7d747e417210",
+          "File_Modified": "2022-04-11T17:58:39.413",
+          "File_Name": "FinancialStatement-2021-Tahunan-YELO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YELO/FinancialStatement-2021-Tahunan-YELO.xlsx",
+          "File_Size": 159724,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "6064d229-847b-47c5-a875-aec43371ec4a",
+          "File_Modified": "2022-04-11T17:58:39.413",
+          "File_Name": "Financial Statement Annual 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YELO/Financial Statement Annual 2021.pdf",
+          "File_Size": 4241336,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "4502c02d-6396-446d-9458-da53c0cf9bf2",
+          "File_Modified": "2022-04-11T17:58:39.413",
+          "File_Name": "Checklist Annual 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YELO/Checklist Annual 2021.pdf",
+          "File_Size": 503090,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "eb4476dd-33ee-4fef-9776-e957ac5f0a48",
+          "File_Modified": "2022-04-11T17:58:39.413",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YELO/instance.zip",
+          "File_Size": 28707,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        },
+        {
+          "Emiten_Code": "YELO",
+          "File_ID": "d3d9d5e2-c848-4da9-97b3-e576552e4842",
+          "File_Modified": "2022-04-11T17:58:39.413",
+          "File_Name": "Perubahan Atas Liabilitas dan Aset Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/YELO/Perubahan Atas Liabilitas dan Aset Desember 2021.pdf",
+          "File_Size": 190142,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Yelooo Integra Datanet Tbk."
+        }
+      ]
+    }
+  ]
+}

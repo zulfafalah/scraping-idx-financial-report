@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AMMS",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AMMS",
+      "File_Modified": "2024-05-14T16:52:10.943",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Agung Menjangan Mas Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "300fa2ed-5b15-47ac-b2aa-11e4ed457219",
+          "File_Modified": "2024-05-14T16:52:10.943",
+          "File_Name": "AnnualReport2023-AMMS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/3824b1469f_8a8eb86afe.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "4df51ea9-681d-4568-be2f-4a86432d6c0e",
+          "File_Modified": "2024-05-14T16:52:10.943",
+          "File_Name": "FinancialStatement-2023-Tahunan-AMMS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMMS/FinancialStatement-2023-Tahunan-AMMS.pdf",
+          "File_Size": 891397,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "6adcb61f-7569-4106-8c24-80c56a4be2b1",
+          "File_Modified": "2024-05-14T16:52:10.943",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMMS/instance.zip",
+          "File_Size": 161109,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "2e64a01f-6f7b-464e-866d-93c1cf88de31",
+          "File_Modified": "2024-05-14T16:52:10.943",
+          "File_Name": "Kenaikan Aset  Liabilitas AMMIDX Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMMS/Kenaikan Aset  Liabilitas AMMIDX Des 2023.pdf",
+          "File_Size": 206662,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "149188a0-5875-4c2b-95d8-cfb9af743ede",
+          "File_Modified": "2024-05-14T16:52:10.943",
+          "File_Name": "AnnualReport2023-AMMS.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/e53fc423b5_cd425df781.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "95236793-be4d-4827-888d-f0d71e1693c6",
+          "File_Modified": "2024-05-14T16:52:10.943",
+          "File_Name": "PT Agung Menjangan Mas Tbk 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMMS/PT Agung Menjangan Mas Tbk 31 Des 2023.pdf",
+          "File_Size": 2255558,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "5e37d978-bf6c-4b48-bbd0-58bfb76b9b25",
+          "File_Modified": "2024-05-14T16:52:10.943",
+          "File_Name": "FinancialStatement-2023-Tahunan-AMMS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMMS/FinancialStatement-2023-Tahunan-AMMS.xlsx",
+          "File_Size": 443458,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "037f4567-45d4-4d9a-8871-72e9ddccb5db",
+          "File_Modified": "2024-05-14T16:52:10.943",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMMS/inlineXBRL.zip",
+          "File_Size": 320906,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "6e65dc48-e7da-4a03-9390-1df1f0f8a567",
+          "File_Modified": "2024-05-14T16:52:10.943",
+          "File_Name": "Surat Pernyataan Direksi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMMS/Surat Pernyataan Direksi.pdf",
+          "File_Size": 293707,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        }
+      ]
+    }
+  ]
+}

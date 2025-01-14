@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "INCI",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "INCI",
+      "File_Modified": "2023-03-31T19:54:25.793",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Intanwijaya Internasional Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "ef3492d2-c853-4961-8508-68593f834e80",
+          "File_Modified": "2023-03-31T19:54:25.793",
+          "File_Name": "Lap 20 bei des 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/INCI/Lap 20 bei des 22.pdf",
+          "File_Size": 371097,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "ba3ead3b-466c-45f1-9884-ac0f41de2c5a",
+          "File_Modified": "2023-03-31T19:54:25.793",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/INCI/inlineXBRL.zip",
+          "File_Size": 164852,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "9f7e9360-51da-4d82-85f9-d331730553d5",
+          "File_Modified": "2023-03-31T19:54:25.793",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/INCI/instance.zip",
+          "File_Size": 179609,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "57725d72-6efe-47e6-9fe4-3e14f12eca8d",
+          "File_Modified": "2023-03-31T19:54:25.793",
+          "File_Name": "FinancialStatement-2022-Tahunan-INCI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/INCI/FinancialStatement-2022-Tahunan-INCI.xlsx",
+          "File_Size": 1180985,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "56f834fd-1a4a-41c3-8270-5bba6edc638d",
+          "File_Modified": "2023-03-31T19:54:25.793",
+          "File_Name": "Surat pengantar bei des 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/INCI/Surat pengantar bei des 22.pdf",
+          "File_Size": 177985,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "c5af4fa9-42e8-4f0d-9993-96656d597430",
+          "File_Modified": "2023-03-31T19:54:25.793",
+          "File_Name": "AnnualReport2022-INCI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/ee6c16a1ff_c372d6a2e9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "2ded9045-72d4-477e-bee2-c1210ac1902f",
+          "File_Modified": "2023-03-31T19:54:25.793",
+          "File_Name": "FinancialStatement-2022-Tahunan-INCI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/INCI/FinancialStatement-2022-Tahunan-INCI.pdf",
+          "File_Size": 122078,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "42c94b15-07d2-4770-b834-518b2443baf0",
+          "File_Modified": "2023-03-31T19:54:25.793",
+          "File_Name": "PT Intanwijaya Internasional Tbk Des22 Rev1.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/INCI/PT Intanwijaya Internasional Tbk Des22 Rev1.pdf",
+          "File_Size": 8308483,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        }
+      ]
+    }
+  ]
+}

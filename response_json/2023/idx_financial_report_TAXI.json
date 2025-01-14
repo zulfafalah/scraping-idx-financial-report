@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TAXI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TAXI",
+      "File_Modified": "2024-05-09T19:31:12.853",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Express Transindo Utama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "bf7aa7a5-f1e8-4d7f-ab78-e5ada5a5c014",
+          "File_Modified": "2024-05-09T19:31:12.853",
+          "File_Name": "FinancialStatement-2023-Tahunan-TAXI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAXI/FinancialStatement-2023-Tahunan-TAXI.pdf",
+          "File_Size": 529997,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "ef2124c7-d9a9-4dce-96a2-8e44d7b89666",
+          "File_Modified": "2024-05-09T19:31:12.853",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAXI/inlineXBRL.zip",
+          "File_Size": 183134,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "715b3c88-7485-4331-af1e-f682b75ce833",
+          "File_Modified": "2024-05-09T19:31:12.853",
+          "File_Name": "Checklist LK 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAXI/Checklist LK 31 Desember 2023.pdf",
+          "File_Size": 2128230,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "76258894-e6d5-45e1-8f03-793f02b1465b",
+          "File_Modified": "2024-05-09T19:31:12.853",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAXI/instance.zip",
+          "File_Size": 94860,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "35122228-9230-42a0-90ca-ddf5eae85e93",
+          "File_Modified": "2024-05-09T19:31:12.853",
+          "File_Name": "AnnualReport2023-TAXI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/217e203207_f31426a00b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "945e8fab-699c-429e-860d-fe0b5f082f3f",
+          "File_Modified": "2024-05-09T19:31:12.853",
+          "File_Name": "Audit Report PT ETU Tbk 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAXI/Audit Report PT ETU Tbk 2023.pdf",
+          "File_Size": 4386684,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "32f58fc8-e376-410d-8519-37c92eac7eed",
+          "File_Modified": "2024-05-09T19:31:12.853",
+          "File_Name": "FinancialStatement-2023-Tahunan-TAXI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAXI/FinancialStatement-2023-Tahunan-TAXI.xlsx",
+          "File_Size": 259537,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "33e4ca2b-f885-4380-910e-3dff465c4c09",
+          "File_Modified": "2024-05-09T19:31:12.853",
+          "File_Name": "AnnualReport2023-TAXI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/ed4b3dc752_4c7fd71b4f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        }
+      ]
+    }
+  ]
+}

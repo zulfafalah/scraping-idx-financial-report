@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MKPI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MKPI",
+      "File_Modified": "2022-04-27T11:17:24.683",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Metropolitan Kentjana Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "3520f934-b1e2-4e0c-81de-ba08bb9b3e20",
+          "File_Modified": "2022-04-27T11:17:24.683",
+          "File_Name": "Checklist OJK PT MKPI Des 2021 Audited.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MKPI/Checklist OJK PT MKPI Des 2021 Audited.pdf",
+          "File_Size": 1946743,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "5e9f59d7-4f88-4fe5-aba2-7ea6a639b0c7",
+          "File_Modified": "2022-04-27T11:17:24.683",
+          "File_Name": "FS MKPI - 2021 (Penjelasan Posisi keuangan).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MKPI/FS MKPI - 2021 (Penjelasan Posisi keuangan).pdf",
+          "File_Size": 276402,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "d6821f7d-3070-4504-853b-afbcc64875ad",
+          "File_Modified": "2022-04-27T11:17:24.683",
+          "File_Name": "FS MKPI - 2021 (Audited).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MKPI/FS MKPI - 2021 (Audited).pdf",
+          "File_Size": 4916951,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "16cab001-8b5a-4484-8313-c9a2fecb99b0",
+          "File_Modified": "2022-04-27T11:17:24.683",
+          "File_Name": "AnnualReport2021-MKPI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202206/f971e272b8_16b8110a42.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "84601fa0-86be-47a5-b8ad-08c786c49e5b",
+          "File_Modified": "2022-04-27T11:17:24.683",
+          "File_Name": "FinancialStatement-2021-Tahunan-MKPI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MKPI/FinancialStatement-2021-Tahunan-MKPI.xlsx",
+          "File_Size": 155772,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "39548091-eb99-4e19-b956-0a88bbb4e6ae",
+          "File_Modified": "2022-04-27T11:17:24.683",
+          "File_Name": "FinancialStatement-2021-Tahunan-MKPI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MKPI/FinancialStatement-2021-Tahunan-MKPI.pdf",
+          "File_Size": 74409,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "7f313eaf-8b30-419f-919c-c5b7f7224d7c",
+          "File_Modified": "2022-04-27T11:17:24.683",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MKPI/inlineXBRL.zip",
+          "File_Size": 54554,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        }
+      ]
+    }
+  ]
+}

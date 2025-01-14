@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AMRT",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AMRT",
+      "File_Modified": "2022-04-01T11:13:12.873",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "94b874c2-6380-4905-a9bb-1201df32ca6c",
+          "File_Modified": "2022-04-01T11:13:12.873",
+          "File_Name": "Surat Pernyataan Direksi Tahunan 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMRT/Surat Pernyataan Direksi Tahunan 2021.pdf",
+          "File_Size": 487169,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "bf6d5d41-ce3f-4877-88ff-20644f1b0ecd",
+          "File_Modified": "2022-04-01T11:13:12.873",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMRT/instance.zip",
+          "File_Size": 29255,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "3d0661d5-9346-446a-83fd-7e69f154bac6",
+          "File_Modified": "2022-04-01T11:13:12.873",
+          "File_Name": "FinancialStatement-2021-Tahunan-AMRT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMRT/FinancialStatement-2021-Tahunan-AMRT.xlsx",
+          "File_Size": 159489,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "df7f85d6-998a-4223-aa98-1c0cc7ad49cd",
+          "File_Modified": "2022-04-01T11:13:12.873",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMRT/inlineXBRL.zip",
+          "File_Size": 59237,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "2d1abf1d-58b4-4252-9b93-2a1337c1244f",
+          "File_Modified": "2022-04-01T11:13:12.873",
+          "File_Name": "FinancialStatement-2021-Tahunan-AMRT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMRT/FinancialStatement-2021-Tahunan-AMRT.pdf",
+          "File_Size": 59403,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "cba71daf-7ed7-4683-bd08-34c54d5e15ab",
+          "File_Modified": "2022-04-01T11:13:12.873",
+          "File_Name": "AMRT_LKT_2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMRT/AMRT_LKT_2021.pdf",
+          "File_Size": 2796397,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "f1a94a3c-5eb4-42ed-b929-5299fae1d7fa",
+          "File_Modified": "2022-04-01T11:13:12.873",
+          "File_Name": "AMRT_LKT2021_revisi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMRT/AMRT_LKT2021_revisi.pdf",
+          "File_Size": 3085298,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "6220ade8-1125-48bf-94ed-604659e70ec6",
+          "File_Modified": "2022-04-01T11:13:12.873",
+          "File_Name": "Surat Pengantar Laporan 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMRT/Surat Pengantar Laporan 2021.pdf",
+          "File_Size": 139182,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "06fdc521-7852-422a-89ed-8f3a71dd5983",
+          "File_Modified": "2022-04-01T11:13:12.873",
+          "File_Name": "Lampiran Checklist_OJK Q4_2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AMRT/Lampiran Checklist_OJK Q4_2021.pdf",
+          "File_Size": 2083819,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        }
+      ]
+    }
+  ]
+}

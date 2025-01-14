@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GOOD",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GOOD",
+      "File_Modified": "2024-03-01T13:48:50.873",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "50c47513-37ed-4ff3-b3e4-1cb6b5c49a4d",
+          "File_Modified": "2024-03-01T13:48:50.873",
+          "File_Name": "Surat Pengantar BEI GOOD 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOOD/Surat Pengantar BEI GOOD 2023.pdf",
+          "File_Size": 191671,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "31600b11-289b-4957-ab2c-ccfb3841dbb5",
+          "File_Modified": "2024-03-01T13:48:50.873",
+          "File_Name": "Checklist Laporan Keuangan GOOD_31.12.2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOOD/Checklist Laporan Keuangan GOOD_31.12.2023.pdf",
+          "File_Size": 1559094,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "5114c1c0-21d5-4fdf-a064-84b8f968b1a5",
+          "File_Modified": "2024-03-01T13:48:50.873",
+          "File_Name": "FinancialStatement-2023-Tahunan-GOOD.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOOD/FinancialStatement-2023-Tahunan-GOOD.pdf",
+          "File_Size": 699041,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "16616415-32e5-4078-9f8e-9e69840782c8",
+          "File_Modified": "2024-03-01T13:48:50.873",
+          "File_Name": "Surat Pengantar OJK GOOD 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOOD/Surat Pengantar OJK GOOD 2023.pdf",
+          "File_Size": 221168,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "d453b253-19ff-4c6a-8992-04143efe4540",
+          "File_Modified": "2024-03-01T13:48:50.873",
+          "File_Name": "FinancialStatement-2023-Tahunan-GOOD.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOOD/FinancialStatement-2023-Tahunan-GOOD.xlsx",
+          "File_Size": 345213,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "12ff4fb7-b9cd-4ea5-8ea6-888ae2b88722",
+          "File_Modified": "2024-03-01T13:48:50.873",
+          "File_Name": "AnnualReport2023-GOOD.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f6e9ed3f4e_96f9af572a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "30a610f6-7d27-4e81-b86f-9f8609873732",
+          "File_Modified": "2024-03-01T13:48:50.873",
+          "File_Name": "PT Garudafood Putra Putri Jaya Tbk_31.12.2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOOD/PT Garudafood Putra Putri Jaya Tbk_31.12.2023.pdf",
+          "File_Size": 4546894,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "872d4e5a-e7c2-465a-8fd1-14e22ca2dfcf",
+          "File_Modified": "2024-03-01T13:48:50.873",
+          "File_Name": "Surat Pernyataan Direksi GOOD 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOOD/Surat Pernyataan Direksi GOOD 2023.pdf",
+          "File_Size": 935897,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "4c1a1128-201d-48a8-b2a3-5cfaf6f949db",
+          "File_Modified": "2024-03-01T13:48:50.873",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOOD/instance.zip",
+          "File_Size": 125040,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "526f17d0-a420-4c88-a2e3-73b84718ac3d",
+          "File_Modified": "2024-03-01T13:48:50.873",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GOOD/inlineXBRL.zip",
+          "File_Size": 250312,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "3dc23ca9-816c-47c7-9efe-aef0987fd690",
+          "File_Modified": "2024-03-01T13:48:50.873",
+          "File_Name": "AnnualReport2023-GOOD-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/40866dab6e_41883aa0ed.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        }
+      ]
+    }
+  ]
+}

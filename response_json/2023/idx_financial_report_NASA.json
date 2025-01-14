@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "NASA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "NASA",
+      "File_Modified": "2024-03-28T21:50:14.013",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Andalan Perkasa Abadi Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "154051a0-0f32-4a92-89a1-197e649ff972",
+          "File_Modified": "2024-03-28T21:50:14.013",
+          "File_Name": "AnnualReport2023-NASA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/c5986fc490_ba06d09fd0.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "57c0daaf-4a6a-4a6c-a885-3ce399a01155",
+          "File_Modified": "2024-03-28T21:50:14.013",
+          "File_Name": "FinancialStatement-2023-Tahunan-NASA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NASA/FinancialStatement-2023-Tahunan-NASA.pdf",
+          "File_Size": 649932,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "b8c53f01-2020-470f-8170-7e8952f4f8b8",
+          "File_Modified": "2024-03-28T21:50:14.013",
+          "File_Name": "FinancialStatement-2023-Tahunan-NASA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NASA/FinancialStatement-2023-Tahunan-NASA.xlsx",
+          "File_Size": 309812,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "176e5bed-2f49-4d47-af40-b4af2be3abf4",
+          "File_Modified": "2024-03-28T21:50:14.013",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NASA/inlineXBRL.zip",
+          "File_Size": 220542,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "fe4e7aef-db2e-4ec3-941a-cc37e812284d",
+          "File_Modified": "2024-03-28T21:50:14.013",
+          "File_Name": "REPORT NASA 31 des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NASA/REPORT NASA 31 des 2023.pdf",
+          "File_Size": 2611835,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "f2343039-06e9-495e-ba77-f719388f9ffb",
+          "File_Modified": "2024-03-28T21:50:14.013",
+          "File_Name": "Cheklist PT APA Tbk 31 des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NASA/Cheklist PT APA Tbk 31 des 2023.pdf",
+          "File_Size": 602964,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "bccf3472-e8e4-4a3c-8b02-a6e470bd1912",
+          "File_Modified": "2024-03-28T21:50:14.013",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NASA/instance.zip",
+          "File_Size": 118184,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "29feeb11-ddab-47d4-8776-c2beb379031f",
+          "File_Modified": "2024-03-28T21:50:14.013",
+          "File_Name": "Penjelasan penurunan liabilitas Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NASA/Penjelasan penurunan liabilitas Desember 2023.pdf",
+          "File_Size": 156659,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "1c6b7f69-9878-4d64-a467-34554701161b",
+          "File_Modified": "2024-03-28T21:50:14.013",
+          "File_Name": "AnnualReport2023-NASA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/64b9337e32_b42ccb555e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        }
+      ]
+    }
+  ]
+}

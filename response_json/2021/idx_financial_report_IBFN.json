@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IBFN",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IBFN",
+      "File_Modified": "2022-05-25T16:38:39.243",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Intan Baru Prana Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "32e03ae7-7e3e-4601-a968-e2dfd5d4237a",
+          "File_Modified": "2022-05-25T16:38:39.243",
+          "File_Name": "Audit Report IBFN 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IBFN/Audit Report IBFN 31 Desember 2021.pdf",
+          "File_Size": 6678608,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "8e319147-98fa-4d75-a55c-b031379b91ff",
+          "File_Modified": "2022-05-25T16:38:39.243",
+          "File_Name": "027. Penjelasan Penurunan Aset.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IBFN/027. Penjelasan Penurunan Aset.pdf",
+          "File_Size": 315136,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "39f4f862-4f43-4a9d-9ed0-f508ae0059ed",
+          "File_Modified": "2022-05-25T16:38:39.243",
+          "File_Name": "026. Surat Lapkeu IBF 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IBFN/026. Surat Lapkeu IBF 31 Desember 2021.pdf",
+          "File_Size": 233310,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "34af7013-3c2a-482d-b2ac-f5373f523b33",
+          "File_Modified": "2022-05-25T16:38:39.243",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IBFN/instance.zip",
+          "File_Size": 27542,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "3a66c42c-594a-47dc-8b35-0c490e13df57",
+          "File_Modified": "2022-05-25T16:38:39.243",
+          "File_Name": "FinancialStatement-2021-Tahunan-IBFN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IBFN/FinancialStatement-2021-Tahunan-IBFN.pdf",
+          "File_Size": 42892,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "89372be8-8dcc-4332-b316-9d6c4a9fe5de",
+          "File_Modified": "2022-05-25T16:38:39.243",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IBFN/inlineXBRL.zip",
+          "File_Size": 53912,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "eeeba515-c71a-474f-9aa1-acea141e8955",
+          "File_Modified": "2022-05-25T16:38:39.243",
+          "File_Name": "AnnualReport2021-IBFN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202206/49290cee34_e0b428d4ad.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "a34839a9-398c-4fd9-bc63-e1b1fcfc4858",
+          "File_Modified": "2022-05-25T16:38:39.243",
+          "File_Name": "FinancialStatement-2021-Tahunan-IBFN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IBFN/FinancialStatement-2021-Tahunan-IBFN.xlsx",
+          "File_Size": 155276,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        }
+      ]
+    }
+  ]
+}

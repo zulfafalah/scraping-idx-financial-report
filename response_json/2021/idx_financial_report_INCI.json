@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "INCI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "INCI",
+      "File_Modified": "2022-04-28T22:32:31.517",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Intanwijaya Internasional Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "0cf8f37a-6b05-4aa5-8f92-16f1b66ed1ef",
+          "File_Modified": "2022-04-28T22:32:31.517",
+          "File_Name": "FinancialStatement-2021-Tahunan-INCI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INCI/FinancialStatement-2021-Tahunan-INCI.pdf",
+          "File_Size": 47283,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "88d4ba63-4ea7-427c-98cf-6262f433c5d1",
+          "File_Modified": "2022-04-28T22:32:31.517",
+          "File_Name": "LAP BEI 20P DES21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INCI/LAP BEI 20P DES21.pdf",
+          "File_Size": 298755,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "d3e8dc80-3289-4115-acfd-7220d3f7245d",
+          "File_Modified": "2022-04-28T22:32:31.517",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INCI/instance.zip",
+          "File_Size": 28851,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "5ff07840-7975-4c60-a919-1ff97b4b637f",
+          "File_Modified": "2022-04-28T22:32:31.517",
+          "File_Name": "PENGANTAR OJK DES21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INCI/PENGANTAR OJK DES21.pdf",
+          "File_Size": 158214,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "e8e0a795-6402-4b30-b71f-3eda256b3818",
+          "File_Modified": "2022-04-28T22:32:31.517",
+          "File_Name": "LAP OJK 20P DES21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INCI/LAP OJK 20P DES21.pdf",
+          "File_Size": 313409,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "a6fc4131-20dc-4353-9161-06e45951908f",
+          "File_Modified": "2022-04-28T22:32:31.517",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INCI/inlineXBRL.zip",
+          "File_Size": 59159,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "a003a270-09b5-4a45-98d9-1b79ea73a962",
+          "File_Modified": "2022-04-28T22:32:31.517",
+          "File_Name": "PT Intanwijaya Internasional Tbk Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INCI/PT Intanwijaya Internasional Tbk Des 2021.pdf",
+          "File_Size": 4330530,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "dad40147-31bc-433e-84cf-7657ef794f8b",
+          "File_Modified": "2022-04-28T22:32:31.517",
+          "File_Name": "FinancialStatement-2021-Tahunan-INCI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INCI/FinancialStatement-2021-Tahunan-INCI.xlsx",
+          "File_Size": 159625,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "e563d13c-1f00-45a5-8a3c-cac3760f9ce4",
+          "File_Modified": "2022-04-28T22:32:31.517",
+          "File_Name": "PENGANTAR BEI DES21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/INCI/PENGANTAR BEI DES21.pdf",
+          "File_Size": 153101,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "4dac32f7-c493-4c07-a8f2-e7b94619f828",
+          "File_Modified": "2022-04-28T22:32:31.517",
+          "File_Name": "AnnualReport2021-INCI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/7947ea2ce4_2fbd231610.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        }
+      ]
+    }
+  ]
+}

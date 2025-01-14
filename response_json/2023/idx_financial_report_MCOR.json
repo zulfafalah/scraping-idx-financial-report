@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MCOR",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MCOR",
+      "File_Modified": "2024-02-22T07:11:46.127",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Bank China Construction Bank Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MCOR",
+          "File_ID": "345bfcc6-2742-4c48-bd4d-14345960eef3",
+          "File_Modified": "2024-02-22T07:11:46.127",
+          "File_Name": "20 Persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MCOR/20 Persen.pdf",
+          "File_Size": 514501,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank China Construction Bank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MCOR",
+          "File_ID": "26ff71ae-3b0d-46b5-8510-6b8d0b23b8d7",
+          "File_Modified": "2024-02-22T07:11:46.127",
+          "File_Name": "Lap Keu Audited PT Bank CCBI Tbk Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MCOR/Lap Keu Audited PT Bank CCBI Tbk Des 2023.pdf",
+          "File_Size": 2025043,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank China Construction Bank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MCOR",
+          "File_ID": "5f225363-08b5-4c29-8bd1-f8f92855e10d",
+          "File_Modified": "2024-02-22T07:11:46.127",
+          "File_Name": "AnnualReport2023-MCOR-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/2b53abf663_6930960998.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank China Construction Bank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MCOR",
+          "File_ID": "d78f5d10-4481-4014-827b-18a613b2b691",
+          "File_Modified": "2024-02-22T07:11:46.127",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MCOR/inlineXBRL.zip",
+          "File_Size": 112894,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank China Construction Bank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MCOR",
+          "File_ID": "7811cfb6-cb3d-49f2-83aa-917c33de5ddb",
+          "File_Modified": "2024-02-22T07:11:46.127",
+          "File_Name": "AnnualReport2023-MCOR-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/28a41acb5f_c1818f921b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank China Construction Bank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MCOR",
+          "File_ID": "6030eb42-67e9-464f-a824-0e63f22422b1",
+          "File_Modified": "2024-02-22T07:11:46.127",
+          "File_Name": "AnnualReport2023-MCOR.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/8d4d2b3a82_6d59d52024.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank China Construction Bank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MCOR",
+          "File_ID": "69aa1ea6-8ea0-452b-bf66-5028bfdb670f",
+          "File_Modified": "2024-02-22T07:11:46.127",
+          "File_Name": "FinancialStatement-2023-Tahunan-MCOR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MCOR/FinancialStatement-2023-Tahunan-MCOR.xlsx",
+          "File_Size": 150135,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank China Construction Bank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MCOR",
+          "File_ID": "1141f701-daa4-42d5-870d-a318ea1a76d2",
+          "File_Modified": "2024-02-22T07:11:46.127",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MCOR/instance.zip",
+          "File_Size": 45187,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank China Construction Bank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MCOR",
+          "File_ID": "0f184338-4d44-4b70-9675-c07da9343e20",
+          "File_Modified": "2024-02-22T07:11:46.127",
+          "File_Name": "AnnualReport2023-MCOR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/e845d44fe9_4f9a42e64d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank China Construction Bank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MCOR",
+          "File_ID": "323ebee5-7002-40d0-acab-04dbc9e2f38f",
+          "File_Modified": "2024-02-22T07:11:46.127",
+          "File_Name": "Surat Pengantar 20 Persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MCOR/Surat Pengantar 20 Persen.pdf",
+          "File_Size": 338922,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank China Construction Bank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MCOR",
+          "File_ID": "fe7a2b85-d354-4820-b64f-2dd30e5d6187",
+          "File_Modified": "2024-02-22T07:11:46.127",
+          "File_Name": "Checklist Pengungkapan Laporan Keuangan 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MCOR/Checklist Pengungkapan Laporan Keuangan 2023.pdf",
+          "File_Size": 1946094,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank China Construction Bank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MCOR",
+          "File_ID": "c261ef57-e8ce-48e4-8dd8-d26d099b1a0e",
+          "File_Modified": "2024-02-22T07:11:46.127",
+          "File_Name": "FinancialStatement-2023-Tahunan-MCOR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MCOR/FinancialStatement-2023-Tahunan-MCOR.pdf",
+          "File_Size": 236153,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank China Construction Bank Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

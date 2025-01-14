@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "OBMD",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "OBMD",
+      "File_Modified": "2022-04-25T10:48:34.423",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT OBM Drilchem Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "5028159d-c819-4acb-ac87-58d72a37bbb3",
+          "File_Modified": "2022-04-25T10:48:34.423",
+          "File_Name": "LAI 2021 (1).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/OBMD/LAI 2021 (1).pdf",
+          "File_Size": 8859660,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        },
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "608f1a36-b6e1-49d4-b96b-81a3f5bd7d5f",
+          "File_Modified": "2022-04-25T10:48:34.423",
+          "File_Name": "AnnualReport2021-OBMD-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/ba8eddd38e_5c5cc3413c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        },
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "e3cd6c1f-1779-4aa6-9540-99edf3879e46",
+          "File_Modified": "2022-04-25T10:48:34.423",
+          "File_Name": "FinancialStatement-2021-Tahunan-OBMD.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/OBMD/FinancialStatement-2021-Tahunan-OBMD.xlsx",
+          "File_Size": 159071,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        },
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "438096f2-5e0b-4ca9-829d-a1f790e8d015",
+          "File_Modified": "2022-04-25T10:48:34.423",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/OBMD/instance.zip",
+          "File_Size": 28438,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        },
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "d187ff25-be6a-4b16-a933-3f8a8eda4201",
+          "File_Modified": "2022-04-25T10:48:34.423",
+          "File_Name": "Surat penjelasan kenaikan aset .pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/OBMD/Surat penjelasan kenaikan aset .pdf",
+          "File_Size": 1418754,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        },
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "a36d22ab-0ef4-432c-949c-7700787f53ee",
+          "File_Modified": "2022-04-25T10:48:34.423",
+          "File_Name": "FinancialStatement-2021-Tahunan-OBMD.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/OBMD/FinancialStatement-2021-Tahunan-OBMD.pdf",
+          "File_Size": 44424,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        },
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "47f071e6-ed92-4e77-8b15-faf2d622d9e8",
+          "File_Modified": "2022-04-25T10:48:34.423",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/OBMD/inlineXBRL.zip",
+          "File_Size": 58424,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        }
+      ]
+    }
+  ]
+}

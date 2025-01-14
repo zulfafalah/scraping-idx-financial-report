@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TGKA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TGKA",
+      "File_Modified": "2023-03-27T14:55:17.963",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Tigaraksa Satria Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "ddeb2f2a-3578-4064-aaa5-bf896ef855c0",
+          "File_Modified": "2023-03-27T14:55:17.963",
+          "File_Name": "AnnualReport2022-TGKA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202303/9945dd2df5_c3484e2120.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "ec22743b-2b2a-4de5-88c7-45236d9ba073",
+          "File_Modified": "2023-03-27T14:55:17.963",
+          "File_Name": "TGKA_31Des22_Final_Released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TGKA/TGKA_31Des22_Final_Released.pdf",
+          "File_Size": 2804659,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "0bff5219-b1a0-4019-947b-da6b97179ac4",
+          "File_Modified": "2023-03-27T14:55:17.963",
+          "File_Name": "Perubahan Nilai Aset-Liabilitas LK 31 Des 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TGKA/Perubahan Nilai Aset-Liabilitas LK 31 Des 22.pdf",
+          "File_Size": 464859,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "31c9c87e-d344-46b1-b319-05d8f0d7f7ce",
+          "File_Modified": "2023-03-27T14:55:17.963",
+          "File_Name": "FinancialStatement-2022-Tahunan-TGKA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TGKA/FinancialStatement-2022-Tahunan-TGKA.pdf",
+          "File_Size": 164888,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "b0a7035a-2241-4b62-91b0-1d867775669a",
+          "File_Modified": "2023-03-27T14:55:17.963",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TGKA/inlineXBRL.zip",
+          "File_Size": 191329,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "a3b96750-7c86-4980-a9f3-5461230df4d2",
+          "File_Modified": "2023-03-27T14:55:17.963",
+          "File_Name": "FinancialStatement-2022-Tahunan-TGKA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TGKA/FinancialStatement-2022-Tahunan-TGKA.xlsx",
+          "File_Size": 1191339,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "d38a410f-fbc9-4307-8b14-d4d77927d2a9",
+          "File_Modified": "2023-03-27T14:55:17.963",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TGKA/instance.zip",
+          "File_Size": 187877,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        }
+      ]
+    }
+  ]
+}

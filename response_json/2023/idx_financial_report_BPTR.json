@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BPTR",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BPTR",
+      "File_Modified": "2024-03-28T23:23:38.247",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Batavia Prosperindo Trans Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "578f0ded-dabf-4110-8305-07af0b9dd3d2",
+          "File_Modified": "2024-03-28T23:23:38.247",
+          "File_Name": "CHECKLIST_LKT_2023 - BPT SIGNED.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BPTR/CHECKLIST_LKT_2023 - BPT SIGNED.pdf",
+          "File_Size": 1560913,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "7b158029-c067-47ee-9e0d-8b71d21bc8bb",
+          "File_Modified": "2024-03-28T23:23:38.247",
+          "File_Name": "AnnualReport2023-BPTR.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/e1ca45de9a_f7fa2ad919.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "3ac57510-e628-4f59-93e8-b9c84149003e",
+          "File_Modified": "2024-03-28T23:23:38.247",
+          "File_Name": "FinancialStatement-2023-Tahunan-BPTR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BPTR/FinancialStatement-2023-Tahunan-BPTR.xlsx",
+          "File_Size": 350987,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "c09cc92a-1cda-4e3c-bcaa-f3d7ae3f4bfd",
+          "File_Modified": "2024-03-28T23:23:38.247",
+          "File_Name": "FinancialStatement-2023-Tahunan-BPTR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BPTR/FinancialStatement-2023-Tahunan-BPTR.pdf",
+          "File_Size": 706062,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "159b1cec-2d85-4e7b-8293-93100df31268",
+          "File_Modified": "2024-03-28T23:23:38.247",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BPTR/inlineXBRL.zip",
+          "File_Size": 256796,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "7e622f5b-47bd-4f5f-bc98-b37fb3cf25ea",
+          "File_Modified": "2024-03-28T23:23:38.247",
+          "File_Name": "Board of Director Statement - BPT 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BPTR/Board of Director Statement - BPT 2023.pdf",
+          "File_Size": 912052,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "ea878695-20d6-443a-aa41-c85861133afb",
+          "File_Modified": "2024-03-28T23:23:38.247",
+          "File_Name": "AnnualReport2023-BPTR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/ef03dc1370_d7eb9be1f6.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "3c0f4e64-145d-4b0e-80d5-1b027f26cabf",
+          "File_Modified": "2024-03-28T23:23:38.247",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BPTR/instance.zip",
+          "File_Size": 132551,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "cb9d476d-edbe-4ff2-bbf6-2337bbd80405",
+          "File_Modified": "2024-03-28T23:23:38.247",
+          "File_Name": "BPTR - Perubahan 20 aset dan liabilitas 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BPTR/BPTR - Perubahan 20 aset dan liabilitas 2023.pdf",
+          "File_Size": 111279,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        },
+        {
+          "Emiten_Code": "BPTR",
+          "File_ID": "b95310e8-9fa1-4d9d-a5eb-8a3e05d7a322",
+          "File_Modified": "2024-03-28T23:23:38.247",
+          "File_Name": "Report BPT 2023 - release with SPD Opini.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BPTR/Report BPT 2023 - release with SPD Opini.pdf",
+          "File_Size": 5620579,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Batavia Prosperindo Trans Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MIRA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MIRA",
+      "File_Modified": "2023-03-31T20:10:41.12",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Mitra International Resources Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "c9ae562f-98dd-4351-bcba-3f3ccd723257",
+          "File_Modified": "2023-03-31T20:10:41.12",
+          "File_Name": "S-008 Penyampaian LK MIRA 31 DES 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MIRA/S-008 Penyampaian LK MIRA 31 DES 22.pdf",
+          "File_Size": 546796,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "bf77edb9-17cf-4ee0-a19b-61021c653e43",
+          "File_Modified": "2023-03-31T20:10:41.12",
+          "File_Name": "AnnualReport2022-MIRA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/3e9179a74d_4d341be0af.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "11759b46-5d69-4f0c-b178-b86a53798036",
+          "File_Modified": "2023-03-31T20:10:41.12",
+          "File_Name": "FinancialStatement-2022-Tahunan-MIRA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MIRA/FinancialStatement-2022-Tahunan-MIRA.pdf",
+          "File_Size": 106484,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "6e4a3703-4ab1-4474-86da-04bca9f8f29d",
+          "File_Modified": "2023-03-31T20:10:41.12",
+          "File_Name": "SPD DES 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MIRA/SPD DES 22.pdf",
+          "File_Size": 371016,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "bf49a0bd-7c2d-4331-9e34-43e6db1ec945",
+          "File_Modified": "2023-03-31T20:10:41.12",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MIRA/instance.zip",
+          "File_Size": 168298,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "368a012d-bb72-4d68-9f95-0a96c4c68599",
+          "File_Modified": "2023-03-31T20:10:41.12",
+          "File_Name": "CHECKLIST LK MIRA Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MIRA/CHECKLIST LK MIRA Des 2022.pdf",
+          "File_Size": 1192909,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "49626c20-b35d-4e0d-953a-266ad320d603",
+          "File_Modified": "2023-03-31T20:10:41.12",
+          "File_Name": "FinancialStatement-2022-Tahunan-MIRA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MIRA/FinancialStatement-2022-Tahunan-MIRA.xlsx",
+          "File_Size": 1168117,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "d0a7846b-102b-4daf-a080-e56d3eaca077",
+          "File_Modified": "2023-03-31T20:10:41.12",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MIRA/inlineXBRL.zip",
+          "File_Size": 166778,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "8eff6df7-c9dd-4b60-a441-ea06355f5511",
+          "File_Modified": "2023-03-31T20:10:41.12",
+          "File_Name": "LK Mira Konsol 31 Des 2022_FINAL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MIRA/LK Mira Konsol 31 Des 2022_FINAL.pdf",
+          "File_Size": 2399148,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        }
+      ]
+    }
+  ]
+}

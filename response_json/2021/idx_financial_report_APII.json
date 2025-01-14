@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "APII",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "APII",
+      "File_Modified": "2022-04-04T11:31:22.26",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Arita Prima Indonesia Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "e744b0fb-c378-497b-8b7f-3eb6c4d9d8c8",
+          "File_Modified": "2022-04-04T11:31:22.26",
+          "File_Name": "FinancialStatement-2021-Tahunan-APII.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/APII/FinancialStatement-2021-Tahunan-APII.xlsx",
+          "File_Size": 159859,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "2c800e47-a022-4e94-8060-c018644d4a07",
+          "File_Modified": "2022-04-04T11:31:22.26",
+          "File_Name": "AnnualReport2021-APII-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202206/ea0fabc3b6_230ce50521.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "0f0c8472-9f4c-4653-bfdc-d02714e42df5",
+          "File_Modified": "2022-04-04T11:31:22.26",
+          "File_Name": "Surat Pengantar.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/APII/Surat Pengantar.pdf",
+          "File_Size": 128041,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "5f440353-38e9-4bdf-aaf0-1a9bfd419cc9",
+          "File_Modified": "2022-04-04T11:31:22.26",
+          "File_Name": "LK APII 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/APII/LK APII 2021.pdf",
+          "File_Size": 3334822,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "cc9f592c-5a70-4f52-ba66-bb359f330f71",
+          "File_Modified": "2022-04-04T11:31:22.26",
+          "File_Name": "FinancialStatement-2021-Tahunan-APII.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/APII/FinancialStatement-2021-Tahunan-APII.pdf",
+          "File_Size": 53570,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "925d207e-cd60-4a6d-a133-fa9c82ffa533",
+          "File_Modified": "2022-04-04T11:31:22.26",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/APII/inlineXBRL.zip",
+          "File_Size": 59619,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "d1624e9a-f993-4b2c-b3ce-d408d9841898",
+          "File_Modified": "2022-04-04T11:31:22.26",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/APII/instance.zip",
+          "File_Size": 29305,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        }
+      ]
+    }
+  ]
+}

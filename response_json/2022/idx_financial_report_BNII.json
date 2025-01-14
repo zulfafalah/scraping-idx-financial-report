@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BNII",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BNII",
+      "File_Modified": "2023-02-18T00:51:08.393",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Bank Maybank Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BNII",
+          "File_ID": "c25bd126-f36a-4e70-ae49-1054f8cf7e44",
+          "File_Modified": "2023-02-18T00:51:08.393",
+          "File_Name": "2.Srt Pengantar OJK Bapepam IDX - Des22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNII/2.Srt Pengantar OJK Bapepam IDX - Des22.pdf",
+          "File_Size": 354599,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Maybank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BNII",
+          "File_ID": "78774114-1c68-4ace-a08f-1d8526440084",
+          "File_Modified": "2023-02-18T00:51:08.393",
+          "File_Name": "FinancialStatement-2022-Tahunan-BNII.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNII/FinancialStatement-2022-Tahunan-BNII.pdf",
+          "File_Size": 238479,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Maybank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BNII",
+          "File_ID": "f7ad6d3a-722f-4b0d-9f6d-411ab9fc9d9e",
+          "File_Modified": "2023-02-18T00:51:08.393",
+          "File_Name": "AnnualReport2022-BNII-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202303/5cb5a5fb5a_9d469ca675.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Maybank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BNII",
+          "File_ID": "710b23b0-3def-475b-a8e1-d67a53927c9e",
+          "File_Modified": "2023-02-18T00:51:08.393",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNII/instance.zip",
+          "File_Size": 116018,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Maybank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BNII",
+          "File_ID": "a5d2c456-2628-4553-a2ec-a2f07eefafe0",
+          "File_Modified": "2023-02-18T00:51:08.393",
+          "File_Name": "Bank Maybank Indonesia_Bilingual_311222_Released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNII/Bank Maybank Indonesia_Bilingual_311222_Released.pdf",
+          "File_Size": 3886604,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Maybank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BNII",
+          "File_ID": "12e7640e-b83a-47bf-a91d-59bdcbe7629f",
+          "File_Modified": "2023-02-18T00:51:08.393",
+          "File_Name": "1 Directors Statement - Des22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNII/1 Directors Statement - Des22.pdf",
+          "File_Size": 392663,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Maybank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BNII",
+          "File_ID": "879f3825-edd2-4277-9048-7536520abd74",
+          "File_Modified": "2023-02-18T00:51:08.393",
+          "File_Name": "FinancialStatement-2022-Tahunan-BNII.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNII/FinancialStatement-2022-Tahunan-BNII.xlsx",
+          "File_Size": 593340,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Maybank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BNII",
+          "File_ID": "dc8e3699-e45d-49f5-83b1-7cad46c0c9b9",
+          "File_Modified": "2023-02-18T00:51:08.393",
+          "File_Name": "OJK Checklist_1222_Final.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNII/OJK Checklist_1222_Final.pdf",
+          "File_Size": 2975212,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Maybank Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BNII",
+          "File_ID": "c89579eb-ed4e-445f-b391-fa754abb7a91",
+          "File_Modified": "2023-02-18T00:51:08.393",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNII/inlineXBRL.zip",
+          "File_Size": 163238,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Maybank Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

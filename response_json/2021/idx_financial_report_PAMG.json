@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PAMG",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PAMG",
+      "File_Modified": "2022-04-25T18:12:08.417",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Bima Sakti Pertiwi Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "a132bc49-2efd-440c-bf45-d9039c916f97",
+          "File_Modified": "2022-04-25T18:12:08.417",
+          "File_Name": "Surat Pernyataan Direksi PAMG 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PAMG/Surat Pernyataan Direksi PAMG 2021.pdf",
+          "File_Size": 230903,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "884a4994-bd12-4d1b-b892-3ffbf5c3a55f",
+          "File_Modified": "2022-04-25T18:12:08.417",
+          "File_Name": "Audit Report 2021 PAMG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PAMG/Audit Report 2021 PAMG.pdf",
+          "File_Size": 2218856,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "8e1b9af7-d6e5-4e93-bf9f-274a08be8e77",
+          "File_Modified": "2022-04-25T18:12:08.417",
+          "File_Name": "AnnualReport2021-PAMG-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/8a80f2fc7d_3fb197c93f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "668d0734-a1ec-4dea-9745-35130c416e76",
+          "File_Modified": "2022-04-25T18:12:08.417",
+          "File_Name": "FinancialStatement-2021-Tahunan-PAMG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PAMG/FinancialStatement-2021-Tahunan-PAMG.pdf",
+          "File_Size": 43475,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "303dcc67-aa3e-4596-8ea6-1f6794725fff",
+          "File_Modified": "2022-04-25T18:12:08.417",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PAMG/inlineXBRL.zip",
+          "File_Size": 53518,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "c9494349-d47a-4020-bce4-a0ab4504a22d",
+          "File_Modified": "2022-04-25T18:12:08.417",
+          "File_Name": "FinancialStatement-2021-Tahunan-PAMG.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PAMG/FinancialStatement-2021-Tahunan-PAMG.xlsx",
+          "File_Size": 154264,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "fdc75a83-7201-473d-8c60-dc842ee1ff9a",
+          "File_Modified": "2022-04-25T18:12:08.417",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PAMG/instance.zip",
+          "File_Size": 26521,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        }
+      ]
+    }
+  ]
+}

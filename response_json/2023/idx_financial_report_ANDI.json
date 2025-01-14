@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ANDI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ANDI",
+      "File_Modified": "2024-03-28T17:18:48.843",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Andira Agro Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "0249f932-c9a0-4189-ac0f-3275c3d3b7af",
+          "File_Modified": "2024-03-28T17:18:48.843",
+          "File_Name": "AnnualReport2023-ANDI-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/0cf42e2cb5_4f3ceb5ded.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "1475ac95-4226-4110-94ad-3918099b22fd",
+          "File_Modified": "2024-03-28T17:18:48.843",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ANDI/inlineXBRL.zip",
+          "File_Size": 237193,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "b3918071-1f14-4087-a03e-8af788402278",
+          "File_Modified": "2024-03-28T17:18:48.843",
+          "File_Name": "No.001-DIR-OJK-BEI-III-2024 Penyampaian LapKeu.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ANDI/No.001-DIR-OJK-BEI-III-2024 Penyampaian LapKeu.pdf",
+          "File_Size": 198058,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "47b894d0-3cee-4ce3-b8a4-aab9610fa6be",
+          "File_Modified": "2024-03-28T17:18:48.843",
+          "File_Name": "FinancialStatement-2023-Tahunan-ANDI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ANDI/FinancialStatement-2023-Tahunan-ANDI.pdf",
+          "File_Size": 680937,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "550ec42a-9129-4cec-8bfb-492ec37812e2",
+          "File_Modified": "2024-03-28T17:18:48.843",
+          "File_Name": "LK Audit PT Andira Agro Tbk 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ANDI/LK Audit PT Andira Agro Tbk 2023.pdf",
+          "File_Size": 6827254,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "d4b16c62-2bcb-42f3-8fd0-5b49cfacb6f8",
+          "File_Modified": "2024-03-28T17:18:48.843",
+          "File_Name": "Surat Pernyataan Direksi - AA- 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ANDI/Surat Pernyataan Direksi - AA- 2023.pdf",
+          "File_Size": 414540,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "e859bd94-c823-4c7e-9166-7f56fa46cbe0",
+          "File_Modified": "2024-03-28T17:18:48.843",
+          "File_Name": "Checklist LK PT. AA Per 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ANDI/Checklist LK PT. AA Per 31 Des 2023.pdf",
+          "File_Size": 5220913,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "af394af6-2a59-41f4-ba22-a34a2b454ea2",
+          "File_Modified": "2024-03-28T17:18:48.843",
+          "File_Name": "AnnualReport2023-ANDI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/8e6ac44f0a_3d4160eb04.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "bc876cb5-73c8-4e76-a017-b946034bd9d2",
+          "File_Modified": "2024-03-28T17:18:48.843",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ANDI/instance.zip",
+          "File_Size": 118397,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "7cdcb972-ccee-4ffc-9bd6-1356257b9442",
+          "File_Modified": "2024-03-28T17:18:48.843",
+          "File_Name": "AnnualReport2023-ANDI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/ba2943b272_394a8b2396.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        },
+        {
+          "Emiten_Code": "ANDI",
+          "File_ID": "a7d696b2-32dc-4101-957c-aedbbdf7370b",
+          "File_Modified": "2024-03-28T17:18:48.843",
+          "File_Name": "FinancialStatement-2023-Tahunan-ANDI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ANDI/FinancialStatement-2023-Tahunan-ANDI.xlsx",
+          "File_Size": 158989,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Andira Agro Tbk"
+        }
+      ]
+    }
+  ]
+}

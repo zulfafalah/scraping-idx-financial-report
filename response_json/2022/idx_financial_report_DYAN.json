@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DYAN",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DYAN",
+      "File_Modified": "2023-03-18T07:22:52.473",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Dyandra Media International Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "0cad16c1-76ac-4e8e-a9ed-a8eb2766523b",
+          "File_Modified": "2023-03-18T07:22:52.473",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DYAN/instance.zip",
+          "File_Size": 220668,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "d6b21fbe-4f88-460b-add2-d859ec554cd7",
+          "File_Modified": "2023-03-18T07:22:52.473",
+          "File_Name": "PT Dyandra Media International Tbk 31 Dec 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DYAN/PT Dyandra Media International Tbk 31 Dec 2022.pdf",
+          "File_Size": 7095480,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "099d702b-9a18-46f0-adee-475e41501abc",
+          "File_Modified": "2023-03-18T07:22:52.473",
+          "File_Name": "FinancialStatement-2022-Tahunan-DYAN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DYAN/FinancialStatement-2022-Tahunan-DYAN.xlsx",
+          "File_Size": 1683171,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "ab4385bb-99bc-49ce-ab20-4cdf86882460",
+          "File_Modified": "2023-03-18T07:22:52.473",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DYAN/inlineXBRL.zip",
+          "File_Size": 227094,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "b63938cf-fec4-4132-82b8-7bf656f439fe",
+          "File_Modified": "2023-03-18T07:22:52.473",
+          "File_Name": "AnnualReport2022-DYAN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/764647f92a_21042537e5.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "a7960de8-c9df-4c27-8c83-a2312e0d1ade",
+          "File_Modified": "2023-03-18T07:22:52.473",
+          "File_Name": "Checklist Pengungkapan Laporan DYAN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DYAN/Checklist Pengungkapan Laporan DYAN.pdf",
+          "File_Size": 1809279,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "47a5eaad-ecb2-4459-b889-c8a8701215de",
+          "File_Modified": "2023-03-18T07:22:52.473",
+          "File_Name": "AnnualReport2022-DYAN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/764647f92a_21042537e5.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "d0e5f254-9423-44d4-952d-0f033457d2dc",
+          "File_Modified": "2023-03-18T07:22:52.473",
+          "File_Name": "Surat Pernyataan Direksi 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DYAN/Surat Pernyataan Direksi 2022.pdf",
+          "File_Size": 553564,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "d63b262f-8553-42b2-8e6d-ad1ae3477180",
+          "File_Modified": "2023-03-18T07:22:52.473",
+          "File_Name": "AnnualReport2022-DYAN.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/aae7937f7a_ee5a46f9ab.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "08303696-7dfb-46df-8305-de7510b3280b",
+          "File_Modified": "2023-03-18T07:22:52.473",
+          "File_Name": "FinancialStatement-2022-Tahunan-DYAN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DYAN/FinancialStatement-2022-Tahunan-DYAN.pdf",
+          "File_Size": 190146,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "3fc8f74b-8be7-45bb-8705-c5a393e1ce44",
+          "File_Modified": "2023-03-18T07:22:52.473",
+          "File_Name": "Penjelasan atas Perubahan Lebih dari 20 Persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DYAN/Penjelasan atas Perubahan Lebih dari 20 Persen.pdf",
+          "File_Size": 452417,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "1669a52c-1a39-4e05-83a9-f04b2d7d43c7",
+          "File_Modified": "2023-03-18T07:22:52.473",
+          "File_Name": "Surat Pengantar.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DYAN/Surat Pengantar.pdf",
+          "File_Size": 349664,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MSIE",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MSIE",
+      "File_Modified": "2024-04-16T10:23:15.823",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Multisarana Intan Eduka Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MSIE",
+          "File_ID": "32f91add-9be9-4597-ae38-1e625502303e",
+          "File_Modified": "2024-04-16T10:23:15.823",
+          "File_Name": "FinancialStatement-2023-Tahunan-MSIE.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MSIE/FinancialStatement-2023-Tahunan-MSIE.xlsx",
+          "File_Size": 309824,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multisarana Intan Eduka Tbk"
+        },
+        {
+          "Emiten_Code": "MSIE",
+          "File_ID": "7b5e3b8c-287f-44f9-bd89-b30a8e1ae118",
+          "File_Modified": "2024-04-16T10:23:15.823",
+          "File_Name": "penjelasan perubahan aset.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MSIE/penjelasan perubahan aset.pdf",
+          "File_Size": 125314,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multisarana Intan Eduka Tbk"
+        },
+        {
+          "Emiten_Code": "MSIE",
+          "File_ID": "996f0cc2-6df1-4e32-ad0a-b91840e547c4",
+          "File_Modified": "2024-04-16T10:23:15.823",
+          "File_Name": "surat pengantar.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MSIE/surat pengantar.pdf",
+          "File_Size": 99498,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multisarana Intan Eduka Tbk"
+        },
+        {
+          "Emiten_Code": "MSIE",
+          "File_ID": "cc41df15-764c-44e2-be4c-f29e52b4f43d",
+          "File_Modified": "2024-04-16T10:23:15.823",
+          "File_Name": "FinancialStatement-2023-Tahunan-MSIE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MSIE/FinancialStatement-2023-Tahunan-MSIE.pdf",
+          "File_Size": 638282,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multisarana Intan Eduka Tbk"
+        },
+        {
+          "Emiten_Code": "MSIE",
+          "File_ID": "e8618f31-6bd0-4200-a916-f2a2d8e7d31e",
+          "File_Modified": "2024-04-16T10:23:15.823",
+          "File_Name": "Lap. keuangan audited.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MSIE/Lap. keuangan audited.pdf",
+          "File_Size": 5286829,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multisarana Intan Eduka Tbk"
+        },
+        {
+          "Emiten_Code": "MSIE",
+          "File_ID": "e7ff153d-dba4-462d-a876-06d6f696209a",
+          "File_Modified": "2024-04-16T10:23:15.823",
+          "File_Name": "AnnualReport2023-MSIE-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/68c19d13d8_3989c230f9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multisarana Intan Eduka Tbk"
+        },
+        {
+          "Emiten_Code": "MSIE",
+          "File_ID": "d277e8a5-8fb5-4574-8fe1-6033b5dad2cb",
+          "File_Modified": "2024-04-16T10:23:15.823",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MSIE/instance.zip",
+          "File_Size": 112669,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multisarana Intan Eduka Tbk"
+        },
+        {
+          "Emiten_Code": "MSIE",
+          "File_ID": "462a9ff1-419e-402b-a78c-675030bc80e5",
+          "File_Modified": "2024-04-16T10:23:15.823",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MSIE/inlineXBRL.zip",
+          "File_Size": 216178,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multisarana Intan Eduka Tbk"
+        },
+        {
+          "Emiten_Code": "MSIE",
+          "File_ID": "4c22c97a-e32b-412e-9bb7-e56e638b4887",
+          "File_Modified": "2024-04-16T10:23:15.823",
+          "File_Name": "AnnualReport2023-MSIE.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/50c403312f_31ddbebb58.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multisarana Intan Eduka Tbk"
+        }
+      ]
+    }
+  ]
+}

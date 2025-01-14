@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "POWR",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "POWR",
+      "File_Modified": "2022-04-08T14:54:02.543",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Cikarang Listrindo Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "e132a75f-3a77-47f5-a5a9-8d2590f3a069",
+          "File_Modified": "2022-04-08T14:54:02.543",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POWR/instance.zip",
+          "File_Size": 26908,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "c2cb754f-c6cd-44f0-a2ae-9be19b4f7ae4",
+          "File_Modified": "2022-04-08T14:54:02.543",
+          "File_Name": "FinancialStatement-2021-Tahunan-POWR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POWR/FinancialStatement-2021-Tahunan-POWR.pdf",
+          "File_Size": 49822,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "3efb5df6-fa3c-42ea-a7ef-a35a72215656",
+          "File_Modified": "2022-04-08T14:54:02.543",
+          "File_Name": "FinancialStatement-2021-Tahunan-POWR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POWR/FinancialStatement-2021-Tahunan-POWR.xlsx",
+          "File_Size": 154290,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "6c3f0661-e100-4e64-814f-5b733b39c42e",
+          "File_Modified": "2022-04-08T14:54:02.543",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POWR/inlineXBRL.zip",
+          "File_Size": 54054,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "fab9dcf3-c306-48e2-a721-65337295728a",
+          "File_Modified": "2022-04-08T14:54:02.543",
+          "File_Name": "0010 POWR Laporan Keuangan 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POWR/0010 POWR Laporan Keuangan 31 Des 2021.pdf",
+          "File_Size": 1108437,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "5a2e8210-2cfc-40a6-afce-f7311ca565e3",
+          "File_Modified": "2022-04-08T14:54:02.543",
+          "File_Name": "0010 POWR Laporan Keuangan.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POWR/0010 POWR Laporan Keuangan.pdf",
+          "File_Size": 119785,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        }
+      ]
+    }
+  ]
+}

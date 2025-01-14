@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "HDFA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "HDFA",
+      "File_Modified": "2023-03-31T21:28:04.967",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Radana Bhaskara Finance Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "14266719-3c82-478b-b8a9-8d608c582f6e",
+          "File_Modified": "2023-03-31T21:28:04.967",
+          "File_Name": "FinancialStatement-2022-Tahunan-HDFA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HDFA/FinancialStatement-2022-Tahunan-HDFA.pdf",
+          "File_Size": 195229,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "bc9407bf-185b-473c-81c1-c46b075777f3",
+          "File_Modified": "2023-03-31T21:28:04.967",
+          "File_Name": "Surat Pengantar Penyampaian LK Tahunan Q4 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HDFA/Surat Pengantar Penyampaian LK Tahunan Q4 2022.pdf",
+          "File_Size": 405970,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "ff77a86a-3353-40c1-9df9-57dc3fba76ae",
+          "File_Modified": "2023-03-31T21:28:04.967",
+          "File_Name": "AnnualReport2022-HDFA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/61562dd56f_0bd1574ba9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "21fdb6fc-d425-4ccb-abef-8ecc989a6c02",
+          "File_Modified": "2023-03-31T21:28:04.967",
+          "File_Name": "FS Audited Report - RBF Tbk 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HDFA/FS Audited Report - RBF Tbk 2022.pdf",
+          "File_Size": 6383277,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "4ee415ff-bc5f-446d-b01e-e4d0ed55c70a",
+          "File_Modified": "2023-03-31T21:28:04.967",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HDFA/inlineXBRL.zip",
+          "File_Size": 119351,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "219ae1b9-b894-4dfd-af38-1b2e7964024a",
+          "File_Modified": "2023-03-31T21:28:04.967",
+          "File_Name": "Surat Penjelasan Tambahan Q4 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HDFA/Surat Penjelasan Tambahan Q4 2022.pdf",
+          "File_Size": 341176,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "9ec8b086-11ee-4483-be62-2aa43840d5d7",
+          "File_Modified": "2023-03-31T21:28:04.967",
+          "File_Name": "FinancialStatement-2022-Tahunan-HDFA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HDFA/FinancialStatement-2022-Tahunan-HDFA.xlsx",
+          "File_Size": 743392,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "03bf9ef6-b2ba-4061-bb8b-8708880063b4",
+          "File_Modified": "2023-03-31T21:28:04.967",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HDFA/instance.zip",
+          "File_Size": 130330,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "e6e4bce0-5bda-4a81-805d-da0379383ab6",
+          "File_Modified": "2023-03-31T21:28:04.967",
+          "File_Name": "CHECKLIST Q4 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HDFA/CHECKLIST Q4 2022.pdf",
+          "File_Size": 1533563,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IMJS",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IMJS",
+      "File_Modified": "2023-03-31T19:58:59.657",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Indomobil Multi Jasa Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "3b952348-8a15-47bd-a0a8-8cc49da2a41c",
+          "File_Modified": "2023-03-31T19:58:59.657",
+          "File_Name": "FinancialStatement-2022-Tahunan-IMJS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IMJS/FinancialStatement-2022-Tahunan-IMJS.pdf",
+          "File_Size": 264225,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "00ebd09a-84b0-453c-a949-c48c9b7852c9",
+          "File_Modified": "2023-03-31T19:58:59.657",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IMJS/instance.zip",
+          "File_Size": 203353,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "24cddbd0-9f60-4c11-ac56-165b9ebb2db2",
+          "File_Modified": "2023-03-31T19:58:59.657",
+          "File_Name": "CHECKLIST PENGUNGKAPAN LAPORAN KEUANGAN IMJ DES 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IMJS/CHECKLIST PENGUNGKAPAN LAPORAN KEUANGAN IMJ DES 22.pdf",
+          "File_Size": 1308158,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "a438a95c-18cd-4362-a91a-79e9fbad1fcf",
+          "File_Modified": "2023-03-31T19:58:59.657",
+          "File_Name": "Indomobil multi jasa tbk_31_dec_2022_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IMJS/Indomobil multi jasa tbk_31_dec_2022_released.pdf",
+          "File_Size": 4891657,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "a854d92f-cebf-4bd9-b35f-e4e9f3f4eaf8",
+          "File_Modified": "2023-03-31T19:58:59.657",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IMJS/inlineXBRL.zip",
+          "File_Size": 267353,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "10a28701-9193-42b5-97bf-2bdca805f60a",
+          "File_Modified": "2023-03-31T19:58:59.657",
+          "File_Name": "FinancialStatement-2022-Tahunan-IMJS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IMJS/FinancialStatement-2022-Tahunan-IMJS.xlsx",
+          "File_Size": 1204838,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "c423f40e-647f-43cf-9903-459c2dd45c6d",
+          "File_Modified": "2023-03-31T19:58:59.657",
+          "File_Name": "Surat Pernyataan Direksi LKT IMJ 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IMJS/Surat Pernyataan Direksi LKT IMJ 2022.pdf",
+          "File_Size": 223706,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "40c0f47f-717c-4454-9075-6a44e75bbf75",
+          "File_Modified": "2023-03-31T19:58:59.657",
+          "File_Name": "AnnualReport2022-IMJS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/f0defb67fd_0213fb05ab.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "4351c94d-3203-4f0c-900c-f57c6c39ff09",
+          "File_Modified": "2023-03-31T19:58:59.657",
+          "File_Name": "Surat Pengantar Penyampaian LKT IMJ 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IMJS/Surat Pengantar Penyampaian LKT IMJ 2022.pdf",
+          "File_Size": 136536,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        }
+      ]
+    }
+  ]
+}

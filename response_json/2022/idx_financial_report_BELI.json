@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BELI",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BELI",
+      "File_Modified": "2023-03-30T23:21:12.08",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Global Digital Niaga Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BELI",
+          "File_ID": "c726216a-ccd7-459e-afac-a9938cc392d4",
+          "File_Modified": "2023-03-30T23:21:12.08",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BELI/inlineXBRL.zip",
+          "File_Size": 220923,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Digital Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BELI",
+          "File_ID": "3e42c259-567c-45db-9237-ef288ad1868f",
+          "File_Modified": "2023-03-30T23:21:12.08",
+          "File_Name": "global digital niaga_consol_31 dec 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BELI/global digital niaga_consol_31 dec 2022.pdf",
+          "File_Size": 8019046,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Digital Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BELI",
+          "File_ID": "5144996e-7c43-46dd-aebf-50b39a697425",
+          "File_Modified": "2023-03-30T23:21:12.08",
+          "File_Name": "GDN_Perubahan Aset Liabilitas Lbh dr 20persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BELI/GDN_Perubahan Aset Liabilitas Lbh dr 20persen.pdf",
+          "File_Size": 1206120,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Digital Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BELI",
+          "File_ID": "3d2404f8-4e2d-4005-ad00-5c297f5edaa7",
+          "File_Modified": "2023-03-30T23:21:12.08",
+          "File_Name": "FinancialStatement-2022-Tahunan-BELI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BELI/FinancialStatement-2022-Tahunan-BELI.xlsx",
+          "File_Size": 1198513,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Digital Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BELI",
+          "File_ID": "d8441555-8992-4419-8590-21ed6c105e6d",
+          "File_Modified": "2023-03-30T23:21:12.08",
+          "File_Name": "FinancialStatement-2022-Tahunan-BELI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BELI/FinancialStatement-2022-Tahunan-BELI.pdf",
+          "File_Size": 191559,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Digital Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BELI",
+          "File_ID": "8cbafe2f-fc5b-48aa-b912-253c6c52c889",
+          "File_Modified": "2023-03-30T23:21:12.08",
+          "File_Name": "BELI_OJK Checklist _31 Des22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BELI/BELI_OJK Checklist _31 Des22.pdf",
+          "File_Size": 4040781,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Digital Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BELI",
+          "File_ID": "5aa7cabd-4e4f-44fc-8586-3ab82ea41144",
+          "File_Modified": "2023-03-30T23:21:12.08",
+          "File_Name": "BELI_LK Tahunan Konsolidasian 31 Des 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BELI/BELI_LK Tahunan Konsolidasian 31 Des 22.pdf",
+          "File_Size": 180194,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Digital Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BELI",
+          "File_ID": "9e91e1df-8a66-45be-bf77-9587c8f3353a",
+          "File_Modified": "2023-03-30T23:21:12.08",
+          "File_Name": "AnnualReport2022-BELI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/8de2256585_4e13160268.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Digital Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BELI",
+          "File_ID": "0993f58f-c209-4e88-8143-ad91eb919a2e",
+          "File_Modified": "2023-03-30T23:21:12.08",
+          "File_Name": "BELI_SPD Dec 31 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BELI/BELI_SPD Dec 31 2022.pdf",
+          "File_Size": 196343,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Digital Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BELI",
+          "File_ID": "75557501-c2c2-4950-a764-f3072978e493",
+          "File_Modified": "2023-03-30T23:21:12.08",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BELI/instance.zip",
+          "File_Size": 198912,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Digital Niaga Tbk"
+        }
+      ]
+    }
+  ]
+}

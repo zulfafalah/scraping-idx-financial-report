@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "RUNS",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "RUNS",
+      "File_Modified": "2022-04-27T12:10:47.183",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Global Sukses Solusi Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "1974128f-db16-4fa2-a021-de1ce6962ed4",
+          "File_Modified": "2022-04-27T12:10:47.183",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RUNS/instance.zip",
+          "File_Size": 28756,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "2983676b-1821-43d4-80ae-627578a2d2eb",
+          "File_Modified": "2022-04-27T12:10:47.183",
+          "File_Name": "LK PT Global Sukses Solusi Tbk 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RUNS/LK PT Global Sukses Solusi Tbk 31 Desember 2021.pdf",
+          "File_Size": 1931239,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "c868017e-66b4-4d16-99b3-d1b0f470c15e",
+          "File_Modified": "2022-04-27T12:10:47.183",
+          "File_Name": "FinancialStatement-2021-Tahunan-RUNS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RUNS/FinancialStatement-2021-Tahunan-RUNS.pdf",
+          "File_Size": 67871,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "7dc6d324-1722-41f5-b503-49fce7ed7d34",
+          "File_Modified": "2022-04-27T12:10:47.183",
+          "File_Name": "FinancialStatement-2021-Tahunan-RUNS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RUNS/FinancialStatement-2021-Tahunan-RUNS.xlsx",
+          "File_Size": 159434,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "6659e19c-f926-4a18-a7f9-c059fd5fa894",
+          "File_Modified": "2022-04-27T12:10:47.183",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RUNS/inlineXBRL.zip",
+          "File_Size": 58585,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "ec226904-0540-4047-891c-81ea6964772f",
+          "File_Modified": "2022-04-27T12:10:47.183",
+          "File_Name": "AnnualReport2021-RUNS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/94d66d8c22_b7068fce96.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        }
+      ]
+    }
+  ]
+}

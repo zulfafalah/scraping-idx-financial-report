@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "JAWA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "JAWA",
+      "File_Modified": "2024-06-14T06:29:29.583",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Jaya Agra Wattie Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "7741e1f4-2173-4c2f-84da-07db48b2a3b3",
+          "File_Modified": "2024-06-14T06:29:29.583",
+          "File_Name": "Report audit PT JAW dan Entitas Anak 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAWA/Report audit PT JAW dan Entitas Anak 31 Des 2023.pdf",
+          "File_Size": 9488354,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "2760d194-ab86-481e-94fa-62e3c78ca49e",
+          "File_Modified": "2024-06-14T06:29:29.583",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAWA/inlineXBRL.zip",
+          "File_Size": 279386,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "47e22861-755a-431a-b0ec-bc5642ff2e02",
+          "File_Modified": "2024-06-14T06:29:29.583",
+          "File_Name": "AnnualReport2023-JAWA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202406/9cc4162950_58dcfa49e5.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "d4d06b85-27aa-497f-913a-c94115479c20",
+          "File_Modified": "2024-06-14T06:29:29.583",
+          "File_Name": "FinancialStatement-2023-Tahunan-JAWA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAWA/FinancialStatement-2023-Tahunan-JAWA.xlsx",
+          "File_Size": 165,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "796fa0f1-cc96-43a4-89e5-e95de06fb5ff",
+          "File_Modified": "2024-06-14T06:29:29.583",
+          "File_Name": "JAWA Surat Penjelasan lebih 20 Persen DES2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAWA/JAWA Surat Penjelasan lebih 20 Persen DES2023.pdf",
+          "File_Size": 235795,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "75e7b08b-1923-4233-b269-e81a0634401d",
+          "File_Modified": "2024-06-14T06:29:29.583",
+          "File_Name": "SURAT PERNYATAAN DIREKSI - JAW KONSOL 13JUNI2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAWA/SURAT PERNYATAAN DIREKSI - JAW KONSOL 13JUNI2024.pdf",
+          "File_Size": 732582,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "77307f72-4d0c-4183-8180-665f94d56cb0",
+          "File_Modified": "2024-06-14T06:29:29.583",
+          "File_Name": "AnnualReport2023-JAWA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202406/c5e5656e6a_f778472109.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "b5bd119d-9a3c-4a45-b62b-94de5fb076f9",
+          "File_Modified": "2024-06-14T06:29:29.583",
+          "File_Name": "015-JAW-CORSEC-VI-2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAWA/015-JAW-CORSEC-VI-2024.pdf",
+          "File_Size": 460326,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "ebf16176-bc1f-4f27-8a36-0172a9cf2341",
+          "File_Modified": "2024-06-14T06:29:29.583",
+          "File_Name": "FinancialStatement-2023-Tahunan-JAWA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAWA/FinancialStatement-2023-Tahunan-JAWA.pdf",
+          "File_Size": 745038,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "31041506-be16-41ef-8f0b-76e1df68ab26",
+          "File_Modified": "2024-06-14T06:29:29.583",
+          "File_Name": "AnnualReport2023-JAWA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202406/3b617db28b_745e716df0.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "e876e4bc-a21c-4672-90c1-8387c25144a7",
+          "File_Modified": "2024-06-14T06:29:29.583",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAWA/instance.zip",
+          "File_Size": 141582,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        }
+      ]
+    }
+  ]
+}

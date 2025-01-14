@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "LMSH",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "LMSH",
+      "File_Modified": "2023-04-03T17:12:21.763",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Lionmesh Prima Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "fef20e55-7f9b-4438-8eb2-53fda0e9959f",
+          "File_Modified": "2023-04-03T17:12:21.763",
+          "File_Name": "LMSH Srt Perubahan Liabilitas TB 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/LMSH/LMSH Srt Perubahan Liabilitas TB 2022.pdf",
+          "File_Size": 700655,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "05ba5766-8962-4d12-86bc-237dfeae4ad6",
+          "File_Modified": "2023-04-03T17:12:21.763",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/LMSH/inlineXBRL.zip",
+          "File_Size": 177427,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "07675551-b366-43c2-890d-e6ab7ed0ff16",
+          "File_Modified": "2023-04-03T17:12:21.763",
+          "File_Name": "FinancialStatement-2022-Tahunan-LMSH.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/LMSH/FinancialStatement-2022-Tahunan-LMSH.pdf",
+          "File_Size": 124931,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "b7a89c02-1139-4c0d-b460-2023d7f2095d",
+          "File_Modified": "2023-04-03T17:12:21.763",
+          "File_Name": "LMSH LKT  2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/LMSH/LMSH LKT  2022.pdf",
+          "File_Size": 2846386,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "9ef7b5a5-86fe-4efb-8745-2739ffa7046b",
+          "File_Modified": "2023-04-03T17:12:21.763",
+          "File_Name": "FinancialStatement-2022-Tahunan-LMSH.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/LMSH/FinancialStatement-2022-Tahunan-LMSH.xlsx",
+          "File_Size": 1196874,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "6b0a484f-c450-480e-b2e8-7055f404a9ee",
+          "File_Modified": "2023-04-03T17:12:21.763",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/LMSH/instance.zip",
+          "File_Size": 189063,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "e574f24d-4677-4c0b-aaad-f7e9906a50b1",
+          "File_Modified": "2023-04-03T17:12:21.763",
+          "File_Name": "AnnualReport2022-LMSH-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/83d8748222_4298c9af75.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        }
+      ]
+    }
+  ]
+}

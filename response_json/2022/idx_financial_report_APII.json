@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "APII",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "APII",
+      "File_Modified": "2023-04-03T08:43:06.493",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Arita Prima Indonesia Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "c6429bdf-fb2f-42ce-b060-20aaf456f82f",
+          "File_Modified": "2023-04-03T08:43:06.493",
+          "File_Name": "2023 SURAT PENGANTAR PENYAMPAIAN LK AUDITED 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APII/2023 SURAT PENGANTAR PENYAMPAIAN LK AUDITED 2022.pdf",
+          "File_Size": 137545,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "270e273b-a6c3-4345-95a4-d150437b2b86",
+          "File_Modified": "2023-04-03T08:43:06.493",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APII/inlineXBRL.zip",
+          "File_Size": 187671,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "e6a7882a-7c57-4f8a-afd7-d629efa2e026",
+          "File_Modified": "2023-04-03T08:43:06.493",
+          "File_Name": "FinancialStatement-2022-Tahunan-APII.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APII/FinancialStatement-2022-Tahunan-APII.pdf",
+          "File_Size": 126192,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "d9e1eaf1-5ff4-478b-a537-0394abc9d718",
+          "File_Modified": "2023-04-03T08:43:06.493",
+          "File_Name": "AnnualReport2022-APII-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/f0fb9ed552_d793b1c9b1.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "956c853b-0407-4e1e-9ce9-612e7051cf45",
+          "File_Modified": "2023-04-03T08:43:06.493",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APII/instance.zip",
+          "File_Size": 178153,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "7f1bc1bc-b347-4e3f-a064-a7b3a9205519",
+          "File_Modified": "2023-04-03T08:43:06.493",
+          "File_Name": "FinancialStatement-2022-Tahunan-APII.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APII/FinancialStatement-2022-Tahunan-APII.xlsx",
+          "File_Size": 1182267,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "e8670243-e06f-47cf-a679-cca613d37460",
+          "File_Modified": "2023-04-03T08:43:06.493",
+          "File_Name": "PT Arita Prima Indonesia Tbk_31 Dec 2022_.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APII/PT Arita Prima Indonesia Tbk_31 Dec 2022_.pdf",
+          "File_Size": 2422533,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        }
+      ]
+    }
+  ]
+}

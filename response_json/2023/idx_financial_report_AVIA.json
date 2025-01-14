@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AVIA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AVIA",
+      "File_Modified": "2024-03-04T15:18:09.077",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Avia Avian Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "55e247bb-81ae-493a-a8c6-0cc58305a0d0",
+          "File_Modified": "2024-03-04T15:18:09.077",
+          "File_Name": "AnnualReport2023-AVIA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/8caaaead7b_55396c4698.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "5a67a009-6c70-44aa-837e-ca3473fb7d3b",
+          "File_Modified": "2024-03-04T15:18:09.077",
+          "File_Name": "FinancialStatement-2023-Tahunan-AVIA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AVIA/FinancialStatement-2023-Tahunan-AVIA.pdf",
+          "File_Size": 694645,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "5db66965-46f1-498b-b039-6b74d7e4e1ec",
+          "File_Modified": "2024-03-04T15:18:09.077",
+          "File_Name": "FinancialStatement-2023-Tahunan-AVIA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AVIA/FinancialStatement-2023-Tahunan-AVIA.xlsx",
+          "File_Size": 339231,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "25c82729-94c6-44f9-b821-9c653e5c56ec",
+          "File_Modified": "2024-03-04T15:18:09.077",
+          "File_Name": "AnnualReport2023-AVIA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/3a3f53fb1f_ee4b268c67.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "21ce3728-93a0-4ed4-aa1b-b0e71e2f15c2",
+          "File_Modified": "2024-03-04T15:18:09.077",
+          "File_Name": "OJK Checklist Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AVIA/OJK Checklist Des 2023.pdf",
+          "File_Size": 1794476,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "45905479-e2a0-49e6-8667-d39bc2005862",
+          "File_Modified": "2024-03-04T15:18:09.077",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AVIA/inlineXBRL.zip",
+          "File_Size": 245029,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "3e27fff4-7978-4af9-b3e0-f5f17827f221",
+          "File_Modified": "2024-03-04T15:18:09.077",
+          "File_Name": "AVIA_LaporanKeuangan_31Des2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AVIA/AVIA_LaporanKeuangan_31Des2023.pdf",
+          "File_Size": 7006566,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "42f60695-8d43-4a48-8416-1aaf4c160799",
+          "File_Modified": "2024-03-04T15:18:09.077",
+          "File_Name": "AnnualReport2023-AVIA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/9f810ab50f_ff202f6fcb.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "0b3bf115-949e-4e98-a86e-42d50dadfd08",
+          "File_Modified": "2024-03-04T15:18:09.077",
+          "File_Name": "AVIA_PenyampaianLaporanKeuanganKonsolidasian.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AVIA/AVIA_PenyampaianLaporanKeuanganKonsolidasian.pdf",
+          "File_Size": 1821414,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "d6c4c17d-5730-45e0-86b9-5a4466852476",
+          "File_Modified": "2024-03-04T15:18:09.077",
+          "File_Name": "AnnualReport2023-AVIA-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/a3c7aa2680_6d9e803239.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "0820d2d7-a561-449f-b866-8a2ec097176c",
+          "File_Modified": "2024-03-04T15:18:09.077",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AVIA/instance.zip",
+          "File_Size": 127645,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        }
+      ]
+    }
+  ]
+}

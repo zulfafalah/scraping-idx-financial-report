@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GOOD",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GOOD",
+      "File_Modified": "2022-03-07T09:51:20.277",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "68120e7b-1754-4ee0-af99-db61802b0cd3",
+          "File_Modified": "2022-03-07T09:51:20.277",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GOOD/instance.zip",
+          "File_Size": 30034,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "f6d37a4d-80a4-42f3-8729-f4e6bef793d8",
+          "File_Modified": "2022-03-07T09:51:20.277",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GOOD/inlineXBRL.zip",
+          "File_Size": 60897,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "51576cf4-2c12-4e9f-9da6-497b841b9ce8",
+          "File_Modified": "2022-03-07T09:51:20.277",
+          "File_Name": "Surat Pengantar BEI GOOD 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GOOD/Surat Pengantar BEI GOOD 2021.pdf",
+          "File_Size": 208104,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "b24e52a5-31d5-4fa4-a4c6-9ed322eb0ae3",
+          "File_Modified": "2022-03-07T09:51:20.277",
+          "File_Name": "Surat Pengantar OJK GOOD 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GOOD/Surat Pengantar OJK GOOD 2021.pdf",
+          "File_Size": 249479,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "c418a14f-e133-4ab3-ad2f-afcaaff6e3e9",
+          "File_Modified": "2022-03-07T09:51:20.277",
+          "File_Name": "FinancialStatement-2021-Tahunan-GOOD.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GOOD/FinancialStatement-2021-Tahunan-GOOD.xlsx",
+          "File_Size": 160739,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "802f69ff-7552-491f-b886-16dcbc4c44ac",
+          "File_Modified": "2022-03-07T09:51:20.277",
+          "File_Name": "FinancialStatement-2021-Tahunan-GOOD.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GOOD/FinancialStatement-2021-Tahunan-GOOD.pdf",
+          "File_Size": 59952,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "748cae28-e70a-4ac6-92b9-76bc02dd757a",
+          "File_Modified": "2022-03-07T09:51:20.277",
+          "File_Name": "PT Garudafood Putra Putri Jaya Tbk_31.12.2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GOOD/PT Garudafood Putra Putri Jaya Tbk_31.12.2021.pdf",
+          "File_Size": 2602320,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "6d9f1ccd-e83c-4e9c-8c20-e498168223f7",
+          "File_Modified": "2022-03-07T09:51:20.277",
+          "File_Name": "Checklist Laporan Keuangan GOOD_31.12.2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GOOD/Checklist Laporan Keuangan GOOD_31.12.2021.pdf",
+          "File_Size": 1563619,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        }
+      ]
+    }
+  ]
+}

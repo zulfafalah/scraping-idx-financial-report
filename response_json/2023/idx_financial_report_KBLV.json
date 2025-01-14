@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "KBLV",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "KBLV",
+      "File_Modified": "2024-03-28T20:04:33.027",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "First Media Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "1b02e1d3-8a1a-4a9f-ae48-d58b9d1ae93b",
+          "File_Modified": "2024-03-28T20:04:33.027",
+          "File_Name": "Lap Keu KBLV 311223.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KBLV/Lap Keu KBLV 311223.pdf",
+          "File_Size": 4594825,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "2d399ad2-013a-44e3-9ac8-f011fcf270dd",
+          "File_Modified": "2024-03-28T20:04:33.027",
+          "File_Name": "SPD_KBLV_311223.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KBLV/SPD_KBLV_311223.pdf",
+          "File_Size": 379682,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "d7edaeb2-222c-402d-8745-22bc1e94ef8c",
+          "File_Modified": "2024-03-28T20:04:33.027",
+          "File_Name": "FinancialStatement-2023-Tahunan-KBLV.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KBLV/FinancialStatement-2023-Tahunan-KBLV.pdf",
+          "File_Size": 701621,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "3b9d013e-9777-4f02-a1cd-ef29e45b9315",
+          "File_Modified": "2024-03-28T20:04:33.027",
+          "File_Name": "FinancialStatement-2023-Tahunan-KBLV.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KBLV/FinancialStatement-2023-Tahunan-KBLV.xlsx",
+          "File_Size": 344685,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "d5b3250a-54f3-46dd-ba62-2ec1df9faa95",
+          "File_Modified": "2024-03-28T20:04:33.027",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KBLV/inlineXBRL.zip",
+          "File_Size": 246205,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "22845fa9-cdf9-4e32-93e7-2ace72eaf5cd",
+          "File_Modified": "2024-03-28T20:04:33.027",
+          "File_Name": "Checklist Pengungkapan Lap Keu KBLV 311223.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KBLV/Checklist Pengungkapan Lap Keu KBLV 311223.pdf",
+          "File_Size": 5942649,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "2514f626-23ad-421c-84a9-69e007082797",
+          "File_Modified": "2024-03-28T20:04:33.027",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KBLV/instance.zip",
+          "File_Size": 121306,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "830d083a-e22b-4290-8da0-7897c77b4283",
+          "File_Modified": "2024-03-28T20:04:33.027",
+          "File_Name": "AnnualReport2023-KBLV-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/3a98b161da_e0d7bc0c3c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "142dc755-1f9c-4535-9f1b-f24149e23e34",
+          "File_Modified": "2024-03-28T20:04:33.027",
+          "File_Name": "AnnualReport2023-KBLV.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f5ce08b3ef_e85a72c370.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "First Media Tbk"
+        }
+      ]
+    }
+  ]
+}

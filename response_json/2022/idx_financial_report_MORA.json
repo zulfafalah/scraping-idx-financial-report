@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MORA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MORA",
+      "File_Modified": "2023-03-06T20:56:49.603",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Mora Telematika Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "838c4372-4004-431c-be66-a87a95b0e543",
+          "File_Modified": "2023-03-06T20:56:49.603",
+          "File_Name": "Surat Pernyataan Aset dan Liabilitas Q4-2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MORA/Surat Pernyataan Aset dan Liabilitas Q4-2022.pdf",
+          "File_Size": 274584,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "e72dbb61-3284-4b95-ab44-e5128318dcb2",
+          "File_Modified": "2023-03-06T20:56:49.603",
+          "File_Name": "AnnualReport2022-MORA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/5c6ec59064_5301e2f575.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "6a91b847-d13f-4e0a-83af-fb05c610ada8",
+          "File_Modified": "2023-03-06T20:56:49.603",
+          "File_Name": "Surat Pernyataan Direksi MTI 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MORA/Surat Pernyataan Direksi MTI 2022.pdf",
+          "File_Size": 425666,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "c6901751-ea34-4445-b4a4-3560b03f7902",
+          "File_Modified": "2023-03-06T20:56:49.603",
+          "File_Name": "1. OJK Checklist LK 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MORA/1. OJK Checklist LK 31 Des 2022.pdf",
+          "File_Size": 838876,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "88f20066-f8b4-43fb-a42b-916f7a85c46c",
+          "File_Modified": "2023-03-06T20:56:49.603",
+          "File_Name": "PT Mora Telematika Indonesia Tbk 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MORA/PT Mora Telematika Indonesia Tbk 2022.pdf",
+          "File_Size": 2413218,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "b8657a25-173a-4d80-a92c-18969a0f8087",
+          "File_Modified": "2023-03-06T20:56:49.603",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MORA/inlineXBRL.zip",
+          "File_Size": 174236,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "28466d65-ece6-4232-9e66-28104cb30081",
+          "File_Modified": "2023-03-06T20:56:49.603",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MORA/instance.zip",
+          "File_Size": 182738,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "70f35451-56d9-49f9-b7fc-5458cf6a95b3",
+          "File_Modified": "2023-03-06T20:56:49.603",
+          "File_Name": "FinancialStatement-2022-Tahunan-MORA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MORA/FinancialStatement-2022-Tahunan-MORA.xlsx",
+          "File_Size": 1186295,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "c4a29ff2-16bf-479f-8178-f85db1aad421",
+          "File_Modified": "2023-03-06T20:56:49.603",
+          "File_Name": "FinancialStatement-2022-Tahunan-MORA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MORA/FinancialStatement-2022-Tahunan-MORA.pdf",
+          "File_Size": 138993,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

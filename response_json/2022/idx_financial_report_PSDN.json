@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PSDN",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PSDN",
+      "File_Modified": "2023-04-12T16:24:56.537",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Prasidha Aneka Niaga Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "2879f803-7126-4f17-a0d0-b306023c9504",
+          "File_Modified": "2023-04-12T16:24:56.537",
+          "File_Name": "FinalReport PTPrasidhaAnekaNiagaTbk R2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PSDN/FinalReport PTPrasidhaAnekaNiagaTbk R2022.pdf",
+          "File_Size": 5092506,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "59abf604-c2b2-442e-aaf1-e36a35f8188e",
+          "File_Modified": "2023-04-12T16:24:56.537",
+          "File_Name": "FinancialStatement-2022-Tahunan-PSDN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PSDN/FinancialStatement-2022-Tahunan-PSDN.pdf",
+          "File_Size": 101786,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "820db7e9-8d0f-4131-81dd-f22223d6ed18",
+          "File_Modified": "2023-04-12T16:24:56.537",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PSDN/instance.zip",
+          "File_Size": 175284,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "4dcd7dbe-35ec-4d1f-8780-c7fb1ff0a942",
+          "File_Modified": "2023-04-12T16:24:56.537",
+          "File_Name": "Check List OJK 12 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PSDN/Check List OJK 12 2022.pdf",
+          "File_Size": 707327,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "def69fef-aca1-4383-b544-3fd9cfb3c317",
+          "File_Modified": "2023-04-12T16:24:56.537",
+          "File_Name": "AnnualReport2022-PSDN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/ea527445c5_0ae5bc3019.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "93e2e52d-de90-44ca-9686-2225cf86b79d",
+          "File_Modified": "2023-04-12T16:24:56.537",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PSDN/inlineXBRL.zip",
+          "File_Size": 156447,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "81c8434e-eb3a-46a2-a469-9e322e8b1808",
+          "File_Modified": "2023-04-12T16:24:56.537",
+          "File_Name": "FinancialStatement-2022-Tahunan-PSDN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PSDN/FinancialStatement-2022-Tahunan-PSDN.xlsx",
+          "File_Size": 1178697,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        }
+      ]
+    }
+  ]
+}

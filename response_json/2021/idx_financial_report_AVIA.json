@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AVIA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AVIA",
+      "File_Modified": "2022-03-17T19:23:49.057",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Avia Avian Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "cbc00ff7-b51a-43da-9e3f-46039aecc8fe",
+          "File_Modified": "2022-03-17T19:23:49.057",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AVIA/instance.zip",
+          "File_Size": 29679,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "df00e115-64dd-4ab2-a414-a1980cdcc4b8",
+          "File_Modified": "2022-03-17T19:23:49.057",
+          "File_Name": "FinancialStatement-2021-Tahunan-AVIA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AVIA/FinancialStatement-2021-Tahunan-AVIA.xlsx",
+          "File_Size": 160441,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "5bb89d9d-5e68-496e-90b3-8c937eabb9ca",
+          "File_Modified": "2022-03-17T19:23:49.057",
+          "File_Name": "FinancialStatement-2021-Tahunan-AVIA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AVIA/FinancialStatement-2021-Tahunan-AVIA.pdf",
+          "File_Size": 64057,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "12971bfc-5910-4626-8ec1-989687fb9a85",
+          "File_Modified": "2022-03-17T19:23:49.057",
+          "File_Name": "Avia Avian_Bilingual_Consol_31_Desember_2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AVIA/Avia Avian_Bilingual_Consol_31_Desember_2021.pdf",
+          "File_Size": 3403713,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "23b33117-9a1a-44ca-aad9-99aedf8199c3",
+          "File_Modified": "2022-03-17T19:23:49.057",
+          "File_Name": "OJK Checklist Signed Materai.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AVIA/OJK Checklist Signed Materai.pdf",
+          "File_Size": 1574674,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "880aeeef-ec9f-4c00-bbd9-410daa3f0a54",
+          "File_Modified": "2022-03-17T19:23:49.057",
+          "File_Name": "AVIA_Perubahan Aset dan Liabilitas 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AVIA/AVIA_Perubahan Aset dan Liabilitas 31 Des 2021.pdf",
+          "File_Size": 839905,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "e3c05825-901a-473a-a30d-893ff0ed0f99",
+          "File_Modified": "2022-03-17T19:23:49.057",
+          "File_Name": "AVIA_019_Penyampaian LK Konsolidasi 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AVIA/AVIA_019_Penyampaian LK Konsolidasi 31 Des 2021.pdf",
+          "File_Size": 830302,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "e3b50739-9e2f-4d9a-b6bd-e54bc34afea2",
+          "File_Modified": "2022-03-17T19:23:49.057",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/AVIA/inlineXBRL.zip",
+          "File_Size": 59861,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        }
+      ]
+    }
+  ]
+}

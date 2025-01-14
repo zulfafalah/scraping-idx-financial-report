@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "WIFI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "WIFI",
+      "File_Modified": "2022-04-28T20:47:44.513",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Solusi Sinergi Digital Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "WIFI",
+          "File_ID": "c817dbe7-6b44-4d18-bcd8-15d902e88eb3",
+          "File_Modified": "2022-04-28T20:47:44.513",
+          "File_Name": "Penjelasan Perubahan Aset dan Liabilitas PT SSD.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WIFI/Penjelasan Perubahan Aset dan Liabilitas PT SSD.pdf",
+          "File_Size": 241486,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Solusi Sinergi Digital Tbk"
+        },
+        {
+          "Emiten_Code": "WIFI",
+          "File_ID": "ba083c73-40a0-40d1-b99b-8d63ea654019",
+          "File_Modified": "2022-04-28T20:47:44.513",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WIFI/inlineXBRL.zip",
+          "File_Size": 59429,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Solusi Sinergi Digital Tbk"
+        },
+        {
+          "Emiten_Code": "WIFI",
+          "File_ID": "ed3a0c02-ab58-45a3-bbdc-e1b6e28ec9a3",
+          "File_Modified": "2022-04-28T20:47:44.513",
+          "File_Name": "FinancialStatement-2021-Tahunan-WIFI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WIFI/FinancialStatement-2021-Tahunan-WIFI.pdf",
+          "File_Size": 53200,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Solusi Sinergi Digital Tbk"
+        },
+        {
+          "Emiten_Code": "WIFI",
+          "File_ID": "aa62184b-316a-4cd7-8215-e72b082b5ea1",
+          "File_Modified": "2022-04-28T20:47:44.513",
+          "File_Name": "AnnualReport2021-WIFI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202206/862bffedae_f371eddcf8.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Solusi Sinergi Digital Tbk"
+        },
+        {
+          "Emiten_Code": "WIFI",
+          "File_ID": "aee23a11-cd23-4f5c-958f-27d2a025f1a7",
+          "File_Modified": "2022-04-28T20:47:44.513",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WIFI/instance.zip",
+          "File_Size": 29049,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Solusi Sinergi Digital Tbk"
+        },
+        {
+          "Emiten_Code": "WIFI",
+          "File_ID": "bb64ee72-785c-4aa7-b53d-a0e06e9bb94d",
+          "File_Modified": "2022-04-28T20:47:44.513",
+          "File_Name": "FinancialStatement-2021-Tahunan-WIFI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WIFI/FinancialStatement-2021-Tahunan-WIFI.xlsx",
+          "File_Size": 159774,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Solusi Sinergi Digital Tbk"
+        },
+        {
+          "Emiten_Code": "WIFI",
+          "File_ID": "b65f3e34-4c07-4059-afdc-2dfc728096fe",
+          "File_Modified": "2022-04-28T20:47:44.513",
+          "File_Name": "Final_Report_PT SSD_2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WIFI/Final_Report_PT SSD_2021.pdf",
+          "File_Size": 2054336,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Solusi Sinergi Digital Tbk"
+        }
+      ]
+    }
+  ]
+}

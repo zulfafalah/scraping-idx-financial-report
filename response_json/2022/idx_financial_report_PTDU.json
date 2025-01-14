@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PTDU",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PTDU",
+      "File_Modified": "2023-04-12T09:40:34.087",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Djasa Ubersakti Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PTDU",
+          "File_ID": "eafb184d-e779-4a40-8187-3989180353b9",
+          "File_Modified": "2023-04-12T09:40:34.087",
+          "File_Name": "FinancialStatement-2022-Tahunan-PTDU.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PTDU/FinancialStatement-2022-Tahunan-PTDU.pdf",
+          "File_Size": 84208,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Djasa Ubersakti Tbk"
+        },
+        {
+          "Emiten_Code": "PTDU",
+          "File_ID": "7ccb490c-d6a1-4d3d-ac11-dba0b68b65ea",
+          "File_Modified": "2023-04-12T09:40:34.087",
+          "File_Name": "LK PTDU 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PTDU/LK PTDU 2022.pdf",
+          "File_Size": 2307455,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Djasa Ubersakti Tbk"
+        },
+        {
+          "Emiten_Code": "PTDU",
+          "File_ID": "2b5255e9-5389-467f-aba6-eeeaae3ac527",
+          "File_Modified": "2023-04-12T09:40:34.087",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PTDU/instance.zip",
+          "File_Size": 153156,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Djasa Ubersakti Tbk"
+        },
+        {
+          "Emiten_Code": "PTDU",
+          "File_ID": "a7519617-5e41-4473-9a75-03aaf4ee9a8c",
+          "File_Modified": "2023-04-12T09:40:34.087",
+          "File_Name": "FinancialStatement-2022-Tahunan-PTDU.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PTDU/FinancialStatement-2022-Tahunan-PTDU.xlsx",
+          "File_Size": 1129754,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Djasa Ubersakti Tbk"
+        },
+        {
+          "Emiten_Code": "PTDU",
+          "File_ID": "45ac4c53-6bae-4c3c-9944-34d86e6ba7eb",
+          "File_Modified": "2023-04-12T09:40:34.087",
+          "File_Name": "Ceklis PTDU dan Entitas Anak 31 Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PTDU/Ceklis PTDU dan Entitas Anak 31 Desember 2022.pdf",
+          "File_Size": 1229539,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Djasa Ubersakti Tbk"
+        },
+        {
+          "Emiten_Code": "PTDU",
+          "File_ID": "5670ae08-e994-40ed-95a5-41cd6ea5b26e",
+          "File_Modified": "2023-04-12T09:40:34.087",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PTDU/inlineXBRL.zip",
+          "File_Size": 114103,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Djasa Ubersakti Tbk"
+        },
+        {
+          "Emiten_Code": "PTDU",
+          "File_ID": "31740300-1d40-4264-94dc-49a1fd96911e",
+          "File_Modified": "2023-04-12T09:40:34.087",
+          "File_Name": "AnnualReport2022-PTDU-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/04eeaf7a1b_e7ffe04ce2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Djasa Ubersakti Tbk"
+        },
+        {
+          "Emiten_Code": "PTDU",
+          "File_ID": "581f709f-cd2d-4f0f-bdc4-f9f1223b4d2f",
+          "File_Modified": "2023-04-12T09:40:34.087",
+          "File_Name": "PTDU - Materi PUBEX 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PTDU/PTDU - Materi PUBEX 2023.pdf",
+          "File_Size": 3007341,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Djasa Ubersakti Tbk"
+        }
+      ]
+    }
+  ]
+}

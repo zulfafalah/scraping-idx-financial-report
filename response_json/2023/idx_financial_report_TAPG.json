@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TAPG",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TAPG",
+      "File_Modified": "2024-03-08T16:16:16.893",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Triputra Agro Persada Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "699bf8cc-0f92-4f5f-89e1-00ba0ca9b678",
+          "File_Modified": "2024-03-08T16:16:16.893",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAPG/instance.zip",
+          "File_Size": 145576,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "7d013217-d13d-421e-9f0e-336378762cfe",
+          "File_Modified": "2024-03-08T16:16:16.893",
+          "File_Name": "Penyampaian TAPG LK Q4 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAPG/Penyampaian TAPG LK Q4 2023.pdf",
+          "File_Size": 373200,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "54ad425f-5fb2-42e1-81cb-d875b5e52eee",
+          "File_Modified": "2024-03-08T16:16:16.893",
+          "File_Name": "FinancialStatement-2023-Tahunan-TAPG.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAPG/FinancialStatement-2023-Tahunan-TAPG.xlsx",
+          "File_Size": 384331,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "97da2f75-8ebe-40c3-9d50-0cffb984b325",
+          "File_Modified": "2024-03-08T16:16:16.893",
+          "File_Name": "AnnualReport2023-TAPG-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/83c6267b07_ef16e01845.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "3c4e2d1c-783d-4447-adfd-19d1a5da832c",
+          "File_Modified": "2024-03-08T16:16:16.893",
+          "File_Name": "FinancialStatement-2023-Tahunan-TAPG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAPG/FinancialStatement-2023-Tahunan-TAPG.pdf",
+          "File_Size": 747477,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "3af6b0f4-7bab-40a7-8899-315dc58cbb36",
+          "File_Modified": "2024-03-08T16:16:16.893",
+          "File_Name": "TAPG Penjelasan Atas Perubahan Lebih Dari 20Pct.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAPG/TAPG Penjelasan Atas Perubahan Lebih Dari 20Pct.pdf",
+          "File_Size": 573797,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "32c974ca-4fac-401f-b793-5b8bb70b0f0b",
+          "File_Modified": "2024-03-08T16:16:16.893",
+          "File_Name": "AnnualReport2023-TAPG-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/fa92ecdafd_98690df5c4.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "a97d3357-698e-4e13-a1a6-7087ce4f5722",
+          "File_Modified": "2024-03-08T16:16:16.893",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAPG/inlineXBRL.zip",
+          "File_Size": 282083,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "4f0e0fde-f40c-421b-aa4b-f21b07264c56",
+          "File_Modified": "2024-03-08T16:16:16.893",
+          "File_Name": "TAPG LK Q4 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAPG/TAPG LK Q4 2023.pdf",
+          "File_Size": 1027612,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "a83d0b0d-38b0-4dba-b4b5-fcb97d94de7a",
+          "File_Modified": "2024-03-08T16:16:16.893",
+          "File_Name": "AnnualReport2023-TAPG.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/758e8d3008_0e1b280847.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        }
+      ]
+    }
+  ]
+}

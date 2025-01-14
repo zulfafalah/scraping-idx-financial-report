@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BSDE",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BSDE",
+      "File_Modified": "2023-03-10T12:45:14.177",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Bumi Serpong Damai Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "c63cc240-da50-42bc-90d9-57d2f2876cfe",
+          "File_Modified": "2023-03-10T12:45:14.177",
+          "File_Name": "FinancialStatement-2022-Tahunan-BSDE.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSDE/FinancialStatement-2022-Tahunan-BSDE.xlsx",
+          "File_Size": 1275447,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "6bb33f4f-52e0-40b8-848d-04b05c636ae0",
+          "File_Modified": "2023-03-10T12:45:14.177",
+          "File_Name": "BSDE Surat Pernyataan Direksi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSDE/BSDE Surat Pernyataan Direksi.pdf",
+          "File_Size": 81305,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "6b5be8e1-086e-43a2-a073-7b09b83759a8",
+          "File_Modified": "2023-03-10T12:45:14.177",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSDE/instance.zip",
+          "File_Size": 186614,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "cd7d44c8-d482-446a-8f7b-bea1f25d3f19",
+          "File_Modified": "2023-03-10T12:45:14.177",
+          "File_Name": "FinancialStatement-2022-Tahunan-BSDE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSDE/FinancialStatement-2022-Tahunan-BSDE.pdf",
+          "File_Size": 209829,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "7535e5d9-997c-441e-baf2-98759cd2bce5",
+          "File_Modified": "2023-03-10T12:45:14.177",
+          "File_Name": "021.IR-CS.BSD.III.2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSDE/021.IR-CS.BSD.III.2023.pdf",
+          "File_Size": 46800,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "bb6ca6cc-7b3c-4745-a78e-6101d266236d",
+          "File_Modified": "2023-03-10T12:45:14.177",
+          "File_Name": "BSDE LK 31 Desember  2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSDE/BSDE LK 31 Desember  2022.pdf",
+          "File_Size": 2828454,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "75595479-cdef-469f-a613-8a475129335f",
+          "File_Modified": "2023-03-10T12:45:14.177",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSDE/inlineXBRL.zip",
+          "File_Size": 217288,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "87316ef3-6520-496a-b912-e8a7a2306f92",
+          "File_Modified": "2023-03-10T12:45:14.177",
+          "File_Name": "AnnualReport2022-BSDE-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/8901c4ddde_8ed6630039.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "e5587025-5cc2-4df9-bae6-ef22dd3bd6dc",
+          "File_Modified": "2023-03-10T12:45:14.177",
+          "File_Name": "BSDE Checklist 31.12.2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSDE/BSDE Checklist 31.12.2022.pdf",
+          "File_Size": 7139898,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        }
+      ]
+    }
+  ]
+}

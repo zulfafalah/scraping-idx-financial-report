@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GZCO",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GZCO",
+      "File_Modified": "2024-03-30T19:17:42.017",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Gozco Plantations Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "238b729a-1df1-4cec-8319-2b5de4422c81",
+          "File_Modified": "2024-03-30T19:17:42.017",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GZCO/instance.zip",
+          "File_Size": 121221,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "c8d868c0-0a23-409c-9f05-983eeabd278a",
+          "File_Modified": "2024-03-30T19:17:42.017",
+          "File_Name": "AnnualReport2023-GZCO.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/d09bb66859_645696520f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "a0ddbeb3-aba9-4a0b-95fe-5d5f2eca353c",
+          "File_Modified": "2024-03-30T19:17:42.017",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GZCO/inlineXBRL.zip",
+          "File_Size": 235702,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "d50fcfca-945a-46d4-bf45-803573ab7de9",
+          "File_Modified": "2024-03-30T19:17:42.017",
+          "File_Name": "AnnualReport2023-GZCO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/68f70c9dee_6a13d15cc9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "af8dc247-1496-498a-ab33-a1455aaf8225",
+          "File_Modified": "2024-03-30T19:17:42.017",
+          "File_Name": "FinancialStatement-2023-Tahunan-GZCO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GZCO/FinancialStatement-2023-Tahunan-GZCO.xlsx",
+          "File_Size": 329040,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "77b030fe-37e3-443e-a4ea-0cfe40e27fd8",
+          "File_Modified": "2024-03-30T19:17:42.017",
+          "File_Name": "00036 PT Gozco Plantations Tbk 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GZCO/00036 PT Gozco Plantations Tbk 2023.pdf",
+          "File_Size": 9956426,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "f1101e75-fed2-4b28-b9c0-5b618697a54e",
+          "File_Modified": "2024-03-30T19:17:42.017",
+          "File_Name": "OJK disclosure checklist 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GZCO/OJK disclosure checklist 2023.pdf",
+          "File_Size": 506671,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "c8239dbc-5f90-401b-9fc0-b312fb352990",
+          "File_Modified": "2024-03-30T19:17:42.017",
+          "File_Name": "FinancialStatement-2023-Tahunan-GZCO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GZCO/FinancialStatement-2023-Tahunan-GZCO.pdf",
+          "File_Size": 676453,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        }
+      ]
+    }
+  ]
+}

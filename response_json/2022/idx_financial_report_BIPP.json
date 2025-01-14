@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BIPP",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BIPP",
+      "File_Modified": "2023-04-11T11:56:41.883",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Bhuwanatala Indah Permai Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BIPP",
+          "File_ID": "6292f529-2566-4a21-beb9-436c7261d751",
+          "File_Modified": "2023-04-11T11:56:41.883",
+          "File_Name": "AnnualReport2022-BIPP-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/b8c8728b0e_1483a177e3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bhuwanatala Indah Permai Tbk"
+        },
+        {
+          "Emiten_Code": "BIPP",
+          "File_ID": "e1914ec6-cfb5-4d7e-8dda-663970d414d4",
+          "File_Modified": "2023-04-11T11:56:41.883",
+          "File_Name": "FinancialStatement-2022-Tahunan-BIPP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BIPP/FinancialStatement-2022-Tahunan-BIPP.xlsx",
+          "File_Size": 1144898,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bhuwanatala Indah Permai Tbk"
+        },
+        {
+          "Emiten_Code": "BIPP",
+          "File_ID": "c61fde61-2d86-4ba2-b08b-f64c3db4f34c",
+          "File_Modified": "2023-04-11T11:56:41.883",
+          "File_Name": "CEKLIST Des 2022 BIPP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BIPP/CEKLIST Des 2022 BIPP.pdf",
+          "File_Size": 1672897,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bhuwanatala Indah Permai Tbk"
+        },
+        {
+          "Emiten_Code": "BIPP",
+          "File_ID": "10438b12-9dd6-4f35-9884-99ac69e84e44",
+          "File_Modified": "2023-04-11T11:56:41.883",
+          "File_Name": "FinancialStatement-2022-Tahunan-BIPP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BIPP/FinancialStatement-2022-Tahunan-BIPP.pdf",
+          "File_Size": 178681,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bhuwanatala Indah Permai Tbk"
+        },
+        {
+          "Emiten_Code": "BIPP",
+          "File_ID": "7d8af422-ff0e-4244-9f9b-db8ec4edbbb6",
+          "File_Modified": "2023-04-11T11:56:41.883",
+          "File_Name": "Signed Report BIPP - Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BIPP/Signed Report BIPP - Desember 2022.pdf",
+          "File_Size": 3077958,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bhuwanatala Indah Permai Tbk"
+        },
+        {
+          "Emiten_Code": "BIPP",
+          "File_ID": "03aa1fc7-3489-45b5-8023-3bd9c711ba8b",
+          "File_Modified": "2023-04-11T11:56:41.883",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BIPP/instance.zip",
+          "File_Size": 179403,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bhuwanatala Indah Permai Tbk"
+        },
+        {
+          "Emiten_Code": "BIPP",
+          "File_ID": "36c2e762-7f04-4c43-94f2-86444fc6b05e",
+          "File_Modified": "2023-04-11T11:56:41.883",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BIPP/inlineXBRL.zip",
+          "File_Size": 181472,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bhuwanatala Indah Permai Tbk"
+        },
+        {
+          "Emiten_Code": "BIPP",
+          "File_ID": "f604fe72-61ef-4ce6-aff0-ea316496bb3e",
+          "File_Modified": "2023-04-11T11:56:41.883",
+          "File_Name": "DSL BIPP Dec 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BIPP/DSL BIPP Dec 2022.pdf",
+          "File_Size": 480406,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bhuwanatala Indah Permai Tbk"
+        }
+      ]
+    }
+  ]
+}

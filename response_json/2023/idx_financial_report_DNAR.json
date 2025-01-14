@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DNAR",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DNAR",
+      "File_Modified": "2024-03-22T10:58:41.443",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Bank Oke Indonesia Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "c54b7a59-6f69-4f0e-9d11-866096ab056b",
+          "File_Modified": "2024-03-22T10:58:41.443",
+          "File_Name": "AnnualReport2023-DNAR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7c5fe5ce6d_e16f04b1f7.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "6bcfc347-4116-480a-8e4d-f804b054421e",
+          "File_Modified": "2024-03-22T10:58:41.443",
+          "File_Name": "AnnualReport2023-DNAR-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f10ef86789_d66a20ed2d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "33eabc1f-fb5f-4419-a8e1-e4e67c0e28b3",
+          "File_Modified": "2024-03-22T10:58:41.443",
+          "File_Name": "AnnualReport2023-DNAR.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/eed601f1bc_48024b992d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "416cf442-ae7b-43db-812e-8cb9c85d2d73",
+          "File_Modified": "2024-03-22T10:58:41.443",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DNAR/inlineXBRL.zip",
+          "File_Size": 158951,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "c8431489-0ec8-4796-bd0b-91ba56d71110",
+          "File_Modified": "2024-03-22T10:58:41.443",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DNAR/instance.zip",
+          "File_Size": 68920,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "450edf2b-9a4d-432f-a91a-d205ead27945",
+          "File_Modified": "2024-03-22T10:58:41.443",
+          "File_Name": "131 Penyampaian LKT 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DNAR/131 Penyampaian LKT 31 Desember 2023.pdf",
+          "File_Size": 653335,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "ba8e78d9-7273-4c5c-bca9-13c2dfe1ce74",
+          "File_Modified": "2024-03-22T10:58:41.443",
+          "File_Name": "A2_Final Report_BOI_31Des23.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DNAR/A2_Final Report_BOI_31Des23.pdf",
+          "File_Size": 3768130,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "97c28bf8-589e-4ce6-b75f-8aa956de2cbb",
+          "File_Modified": "2024-03-22T10:58:41.443",
+          "File_Name": "FinancialStatement-2023-Tahunan-DNAR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DNAR/FinancialStatement-2023-Tahunan-DNAR.xlsx",
+          "File_Size": 69966,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "DNAR",
+          "File_ID": "2f8473f1-caf1-4ddb-8f65-a87fc0150f62",
+          "File_Modified": "2024-03-22T10:58:41.443",
+          "File_Name": "FinancialStatement-2023-Tahunan-DNAR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DNAR/FinancialStatement-2023-Tahunan-DNAR.pdf",
+          "File_Size": 321192,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Oke Indonesia Tbk."
+        }
+      ]
+    }
+  ]
+}

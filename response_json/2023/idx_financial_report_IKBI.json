@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IKBI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IKBI",
+      "File_Modified": "2024-06-27T08:51:39.013",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Sumi Indo Kabel Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "f71a32b0-1350-46f3-b141-ac18bb808e0d",
+          "File_Modified": "2024-06-27T08:51:39.013",
+          "File_Name": "AnnualReport2023-IKBI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202407/0db18e12e9_087a0227e6.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "73c4f51f-82aa-40f2-9d8f-9cc3da906e00",
+          "File_Modified": "2024-06-27T08:51:39.013",
+          "File_Name": "AnnualReport2023-IKBI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202407/bcfde408ea_a044868922.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "c4cc0bae-4c5e-4e73-84b3-1c54f490cf09",
+          "File_Modified": "2024-06-27T08:51:39.013",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKBI/instance.zip",
+          "File_Size": 116727,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "1900de53-65b0-41ec-a365-224d5f5f53c6",
+          "File_Modified": "2024-06-27T08:51:39.013",
+          "File_Name": "Surat Penjelasan Liabilitas per 31 Maret 2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKBI/Surat Penjelasan Liabilitas per 31 Maret 2024.pdf",
+          "File_Size": 513113,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "3a7362f9-3dd3-46e1-b4ad-2b736a32a1e4",
+          "File_Modified": "2024-06-27T08:51:39.013",
+          "File_Name": "FinancialStatement-2023-Tahunan-IKBI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKBI/FinancialStatement-2023-Tahunan-IKBI.pdf",
+          "File_Size": 799056,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "306bd6a1-29d5-4017-a777-631258d5dde6",
+          "File_Modified": "2024-06-27T08:51:39.013",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKBI/inlineXBRL.zip",
+          "File_Size": 229790,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "0bc6809d-980e-4104-b0fa-ba3d957534b8",
+          "File_Modified": "2024-06-27T08:51:39.013",
+          "File_Name": "Sumi Indo Kabel Billingual 31_Mar_2024_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKBI/Sumi Indo Kabel Billingual 31_Mar_2024_released.pdf",
+          "File_Size": 1690796,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "5358b22a-3ae9-4e79-b65c-075b6a62f2cf",
+          "File_Modified": "2024-06-27T08:51:39.013",
+          "File_Name": "FinancialStatement-2023-Tahunan-IKBI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKBI/FinancialStatement-2023-Tahunan-IKBI.xlsx",
+          "File_Size": 322697,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "7b4f7691-e152-489f-9d31-3c61e82d0792",
+          "File_Modified": "2024-06-27T08:51:39.013",
+          "File_Name": "Surat Pernyataan Direksi per 31 Mar 2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKBI/Surat Pernyataan Direksi per 31 Mar 2024.pdf",
+          "File_Size": 460635,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        }
+      ]
+    }
+  ]
+}

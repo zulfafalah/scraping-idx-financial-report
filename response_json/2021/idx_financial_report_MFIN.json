@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MFIN",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MFIN",
+      "File_Modified": "2022-03-17T17:33:53.3",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Mandala Multifinance Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "0e86980c-1601-432e-9a7f-03173737f522",
+          "File_Modified": "2022-03-17T17:33:53.3",
+          "File_Name": "FinancialStatement-2021-Tahunan-MFIN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MFIN/FinancialStatement-2021-Tahunan-MFIN.pdf",
+          "File_Size": 45525,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "2ebf015e-3e9d-4c9c-949b-6444db93b989",
+          "File_Modified": "2022-03-17T17:33:53.3",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MFIN/instance.zip",
+          "File_Size": 29448,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "f60d61ae-7401-443c-96ee-8fa24011b7f0",
+          "File_Modified": "2022-03-17T17:33:53.3",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MFIN/inlineXBRL.zip",
+          "File_Size": 58648,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "1dd086f2-7025-4d19-aa7b-7a3a7776fc58",
+          "File_Modified": "2022-03-17T17:33:53.3",
+          "File_Name": "FinancialStatement-2021-Tahunan-MFIN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MFIN/FinancialStatement-2021-Tahunan-MFIN.xlsx",
+          "File_Size": 160087,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "4a5ef3c5-f230-450e-8840-4957eb179098",
+          "File_Modified": "2022-03-17T17:33:53.3",
+          "File_Name": "Penjelasan Atas Perubahan Lebih Dari 20.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MFIN/Penjelasan Atas Perubahan Lebih Dari 20.pdf",
+          "File_Size": 82367,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "ee480561-158e-46a7-910e-825030f7640d",
+          "File_Modified": "2022-03-17T17:33:53.3",
+          "File_Name": "AnnualReport2021-MFIN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/74120093a8_417564a6f0.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "d4fb04e9-1fc3-455a-b973-e46124b64267",
+          "File_Modified": "2022-03-17T17:33:53.3",
+          "File_Name": "Surat Pernyataan Direksi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MFIN/Surat Pernyataan Direksi.pdf",
+          "File_Size": 83020,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "eac3068b-ff0d-4566-81af-e4cf3726f615",
+          "File_Modified": "2022-03-17T17:33:53.3",
+          "File_Name": "LKFS MFIN_2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MFIN/LKFS MFIN_2021.pdf",
+          "File_Size": 3101119,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "2ff6515c-fbb1-455a-b284-ff934deb43ea",
+          "File_Modified": "2022-03-17T17:33:53.3",
+          "File_Name": "Surat penyampaian Laporan Tahunan 2021_MFIN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MFIN/Surat penyampaian Laporan Tahunan 2021_MFIN.pdf",
+          "File_Size": 73061,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        }
+      ]
+    }
+  ]
+}

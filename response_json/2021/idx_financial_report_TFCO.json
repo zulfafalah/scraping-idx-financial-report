@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TFCO",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TFCO",
+      "File_Modified": "2022-04-27T16:59:59.45",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Tifico Fiber Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TFCO",
+          "File_ID": "6a73e88b-b926-4777-9760-1bb4571a8f09",
+          "File_Modified": "2022-04-27T16:59:59.45",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TFCO/inlineXBRL.zip",
+          "File_Size": 58549,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tifico Fiber Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "TFCO",
+          "File_ID": "8f410ede-c42b-421b-a448-26be97af5616",
+          "File_Modified": "2022-04-27T16:59:59.45",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TFCO/instance.zip",
+          "File_Size": 28480,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tifico Fiber Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "TFCO",
+          "File_ID": "532863a5-ef31-4626-abd4-a7b7d50de028",
+          "File_Modified": "2022-04-27T16:59:59.45",
+          "File_Name": "AnnualReport2021-TFCO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/5bdaf8e737_44e72c2f36.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tifico Fiber Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "TFCO",
+          "File_ID": "6522fb32-141c-4c0d-b4d4-3c89a7347f87",
+          "File_Modified": "2022-04-27T16:59:59.45",
+          "File_Name": "Surat Pernyataan Direksi atas L K Jan-Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TFCO/Surat Pernyataan Direksi atas L K Jan-Des 2021.pdf",
+          "File_Size": 393725,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tifico Fiber Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "TFCO",
+          "File_ID": "77c4dc25-c6f7-463d-8463-0676d048fe29",
+          "File_Modified": "2022-04-27T16:59:59.45",
+          "File_Name": "Surat Pengantar L K  Jan-Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TFCO/Surat Pengantar L K  Jan-Des 2021.pdf",
+          "File_Size": 236201,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tifico Fiber Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "TFCO",
+          "File_ID": "985dbb80-868f-438e-88f4-68b1a9ab52e4",
+          "File_Modified": "2022-04-27T16:59:59.45",
+          "File_Name": "FinancialStatement-2021-Tahunan-TFCO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TFCO/FinancialStatement-2021-Tahunan-TFCO.pdf",
+          "File_Size": 46750,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tifico Fiber Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "TFCO",
+          "File_ID": "5619c065-e505-41d4-bd27-0075058ca128",
+          "File_Modified": "2022-04-27T16:59:59.45",
+          "File_Name": "FinancialStatement-2021-Tahunan-TFCO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TFCO/FinancialStatement-2021-Tahunan-TFCO.xlsx",
+          "File_Size": 159067,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tifico Fiber Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "TFCO",
+          "File_ID": "6b7f8e7b-f625-4560-b81b-16327bebba26",
+          "File_Modified": "2022-04-27T16:59:59.45",
+          "File_Name": "tifico fiber indonesia 31 des 21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TFCO/tifico fiber indonesia 31 des 21.pdf",
+          "File_Size": 2320848,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tifico Fiber Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

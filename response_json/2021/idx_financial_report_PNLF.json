@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PNLF",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PNLF",
+      "File_Modified": "2022-04-28T20:27:53.8",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Panin Financial Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "2cb8e839-bec3-44b1-bd8c-747573148be1",
+          "File_Modified": "2022-04-28T20:27:53.8",
+          "File_Name": "Iklan Lap Keu PT Panin Financial Tbk 31122021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNLF/Iklan Lap Keu PT Panin Financial Tbk 31122021.pdf",
+          "File_Size": 1101641,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "b06bb0db-8d71-464c-9ffb-d9c7f7ae54a1",
+          "File_Modified": "2022-04-28T20:27:53.8",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNLF/instance.zip",
+          "File_Size": 24118,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "27c2f997-a3c0-417b-9b28-f3905c173db3",
+          "File_Modified": "2022-04-28T20:27:53.8",
+          "File_Name": "Financial Report PNLF 31122021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNLF/Financial Report PNLF 31122021.pdf",
+          "File_Size": 5223861,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "6d4032f0-eb87-49e0-8a58-d5fe0579083c",
+          "File_Modified": "2022-04-28T20:27:53.8",
+          "File_Name": "030-IV-PF-2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNLF/030-IV-PF-2022.pdf",
+          "File_Size": 432202,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "54d0ccf1-5b6b-433a-bdc4-e92ce35e0866",
+          "File_Modified": "2022-04-28T20:27:53.8",
+          "File_Name": "CHECKLIST LAP  KEU_PT Panin Financial Tbk 31122021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNLF/CHECKLIST LAP  KEU_PT Panin Financial Tbk 31122021.pdf",
+          "File_Size": 1243019,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "6971e410-fc93-4636-a05a-225dee098d2a",
+          "File_Modified": "2022-04-28T20:27:53.8",
+          "File_Name": "AnnualReport2021-PNLF-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/f4e497abb2_1caae5ce05.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "1edddf0e-073b-48fa-9ff5-367b41b5a5c0",
+          "File_Modified": "2022-04-28T20:27:53.8",
+          "File_Name": "FinancialStatement-2021-Tahunan-PNLF.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNLF/FinancialStatement-2021-Tahunan-PNLF.xlsx",
+          "File_Size": 146938,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "95093993-8d30-49a0-82e2-43303080269e",
+          "File_Modified": "2022-04-28T20:27:53.8",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNLF/inlineXBRL.zip",
+          "File_Size": 46859,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "8ec1c5e5-b878-4d0c-88e6-500d034cc866",
+          "File_Modified": "2022-04-28T20:27:53.8",
+          "File_Name": "FinancialStatement-2021-Tahunan-PNLF.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNLF/FinancialStatement-2021-Tahunan-PNLF.pdf",
+          "File_Size": 50425,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "b50a789f-3829-42f1-acb1-cfd138b465cb",
+          "File_Modified": "2022-04-28T20:27:53.8",
+          "File_Name": "031-IV-PF-2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PNLF/031-IV-PF-2022.pdf",
+          "File_Size": 482123,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Panin Financial Tbk"
+        }
+      ]
+    }
+  ]
+}

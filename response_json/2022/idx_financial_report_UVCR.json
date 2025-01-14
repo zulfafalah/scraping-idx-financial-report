@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "UVCR",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "UVCR",
+      "File_Modified": "2023-04-12T14:11:37.627",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Trimegah Karya Pratama Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "UVCR",
+          "File_ID": "29848e90-ec3d-45ef-90bd-374064ac7101",
+          "File_Modified": "2023-04-12T14:11:37.627",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/UVCR/inlineXBRL.zip",
+          "File_Size": 185831,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimegah Karya Pratama Tbk."
+        },
+        {
+          "Emiten_Code": "UVCR",
+          "File_ID": "81fd4564-4c88-48ab-aa4a-44482f8f28d6",
+          "File_Modified": "2023-04-12T14:11:37.627",
+          "File_Name": "LAI Trimegah Karya Pratama Tbk 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/UVCR/LAI Trimegah Karya Pratama Tbk 2022.pdf",
+          "File_Size": 5326492,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimegah Karya Pratama Tbk."
+        },
+        {
+          "Emiten_Code": "UVCR",
+          "File_ID": "c6f441ab-d1d8-410e-8a84-6673d7419d2c",
+          "File_Modified": "2023-04-12T14:11:37.627",
+          "File_Name": "FinancialStatement-2022-Tahunan-UVCR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/UVCR/FinancialStatement-2022-Tahunan-UVCR.pdf",
+          "File_Size": 131448,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimegah Karya Pratama Tbk."
+        },
+        {
+          "Emiten_Code": "UVCR",
+          "File_ID": "9834acc9-ff95-4dee-b924-4f2f86dc2ffe",
+          "File_Modified": "2023-04-12T14:11:37.627",
+          "File_Name": "Surat Pernyataan Direksi - TKP 2022 (Signed).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/UVCR/Surat Pernyataan Direksi - TKP 2022 (Signed).pdf",
+          "File_Size": 91251,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimegah Karya Pratama Tbk."
+        },
+        {
+          "Emiten_Code": "UVCR",
+          "File_ID": "10e5f648-4f82-4b2c-a6c0-e1271073ad87",
+          "File_Modified": "2023-04-12T14:11:37.627",
+          "File_Name": "UVCR_Perubahan Aset dan Liabilitas 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/UVCR/UVCR_Perubahan Aset dan Liabilitas 2022.pdf",
+          "File_Size": 81322,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimegah Karya Pratama Tbk."
+        },
+        {
+          "Emiten_Code": "UVCR",
+          "File_ID": "a6211d02-676b-4b92-a2fe-2d90184ca093",
+          "File_Modified": "2023-04-12T14:11:37.627",
+          "File_Name": "FinancialStatement-2022-Tahunan-UVCR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/UVCR/FinancialStatement-2022-Tahunan-UVCR.xlsx",
+          "File_Size": 1187678,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimegah Karya Pratama Tbk."
+        },
+        {
+          "Emiten_Code": "UVCR",
+          "File_ID": "bc23f271-ea02-45b1-a3a7-3a66a9f7509d",
+          "File_Modified": "2023-04-12T14:11:37.627",
+          "File_Name": "AnnualReport2022-UVCR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/5b06b81286_7e11d19dc3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimegah Karya Pratama Tbk."
+        },
+        {
+          "Emiten_Code": "UVCR",
+          "File_ID": "f8cdb934-a151-46bc-a3e5-71458958521b",
+          "File_Modified": "2023-04-12T14:11:37.627",
+          "File_Name": "Checklist OJK UVCR_Updated tahun 2022 .pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/UVCR/Checklist OJK UVCR_Updated tahun 2022 .pdf",
+          "File_Size": 1237604,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimegah Karya Pratama Tbk."
+        },
+        {
+          "Emiten_Code": "UVCR",
+          "File_ID": "f1fc0d28-5178-4fe9-aa53-ea692d39929d",
+          "File_Modified": "2023-04-12T14:11:37.627",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/UVCR/instance.zip",
+          "File_Size": 182376,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimegah Karya Pratama Tbk."
+        }
+      ]
+    }
+  ]
+}

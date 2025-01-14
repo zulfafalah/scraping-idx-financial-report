@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SUPR",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SUPR",
+      "File_Modified": "2024-03-28T19:18:06.017",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Solusi Tunas Pratama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "1abdd710-deaa-402b-a8e4-0478eeb519a4",
+          "File_Modified": "2024-03-28T19:18:06.017",
+          "File_Name": "FS Audit Report PT Solusi Tunas Pratama Tbk_2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SUPR/FS Audit Report PT Solusi Tunas Pratama Tbk_2023.pdf",
+          "File_Size": 7346693,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "267ae694-840e-4b84-a10f-e7a90f11af66",
+          "File_Modified": "2024-03-28T19:18:06.017",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SUPR/inlineXBRL.zip",
+          "File_Size": 243816,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "9b2cdaeb-3609-4aa4-bc66-e8188c0930d9",
+          "File_Modified": "2024-03-28T19:18:06.017",
+          "File_Name": "AnnualReport2023-SUPR-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/ff6a93af19_29069e464f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "fb9f9ef6-a7b4-4bc8-80dc-eeb20f094055",
+          "File_Modified": "2024-03-28T19:18:06.017",
+          "File_Name": "Penyampaian Lapkeu SUPR 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SUPR/Penyampaian Lapkeu SUPR 31 Desember 2023.pdf",
+          "File_Size": 487926,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "c9ed84df-8612-42a4-b48a-5d26cd6c80fc",
+          "File_Modified": "2024-03-28T19:18:06.017",
+          "File_Name": "AnnualReport2023-SUPR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/39dd478c68_1fc365a7c3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "ad5f6dae-9ea7-4272-a912-5d536432d9d4",
+          "File_Modified": "2024-03-28T19:18:06.017",
+          "File_Name": "FinancialStatement-2023-Tahunan-SUPR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SUPR/FinancialStatement-2023-Tahunan-SUPR.xlsx",
+          "File_Size": 163827,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "73a66a7a-d921-4b1b-9bd0-5dac05f83fe8",
+          "File_Modified": "2024-03-28T19:18:06.017",
+          "File_Name": "AnnualReport2023-SUPR.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/bf0569cebb_f3d727cf42.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "b1a0f346-113a-4c22-9eac-6d0c0b59eb8a",
+          "File_Modified": "2024-03-28T19:18:06.017",
+          "File_Name": "FinancialStatement-2023-Tahunan-SUPR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SUPR/FinancialStatement-2023-Tahunan-SUPR.pdf",
+          "File_Size": 682611,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "d1c7da8c-8065-4acb-af8a-e8f3cf11a269",
+          "File_Modified": "2024-03-28T19:18:06.017",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SUPR/instance.zip",
+          "File_Size": 127050,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        }
+      ]
+    }
+  ]
+}

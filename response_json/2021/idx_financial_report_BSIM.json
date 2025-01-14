@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BSIM",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BSIM",
+      "File_Modified": "2022-03-31T15:59:24.67",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Bank Sinarmas Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "808e660e-5a99-40ed-8f7d-643b97fb76b8",
+          "File_Modified": "2022-03-31T15:59:24.67",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSIM/instance.zip",
+          "File_Size": 31080,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "1e6833a3-1b61-45b9-8b05-2a8ca5c3f235",
+          "File_Modified": "2022-03-31T15:59:24.67",
+          "File_Name": "LKT BSIM 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSIM/LKT BSIM 2021.pdf",
+          "File_Size": 3194374,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "f23894c6-8f4c-4aed-92d2-3e3f692a700d",
+          "File_Modified": "2022-03-31T15:59:24.67",
+          "File_Name": "FinancialStatement-2021-Tahunan-BSIM.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSIM/FinancialStatement-2021-Tahunan-BSIM.pdf",
+          "File_Size": 72451,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "9d703b99-641e-4af7-93c1-585d5997459b",
+          "File_Modified": "2022-03-31T15:59:24.67",
+          "File_Name": "Checklist Pengungkapan LKT BSIM 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSIM/Checklist Pengungkapan LKT BSIM 2021.pdf",
+          "File_Size": 1228669,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "e7667008-7bc6-4ec8-a046-5ee81867f1b1",
+          "File_Modified": "2022-03-31T15:59:24.67",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSIM/inlineXBRL.zip",
+          "File_Size": 60359,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "7ff944dd-c9d7-4358-ad0b-72fe987d2a32",
+          "File_Modified": "2022-03-31T15:59:24.67",
+          "File_Name": "FinancialStatement-2021-Tahunan-BSIM.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSIM/FinancialStatement-2021-Tahunan-BSIM.xlsx",
+          "File_Size": 161469,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "da60567b-2b61-46fd-8b8f-769becf42ff5",
+          "File_Modified": "2022-03-31T15:59:24.67",
+          "File_Name": "SPD 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSIM/SPD 31 Desember 2021.pdf",
+          "File_Size": 1039435,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "be9fa8d7-796d-47e5-96e8-bc18948efcd5",
+          "File_Modified": "2022-03-31T15:59:24.67",
+          "File_Name": "Lap Keuangan (OJK Pasar Modal).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSIM/Lap Keuangan (OJK Pasar Modal).pdf",
+          "File_Size": 273857,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        }
+      ]
+    }
+  ]
+}

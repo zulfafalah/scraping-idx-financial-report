@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "WSKT",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "WSKT",
+      "File_Modified": "2022-05-30T12:13:51.827",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Waskita Karya (Persero) Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "e5f1987b-30f0-480e-b8a9-325c776e35f9",
+          "File_Modified": "2022-05-30T12:13:51.827",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WSKT/inlineXBRL.zip",
+          "File_Size": 56618,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "f867ef3a-9fd6-40ad-80fd-a7b7102774f7",
+          "File_Modified": "2022-05-30T12:13:51.827",
+          "File_Name": "695_WK_DIR_2022_Penyampaian LK WSKT 2021 OJK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WSKT/695_WK_DIR_2022_Penyampaian LK WSKT 2021 OJK.pdf",
+          "File_Size": 185340,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "1ec1501a-b708-4a80-a3b3-022aa34f2887",
+          "File_Modified": "2022-05-30T12:13:51.827",
+          "File_Name": "FinancialStatement-2021-Tahunan-WSKT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WSKT/FinancialStatement-2021-Tahunan-WSKT.pdf",
+          "File_Size": 65547,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "b30176e6-c089-49ad-8f6f-1a5f4e46027f",
+          "File_Modified": "2022-05-30T12:13:51.827",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WSKT/instance.zip",
+          "File_Size": 29053,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "c3b464c0-3cf4-4df6-8e1f-7a3018363a08",
+          "File_Modified": "2022-05-30T12:13:51.827",
+          "File_Name": "Checklist LK Konsolidasi 31 Des 2021 WSKT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WSKT/Checklist LK Konsolidasi 31 Des 2021 WSKT.pdf",
+          "File_Size": 719806,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "1fe6ed45-2de1-4351-87c6-f3f530e4e2e5",
+          "File_Modified": "2022-05-30T12:13:51.827",
+          "File_Name": "696_WK_DIR_2022_Penyampaian LK WSKT 2021 BEI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WSKT/696_WK_DIR_2022_Penyampaian LK WSKT 2021 BEI.pdf",
+          "File_Size": 185626,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "86d2ca7e-1568-4a6e-8226-fb3852b1f566",
+          "File_Modified": "2022-05-30T12:13:51.827",
+          "File_Name": "LK Konsolidasi 31 Des 2021 WSKT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WSKT/LK Konsolidasi 31 Des 2021 WSKT.pdf",
+          "File_Size": 8345828,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "a46a376e-c9b7-48cc-96d8-5e213cff2953",
+          "File_Modified": "2022-05-30T12:13:51.827",
+          "File_Name": "AnnualReport2021-WSKT-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/b3013d27d4_2c9f3859dd.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "806ffa23-bc50-43cd-8c87-c631c9410750",
+          "File_Modified": "2022-05-30T12:13:51.827",
+          "File_Name": "FinancialStatement-2021-Tahunan-WSKT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WSKT/FinancialStatement-2021-Tahunan-WSKT.xlsx",
+          "File_Size": 156470,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "YPAS",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "YPAS",
+      "File_Modified": "2023-03-28T15:41:57.437",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Yanaprima Hastapersada Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "a8b2f771-d17e-4fe3-9220-0a84679371bf",
+          "File_Modified": "2023-03-28T15:41:57.437",
+          "File_Name": "YPAS Pjlsan Liabilitas Llbh 20persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/YPAS/YPAS Pjlsan Liabilitas Llbh 20persen.pdf",
+          "File_Size": 694677,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "32b5eb4f-9520-47a4-b839-40f20a993886",
+          "File_Modified": "2023-03-28T15:41:57.437",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/YPAS/inlineXBRL.zip",
+          "File_Size": 162254,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "252989bc-78d7-40fe-9f7c-a6ca02e18d1b",
+          "File_Modified": "2023-03-28T15:41:57.437",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/YPAS/instance.zip",
+          "File_Size": 181041,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "46a0df3e-1f0a-465e-9653-82fad34793a8",
+          "File_Modified": "2023-03-28T15:41:57.437",
+          "File_Name": "AnnualReport2022-YPAS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/30ca21e137_f6ee5410ad.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "bfc6a008-c071-40a6-8f1c-0dacfab3cea8",
+          "File_Modified": "2023-03-28T15:41:57.437",
+          "File_Name": "FinancialStatement-2022-Tahunan-YPAS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/YPAS/FinancialStatement-2022-Tahunan-YPAS.xlsx",
+          "File_Size": 1181815,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "3b6635cd-0939-44ff-a862-6bf1d9a92290",
+          "File_Modified": "2023-03-28T15:41:57.437",
+          "File_Name": "FinancialStatement-2022-Tahunan-YPAS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/YPAS/FinancialStatement-2022-Tahunan-YPAS.pdf",
+          "File_Size": 97081,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "633a5568-91a7-43a2-9041-06027c95a4fe",
+          "File_Modified": "2023-03-28T15:41:57.437",
+          "File_Name": "YPAS Lap Keu KAP 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/YPAS/YPAS Lap Keu KAP 31 Des 2022.pdf",
+          "File_Size": 4025814,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        }
+      ]
+    }
+  ]
+}

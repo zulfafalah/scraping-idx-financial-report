@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IGAR",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IGAR",
+      "File_Modified": "2024-03-19T21:03:52.073",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Champion Pacific Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "5ae17f97-ace4-4539-aee6-06fde1772676",
+          "File_Modified": "2024-03-19T21:03:52.073",
+          "File_Name": "FinancialStatement-2023-Tahunan-IGAR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IGAR/FinancialStatement-2023-Tahunan-IGAR.xlsx",
+          "File_Size": 153062,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "37cfb439-4197-4114-89f2-199b8db02f7d",
+          "File_Modified": "2024-03-19T21:03:52.073",
+          "File_Name": "SPD CPI 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IGAR/SPD CPI 2023.pdf",
+          "File_Size": 496411,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "993bb888-c9a5-42f0-9c07-6a4bb2f9e4c7",
+          "File_Modified": "2024-03-19T21:03:52.073",
+          "File_Name": "FinancialStatement-2023-Tahunan-IGAR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IGAR/FinancialStatement-2023-Tahunan-IGAR.pdf",
+          "File_Size": 741072,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "2aabfdb0-e703-43c7-9c41-7c96558d52b1",
+          "File_Modified": "2024-03-19T21:03:52.073",
+          "File_Name": "Checklist IGAR 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IGAR/Checklist IGAR 31 Des 2023.pdf",
+          "File_Size": 1558486,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "fd3d79cc-bcd2-4b0b-b831-f64ef2eb8a23",
+          "File_Modified": "2024-03-19T21:03:52.073",
+          "File_Name": "AnnualReport2023-IGAR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/9a18ca7ea7_f3803728fa.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "d0f79448-a60a-4d5d-8790-5175d1f2f9df",
+          "File_Modified": "2024-03-19T21:03:52.073",
+          "File_Name": "AnnualReport2023-IGAR.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f03cbcca2d_a73479ebfa.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "cd6fc676-730e-42b8-a83e-e151ca372318",
+          "File_Modified": "2024-03-19T21:03:52.073",
+          "File_Name": "champion pacific indonesia tbk 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IGAR/champion pacific indonesia tbk 2023.pdf",
+          "File_Size": 1292863,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "8c8e8157-fe33-431c-b5e2-9baa1e7f3c30",
+          "File_Modified": "2024-03-19T21:03:52.073",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IGAR/instance.zip",
+          "File_Size": 140008,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "ec776aa5-6f00-4abf-b735-218ca1533063",
+          "File_Modified": "2024-03-19T21:03:52.073",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IGAR/inlineXBRL.zip",
+          "File_Size": 275414,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

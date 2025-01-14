@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "CTTH",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "CTTH",
+      "File_Modified": "2024-05-14T11:57:17.003",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Citatah Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "CTTH",
+          "File_ID": "5011f48e-7efa-4990-a046-115d982a2d40",
+          "File_Modified": "2024-05-14T11:57:17.003",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CTTH/inlineXBRL.zip",
+          "File_Size": 215494,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Citatah Tbk"
+        },
+        {
+          "Emiten_Code": "CTTH",
+          "File_ID": "6f22d7e2-dc4e-42bb-9899-790d4a97de1d",
+          "File_Modified": "2024-05-14T11:57:17.003",
+          "File_Name": "Citatah Audit Report 31 Dec 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CTTH/Citatah Audit Report 31 Dec 2023.pdf",
+          "File_Size": 3287159,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Citatah Tbk"
+        },
+        {
+          "Emiten_Code": "CTTH",
+          "File_ID": "006f48f3-65e7-4315-9c84-a5d15da65419",
+          "File_Modified": "2024-05-14T11:57:17.003",
+          "File_Name": "FinancialStatement-2023-Tahunan-CTTH.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CTTH/FinancialStatement-2023-Tahunan-CTTH.pdf",
+          "File_Size": 642605,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Citatah Tbk"
+        },
+        {
+          "Emiten_Code": "CTTH",
+          "File_ID": "192b0b94-e026-42d6-ad0a-4c3b93838fb5",
+          "File_Modified": "2024-05-14T11:57:17.003",
+          "File_Name": "AnnualReport2023-CTTH.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/bee4adf35c_7e582f74de.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Citatah Tbk"
+        },
+        {
+          "Emiten_Code": "CTTH",
+          "File_ID": "6e2119a0-6586-46bb-b253-5a37eb37ad61",
+          "File_Modified": "2024-05-14T11:57:17.003",
+          "File_Name": "AnnualReport2023-CTTH-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/734d8ab4a7_844f14b186.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Citatah Tbk"
+        },
+        {
+          "Emiten_Code": "CTTH",
+          "File_ID": "85a654d4-15d7-4e27-b4dc-65e2915b1224",
+          "File_Modified": "2024-05-14T11:57:17.003",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CTTH/instance.zip",
+          "File_Size": 111766,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Citatah Tbk"
+        },
+        {
+          "Emiten_Code": "CTTH",
+          "File_ID": "d42c6683-0ec7-4356-87d2-c660d17dfb69",
+          "File_Modified": "2024-05-14T11:57:17.003",
+          "File_Name": "FinancialStatement-2023-Tahunan-CTTH.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CTTH/FinancialStatement-2023-Tahunan-CTTH.xlsx",
+          "File_Size": 303825,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Citatah Tbk"
+        }
+      ]
+    }
+  ]
+}

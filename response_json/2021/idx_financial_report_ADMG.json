@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ADMG",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ADMG",
+      "File_Modified": "2022-04-21T15:57:18.35",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Polychem Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "7f72de4c-c03d-4912-aae8-da2cad29ad57",
+          "File_Modified": "2022-04-21T15:57:18.35",
+          "File_Name": "ADMG- 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ADMG/ADMG- 31 Desember 2021.pdf",
+          "File_Size": 2643376,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "4e268d8f-9924-4647-a40e-1d2affe32824",
+          "File_Modified": "2022-04-21T15:57:18.35",
+          "File_Name": "AnnualReport2021-ADMG-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202206/e371fffe0b_a7cccde95a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "37a48acb-ae8c-4207-a260-2ee9048cf7a5",
+          "File_Modified": "2022-04-21T15:57:18.35",
+          "File_Name": "FinancialStatement-2021-Tahunan-ADMG.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ADMG/FinancialStatement-2021-Tahunan-ADMG.xlsx",
+          "File_Size": 159081,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "430262a4-e952-445c-923c-677cbd57aa79",
+          "File_Modified": "2022-04-21T15:57:18.35",
+          "File_Name": "OJK Checklist ADMG 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ADMG/OJK Checklist ADMG 31 Des 2021.pdf",
+          "File_Size": 5280517,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "6ac0b0af-b6ad-477d-be5d-6841a6e22f3b",
+          "File_Modified": "2022-04-21T15:57:18.35",
+          "File_Name": "FinancialStatement-2021-Tahunan-ADMG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ADMG/FinancialStatement-2021-Tahunan-ADMG.pdf",
+          "File_Size": 49603,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "a94a68a7-87af-4bf0-9912-f672600aee4a",
+          "File_Modified": "2022-04-21T15:57:18.35",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ADMG/instance.zip",
+          "File_Size": 28528,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "cdd6c179-f0a0-4b14-9fe7-64c93b34d306",
+          "File_Modified": "2022-04-21T15:57:18.35",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ADMG/inlineXBRL.zip",
+          "File_Size": 58825,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

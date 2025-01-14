@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MFIN",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MFIN",
+      "File_Modified": "2024-03-28T19:26:12.077",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Mandala Multifinance Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "7fa17f64-f7f1-4c06-8318-b199d00b3b06",
+          "File_Modified": "2024-03-28T19:26:12.077",
+          "File_Name": "FinancialStatement-2023-Tahunan-MFIN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MFIN/FinancialStatement-2023-Tahunan-MFIN.pdf",
+          "File_Size": 274546,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "fd8a946f-b278-483a-afac-b26f7c73fe36",
+          "File_Modified": "2024-03-28T19:26:12.077",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MFIN/instance.zip",
+          "File_Size": 51674,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "99e7ea1a-f516-49b3-8618-536818a6d90e",
+          "File_Modified": "2024-03-28T19:26:12.077",
+          "File_Name": "AnnualReport2023-MFIN.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/f00cd45920_3c4c756440.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "a4eab943-cf34-4673-a790-5381ca02ccad",
+          "File_Modified": "2024-03-28T19:26:12.077",
+          "File_Name": "AnnualReport2023-MFIN-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/52daf7310c_8cce86cb41.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "b4a04bfb-9bb2-4479-a286-a7a1fd877343",
+          "File_Modified": "2024-03-28T19:26:12.077",
+          "File_Name": "Penyampaian Laporan Keuangan Tahun Buku 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MFIN/Penyampaian Laporan Keuangan Tahun Buku 2023.pdf",
+          "File_Size": 226012,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "2c784aed-c57d-4c3c-b700-b4b3845e2cc6",
+          "File_Modified": "2024-03-28T19:26:12.077",
+          "File_Name": "AnnualReport2023-MFIN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/0a5433f912_07fed8d61a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "f9844920-0486-41bf-9b34-c65798a7bc9c",
+          "File_Modified": "2024-03-28T19:26:12.077",
+          "File_Name": "FinancialStatement-2023-Tahunan-MFIN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MFIN/FinancialStatement-2023-Tahunan-MFIN.xlsx",
+          "File_Size": 94050,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "2058b50e-09fb-4569-b2ce-2c24edeb13b3",
+          "File_Modified": "2024-03-28T19:26:12.077",
+          "File_Name": "FS Audited_MFIN 122023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MFIN/FS Audited_MFIN 122023.pdf",
+          "File_Size": 4911087,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        },
+        {
+          "Emiten_Code": "MFIN",
+          "File_ID": "aab53951-6066-48c7-9b8a-ca0aff01e7a5",
+          "File_Modified": "2024-03-28T19:26:12.077",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MFIN/inlineXBRL.zip",
+          "File_Size": 131096,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mandala Multifinance Tbk."
+        }
+      ]
+    }
+  ]
+}

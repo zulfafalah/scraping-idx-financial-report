@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "LMSH",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "LMSH",
+      "File_Modified": "2022-04-28T13:28:12.203",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Lionmesh Prima Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "51ef9ac2-18cd-4d27-9206-3bbfae28c5fd",
+          "File_Modified": "2022-04-28T13:28:12.203",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LMSH/inlineXBRL.zip",
+          "File_Size": 58211,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "116d21bf-44de-4bdc-9ca3-04b0e9d02658",
+          "File_Modified": "2022-04-28T13:28:12.203",
+          "File_Name": "LMSH LK 31-12-21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LMSH/LMSH LK 31-12-21.pdf",
+          "File_Size": 2045957,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "e59ca13a-f31c-4dd1-891b-28ea487a78f3",
+          "File_Modified": "2022-04-28T13:28:12.203",
+          "File_Name": "FinancialStatement-2021-Tahunan-LMSH.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LMSH/FinancialStatement-2021-Tahunan-LMSH.pdf",
+          "File_Size": 41190,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "b6cbe212-8b88-4bd8-9f63-5a46c3c238da",
+          "File_Modified": "2022-04-28T13:28:12.203",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LMSH/instance.zip",
+          "File_Size": 28397,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "16215880-3e01-4f4a-b1a0-7fa9cc25b2cc",
+          "File_Modified": "2022-04-28T13:28:12.203",
+          "File_Name": "AnnualReport2021-LMSH-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/d4540c73a5_fe9457828d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "82252352-d0d7-4318-b6f2-7e6f0fdcf121",
+          "File_Modified": "2022-04-28T13:28:12.203",
+          "File_Name": "FinancialStatement-2021-Tahunan-LMSH.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LMSH/FinancialStatement-2021-Tahunan-LMSH.xlsx",
+          "File_Size": 158963,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        }
+      ]
+    }
+  ]
+}

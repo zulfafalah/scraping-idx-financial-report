@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "POWR",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "POWR",
+      "File_Modified": "2023-03-02T14:49:23.357",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Cikarang Listrindo Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "f61eb4a1-3829-421a-8255-5a0645f67cc9",
+          "File_Modified": "2023-03-02T14:49:23.357",
+          "File_Name": "FinancialStatement-2022-Tahunan-POWR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/POWR/FinancialStatement-2022-Tahunan-POWR.xlsx",
+          "File_Size": 1175077,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "218a4800-78dc-4fe0-a83c-81c985d3836c",
+          "File_Modified": "2023-03-02T14:49:23.357",
+          "File_Name": "POWR Laporan Keuangan FY22 (Pengantar).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/POWR/POWR Laporan Keuangan FY22 (Pengantar).pdf",
+          "File_Size": 120331,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "b877721a-45e4-4c76-9d70-520e45f28e6b",
+          "File_Modified": "2023-03-02T14:49:23.357",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/POWR/inlineXBRL.zip",
+          "File_Size": 165794,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "535c5e3f-b4e0-40f0-9ab0-513c6da5ec38",
+          "File_Modified": "2023-03-02T14:49:23.357",
+          "File_Name": "AnnualReport2022-POWR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202303/9e4febffe7_37cea30a8c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "b9f8789b-c5d8-4f1b-b860-c9835f2fb4ba",
+          "File_Modified": "2023-03-02T14:49:23.357",
+          "File_Name": "POWR Laporan Keuangan FY22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/POWR/POWR Laporan Keuangan FY22.pdf",
+          "File_Size": 1672831,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "0a079267-4151-4810-bc29-7282ca3b3baf",
+          "File_Modified": "2023-03-02T14:49:23.357",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/POWR/instance.zip",
+          "File_Size": 198516,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "70cf82a9-6a4f-4d7f-8080-f363805fac5d",
+          "File_Modified": "2023-03-02T14:49:23.357",
+          "File_Name": "FinancialStatement-2022-Tahunan-POWR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/POWR/FinancialStatement-2022-Tahunan-POWR.pdf",
+          "File_Size": 143205,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        }
+      ]
+    }
+  ]
+}

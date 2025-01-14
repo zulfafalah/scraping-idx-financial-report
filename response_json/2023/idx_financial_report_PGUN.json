@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PGUN",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PGUN",
+      "File_Modified": "2024-03-25T14:48:27.01",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Pradiksi Gunatama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "8c6c9891-5681-4f49-a173-09a72daabedd",
+          "File_Modified": "2024-03-25T14:48:27.01",
+          "File_Name": "LKT PGUN 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PGUN/LKT PGUN 2023.pdf",
+          "File_Size": 7710124,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "9afef467-bd76-4bf0-8d79-1b4ede8601c6",
+          "File_Modified": "2024-03-25T14:48:27.01",
+          "File_Name": "AnnualReport2023-PGUN-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/5653809367_c8ad24f60c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "3611ea1b-338e-4539-94d0-a5ed1efe5d07",
+          "File_Modified": "2024-03-25T14:48:27.01",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PGUN/instance.zip",
+          "File_Size": 126628,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "8e15b5a4-9ab0-4f18-acc1-29a0220a3bd6",
+          "File_Modified": "2024-03-25T14:48:27.01",
+          "File_Name": "01. PGUN_Dirstate 31 Desember 2023_Sign.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PGUN/01. PGUN_Dirstate 31 Desember 2023_Sign.pdf",
+          "File_Size": 349966,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "8a64d7c7-6c3d-4983-b3fd-6c4890031c6d",
+          "File_Modified": "2024-03-25T14:48:27.01",
+          "File_Name": "AnnualReport2023-PGUN.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f1167d3007_8ae1a62b21.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "782b0807-d6a2-4277-9d10-cb3ad36c2e60",
+          "File_Modified": "2024-03-25T14:48:27.01",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PGUN/inlineXBRL.zip",
+          "File_Size": 247714,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "b4b22d18-d3f2-40af-a0ca-966894f5ccd5",
+          "File_Modified": "2024-03-25T14:48:27.01",
+          "File_Name": "FinancialStatement-2023-Tahunan-PGUN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PGUN/FinancialStatement-2023-Tahunan-PGUN.xlsx",
+          "File_Size": 187044,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "a62208a4-1f17-452d-ae8a-b9bd48030d8f",
+          "File_Modified": "2024-03-25T14:48:27.01",
+          "File_Name": "AnnualReport2023-PGUN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/6406e7c1ca_028cb9d295.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "baa662f1-ae2d-4426-a34a-c02a0f9a6cc1",
+          "File_Modified": "2024-03-25T14:48:27.01",
+          "File_Name": "FinancialStatement-2023-Tahunan-PGUN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PGUN/FinancialStatement-2023-Tahunan-PGUN.pdf",
+          "File_Size": 693927,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        }
+      ]
+    }
+  ]
+}

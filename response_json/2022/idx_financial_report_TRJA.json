@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TRJA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TRJA",
+      "File_Modified": "2023-04-10T01:45:51.577",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Transkon Jaya Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "f5fbcdd6-643a-44c1-a249-52bd71d6b310",
+          "File_Modified": "2023-04-10T01:45:51.577",
+          "File_Name": "AnnualReport2022-TRJA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/9087e16824_3d4dc0d436.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "5c0972d2-ad87-4bda-bb4a-bcfdc40a0a06",
+          "File_Modified": "2023-04-10T01:45:51.577",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TRJA/inlineXBRL.zip",
+          "File_Size": 162040,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "53fcdc94-0fa1-4acb-aebb-200ae0d0c51b",
+          "File_Modified": "2023-04-10T01:45:51.577",
+          "File_Name": "SPD 31 Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TRJA/SPD 31 Desember 2022.pdf",
+          "File_Size": 237883,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "9a1a46ef-7082-40f0-8708-2ea2842f2e25",
+          "File_Modified": "2023-04-10T01:45:51.577",
+          "File_Name": "Checklist OJK 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TRJA/Checklist OJK 2022.pdf",
+          "File_Size": 7090122,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "96671aac-a426-4991-8015-5fe43e06bec4",
+          "File_Modified": "2023-04-10T01:45:51.577",
+          "File_Name": "FinancialStatement-2022-Tahunan-TRJA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TRJA/FinancialStatement-2022-Tahunan-TRJA.xlsx",
+          "File_Size": 1171944,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "aa5560af-2e02-4713-8dcf-ecee791433ec",
+          "File_Modified": "2023-04-10T01:45:51.577",
+          "File_Name": "Penjelasan Atas Perubahan Aset dan Liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TRJA/Penjelasan Atas Perubahan Aset dan Liabilitas.pdf",
+          "File_Size": 158809,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "54f8c02c-27ae-4e48-8bec-f3d9f28a6f3d",
+          "File_Modified": "2023-04-10T01:45:51.577",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TRJA/instance.zip",
+          "File_Size": 181538,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "26989a41-66dc-489c-9d06-007a30e97f71",
+          "File_Modified": "2023-04-10T01:45:51.577",
+          "File_Name": "FinancialStatement-2022-Tahunan-TRJA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TRJA/FinancialStatement-2022-Tahunan-TRJA.pdf",
+          "File_Size": 136805,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "7d18206f-8532-46f5-be0e-4dab30937189",
+          "File_Modified": "2023-04-10T01:45:51.577",
+          "File_Name": "FS_PT Transkon Jaya Tbk_ 31 Dec 2022 (Audited).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TRJA/FS_PT Transkon Jaya Tbk_ 31 Dec 2022 (Audited).pdf",
+          "File_Size": 5441886,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        }
+      ]
+    }
+  ]
+}

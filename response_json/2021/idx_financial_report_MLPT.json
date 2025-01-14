@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MLPT",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MLPT",
+      "File_Modified": "2022-03-28T17:27:47.85",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Multipolar Technology Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "22598479-10f7-473d-a837-2aca3e0d4e27",
+          "File_Modified": "2022-03-28T17:27:47.85",
+          "File_Name": "FinancialStatement-2021-Tahunan-MLPT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MLPT/FinancialStatement-2021-Tahunan-MLPT.xlsx",
+          "File_Size": 159384,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "fac9de67-7f0f-42c2-9707-f989fe0a1172",
+          "File_Modified": "2022-03-28T17:27:47.85",
+          "File_Name": "Checklist Pengungkapan Lapkeu 31Des2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MLPT/Checklist Pengungkapan Lapkeu 31Des2021.pdf",
+          "File_Size": 3964258,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "c60a4547-bb45-4f5e-bf5a-5597b0c226e0",
+          "File_Modified": "2022-03-28T17:27:47.85",
+          "File_Name": "Multipolar Technology GA 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MLPT/Multipolar Technology GA 31 Des 2021.pdf",
+          "File_Size": 5109222,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "74f511da-2b03-440a-8a08-cbd5bddc53a7",
+          "File_Modified": "2022-03-28T17:27:47.85",
+          "File_Name": "Perubahan lbh 20persen total aset-liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MLPT/Perubahan lbh 20persen total aset-liabilitas.pdf",
+          "File_Size": 394696,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "58285be7-69e2-438d-a872-2099aad6c175",
+          "File_Modified": "2022-03-28T17:27:47.85",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MLPT/instance.zip",
+          "File_Size": 29013,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "14c6402e-3707-48c8-9ff1-917a1f85ed9d",
+          "File_Modified": "2022-03-28T17:27:47.85",
+          "File_Name": "(2022)-Srt Pengantar ke BEI-LapKeu30JDec2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MLPT/(2022)-Srt Pengantar ke BEI-LapKeu30JDec2021.pdf",
+          "File_Size": 299582,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "b86bd5d4-e5e6-4544-9d31-cd95f9b1f455",
+          "File_Modified": "2022-03-28T17:27:47.85",
+          "File_Name": "(2022)-Srt Pengantar ke OJK-LapKeu30JDec2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MLPT/(2022)-Srt Pengantar ke OJK-LapKeu30JDec2021.pdf",
+          "File_Size": 337567,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "a3fe041f-ccb0-431d-9cc8-ecdf711bccc4",
+          "File_Modified": "2022-03-28T17:27:47.85",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MLPT/inlineXBRL.zip",
+          "File_Size": 58843,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "94b67d99-9147-4ad9-8b5f-5a9651d3c652",
+          "File_Modified": "2022-03-28T17:27:47.85",
+          "File_Name": "FinancialStatement-2021-Tahunan-MLPT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MLPT/FinancialStatement-2021-Tahunan-MLPT.pdf",
+          "File_Size": 61615,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "5a266be8-f69e-479e-a9bf-d6ae2e71a1e4",
+          "File_Modified": "2022-03-28T17:27:47.85",
+          "File_Name": "(2022)-SuratPernyataanDireksi-LK31Dec2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MLPT/(2022)-SuratPernyataanDireksi-LK31Dec2021.pdf",
+          "File_Size": 470049,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "KARW",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "KARW",
+      "File_Modified": "2023-03-31T12:10:52.997",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Meratus Jasa Prima Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "KARW",
+          "File_ID": "d77eb0ca-a9f7-4d9d-99e9-76675df8204b",
+          "File_Modified": "2023-03-31T12:10:52.997",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KARW/instance.zip",
+          "File_Size": 172448,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Meratus Jasa Prima Tbk"
+        },
+        {
+          "Emiten_Code": "KARW",
+          "File_ID": "3d37c651-4a0b-43ae-baee-adb7a922fe7d",
+          "File_Modified": "2023-03-31T12:10:52.997",
+          "File_Name": "ICTSI Jasa Prima_Billingual_31_Des_2022_Released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KARW/ICTSI Jasa Prima_Billingual_31_Des_2022_Released.pdf",
+          "File_Size": 7292896,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Meratus Jasa Prima Tbk"
+        },
+        {
+          "Emiten_Code": "KARW",
+          "File_ID": "6b48784f-8a99-4fbe-b1ce-eda857e39245",
+          "File_Modified": "2023-03-31T12:10:52.997",
+          "File_Name": "KARW_checklist LKT 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KARW/KARW_checklist LKT 2022.pdf",
+          "File_Size": 1339861,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Meratus Jasa Prima Tbk"
+        },
+        {
+          "Emiten_Code": "KARW",
+          "File_ID": "790673a0-dce2-406d-b7e3-f9bdeb98c2fb",
+          "File_Modified": "2023-03-31T12:10:52.997",
+          "File_Name": "FinancialStatement-2022-Tahunan-KARW.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KARW/FinancialStatement-2022-Tahunan-KARW.xlsx",
+          "File_Size": 1175362,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Meratus Jasa Prima Tbk"
+        },
+        {
+          "Emiten_Code": "KARW",
+          "File_ID": "13148b2b-13c5-4a06-99de-0b8996f72bf9",
+          "File_Modified": "2023-03-31T12:10:52.997",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KARW/inlineXBRL.zip",
+          "File_Size": 122966,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Meratus Jasa Prima Tbk"
+        },
+        {
+          "Emiten_Code": "KARW",
+          "File_ID": "de1015f2-05aa-48c0-b427-a65296956bfa",
+          "File_Modified": "2023-03-31T12:10:52.997",
+          "File_Name": "AnnualReport2022-KARW-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/2e9ae04b23_cf80c510ec.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Meratus Jasa Prima Tbk"
+        },
+        {
+          "Emiten_Code": "KARW",
+          "File_ID": "c18aa3a4-60a2-4bc9-87b1-054e011c5cf1",
+          "File_Modified": "2023-03-31T12:10:52.997",
+          "File_Name": "FinancialStatement-2022-Tahunan-KARW.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KARW/FinancialStatement-2022-Tahunan-KARW.pdf",
+          "File_Size": 68207,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Meratus Jasa Prima Tbk"
+        }
+      ]
+    }
+  ]
+}

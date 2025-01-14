@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ISAT",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ISAT",
+      "File_Modified": "2024-02-23T17:35:59.013",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Indosat Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "cbde9ac0-2b94-456c-ab56-21685ed088ac",
+          "File_Modified": "2024-02-23T17:35:59.013",
+          "File_Name": "FinancialStatement-2023-Tahunan-ISAT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ISAT/FinancialStatement-2023-Tahunan-ISAT.pdf",
+          "File_Size": 683662,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "977632a4-05fe-4bcc-81d4-29bd30576cf7",
+          "File_Modified": "2024-02-23T17:35:59.013",
+          "File_Name": "AnnualReport2023-ISAT.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7fe1f20838_5e1a834961.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "92f82bd4-3bf8-4966-a780-0284d0541e04",
+          "File_Modified": "2024-02-23T17:35:59.013",
+          "File_Name": "AnnualReport2023-ISAT-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/2a38db3fa8_be24c599cd.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "a3ea9be0-8996-4893-a2b2-c7ace075f040",
+          "File_Modified": "2024-02-23T17:35:59.013",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ISAT/inlineXBRL.zip",
+          "File_Size": 239630,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "7fc952ec-32f6-4fda-b2f3-78ace650ce6b",
+          "File_Modified": "2024-02-23T17:35:59.013",
+          "File_Name": "Dec 2023 IOH BOD Statement of Responsibility.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ISAT/Dec 2023 IOH BOD Statement of Responsibility.pdf",
+          "File_Size": 2225707,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "69306203-a28f-4cab-ab4f-a6378210ba5c",
+          "File_Modified": "2024-02-23T17:35:59.013",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ISAT/instance.zip",
+          "File_Size": 121906,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "d6769949-bdf3-40ef-8362-c66fa38692ca",
+          "File_Modified": "2024-02-23T17:35:59.013",
+          "File_Name": "IOH 2023 - Final FS Audit Report.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ISAT/IOH 2023 - Final FS Audit Report.pdf",
+          "File_Size": 7274379,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "374c4c4f-76c0-4f6c-8d42-2ae7f291eb55",
+          "File_Modified": "2024-02-23T17:35:59.013",
+          "File_Name": "FinancialStatement-2023-Tahunan-ISAT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ISAT/FinancialStatement-2023-Tahunan-ISAT.xlsx",
+          "File_Size": 333299,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "6a28a4e3-f055-4877-b34e-cdf5d399380d",
+          "File_Modified": "2024-02-23T17:35:59.013",
+          "File_Name": "Info Memo FY23 Ind Final.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ISAT/Info Memo FY23 Ind Final.pdf",
+          "File_Size": 461416,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "3a1d143f-c83b-4426-9406-ffc2d7af896a",
+          "File_Modified": "2024-02-23T17:35:59.013",
+          "File_Name": "Info Memo FY23 Eng Final.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ISAT/Info Memo FY23 Eng Final.pdf",
+          "File_Size": 350930,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indosat Tbk"
+        }
+      ]
+    }
+  ]
+}

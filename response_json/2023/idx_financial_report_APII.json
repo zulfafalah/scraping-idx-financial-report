@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "APII",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "APII",
+      "File_Modified": "2024-04-01T08:09:54.177",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Arita Prima Indonesia Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "6bf645b6-5ff7-4516-988c-02fcfa91a6b9",
+          "File_Modified": "2024-04-01T08:09:54.177",
+          "File_Name": "AnnualReport2023-APII.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/b07e376e2c_6d00a04dba.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "7ded4d0e-a85d-4820-89de-187c2fc1f0af",
+          "File_Modified": "2024-04-01T08:09:54.177",
+          "File_Name": "FinancialStatement-2023-Tahunan-APII.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APII/FinancialStatement-2023-Tahunan-APII.pdf",
+          "File_Size": 725100,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "f36a7d59-984f-4264-9742-3a7572368dcd",
+          "File_Modified": "2024-04-01T08:09:54.177",
+          "File_Name": "AnnualReport2023-APII-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7163233c4e_b6fc6019dc.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "8fbf13e9-c8ea-4860-a54c-018efbb2d95a",
+          "File_Modified": "2024-04-01T08:09:54.177",
+          "File_Name": "AnnualReport2023-APII-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/04d86f078d_62d4e50e15.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "c8d3c645-3933-44f5-8b15-083486c3ec76",
+          "File_Modified": "2024-04-01T08:09:54.177",
+          "File_Name": "PT Arita Prima Indonesia Tbk_31 Dec 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APII/PT Arita Prima Indonesia Tbk_31 Dec 2023.pdf",
+          "File_Size": 4801860,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "b80f6d20-32ba-476c-afec-cccb7b50638c",
+          "File_Modified": "2024-04-01T08:09:54.177",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APII/instance.zip",
+          "File_Size": 130060,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "a376186e-7bf4-4f20-9581-dec444faa789",
+          "File_Modified": "2024-04-01T08:09:54.177",
+          "File_Name": "FinancialStatement-2023-Tahunan-APII.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APII/FinancialStatement-2023-Tahunan-APII.xlsx",
+          "File_Size": 158392,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "54118b53-4912-49b5-95f5-e4d587f7b3df",
+          "File_Modified": "2024-04-01T08:09:54.177",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APII/inlineXBRL.zip",
+          "File_Size": 263059,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "APII",
+          "File_ID": "61ce78f9-9d3a-43ce-8ccc-f367c06d4d69",
+          "File_Modified": "2024-04-01T08:09:54.177",
+          "File_Name": "CamScanner 28-03-2024 17.07.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APII/CamScanner 28-03-2024 17.07.pdf",
+          "File_Size": 250195,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Arita Prima Indonesia Tbk."
+        }
+      ]
+    }
+  ]
+}

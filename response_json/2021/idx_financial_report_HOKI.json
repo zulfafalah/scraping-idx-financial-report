@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "HOKI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "HOKI",
+      "File_Modified": "2022-04-28T19:52:02.84",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Buyung Poetra Sembada Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "0575456b-a867-4d67-988b-6ea2c0a3b47d",
+          "File_Modified": "2022-04-28T19:52:02.84",
+          "File_Name": "HOKI 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HOKI/HOKI 2021.pdf",
+          "File_Size": 2766650,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "a948a5b3-8a9b-4a22-83d1-75182424d3e8",
+          "File_Modified": "2022-04-28T19:52:02.84",
+          "File_Name": "SURAT KE OJK BEI LKT 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HOKI/SURAT KE OJK BEI LKT 2021.pdf",
+          "File_Size": 78886,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "c06f5ef0-5aae-4496-a1b2-e4d3205f8cbf",
+          "File_Modified": "2022-04-28T19:52:02.84",
+          "File_Name": "HOKI 2021_Liabilities naik lebih 20 persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HOKI/HOKI 2021_Liabilities naik lebih 20 persen.pdf",
+          "File_Size": 68293,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "2dd07e86-b0ea-4af6-8cc0-02b3391b1dbc",
+          "File_Modified": "2022-04-28T19:52:02.84",
+          "File_Name": "AnnualReport2021-HOKI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/a4de63fab7_58fab5d123.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "9489c0be-a882-47ef-b65b-6d898273a75e",
+          "File_Modified": "2022-04-28T19:52:02.84",
+          "File_Name": "FinancialStatement-2021-Tahunan-HOKI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HOKI/FinancialStatement-2021-Tahunan-HOKI.xlsx",
+          "File_Size": 160017,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "2132503a-cd6b-46e8-b5a9-798c5bbb8b1a",
+          "File_Modified": "2022-04-28T19:52:02.84",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HOKI/instance.zip",
+          "File_Size": 29264,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "94a31533-dc89-48f7-ab27-d244a364e06b",
+          "File_Modified": "2022-04-28T19:52:02.84",
+          "File_Name": "CHECKLIST-OJK HOKI 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HOKI/CHECKLIST-OJK HOKI 2021.pdf",
+          "File_Size": 716291,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "484139ae-82a9-4122-ab1d-869d0e0e453c",
+          "File_Modified": "2022-04-28T19:52:02.84",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HOKI/inlineXBRL.zip",
+          "File_Size": 58922,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "2a7eb6a4-30d1-4b92-bf82-aa8223e15ef8",
+          "File_Modified": "2022-04-28T19:52:02.84",
+          "File_Name": "FinancialStatement-2021-Tahunan-HOKI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HOKI/FinancialStatement-2021-Tahunan-HOKI.pdf",
+          "File_Size": 81225,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        }
+      ]
+    }
+  ]
+}

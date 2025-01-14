@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SMDR",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SMDR",
+      "File_Modified": "2023-03-20T21:59:09.03",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Samudera Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "45e66c2e-4279-4ef8-b9b0-17d2f9c7af57",
+          "File_Modified": "2023-03-20T21:59:09.03",
+          "File_Name": "PT Samudera indonesia tbk _31 des 2022_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMDR/PT Samudera indonesia tbk _31 des 2022_released.pdf",
+          "File_Size": 1808426,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "66f98ec4-f127-45d1-9974-35d77a484425",
+          "File_Modified": "2023-03-20T21:59:09.03",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMDR/inlineXBRL.zip",
+          "File_Size": 137480,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "cd4895a0-9536-44a8-a66e-9982fc4e1333",
+          "File_Modified": "2023-03-20T21:59:09.03",
+          "File_Name": "AnnualReport2022-SMDR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/b213611a2e_46da277430.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "8381bcc3-6465-426d-8a19-5567350ef230",
+          "File_Modified": "2023-03-20T21:59:09.03",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMDR/instance.zip",
+          "File_Size": 175533,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "5e124065-4f9c-4f09-8d7a-5b5aa1a039e7",
+          "File_Modified": "2023-03-20T21:59:09.03",
+          "File_Name": "FinancialStatement-2022-Tahunan-SMDR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMDR/FinancialStatement-2022-Tahunan-SMDR.xlsx",
+          "File_Size": 1174340,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "550fa1ba-c536-41e1-be96-68a0ae7a9836",
+          "File_Modified": "2023-03-20T21:59:09.03",
+          "File_Name": "FinancialStatement-2022-Tahunan-SMDR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMDR/FinancialStatement-2022-Tahunan-SMDR.pdf",
+          "File_Size": 128134,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "SMDR",
+          "File_ID": "ebdc8207-4dae-44ab-81f8-d85f02406d03",
+          "File_Modified": "2023-03-20T21:59:09.03",
+          "File_Name": "VIII.G.7 Checklist OJK Samudera Indonesia_311222.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMDR/VIII.G.7 Checklist OJK Samudera Indonesia_311222.pdf",
+          "File_Size": 1614169,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Samudera Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

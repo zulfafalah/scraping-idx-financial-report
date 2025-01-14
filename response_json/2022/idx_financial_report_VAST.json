@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "VAST",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "VAST",
+      "File_Modified": "2023-06-09T20:54:50.303",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Vastland Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "VAST",
+          "File_ID": "99ad72c9-e748-4c82-b8db-59c645847acd",
+          "File_Modified": "2023-06-09T20:54:50.303",
+          "File_Name": "Surat Pengantar LKT 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VAST/Surat Pengantar LKT 2022.pdf",
+          "File_Size": 106906,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Vastland Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "VAST",
+          "File_ID": "64af9a78-1f38-49ae-b085-02e80686d516",
+          "File_Modified": "2023-06-09T20:54:50.303",
+          "File_Name": "2022. Vast Report Audited.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VAST/2022. Vast Report Audited.pdf",
+          "File_Size": 3218048,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Vastland Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "VAST",
+          "File_ID": "dbe128a6-a627-4995-9248-19f74e8cf8a8",
+          "File_Modified": "2023-06-09T20:54:50.303",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VAST/inlineXBRL.zip",
+          "File_Size": 178747,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Vastland Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "VAST",
+          "File_ID": "76c26cb3-49c2-4b1b-bc62-41ee9735c1b1",
+          "File_Modified": "2023-06-09T20:54:50.303",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VAST/instance.zip",
+          "File_Size": 157217,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Vastland Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "VAST",
+          "File_ID": "b6fbaf0e-cc8d-409f-9ce4-ab25a2efd45f",
+          "File_Modified": "2023-06-09T20:54:50.303",
+          "File_Name": "2022. Vast SPD Lap Audited.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VAST/2022. Vast SPD Lap Audited.pdf",
+          "File_Size": 682251,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Vastland Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "VAST",
+          "File_ID": "274bf53c-6ec1-4043-8977-3c81e3a96684",
+          "File_Modified": "2023-06-09T20:54:50.303",
+          "File_Name": "FinancialStatement-2022-Tahunan-VAST.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VAST/FinancialStatement-2022-Tahunan-VAST.pdf",
+          "File_Size": 98209,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Vastland Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "VAST",
+          "File_ID": "853e21d4-f40a-4b2c-b9eb-56aef95653b4",
+          "File_Modified": "2023-06-09T20:54:50.303",
+          "File_Name": "FinancialStatement-2022-Tahunan-VAST.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VAST/FinancialStatement-2022-Tahunan-VAST.xlsx",
+          "File_Size": 1132705,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Vastland Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "VAST",
+          "File_ID": "341abc98-7882-4270-b0c9-f36a8cf92878",
+          "File_Modified": "2023-06-09T20:54:50.303",
+          "File_Name": "Test-AnnualReport2022-VAST-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/bf7bbfa430_a8ce30cbb3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Vastland Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

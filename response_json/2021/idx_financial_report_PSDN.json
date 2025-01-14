@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PSDN",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PSDN",
+      "File_Modified": "2022-04-28T11:28:05.233",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Prasidha Aneka Niaga Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "6160108f-6be6-4ca7-bec6-afa3c0e85427",
+          "File_Modified": "2022-04-28T11:28:05.233",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PSDN/inlineXBRL.zip",
+          "File_Size": 59429,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "4fb1b534-d70f-4cf4-8bf4-0b1f57b8c0ec",
+          "File_Modified": "2022-04-28T11:28:05.233",
+          "File_Name": "AnnualReport2021-PSDN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/abef060e61_3ae49406f2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "7fa1226a-5656-4486-9ec1-1280858aa8b6",
+          "File_Modified": "2022-04-28T11:28:05.233",
+          "File_Name": "FinancialStatement-2021-Tahunan-PSDN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PSDN/FinancialStatement-2021-Tahunan-PSDN.xlsx",
+          "File_Size": 159715,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "1475a7ab-2383-4e52-ab9e-189337b7bc32",
+          "File_Modified": "2022-04-28T11:28:05.233",
+          "File_Name": "Final Report PSDN dan Entitas Anaknya 31Des2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PSDN/Final Report PSDN dan Entitas Anaknya 31Des2021.pdf",
+          "File_Size": 2913009,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "29b91616-473a-4dfb-bb87-ec37622f8bc8",
+          "File_Modified": "2022-04-28T11:28:05.233",
+          "File_Name": "FinancialStatement-2021-Tahunan-PSDN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PSDN/FinancialStatement-2021-Tahunan-PSDN.pdf",
+          "File_Size": 47800,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "PSDN",
+          "File_ID": "00651dc5-3308-4d9f-b0a1-1655bae53ee5",
+          "File_Modified": "2022-04-28T11:28:05.233",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PSDN/instance.zip",
+          "File_Size": 28970,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Prasidha Aneka Niaga Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "POOL",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "POOL",
+      "File_Modified": "2022-06-29T15:09:04.97",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Pool Advista Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "POOL",
+          "File_ID": "44cf99d8-0af3-4377-b7c6-17abc1c61d40",
+          "File_Modified": "2022-06-29T15:09:04.97",
+          "File_Name": "AnnualReport2021-POOL-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202207/38910050a0_931a59cf40.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Pool Advista Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "POOL",
+          "File_ID": "90f0d42e-a9dd-44c1-bf02-8b43613d92f2",
+          "File_Modified": "2022-06-29T15:09:04.97",
+          "File_Name": "FinancialStatement-2021-Tahunan-POOL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POOL/FinancialStatement-2021-Tahunan-POOL.pdf",
+          "File_Size": 50265,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Pool Advista Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "POOL",
+          "File_ID": "61e3a426-69a9-4cfc-8eda-8c99df21231f",
+          "File_Modified": "2022-06-29T15:09:04.97",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POOL/inlineXBRL.zip",
+          "File_Size": 59300,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Pool Advista Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "POOL",
+          "File_ID": "61955b01-1048-472d-96d3-0b5e91c27fe3",
+          "File_Modified": "2022-06-29T15:09:04.97",
+          "File_Name": "SPD Audited 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POOL/SPD Audited 2021.pdf",
+          "File_Size": 591695,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Pool Advista Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "POOL",
+          "File_ID": "62012fb9-5919-4456-afe7-76a736368052",
+          "File_Modified": "2022-06-29T15:09:04.97",
+          "File_Name": "FinancialStatement-2021-Tahunan-POOL.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POOL/FinancialStatement-2021-Tahunan-POOL.xlsx",
+          "File_Size": 159694,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Pool Advista Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "POOL",
+          "File_ID": "a90020a8-fcb6-4cc8-af42-c74624e638c1",
+          "File_Modified": "2022-06-29T15:09:04.97",
+          "File_Name": "Report audit PT PT PAI Tbk dan Entitas Anak 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POOL/Report audit PT PT PAI Tbk dan Entitas Anak 2021.pdf",
+          "File_Size": 2114157,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Pool Advista Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "POOL",
+          "File_ID": "6dea3607-dc4d-462f-b07b-75f424468f10",
+          "File_Modified": "2022-06-29T15:09:04.97",
+          "File_Name": "Penjelasan perubahan liabilitas LKT 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POOL/Penjelasan perubahan liabilitas LKT 2021.pdf",
+          "File_Size": 533004,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Pool Advista Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "POOL",
+          "File_ID": "3f6ba2a9-8c9b-46fb-8325-821c0fe9f2f8",
+          "File_Modified": "2022-06-29T15:09:04.97",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POOL/instance.zip",
+          "File_Size": 28997,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Pool Advista Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "POOL",
+          "File_ID": "dd0062d2-7d57-4ae0-8ab9-c475fff87e01",
+          "File_Modified": "2022-06-29T15:09:04.97",
+          "File_Name": "Checklist Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POOL/Checklist Desember 2021.pdf",
+          "File_Size": 1285169,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Pool Advista Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "POOL",
+          "File_ID": "2457c689-cc53-4e76-b481-ea81b0e590d1",
+          "File_Modified": "2022-06-29T15:09:04.97",
+          "File_Name": "Penjelasan atas opini WDP Akuntan Publik.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POOL/Penjelasan atas opini WDP Akuntan Publik.pdf",
+          "File_Size": 1281509,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Pool Advista Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

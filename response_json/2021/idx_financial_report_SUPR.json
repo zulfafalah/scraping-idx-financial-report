@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SUPR",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SUPR",
+      "File_Modified": "2022-04-18T18:36:48.4",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Solusi Tunas Pratama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "b1d9a3a6-b8d5-4508-b3d0-42f53cecf452",
+          "File_Modified": "2022-04-18T18:36:48.4",
+          "File_Name": "FinancialStatement-2021-Tahunan-SUPR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/SUPR/FinancialStatement-2021-Tahunan-SUPR.pdf",
+          "File_Size": 56881,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "957ebf5d-d392-4720-a61b-9b2e212ccff2",
+          "File_Modified": "2022-04-18T18:36:48.4",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/SUPR/instance.zip",
+          "File_Size": 27138,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "d6d3b999-0130-4cbc-90a7-4442a8c00c41",
+          "File_Modified": "2022-04-18T18:36:48.4",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/SUPR/inlineXBRL.zip",
+          "File_Size": 53983,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "966037d7-b993-431e-9f74-c5a7408f894f",
+          "File_Modified": "2022-04-18T18:36:48.4",
+          "File_Name": "FinancialStatement-2021-Tahunan-SUPR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/SUPR/FinancialStatement-2021-Tahunan-SUPR.xlsx",
+          "File_Size": 154208,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "b4b82dd6-0c70-47b6-b86c-557fab690589",
+          "File_Modified": "2022-04-18T18:36:48.4",
+          "File_Name": "AnnualReport2021-SUPR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/f9a5608f7b_90bb0a4851.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "f97ac8ca-ff2a-4f8d-9e61-eebc619d94f1",
+          "File_Modified": "2022-04-18T18:36:48.4",
+          "File_Name": "Final Release Audit Report STP Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/SUPR/Final Release Audit Report STP Desember 2021.pdf",
+          "File_Size": 5412337,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        }
+      ]
+    }
+  ]
+}

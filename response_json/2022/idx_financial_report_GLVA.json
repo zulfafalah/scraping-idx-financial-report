@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GLVA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GLVA",
+      "File_Modified": "2023-04-05T18:08:05.337",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Galva Technologies Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "GLVA",
+          "File_ID": "02708feb-b24d-4110-8650-a750a1bcead1",
+          "File_Modified": "2023-04-05T18:08:05.337",
+          "File_Name": "FinancialStatement-2022-Tahunan-GLVA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GLVA/FinancialStatement-2022-Tahunan-GLVA.pdf",
+          "File_Size": 128559,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Galva Technologies Tbk"
+        },
+        {
+          "Emiten_Code": "GLVA",
+          "File_ID": "5c4174c4-6f87-4565-8d9a-1b26c2715d8a",
+          "File_Modified": "2023-04-05T18:08:05.337",
+          "File_Name": "2023.03_GLVA_Surat Pernyataan Direksi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GLVA/2023.03_GLVA_Surat Pernyataan Direksi.pdf",
+          "File_Size": 444723,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Galva Technologies Tbk"
+        },
+        {
+          "Emiten_Code": "GLVA",
+          "File_ID": "282a9c79-8d71-40d6-a520-3833dee513ba",
+          "File_Modified": "2023-04-05T18:08:05.337",
+          "File_Name": "AnnualReport2022-GLVA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/38af249ce4_2055f934cd.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Galva Technologies Tbk"
+        },
+        {
+          "Emiten_Code": "GLVA",
+          "File_ID": "2e198bc3-8b4d-4b05-92b2-3df4b681b792",
+          "File_Modified": "2023-04-05T18:08:05.337",
+          "File_Name": "2023.03_GLVA_Checklist pengungkapan LK 31Des22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GLVA/2023.03_GLVA_Checklist pengungkapan LK 31Des22.pdf",
+          "File_Size": 1329325,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Galva Technologies Tbk"
+        },
+        {
+          "Emiten_Code": "GLVA",
+          "File_ID": "90f9c677-039b-45b0-89eb-52b66206f850",
+          "File_Modified": "2023-04-05T18:08:05.337",
+          "File_Name": "2023.04_GLVA_Surat Pengantar LK_BEI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GLVA/2023.04_GLVA_Surat Pengantar LK_BEI.pdf",
+          "File_Size": 98840,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Galva Technologies Tbk"
+        },
+        {
+          "Emiten_Code": "GLVA",
+          "File_ID": "f0de4aba-c1a4-4fee-ad24-711748f60144",
+          "File_Modified": "2023-04-05T18:08:05.337",
+          "File_Name": "2023.04_GLVA_Surat Pengantar LK_OJK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GLVA/2023.04_GLVA_Surat Pengantar LK_OJK.pdf",
+          "File_Size": 98987,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Galva Technologies Tbk"
+        },
+        {
+          "Emiten_Code": "GLVA",
+          "File_ID": "0c68414d-c715-49e3-a82b-fa8329ce708d",
+          "File_Modified": "2023-04-05T18:08:05.337",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GLVA/instance.zip",
+          "File_Size": 176965,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Galva Technologies Tbk"
+        },
+        {
+          "Emiten_Code": "GLVA",
+          "File_ID": "7a566fea-1001-48cc-8abe-654ac544ac48",
+          "File_Modified": "2023-04-05T18:08:05.337",
+          "File_Name": "2023.03_GLVA_Audited Consolidated LK 31Des22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GLVA/2023.03_GLVA_Audited Consolidated LK 31Des22.pdf",
+          "File_Size": 3746306,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Galva Technologies Tbk"
+        },
+        {
+          "Emiten_Code": "GLVA",
+          "File_ID": "161db65d-fa7d-45b6-9b33-e8cd8a44ae0a",
+          "File_Modified": "2023-04-05T18:08:05.337",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GLVA/inlineXBRL.zip",
+          "File_Size": 214992,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Galva Technologies Tbk"
+        },
+        {
+          "Emiten_Code": "GLVA",
+          "File_ID": "905a53e5-ff2f-467c-9ac6-efc786a2e5b4",
+          "File_Modified": "2023-04-05T18:08:05.337",
+          "File_Name": "2023.03_GLVA_Penjelasan Perub. BS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GLVA/2023.03_GLVA_Penjelasan Perub. BS.pdf",
+          "File_Size": 94405,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Galva Technologies Tbk"
+        },
+        {
+          "Emiten_Code": "GLVA",
+          "File_ID": "a61f63e4-bf21-40f8-8228-3ab2f300fffa",
+          "File_Modified": "2023-04-05T18:08:05.337",
+          "File_Name": "FinancialStatement-2022-Tahunan-GLVA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GLVA/FinancialStatement-2022-Tahunan-GLVA.xlsx",
+          "File_Size": 1194924,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Galva Technologies Tbk"
+        }
+      ]
+    }
+  ]
+}

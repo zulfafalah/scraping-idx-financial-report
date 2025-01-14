@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "EMTK",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "EMTK",
+      "File_Modified": "2023-04-03T15:20:48.61",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Elang Mahkota Teknologi Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "EMTK",
+          "File_ID": "4f9a93c6-fb9b-4024-a39f-0981e80d1d16",
+          "File_Modified": "2023-04-03T15:20:48.61",
+          "File_Name": "FinancialStatement-2022-Tahunan-EMTK.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/EMTK/FinancialStatement-2022-Tahunan-EMTK.xlsx",
+          "File_Size": 1220507,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Elang Mahkota Teknologi Tbk"
+        },
+        {
+          "Emiten_Code": "EMTK",
+          "File_ID": "76c3375d-5b42-44af-a33c-3422d71f4bed",
+          "File_Modified": "2023-04-03T15:20:48.61",
+          "File_Name": "FinancialStatement-2022-Tahunan-EMTK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/EMTK/FinancialStatement-2022-Tahunan-EMTK.pdf",
+          "File_Size": 244768,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Elang Mahkota Teknologi Tbk"
+        },
+        {
+          "Emiten_Code": "EMTK",
+          "File_ID": "fae6ffc0-39db-467c-98dd-702a0550c3df",
+          "File_Modified": "2023-04-03T15:20:48.61",
+          "File_Name": "EMTK_Checklist LK Tahunan_31 Dec 2022FIN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/EMTK/EMTK_Checklist LK Tahunan_31 Dec 2022FIN.pdf",
+          "File_Size": 974034,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Elang Mahkota Teknologi Tbk"
+        },
+        {
+          "Emiten_Code": "EMTK",
+          "File_ID": "3ecc6e71-2c9f-4d2a-a7a5-d13aae5f881e",
+          "File_Modified": "2023-04-03T15:20:48.61",
+          "File_Name": "AnnualReport2022-EMTK-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/b5a379aa8b_b913d4b93e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Elang Mahkota Teknologi Tbk"
+        },
+        {
+          "Emiten_Code": "EMTK",
+          "File_ID": "becbdc2a-b329-4da8-bd9a-34dfebc9b122",
+          "File_Modified": "2023-04-03T15:20:48.61",
+          "File_Name": "EMTEK - Penyampaian LK Tahunan 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/EMTK/EMTEK - Penyampaian LK Tahunan 31 Des 2022.pdf",
+          "File_Size": 260756,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Elang Mahkota Teknologi Tbk"
+        },
+        {
+          "Emiten_Code": "EMTK",
+          "File_ID": "1b310696-2653-45da-a8b9-6e985f0c71ea",
+          "File_Modified": "2023-04-03T15:20:48.61",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/EMTK/inlineXBRL.zip",
+          "File_Size": 223099,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Elang Mahkota Teknologi Tbk"
+        },
+        {
+          "Emiten_Code": "EMTK",
+          "File_ID": "124019ed-1197-4898-9b08-a11d928ab33c",
+          "File_Modified": "2023-04-03T15:20:48.61",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/EMTK/instance.zip",
+          "File_Size": 216984,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Elang Mahkota Teknologi Tbk"
+        },
+        {
+          "Emiten_Code": "EMTK",
+          "File_ID": "9e184d9a-4653-4770-91eb-c78f9732debb",
+          "File_Modified": "2023-04-03T15:20:48.61",
+          "File_Name": "EMTK_LK Tahunan_31Des2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/EMTK/EMTK_LK Tahunan_31Des2022.pdf",
+          "File_Size": 9460156,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Elang Mahkota Teknologi Tbk"
+        }
+      ]
+    }
+  ]
+}

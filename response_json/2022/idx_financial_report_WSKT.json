@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "WSKT",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "WSKT",
+      "File_Modified": "2023-04-07T16:24:30.533",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Waskita Karya (Persero) Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "d063a7d4-5a1d-45aa-96db-58b61dbeceae",
+          "File_Modified": "2023-04-07T16:24:30.533",
+          "File_Name": "Laporan Keuangan WSKT as of Dec 31-2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WSKT/Laporan Keuangan WSKT as of Dec 31-2022.pdf",
+          "File_Size": 6894801,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "bf7120a0-0aee-423e-91ac-6ecfa95dc9cf",
+          "File_Modified": "2023-04-07T16:24:30.533",
+          "File_Name": "FinancialStatement-2022-Tahunan-WSKT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WSKT/FinancialStatement-2022-Tahunan-WSKT.pdf",
+          "File_Size": 237095,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "ca9fc1c4-5c98-4ca8-899d-444fdab12a03",
+          "File_Modified": "2023-04-07T16:24:30.533",
+          "File_Name": "556_WK_DIR_2023_LKT Audited 2022 WSKT_BEI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WSKT/556_WK_DIR_2023_LKT Audited 2022 WSKT_BEI.pdf",
+          "File_Size": 203652,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "1b94a2f0-7c48-43fc-a32d-57cb879f0aae",
+          "File_Modified": "2023-04-07T16:24:30.533",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WSKT/inlineXBRL.zip",
+          "File_Size": 264925,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "0eb9c05d-5400-4efe-84ed-6af50db9fece",
+          "File_Modified": "2023-04-07T16:24:30.533",
+          "File_Name": "FinancialStatement-2022-Tahunan-WSKT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WSKT/FinancialStatement-2022-Tahunan-WSKT.xlsx",
+          "File_Size": 1178903,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "584bb1f5-a84f-4355-9044-949d33aa3f40",
+          "File_Modified": "2023-04-07T16:24:30.533",
+          "File_Name": "AnnualReport2022-WSKT-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/3f96df2b37_41293f1467.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "0e81d6e6-0a1a-4334-9382-d07d7d5c8a93",
+          "File_Modified": "2023-04-07T16:24:30.533",
+          "File_Name": "Checklist Pengungkapan Laporan Keuangan_compressed.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WSKT/Checklist Pengungkapan Laporan Keuangan_compressed.pdf",
+          "File_Size": 5383988,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "118c1ac7-7c37-4f3c-8261-ee264c3080f9",
+          "File_Modified": "2023-04-07T16:24:30.533",
+          "File_Name": "554_WK_DIR_2023_LKT Audited 2022 WSKT_OJK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WSKT/554_WK_DIR_2023_LKT Audited 2022 WSKT_OJK.pdf",
+          "File_Size": 202695,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WSKT",
+          "File_ID": "b7597bf5-a3bf-4ca4-9eb8-a8dc6216d032",
+          "File_Modified": "2023-04-07T16:24:30.533",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WSKT/instance.zip",
+          "File_Size": 193170,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Waskita Karya (Persero) Tbk"
+        }
+      ]
+    }
+  ]
+}

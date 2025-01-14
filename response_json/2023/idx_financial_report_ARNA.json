@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ARNA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ARNA",
+      "File_Modified": "2024-02-22T17:31:32.167",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Arwana Citramulia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "1a052524-1eb2-4ac2-8932-0e59790d1930",
+          "File_Modified": "2024-02-22T17:31:32.167",
+          "File_Name": "FinancialStatement-2023-Tahunan-ARNA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ARNA/FinancialStatement-2023-Tahunan-ARNA.pdf",
+          "File_Size": 845747,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "48e039b2-ac87-4e87-8ade-d658016d7ff2",
+          "File_Modified": "2024-02-22T17:31:32.167",
+          "File_Name": "LK 2023 Audited_ARNA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ARNA/LK 2023 Audited_ARNA.pdf",
+          "File_Size": 7232770,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "50198813-99fa-401e-9363-ecca59c74bf3",
+          "File_Modified": "2024-02-22T17:31:32.167",
+          "File_Name": "AnnualReport2023-ARNA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/f6f0e96992_23fa184ef1.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "e836ea01-acf4-41d0-814c-34982b18e89e",
+          "File_Modified": "2024-02-22T17:31:32.167",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ARNA/instance.zip",
+          "File_Size": 154215,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "fe738d0a-89d4-40eb-9a9e-6a656b700e6b",
+          "File_Modified": "2024-02-22T17:31:32.167",
+          "File_Name": "AnnualReport2023-ARNA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/51556a4c8a_4c83f92fbe.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "8cc03c67-a730-4a27-b3a4-8a1829741d1a",
+          "File_Modified": "2024-02-22T17:31:32.167",
+          "File_Name": "AnnualReport2023-ARNA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/4f1ce44730_cb3e6b4385.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "fb6e9f70-a44f-432d-a98e-93ea13ba8bbb",
+          "File_Modified": "2024-02-22T17:31:32.167",
+          "File_Name": "Surat Pernyataan Direksi_ARNA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ARNA/Surat Pernyataan Direksi_ARNA.pdf",
+          "File_Size": 406186,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "e1d5af04-a166-4ffe-a588-01989b043ae5",
+          "File_Modified": "2024-02-22T17:31:32.167",
+          "File_Name": "FinancialStatement-2023-Tahunan-ARNA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ARNA/FinancialStatement-2023-Tahunan-ARNA.xlsx",
+          "File_Size": 411385,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "bb69794a-e09a-40df-93ea-68257ddad10a",
+          "File_Modified": "2024-02-22T17:31:32.167",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ARNA/inlineXBRL.zip",
+          "File_Size": 297264,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "07bb30c8-3b07-4ab1-ab8d-85a749f62f03",
+          "File_Modified": "2024-02-22T17:31:32.167",
+          "File_Name": "Surat Pengantar LK per 31 Desember 2023_ARNA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ARNA/Surat Pengantar LK per 31 Desember 2023_ARNA.pdf",
+          "File_Size": 322156,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        }
+      ]
+    }
+  ]
+}

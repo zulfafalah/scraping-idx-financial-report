@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "INET",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "INET",
+      "File_Modified": "2024-04-11T05:46:52.903",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Sinergi Inti Andalan Prima Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "INET",
+          "File_ID": "94cf59c5-135e-4b8b-8c18-5dc6064cd9d6",
+          "File_Modified": "2024-04-11T05:46:52.903",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INET/instance.zip",
+          "File_Size": 136129,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinergi Inti Andalan Prima Tbk."
+        },
+        {
+          "Emiten_Code": "INET",
+          "File_ID": "ed54f518-ea77-4b80-94d9-ae9c924a3412",
+          "File_Modified": "2024-04-11T05:46:52.903",
+          "File_Name": "Final Report INET Dec 31 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INET/Final Report INET Dec 31 2023.pdf",
+          "File_Size": 2822774,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinergi Inti Andalan Prima Tbk."
+        },
+        {
+          "Emiten_Code": "INET",
+          "File_ID": "bc715443-c52c-4f99-ab4b-d445a7019e45",
+          "File_Modified": "2024-04-11T05:46:52.903",
+          "File_Name": "Surat Pengantar LK Auditan INET Dec 31 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INET/Surat Pengantar LK Auditan INET Dec 31 2023.pdf",
+          "File_Size": 147752,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinergi Inti Andalan Prima Tbk."
+        },
+        {
+          "Emiten_Code": "INET",
+          "File_ID": "b064cc8a-3c84-4dac-8429-08727aaf838d",
+          "File_Modified": "2024-04-11T05:46:52.903",
+          "File_Name": "FinancialStatement-2023-Tahunan-INET.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INET/FinancialStatement-2023-Tahunan-INET.xlsx",
+          "File_Size": 365577,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinergi Inti Andalan Prima Tbk."
+        },
+        {
+          "Emiten_Code": "INET",
+          "File_ID": "d8549e88-c54e-4570-ac5e-24eeb436724b",
+          "File_Modified": "2024-04-11T05:46:52.903",
+          "File_Name": "AnnualReport2023-INET.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/dc32a8e982_0f8ea37e74.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinergi Inti Andalan Prima Tbk."
+        },
+        {
+          "Emiten_Code": "INET",
+          "File_ID": "db100245-73a9-481d-af9e-ef0ec7259109",
+          "File_Modified": "2024-04-11T05:46:52.903",
+          "File_Name": "FinancialStatement-2023-Tahunan-INET.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INET/FinancialStatement-2023-Tahunan-INET.pdf",
+          "File_Size": 725201,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinergi Inti Andalan Prima Tbk."
+        },
+        {
+          "Emiten_Code": "INET",
+          "File_ID": "098360d8-0b4a-4c47-b945-0d7294b0397e",
+          "File_Modified": "2024-04-11T05:46:52.903",
+          "File_Name": "AnnualReport2023-INET-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/d626762596_fdeaddb8b6.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinergi Inti Andalan Prima Tbk."
+        },
+        {
+          "Emiten_Code": "INET",
+          "File_ID": "8bbd4284-6c6d-4c83-9ad3-97de3777b64e",
+          "File_Modified": "2024-04-11T05:46:52.903",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INET/inlineXBRL.zip",
+          "File_Size": 264705,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinergi Inti Andalan Prima Tbk."
+        },
+        {
+          "Emiten_Code": "INET",
+          "File_ID": "b2d2158d-3c88-4b66-8562-da2707203d2f",
+          "File_Modified": "2024-04-11T05:46:52.903",
+          "File_Name": "AnnualReport2023-INET-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/6b6e22031e_ea4fdf25c3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinergi Inti Andalan Prima Tbk."
+        },
+        {
+          "Emiten_Code": "INET",
+          "File_ID": "6024e583-af42-49ce-92d7-e1fc4dc71caa",
+          "File_Modified": "2024-04-11T05:46:52.903",
+          "File_Name": "Analitical Review INET Dec 31 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INET/Analitical Review INET Dec 31 2023.pdf",
+          "File_Size": 64936,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinergi Inti Andalan Prima Tbk."
+        },
+        {
+          "Emiten_Code": "INET",
+          "File_ID": "bcc2eb3c-2ddf-4d9a-8f81-6972404aa4ad",
+          "File_Modified": "2024-04-11T05:46:52.903",
+          "File_Name": "Ceklist OJK INET Dec 31 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INET/Ceklist OJK INET Dec 31 2023.pdf",
+          "File_Size": 1029845,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinergi Inti Andalan Prima Tbk."
+        }
+      ]
+    }
+  ]
+}

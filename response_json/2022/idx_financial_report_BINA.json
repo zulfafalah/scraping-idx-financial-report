@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BINA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BINA",
+      "File_Modified": "2023-03-31T23:02:01.027",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Bank Ina Perdana Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "77aae45b-6e1c-4591-9e2a-b8cc27bbd0ee",
+          "File_Modified": "2023-03-31T23:02:01.027",
+          "File_Name": "BINALK20221231.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BINA/BINALK20221231.pdf",
+          "File_Size": 3066490,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "092099fe-e60a-4b11-ab0e-e54ede1144bf",
+          "File_Modified": "2023-03-31T23:02:01.027",
+          "File_Name": "Penjelasan Manjemen 311222.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BINA/Penjelasan Manjemen 311222.pdf",
+          "File_Size": 217291,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "55e8d758-9165-47aa-a588-3d4b08d19bb4",
+          "File_Modified": "2023-03-31T23:02:01.027",
+          "File_Name": "FinancialStatement-2022-Tahunan-BINA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BINA/FinancialStatement-2022-Tahunan-BINA.xlsx",
+          "File_Size": 570810,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "51b9b9c9-8e7e-400a-a97b-8a10ed728066",
+          "File_Modified": "2023-03-31T23:02:01.027",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BINA/inlineXBRL.zip",
+          "File_Size": 136200,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "545b0892-d136-41fc-8f48-426fe009ca2a",
+          "File_Modified": "2023-03-31T23:02:01.027",
+          "File_Name": "AnnualReport2022-BINA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/88a24b44f0_bc1d0e5089.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "d73182a3-c5dc-4240-afc5-9e1729aeee8e",
+          "File_Modified": "2023-03-31T23:02:01.027",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BINA/instance.zip",
+          "File_Size": 91002,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "61ab1dae-79fd-4dd8-8b3c-cb4797f6dc9b",
+          "File_Modified": "2023-03-31T23:02:01.027",
+          "File_Name": "FinancialStatement-2022-Tahunan-BINA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BINA/FinancialStatement-2022-Tahunan-BINA.pdf",
+          "File_Size": 141802,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "d2094fb6-2b65-44f5-9dcf-fe4d1975af82",
+          "File_Modified": "2023-03-31T23:02:01.027",
+          "File_Name": "AnnualReport2022-BINA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/9053b96427_db784d6361.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "0457a86e-464f-4a9c-83e0-5fcde90d77e9",
+          "File_Modified": "2023-03-31T23:02:01.027",
+          "File_Name": "AnnualReport2022-BINA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/88a24b44f0_bc1d0e5089.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "99cccd22-b161-4402-8f10-93782dea7084",
+          "File_Modified": "2023-03-31T23:02:01.027",
+          "File_Name": "AnnualReport2022-BINA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/7869ad8e76_024051671a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        }
+      ]
+    }
+  ]
+}

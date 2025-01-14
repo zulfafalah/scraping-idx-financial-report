@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TRJA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TRJA",
+      "File_Modified": "2022-04-27T20:40:28.133",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Transkon Jaya Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "8b854811-db0a-4b6f-9626-c09a3c05bb7a",
+          "File_Modified": "2022-04-27T20:40:28.133",
+          "File_Name": "AnnualReport2021-TRJA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/fca42b3196_bd010311da.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "ba08e563-6d87-4dab-a132-ee522e346709",
+          "File_Modified": "2022-04-27T20:40:28.133",
+          "File_Name": "FinancialStatement-2021-Tahunan-TRJA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TRJA/FinancialStatement-2021-Tahunan-TRJA.xlsx",
+          "File_Size": 154786,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "ad821bef-fe2e-4dba-bf7d-86069c1d6a4e",
+          "File_Modified": "2022-04-27T20:40:28.133",
+          "File_Name": "Checklist OJK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TRJA/Checklist OJK.pdf",
+          "File_Size": 1603272,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "85eb07ee-572e-4644-934e-95cd61792a94",
+          "File_Modified": "2022-04-27T20:40:28.133",
+          "File_Name": "FS_PT Transkon Jaya Tbk_ 31 Dec 2021 (Audited).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TRJA/FS_PT Transkon Jaya Tbk_ 31 Dec 2021 (Audited).pdf",
+          "File_Size": 8163806,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "fe80e4e7-979d-4064-954c-b4bb99574b9e",
+          "File_Modified": "2022-04-27T20:40:28.133",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TRJA/instance.zip",
+          "File_Size": 27361,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "8200db30-cb5f-4f4a-a448-e5c26468b19c",
+          "File_Modified": "2022-04-27T20:40:28.133",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TRJA/inlineXBRL.zip",
+          "File_Size": 54516,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "c231994e-8569-47b8-a2cb-7cdc9c9dafd3",
+          "File_Modified": "2022-04-27T20:40:28.133",
+          "File_Name": "FinancialStatement-2021-Tahunan-TRJA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TRJA/FinancialStatement-2021-Tahunan-TRJA.pdf",
+          "File_Size": 48274,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        }
+      ]
+    }
+  ]
+}

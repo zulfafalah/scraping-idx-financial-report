@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BVIC",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BVIC",
+      "File_Modified": "2023-04-26T18:55:09.507",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Bank Victoria International Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "ff548264-37e6-412d-98f4-a66f96e45c13",
+          "File_Modified": "2023-04-26T18:55:09.507",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BVIC/instance.zip",
+          "File_Size": 89836,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "4978bcc4-b492-4159-95ba-10999b060dfb",
+          "File_Modified": "2023-04-26T18:55:09.507",
+          "File_Name": "FinancialStatement-2022-Tahunan-BVIC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BVIC/FinancialStatement-2022-Tahunan-BVIC.pdf",
+          "File_Size": 118586,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "5c492a1e-c0ba-4d14-89c3-a8f4fc8f4dd8",
+          "File_Modified": "2023-04-26T18:55:09.507",
+          "File_Name": "038DIREKS0323.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BVIC/038DIREKS0323.pdf",
+          "File_Size": 7617690,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "ab85b1ad-96d7-4b77-8cae-082d52a09fb8",
+          "File_Modified": "2023-04-26T18:55:09.507",
+          "File_Name": "LKT Bank Victoria 31 Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BVIC/LKT Bank Victoria 31 Desember 2022.pdf",
+          "File_Size": 9133896,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "2db0c183-52ac-4cea-91ff-4a95c97749f5",
+          "File_Modified": "2023-04-26T18:55:09.507",
+          "File_Name": "AnnualReport2022-BVIC-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/e180f9ccd0_41c990429d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "b87ecd9d-7fd6-4796-96ad-efbd3b8e6126",
+          "File_Modified": "2023-04-26T18:55:09.507",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BVIC/inlineXBRL.zip",
+          "File_Size": 122795,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "0e292a79-ebed-4600-b67d-64103b67771c",
+          "File_Modified": "2023-04-26T18:55:09.507",
+          "File_Name": "FinancialStatement-2022-Tahunan-BVIC.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BVIC/FinancialStatement-2022-Tahunan-BVIC.xlsx",
+          "File_Size": 574221,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "b816e7a6-03c8-469e-abcd-be46c40cbfb2",
+          "File_Modified": "2023-04-26T18:55:09.507",
+          "File_Name": "Perubahan Liabilitas Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BVIC/Perubahan Liabilitas Desember 2022.pdf",
+          "File_Size": 38848,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DMAS",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DMAS",
+      "File_Modified": "2022-04-08T08:15:36.133",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Puradelta Lestari Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "fbc8abd9-8380-44aa-a58a-774aa8e7a3a5",
+          "File_Modified": "2022-04-08T08:15:36.133",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DMAS/instance.zip",
+          "File_Size": 27104,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "bb8bc6ec-a4c0-40b5-89fb-8410ef96f568",
+          "File_Modified": "2022-04-08T08:15:36.133",
+          "File_Name": "FinancialStatement-2021-Tahunan-DMAS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DMAS/FinancialStatement-2021-Tahunan-DMAS.pdf",
+          "File_Size": 48933,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "b97854a6-70fb-4c81-bf54-5d4fb416b931",
+          "File_Modified": "2022-04-08T08:15:36.133",
+          "File_Name": "010 - Penyampaian Laporan Keuangan Konsolidasian .pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DMAS/010 - Penyampaian Laporan Keuangan Konsolidasian .pdf",
+          "File_Size": 500541,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "86bc0617-35c9-4ec2-9aa0-798fd85ab435",
+          "File_Modified": "2022-04-08T08:15:36.133",
+          "File_Name": "FinancialStatement-2021-Tahunan-DMAS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DMAS/FinancialStatement-2021-Tahunan-DMAS.xlsx",
+          "File_Size": 154936,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "b68f5879-e897-41ab-81f9-2ed1692d9bf8",
+          "File_Modified": "2022-04-08T08:15:36.133",
+          "File_Name": "OJK Checklist 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DMAS/OJK Checklist 2021.pdf",
+          "File_Size": 772208,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "c220e13e-47ce-45d3-b7b6-488ec83d44f3",
+          "File_Modified": "2022-04-08T08:15:36.133",
+          "File_Name": "DMAS News Release 8 Apr 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DMAS/DMAS News Release 8 Apr 2022.pdf",
+          "File_Size": 214645,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "b50dab61-0f45-416e-8094-89e0b742ef87",
+          "File_Modified": "2022-04-08T08:15:36.133",
+          "File_Name": "DMAS Financial Statements 31 Dec 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DMAS/DMAS Financial Statements 31 Dec 2021.pdf",
+          "File_Size": 2345824,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "d64045fa-89c5-4101-8872-24d339f48bb9",
+          "File_Modified": "2022-04-08T08:15:36.133",
+          "File_Name": "SPD Laporan Keuangan.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DMAS/SPD Laporan Keuangan.pdf",
+          "File_Size": 314210,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "325f3c3d-6106-4b7b-906b-98dff906f38c",
+          "File_Modified": "2022-04-08T08:15:36.133",
+          "File_Name": "011 - Penjelasan Perubahan Liabilitas 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DMAS/011 - Penjelasan Perubahan Liabilitas 2021.pdf",
+          "File_Size": 576969,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "328273d5-5fb4-45d2-b3d1-aec8c599e790",
+          "File_Modified": "2022-04-08T08:15:36.133",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DMAS/inlineXBRL.zip",
+          "File_Size": 54146,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        }
+      ]
+    }
+  ]
+}

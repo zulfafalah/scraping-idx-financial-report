@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SUPR",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SUPR",
+      "File_Modified": "2023-03-27T08:17:51.387",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Solusi Tunas Pratama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "9370c1a4-cdd2-4abf-9e1f-29bc27b7967e",
+          "File_Modified": "2023-03-27T08:17:51.387",
+          "File_Name": "FinancialStatement-2022-Tahunan-SUPR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SUPR/FinancialStatement-2022-Tahunan-SUPR.xlsx",
+          "File_Size": 1167483,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "a732f3c1-df33-4999-b756-45e369e347dc",
+          "File_Modified": "2023-03-27T08:17:51.387",
+          "File_Name": "Final Report_STP Tbk_31 Desember 2022_completed.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SUPR/Final Report_STP Tbk_31 Desember 2022_completed.pdf",
+          "File_Size": 3698626,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "20974f4e-10cf-448e-bbd2-45e7f84ee983",
+          "File_Modified": "2023-03-27T08:17:51.387",
+          "File_Name": "Penjelasan Penurunan Liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SUPR/Penjelasan Penurunan Liabilitas.pdf",
+          "File_Size": 82011,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "f9ec7f65-b628-4acc-9bfa-76d7e1c43282",
+          "File_Modified": "2023-03-27T08:17:51.387",
+          "File_Name": "Penyampaian Lapkeu SUPR 31 Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SUPR/Penyampaian Lapkeu SUPR 31 Desember 2022.pdf",
+          "File_Size": 300789,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "8faa5fb7-75bf-46ec-b80e-ba1ab658cad3",
+          "File_Modified": "2023-03-27T08:17:51.387",
+          "File_Name": "FinancialStatement-2022-Tahunan-SUPR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SUPR/FinancialStatement-2022-Tahunan-SUPR.pdf",
+          "File_Size": 147926,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "0aabcf54-8511-4e94-bf34-5da4a5a3000a",
+          "File_Modified": "2023-03-27T08:17:51.387",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SUPR/instance.zip",
+          "File_Size": 177790,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "3be4be8f-bdf7-4e29-91cf-8565c3ae8b18",
+          "File_Modified": "2023-03-27T08:17:51.387",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SUPR/inlineXBRL.zip",
+          "File_Size": 173818,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SUPR",
+          "File_ID": "c4930d1e-a51e-4c7a-ae13-b5e078de0820",
+          "File_Modified": "2023-03-27T08:17:51.387",
+          "File_Name": "AnnualReport2022-SUPR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/6113ced149_483afca568.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Solusi Tunas Pratama Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BNBR",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BNBR",
+      "File_Modified": "2024-03-13T23:18:01.877",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Bakrie & Brothers Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BNBR",
+          "File_ID": "a9f4c089-d1b0-4bdc-93d0-c59db2339bcb",
+          "File_Modified": "2024-03-13T23:18:01.877",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BNBR/inlineXBRL.zip",
+          "File_Size": 269121,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bakrie & Brothers Tbk"
+        },
+        {
+          "Emiten_Code": "BNBR",
+          "File_ID": "009c339e-5bf9-497a-b5f2-ba0507cd4a4c",
+          "File_Modified": "2024-03-13T23:18:01.877",
+          "File_Name": "BNBR_Report-Billingual_Dec 31_2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BNBR/BNBR_Report-Billingual_Dec 31_2023.pdf",
+          "File_Size": 6420821,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bakrie & Brothers Tbk"
+        },
+        {
+          "Emiten_Code": "BNBR",
+          "File_ID": "bd4a4afd-e447-417f-89df-0ba6ba0b8cfa",
+          "File_Modified": "2024-03-13T23:18:01.877",
+          "File_Name": "FinancialStatement-2023-Tahunan-BNBR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BNBR/FinancialStatement-2023-Tahunan-BNBR.pdf",
+          "File_Size": 760343,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bakrie & Brothers Tbk"
+        },
+        {
+          "Emiten_Code": "BNBR",
+          "File_ID": "9616feff-3568-4727-90d3-ee5f84385d6f",
+          "File_Modified": "2024-03-13T23:18:01.877",
+          "File_Name": "FinancialStatement-2023-Tahunan-BNBR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BNBR/FinancialStatement-2023-Tahunan-BNBR.xlsx",
+          "File_Size": 373192,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bakrie & Brothers Tbk"
+        },
+        {
+          "Emiten_Code": "BNBR",
+          "File_ID": "813d3831-578f-4ca8-a7bf-f5791300e1f5",
+          "File_Modified": "2024-03-13T23:18:01.877",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BNBR/instance.zip",
+          "File_Size": 139352,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bakrie & Brothers Tbk"
+        },
+        {
+          "Emiten_Code": "BNBR",
+          "File_ID": "d8cb5cee-6e65-406c-80ab-6cee54125332",
+          "File_Modified": "2024-03-13T23:18:01.877",
+          "File_Name": "2024 - 012_Penyampaian_LKT_BNBR_2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BNBR/2024 - 012_Penyampaian_LKT_BNBR_2023.pdf",
+          "File_Size": 252286,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bakrie & Brothers Tbk"
+        }
+      ]
+    }
+  ]
+}

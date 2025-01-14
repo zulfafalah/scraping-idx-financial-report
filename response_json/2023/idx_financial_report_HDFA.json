@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "HDFA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "HDFA",
+      "File_Modified": "2024-04-30T11:01:13.327",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Radana Bhaskara Finance Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "474c9ca4-306d-470b-985c-68127fbc18eb",
+          "File_Modified": "2024-04-30T11:01:13.327",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HDFA/instance.zip",
+          "File_Size": 86347,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "7a81f507-1afb-4820-9897-7b353f983375",
+          "File_Modified": "2024-04-30T11:01:13.327",
+          "File_Name": "FinancialStatement-2023-Tahunan-HDFA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HDFA/FinancialStatement-2023-Tahunan-HDFA.pdf",
+          "File_Size": 435679,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "d1fbf647-ef0b-4873-93e6-994a2585a62d",
+          "File_Modified": "2024-04-30T11:01:13.327",
+          "File_Name": "FS Audited Report - RBF Tbk 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HDFA/FS Audited Report - RBF Tbk 2023.pdf",
+          "File_Size": 5109915,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "a4b08d88-ee52-4a5f-8b94-a9658c3a7384",
+          "File_Modified": "2024-04-30T11:01:13.327",
+          "File_Name": "Surat Pengantar LK Tahunan.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HDFA/Surat Pengantar LK Tahunan.pdf",
+          "File_Size": 408722,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "29cbd334-2d48-4786-81d1-a9e60bed1fc7",
+          "File_Modified": "2024-04-30T11:01:13.327",
+          "File_Name": "FinancialStatement-2023-Tahunan-HDFA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HDFA/FinancialStatement-2023-Tahunan-HDFA.xlsx",
+          "File_Size": 215564,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "7bc7ded1-7c29-487a-82c0-b1072dcaa5c4",
+          "File_Modified": "2024-04-30T11:01:13.327",
+          "File_Name": "AnnualReport2023-HDFA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7c293897be_ea7699cad9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "560a3b8c-ced9-403e-915b-c6dc57499814",
+          "File_Modified": "2024-04-30T11:01:13.327",
+          "File_Name": "CHECKLIST RBF DEC 2023 Final.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HDFA/CHECKLIST RBF DEC 2023 Final.pdf",
+          "File_Size": 1380719,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "2e364385-62bf-4a07-b2b3-f59ef235c2b6",
+          "File_Modified": "2024-04-30T11:01:13.327",
+          "File_Name": "AnnualReport2023-HDFA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/16853a6e6b_cecaeacb06.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "d3ebf67c-c926-486c-bd9c-1078cf813e42",
+          "File_Modified": "2024-04-30T11:01:13.327",
+          "File_Name": "Signed SPD Q4 2023 - 28 Maret 2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HDFA/Signed SPD Q4 2023 - 28 Maret 2024.pdf",
+          "File_Size": 444181,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "ce53ef37-1016-42fa-ba12-1e883437022e",
+          "File_Modified": "2024-04-30T11:01:13.327",
+          "File_Name": "AnnualReport2023-HDFA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/ace2785714_ef99cdb762.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "d4603c9f-af6b-4737-bd58-31c071cfebfb",
+          "File_Modified": "2024-04-30T11:01:13.327",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HDFA/inlineXBRL.zip",
+          "File_Size": 158216,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        },
+        {
+          "Emiten_Code": "HDFA",
+          "File_ID": "cf3c0a51-ba2a-4eae-8d6d-a14755f352bf",
+          "File_Modified": "2024-04-30T11:01:13.327",
+          "File_Name": "Surat Penjelasan Tambahan Q4 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HDFA/Surat Penjelasan Tambahan Q4 2023.pdf",
+          "File_Size": 395926,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Radana Bhaskara Finance Tbk"
+        }
+      ]
+    }
+  ]
+}

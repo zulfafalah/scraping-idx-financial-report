@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "CSIS",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "CSIS",
+      "File_Modified": "2023-10-02T14:17:51.82",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "fb2e5ce6-54c7-4c54-9683-0d29c799ba04",
+          "File_Modified": "2023-10-02T14:17:51.82",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CSIS/instance.zip",
+          "File_Size": 176682,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "0d6e6c8b-f5f7-4fda-971b-c51911e8e6a8",
+          "File_Modified": "2023-10-02T14:17:51.82",
+          "File_Name": "FinancialStatement-2022-Tahunan-CSIS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CSIS/FinancialStatement-2022-Tahunan-CSIS.pdf",
+          "File_Size": 127613,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "bf17db59-4762-4867-a577-c9c129ffcc67",
+          "File_Modified": "2023-10-02T14:17:51.82",
+          "File_Name": "Surat Pengantar reissue des 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CSIS/Surat Pengantar reissue des 22.pdf",
+          "File_Size": 503196,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "e76888b6-76ae-44d2-b897-3f7c1b129e99",
+          "File_Modified": "2023-10-02T14:17:51.82",
+          "File_Name": "Report Reissue CSIS Dec 2022-1.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CSIS/Report Reissue CSIS Dec 2022-1.pdf",
+          "File_Size": 4683841,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "1582d172-5e57-4033-86d8-9433547bf7d8",
+          "File_Modified": "2023-10-02T14:17:51.82",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CSIS/inlineXBRL.zip",
+          "File_Size": 214974,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "76d23325-4b97-472c-8834-db6a6ca4eab4",
+          "File_Modified": "2023-10-02T14:17:51.82",
+          "File_Name": "AnnualReport2022-CSIS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/106a416c60_dd6c36cdad.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "6a1ae561-fad7-4abc-8d9f-1b740d277609",
+          "File_Modified": "2023-10-02T14:17:51.82",
+          "File_Name": "CHECKLIST PENGUNGKAPAN LK_CSIS_Des 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CSIS/CHECKLIST PENGUNGKAPAN LK_CSIS_Des 22.pdf",
+          "File_Size": 1280801,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "99093901-7660-441a-8a9d-3eb86029d655",
+          "File_Modified": "2023-10-02T14:17:51.82",
+          "File_Name": "Penyampaian Lap keu Tahunan 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CSIS/Penyampaian Lap keu Tahunan 2022.pdf",
+          "File_Size": 534155,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "19bab2d8-549b-460f-aa5e-9617ea802f11",
+          "File_Modified": "2023-10-02T14:17:51.82",
+          "File_Name": "Report CSIS 2022 - Audited - With Opini.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CSIS/Report CSIS 2022 - Audited - With Opini.pdf",
+          "File_Size": 5661226,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "3c539028-447c-4256-9cf2-963c888c2420",
+          "File_Modified": "2023-10-02T14:17:51.82",
+          "File_Name": "FinancialStatement-2022-Tahunan-CSIS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CSIS/FinancialStatement-2022-Tahunan-CSIS.xlsx",
+          "File_Size": 1184341,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "15f15537-24eb-46b5-a797-bb238f012706",
+          "File_Modified": "2023-10-02T14:17:51.82",
+          "File_Name": "Perubahan aset  liab per Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CSIS/Perubahan aset  liab per Desember 2022.pdf",
+          "File_Size": 2275841,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "70c14aac-2f7f-4ce1-87b3-ed46c46ac003",
+          "File_Modified": "2023-10-02T14:17:51.82",
+          "File_Name": "Analisa 20 persen re issued des 22001.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CSIS/Analisa 20 persen re issued des 22001.pdf",
+          "File_Size": 899839,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        }
+      ]
+    }
+  ]
+}

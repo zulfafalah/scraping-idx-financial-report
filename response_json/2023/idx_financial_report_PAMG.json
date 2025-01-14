@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PAMG",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PAMG",
+      "File_Modified": "2024-05-15T10:38:59.927",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Bima Sakti Pertiwi Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "f39d3c58-8b72-466e-8c20-6fcd4c95d2d0",
+          "File_Modified": "2024-05-15T10:38:59.927",
+          "File_Name": "AnnualReport2023-PAMG.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/dbc1f98894_b02ea94b87.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "c2591c4e-b324-4b13-abb5-ad25a394ee00",
+          "File_Modified": "2024-05-15T10:38:59.927",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PAMG/inlineXBRL.zip",
+          "File_Size": 240965,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "53ac8111-f5be-4a60-8aa6-726d1b1ded26",
+          "File_Modified": "2024-05-15T10:38:59.927",
+          "File_Name": "Laporan Keuangan PAMG Per 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PAMG/Laporan Keuangan PAMG Per 31 Desember 2023.pdf",
+          "File_Size": 5091790,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "e43096b0-1680-41e1-a5d0-903f68b96498",
+          "File_Modified": "2024-05-15T10:38:59.927",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PAMG/instance.zip",
+          "File_Size": 127010,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "f61782f9-3e60-49e0-b4d7-17908de0d1d9",
+          "File_Modified": "2024-05-15T10:38:59.927",
+          "File_Name": "FinancialStatement-2023-Tahunan-PAMG.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PAMG/FinancialStatement-2023-Tahunan-PAMG.xlsx",
+          "File_Size": 335192,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "e28a1e1c-083f-42b0-a355-530d510fc2f5",
+          "File_Modified": "2024-05-15T10:38:59.927",
+          "File_Name": "Surat Pernyataan Direksi Per 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PAMG/Surat Pernyataan Direksi Per 31 Desember 2023.pdf",
+          "File_Size": 288250,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "be2edd39-c820-4d67-8706-6f3ae96d7679",
+          "File_Modified": "2024-05-15T10:38:59.927",
+          "File_Name": "AnnualReport2023-PAMG-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/0f28ab3697_94cf1f007c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "6addd60b-6de6-4e84-bd74-731c2cf15938",
+          "File_Modified": "2024-05-15T10:38:59.927",
+          "File_Name": "FinancialStatement-2023-Tahunan-PAMG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PAMG/FinancialStatement-2023-Tahunan-PAMG.pdf",
+          "File_Size": 670236,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "041dafa0-417a-4d1b-94c6-e467fe5f1d48",
+          "File_Modified": "2024-05-15T10:38:59.927",
+          "File_Name": "AnnualReport2023-PAMG-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/a3129602f0_8a9e8cc1bf.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "b5349d67-9dee-4585-84ad-1bfb844a7531",
+          "File_Modified": "2024-05-15T10:38:59.927",
+          "File_Name": "Audit Report 2023 PAMG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PAMG/Audit Report 2023 PAMG.pdf",
+          "File_Size": 5091790,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "cfd403bb-d0a5-4550-b348-bd991dd38df1",
+          "File_Modified": "2024-05-15T10:38:59.927",
+          "File_Name": "Checklist OJK 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PAMG/Checklist OJK 2023.pdf",
+          "File_Size": 1504181,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "1d9651dc-7f84-4fb5-b183-ea286e02d44f",
+          "File_Modified": "2024-05-15T10:38:59.927",
+          "File_Name": "Surat Pernyataan Direksi PAMG Per 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PAMG/Surat Pernyataan Direksi PAMG Per 31 Desember 2023.pdf",
+          "File_Size": 288250,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        }
+      ]
+    }
+  ]
+}

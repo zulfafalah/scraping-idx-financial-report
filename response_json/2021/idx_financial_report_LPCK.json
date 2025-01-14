@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "LPCK",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "LPCK",
+      "File_Modified": "2022-03-30T14:04:14.263",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Lippo Cikarang Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "LPCK",
+          "File_ID": "e6d48c6b-6426-4d02-b071-333e5f3058cd",
+          "File_Modified": "2022-03-30T14:04:14.263",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LPCK/inlineXBRL.zip",
+          "File_Size": 51168,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lippo Cikarang Tbk"
+        },
+        {
+          "Emiten_Code": "LPCK",
+          "File_ID": "1babaa7d-429d-4b14-98dc-1351a182ba3f",
+          "File_Modified": "2022-03-30T14:04:14.263",
+          "File_Name": "AnnualReport2021-LPCK-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202206/14507633b9_6590d6fbf0.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lippo Cikarang Tbk"
+        },
+        {
+          "Emiten_Code": "LPCK",
+          "File_ID": "8e1ba1da-220a-4056-a4ab-844b406449c5",
+          "File_Modified": "2022-03-30T14:04:14.263",
+          "File_Name": "20220330_LPCK_Penyampaian LK Tahunan - 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LPCK/20220330_LPCK_Penyampaian LK Tahunan - 31 Des 2021.pdf",
+          "File_Size": 486188,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lippo Cikarang Tbk"
+        },
+        {
+          "Emiten_Code": "LPCK",
+          "File_ID": "7e4bf255-834c-4390-acc6-d33e9132b591",
+          "File_Modified": "2022-03-30T14:04:14.263",
+          "File_Name": "FinancialStatement-2021-Tahunan-LPCK.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LPCK/FinancialStatement-2021-Tahunan-LPCK.xlsx",
+          "File_Size": 151113,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lippo Cikarang Tbk"
+        },
+        {
+          "Emiten_Code": "LPCK",
+          "File_ID": "8db41525-4ef8-4cb1-86d1-d1847c9e7d5d",
+          "File_Modified": "2022-03-30T14:04:14.263",
+          "File_Name": "CHECKLIST PENGUNGKAPAN LAP KEU_LPCK 31 Dec 21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LPCK/CHECKLIST PENGUNGKAPAN LAP KEU_LPCK 31 Dec 21.pdf",
+          "File_Size": 1634069,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lippo Cikarang Tbk"
+        },
+        {
+          "Emiten_Code": "LPCK",
+          "File_ID": "411fa16c-c547-4c88-8772-3e48199ce2d1",
+          "File_Modified": "2022-03-30T14:04:14.263",
+          "File_Name": "FinancialStatement-2021-Tahunan-LPCK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LPCK/FinancialStatement-2021-Tahunan-LPCK.pdf",
+          "File_Size": 50353,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lippo Cikarang Tbk"
+        },
+        {
+          "Emiten_Code": "LPCK",
+          "File_ID": "113af2a8-983f-436b-9f02-7be1440a4e3a",
+          "File_Modified": "2022-03-30T14:04:14.263",
+          "File_Name": "Lippo Cikarang GA 31 Dec 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LPCK/Lippo Cikarang GA 31 Dec 2021.pdf",
+          "File_Size": 2516747,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lippo Cikarang Tbk"
+        },
+        {
+          "Emiten_Code": "LPCK",
+          "File_ID": "fa550f05-dfca-4023-a2cd-c318d08bb3db",
+          "File_Modified": "2022-03-30T14:04:14.263",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LPCK/instance.zip",
+          "File_Size": 25638,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Lippo Cikarang Tbk"
+        }
+      ]
+    }
+  ]
+}

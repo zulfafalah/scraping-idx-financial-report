@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "CYBR",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "CYBR",
+      "File_Modified": "2024-05-13T17:37:04.487",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT ITSEC Asia Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "CYBR",
+          "File_ID": "49910cd8-f06e-49b0-ba92-2f440aea7480",
+          "File_Modified": "2024-05-13T17:37:04.487",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CYBR/instance.zip",
+          "File_Size": 131560,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT ITSEC Asia Tbk."
+        },
+        {
+          "Emiten_Code": "CYBR",
+          "File_ID": "709b92bb-d14b-48ce-a1a8-9c407b2c6641",
+          "File_Modified": "2024-05-13T17:37:04.487",
+          "File_Name": "AnnualReport2023-CYBR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/702951d707_5b6e498c4d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT ITSEC Asia Tbk."
+        },
+        {
+          "Emiten_Code": "CYBR",
+          "File_ID": "6ef04929-8008-4fef-8418-ba10e852036f",
+          "File_Modified": "2024-05-13T17:37:04.487",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CYBR/inlineXBRL.zip",
+          "File_Size": 266775,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT ITSEC Asia Tbk."
+        },
+        {
+          "Emiten_Code": "CYBR",
+          "File_ID": "4b842e5b-d0f8-40b2-8fe4-ba5de84658f6",
+          "File_Modified": "2024-05-13T17:37:04.487",
+          "File_Name": "AnnualReport2023-CYBR.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7ffb658139_2d3004937c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT ITSEC Asia Tbk."
+        },
+        {
+          "Emiten_Code": "CYBR",
+          "File_ID": "41a4c27a-5d03-4186-9769-0e837d386271",
+          "File_Modified": "2024-05-13T17:37:04.487",
+          "File_Name": "AnnualReport2023-CYBR-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/9781191fad_db9d6ac97d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT ITSEC Asia Tbk."
+        },
+        {
+          "Emiten_Code": "CYBR",
+          "File_ID": "d4144c41-39c4-4b73-b393-d34ab55fdab1",
+          "File_Modified": "2024-05-13T17:37:04.487",
+          "File_Name": "CYBR - Checklist Pengungkapan LK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CYBR/CYBR - Checklist Pengungkapan LK.pdf",
+          "File_Size": 1556196,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT ITSEC Asia Tbk."
+        },
+        {
+          "Emiten_Code": "CYBR",
+          "File_ID": "5ed7b50d-9b91-407c-b97b-00dc0448cf90",
+          "File_Modified": "2024-05-13T17:37:04.487",
+          "File_Name": "FinancialStatement-2023-Tahunan-CYBR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CYBR/FinancialStatement-2023-Tahunan-CYBR.xlsx",
+          "File_Size": 367923,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT ITSEC Asia Tbk."
+        },
+        {
+          "Emiten_Code": "CYBR",
+          "File_ID": "eb05fe6e-3325-48e9-979c-f8bb221622ca",
+          "File_Modified": "2024-05-13T17:37:04.487",
+          "File_Name": "CYBR - Audit Report 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CYBR/CYBR - Audit Report 31 Des 2023.pdf",
+          "File_Size": 2993289,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT ITSEC Asia Tbk."
+        },
+        {
+          "Emiten_Code": "CYBR",
+          "File_ID": "7917489f-fabd-4619-b32d-27f4bff9e54f",
+          "File_Modified": "2024-05-13T17:37:04.487",
+          "File_Name": "FinancialStatement-2023-Tahunan-CYBR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CYBR/FinancialStatement-2023-Tahunan-CYBR.pdf",
+          "File_Size": 731827,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT ITSEC Asia Tbk."
+        },
+        {
+          "Emiten_Code": "CYBR",
+          "File_ID": "dbf0688f-f8c7-4177-abe4-289f6adcf669",
+          "File_Modified": "2024-05-13T17:37:04.487",
+          "File_Name": "CYBR - Surat Pengantar Lap Keu Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CYBR/CYBR - Surat Pengantar Lap Keu Desember 2023.pdf",
+          "File_Size": 425828,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT ITSEC Asia Tbk."
+        },
+        {
+          "Emiten_Code": "CYBR",
+          "File_ID": "1474ba5f-bfc2-4672-8421-988d21f38e01",
+          "File_Modified": "2024-05-13T17:37:04.487",
+          "File_Name": "CYBR - Perubahan Lebih dari 20 persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CYBR/CYBR - Perubahan Lebih dari 20 persen.pdf",
+          "File_Size": 1202823,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT ITSEC Asia Tbk."
+        }
+      ]
+    }
+  ]
+}

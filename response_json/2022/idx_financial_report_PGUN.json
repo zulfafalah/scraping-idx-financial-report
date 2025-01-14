@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PGUN",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PGUN",
+      "File_Modified": "2023-03-27T09:40:03.45",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Pradiksi Gunatama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "b431041f-c5ce-4ae9-852f-22d9074733c7",
+          "File_Modified": "2023-03-27T09:40:03.45",
+          "File_Name": "FinancialStatement-2022-Tahunan-PGUN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PGUN/FinancialStatement-2022-Tahunan-PGUN.pdf",
+          "File_Size": 126809,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "49d3453e-cd90-4a0b-9e3d-beba770b05ef",
+          "File_Modified": "2023-03-27T09:40:03.45",
+          "File_Name": "AnnualReport2022-PGUN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/63bcd2dba0_3c3c3a8382.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "6364df7f-e786-4719-a1c1-a13bb8c6180a",
+          "File_Modified": "2023-03-27T09:40:03.45",
+          "File_Name": "Dirstate PG 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PGUN/Dirstate PG 2022.pdf",
+          "File_Size": 259891,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "70ab2dd8-4a87-41d5-b465-fa7d92614c09",
+          "File_Modified": "2023-03-27T09:40:03.45",
+          "File_Name": "LKT 31 Des 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PGUN/LKT 31 Des 22.pdf",
+          "File_Size": 9053960,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "cf2bf9dc-ee8c-4d9f-8168-3a6d7fd43dc3",
+          "File_Modified": "2023-03-27T09:40:03.45",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PGUN/inlineXBRL.zip",
+          "File_Size": 171707,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "15519ab0-43bb-401b-8f38-c164fa45e46e",
+          "File_Modified": "2023-03-27T09:40:03.45",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PGUN/instance.zip",
+          "File_Size": 182310,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        },
+        {
+          "Emiten_Code": "PGUN",
+          "File_ID": "40eb2be1-7168-4db7-846d-e5913a6caa8b",
+          "File_Modified": "2023-03-27T09:40:03.45",
+          "File_Name": "FinancialStatement-2022-Tahunan-PGUN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PGUN/FinancialStatement-2022-Tahunan-PGUN.xlsx",
+          "File_Size": 1187145,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pradiksi Gunatama Tbk"
+        }
+      ]
+    }
+  ]
+}

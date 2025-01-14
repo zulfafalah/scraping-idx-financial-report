@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ASGR",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ASGR",
+      "File_Modified": "2024-02-23T18:16:42.303",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Astra Graphia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "8596b704-a151-4d25-8c4a-31daa1b3b8d4",
+          "File_Modified": "2024-02-23T18:16:42.303",
+          "File_Name": "AnnualReport2023-ASGR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/16ec945fe8_2239c70bcd.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "607f40ad-1576-4dc7-a29e-a10805015f6f",
+          "File_Modified": "2024-02-23T18:16:42.303",
+          "File_Name": "AnnualReport2023-ASGR-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/72f9de1fae_5099f6589e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "8e7c7082-734d-4fa4-a104-e32f79ab42fb",
+          "File_Modified": "2024-02-23T18:16:42.303",
+          "File_Name": "Press Release Ikhtisar Kinerja (ASGR) Q4_2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASGR/Press Release Ikhtisar Kinerja (ASGR) Q4_2023.pdf",
+          "File_Size": 305920,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "6768c46e-02e3-49ab-8086-ea2db9981b70",
+          "File_Modified": "2024-02-23T18:16:42.303",
+          "File_Name": "AnnualReport2023-ASGR.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/067faa98c9_f883d71082.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "1e05e06c-e4ec-4975-9b6b-9c66aa75ce19",
+          "File_Modified": "2024-02-23T18:16:42.303",
+          "File_Name": "Surat Pengantar LK ASGR 2023 (BEI).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASGR/Surat Pengantar LK ASGR 2023 (BEI).pdf",
+          "File_Size": 222523,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "f6e418f2-df31-49b4-bc19-0af0581953e6",
+          "File_Modified": "2024-02-23T18:16:42.303",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASGR/inlineXBRL.zip",
+          "File_Size": 213976,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "c37d61a2-28fe-43b2-93f8-e55d8b3d47b4",
+          "File_Modified": "2024-02-23T18:16:42.303",
+          "File_Name": "Director Statement 1223.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASGR/Director Statement 1223.pdf",
+          "File_Size": 255081,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "cc89bc5b-36db-452b-be0f-f21a30732823",
+          "File_Modified": "2024-02-23T18:16:42.303",
+          "File_Name": "FinancialStatement-2023-Tahunan-ASGR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASGR/FinancialStatement-2023-Tahunan-ASGR.xlsx",
+          "File_Size": 302603,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "de6e0d73-1009-4455-a6e0-43bb092f7e5e",
+          "File_Modified": "2024-02-23T18:16:42.303",
+          "File_Name": "PT Astra Graphia Tbk 1223.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASGR/PT Astra Graphia Tbk 1223.pdf",
+          "File_Size": 3942230,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "695d6380-333f-44bd-83fa-998f6cccca41",
+          "File_Modified": "2024-02-23T18:16:42.303",
+          "File_Name": "Surat Pengantar LK ASGR 2023 (OJK).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASGR/Surat Pengantar LK ASGR 2023 (OJK).pdf",
+          "File_Size": 246843,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "4951c0df-49cb-4c4b-b6fc-ad1ce0f511d9",
+          "File_Modified": "2024-02-23T18:16:42.303",
+          "File_Name": "FinancialStatement-2023-Tahunan-ASGR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASGR/FinancialStatement-2023-Tahunan-ASGR.pdf",
+          "File_Size": 642407,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra Graphia Tbk"
+        },
+        {
+          "Emiten_Code": "ASGR",
+          "File_ID": "d972ddc3-edbf-4fee-8d52-e05abfd222bc",
+          "File_Modified": "2024-02-23T18:16:42.303",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASGR/instance.zip",
+          "File_Size": 111156,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra Graphia Tbk"
+        }
+      ]
+    }
+  ]
+}

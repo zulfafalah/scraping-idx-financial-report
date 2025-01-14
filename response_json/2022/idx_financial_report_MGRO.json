@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MGRO",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MGRO",
+      "File_Modified": "2023-03-31T12:36:43.827",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Mahkota Group Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "e83535fb-2c5e-45e9-b548-3335dd65301f",
+          "File_Modified": "2023-03-31T12:36:43.827",
+          "File_Name": "FinancialStatement-2022-Tahunan-MGRO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MGRO/FinancialStatement-2022-Tahunan-MGRO.pdf",
+          "File_Size": 179660,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "15c8e95d-7d11-4dfc-ae7a-fc4afda538e3",
+          "File_Modified": "2023-03-31T12:36:43.827",
+          "File_Name": "Mahkota Group Dec 31 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MGRO/Mahkota Group Dec 31 2022.pdf",
+          "File_Size": 3136629,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "75770c12-d620-4f3c-8a1b-0c1b2220f9f5",
+          "File_Modified": "2023-03-31T12:36:43.827",
+          "File_Name": "FinancialStatement-2022-Tahunan-MGRO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MGRO/FinancialStatement-2022-Tahunan-MGRO.xlsx",
+          "File_Size": 1188063,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "24003f5a-7d04-4434-8206-7f5cefcd3c33",
+          "File_Modified": "2023-03-31T12:36:43.827",
+          "File_Name": "Perubahan Total Aktiva dan Hutang LK 30 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MGRO/Perubahan Total Aktiva dan Hutang LK 30 Des 2022.pdf",
+          "File_Size": 2684300,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "cf989b0b-7863-406b-b18e-59b371aefc55",
+          "File_Modified": "2023-03-31T12:36:43.827",
+          "File_Name": "Surat Pengantar.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MGRO/Surat Pengantar.pdf",
+          "File_Size": 856734,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "a0ce22ab-3e2b-44c9-aa3d-5a75f4e8ab82",
+          "File_Modified": "2023-03-31T12:36:43.827",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MGRO/instance.zip",
+          "File_Size": 186716,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "254d7312-7faf-402f-bfe3-61cc50cf5b47",
+          "File_Modified": "2023-03-31T12:36:43.827",
+          "File_Name": "Checklist MGRO 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MGRO/Checklist MGRO 31 Des 2022.pdf",
+          "File_Size": 591405,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "f2a0ed2a-eb79-4a52-8579-63fec56cae55",
+          "File_Modified": "2023-03-31T12:36:43.827",
+          "File_Name": "AnnualReport2022-MGRO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/5e96e8c062_d27887e4f9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "e7ee6509-dcda-4234-acd9-8ee437920a28",
+          "File_Modified": "2023-03-31T12:36:43.827",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MGRO/inlineXBRL.zip",
+          "File_Size": 228386,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        }
+      ]
+    }
+  ]
+}

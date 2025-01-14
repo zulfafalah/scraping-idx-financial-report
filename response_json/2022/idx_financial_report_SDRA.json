@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SDRA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SDRA",
+      "File_Modified": "2023-03-01T23:27:59.937",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Bank Woori Saudara Indonesia 1906 Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "SDRA",
+          "File_ID": "623bfab8-c0aa-4f0f-ab24-1d49606e1f4e",
+          "File_Modified": "2023-03-01T23:27:59.937",
+          "File_Name": "Laporan Keuangan (Audited) BWS_Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SDRA/Laporan Keuangan (Audited) BWS_Des 2022.pdf",
+          "File_Size": 5612970,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Woori Saudara Indonesia 1906 Tbk"
+        },
+        {
+          "Emiten_Code": "SDRA",
+          "File_ID": "dad1014e-6c7e-41ba-8d70-d96fd1146c68",
+          "File_Modified": "2023-03-01T23:27:59.937",
+          "File_Name": "Surat Lap Keu Interim Des 2022_OJK Banteng_BEI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SDRA/Surat Lap Keu Interim Des 2022_OJK Banteng_BEI.pdf",
+          "File_Size": 69641,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Woori Saudara Indonesia 1906 Tbk"
+        },
+        {
+          "Emiten_Code": "SDRA",
+          "File_ID": "f65b6c6d-c097-47af-9de9-690ca4d6146f",
+          "File_Modified": "2023-03-01T23:27:59.937",
+          "File_Name": "Surat Pernyataan Direksi LK December 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SDRA/Surat Pernyataan Direksi LK December 2022.pdf",
+          "File_Size": 104920,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Woori Saudara Indonesia 1906 Tbk"
+        },
+        {
+          "Emiten_Code": "SDRA",
+          "File_ID": "2c077d6b-39cb-4942-9993-e0f57c3fa00a",
+          "File_Modified": "2023-03-01T23:27:59.937",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SDRA/inlineXBRL.zip",
+          "File_Size": 150323,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Woori Saudara Indonesia 1906 Tbk"
+        },
+        {
+          "Emiten_Code": "SDRA",
+          "File_ID": "a43a0f69-810e-4ed7-9fe0-f095ec8357d6",
+          "File_Modified": "2023-03-01T23:27:59.937",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SDRA/instance.zip",
+          "File_Size": 102940,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Woori Saudara Indonesia 1906 Tbk"
+        },
+        {
+          "Emiten_Code": "SDRA",
+          "File_ID": "a31d9e12-13d8-490b-87c6-4a769c16e56b",
+          "File_Modified": "2023-03-01T23:27:59.937",
+          "File_Name": "FinancialStatement-2022-Tahunan-SDRA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SDRA/FinancialStatement-2022-Tahunan-SDRA.pdf",
+          "File_Size": 132877,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Woori Saudara Indonesia 1906 Tbk"
+        },
+        {
+          "Emiten_Code": "SDRA",
+          "File_ID": "e47aed84-55d6-4d25-a3c4-be385b28163c",
+          "File_Modified": "2023-03-01T23:27:59.937",
+          "File_Name": "Surat Peningkatan 20 persen Liabilitas Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SDRA/Surat Peningkatan 20 persen Liabilitas Des 2022.pdf",
+          "File_Size": 76120,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Woori Saudara Indonesia 1906 Tbk"
+        },
+        {
+          "Emiten_Code": "SDRA",
+          "File_ID": "92ab8592-06e1-47bc-983c-e58767fdba3b",
+          "File_Modified": "2023-03-01T23:27:59.937",
+          "File_Name": "AnnualReport2022-SDRA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202303/c7222b6df8_8ea531b96d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Woori Saudara Indonesia 1906 Tbk"
+        },
+        {
+          "Emiten_Code": "SDRA",
+          "File_ID": "6fe61891-81f1-4f42-aac0-851c214057b4",
+          "File_Modified": "2023-03-01T23:27:59.937",
+          "File_Name": "Laporan Keuangan (Publikasi) BWS_Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SDRA/Laporan Keuangan (Publikasi) BWS_Des 2022.pdf",
+          "File_Size": 733489,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Woori Saudara Indonesia 1906 Tbk"
+        },
+        {
+          "Emiten_Code": "SDRA",
+          "File_ID": "4aa33e25-7963-4225-b804-f9ebf96fbce3",
+          "File_Modified": "2023-03-01T23:27:59.937",
+          "File_Name": "FinancialStatement-2022-Tahunan-SDRA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SDRA/FinancialStatement-2022-Tahunan-SDRA.xlsx",
+          "File_Size": 574310,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Woori Saudara Indonesia 1906 Tbk"
+        },
+        {
+          "Emiten_Code": "SDRA",
+          "File_ID": "fd443362-23cc-4666-9aed-fa392af2ac4a",
+          "File_Modified": "2023-03-01T23:27:59.937",
+          "File_Name": "Laporan Keuangan (Publikasi Scan) BWS_Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SDRA/Laporan Keuangan (Publikasi Scan) BWS_Des 2022.pdf",
+          "File_Size": 647134,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Woori Saudara Indonesia 1906 Tbk"
+        }
+      ]
+    }
+  ]
+}

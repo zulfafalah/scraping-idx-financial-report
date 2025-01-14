@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "META",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "META",
+      "File_Modified": "2023-04-06T10:23:00.04",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Nusantara Infrastructure Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "META",
+          "File_ID": "01155ee4-4ca6-486a-976c-70b6d7b6cd64",
+          "File_Modified": "2023-04-06T10:23:00.04",
+          "File_Name": "Perubahan Aset dan Kewajiban LKT META.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/META/Perubahan Aset dan Kewajiban LKT META.pdf",
+          "File_Size": 295041,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "d11d9df3-617e-490b-a372-017ee2458fc4",
+          "File_Modified": "2023-04-06T10:23:00.04",
+          "File_Name": "AnnualReport2022-META-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/f62b93aebf_e1e6b38b1e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "a943290f-5b81-4d5a-bb58-861904f10cec",
+          "File_Modified": "2023-04-06T10:23:00.04",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/META/inlineXBRL.zip",
+          "File_Size": 206044,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "92fc90c4-494b-4be8-9441-6494f9b13311",
+          "File_Modified": "2023-04-06T10:23:00.04",
+          "File_Name": "Penyampaian LKT META 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/META/Penyampaian LKT META 31 Des 2022.pdf",
+          "File_Size": 297990,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "d67a8732-2dee-4175-b0f8-88de2f9093f4",
+          "File_Modified": "2023-04-06T10:23:00.04",
+          "File_Name": "FinancialStatement-2022-Tahunan-META.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/META/FinancialStatement-2022-Tahunan-META.xlsx",
+          "File_Size": 1184488,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "8209bb40-b302-466a-b7b6-9201b63910a1",
+          "File_Modified": "2023-04-06T10:23:00.04",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/META/instance.zip",
+          "File_Size": 199149,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "215f1684-e2d6-4b3f-bebd-e104be16ddd7",
+          "File_Modified": "2023-04-06T10:23:00.04",
+          "File_Name": "FinancialStatement-2022-Tahunan-META.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/META/FinancialStatement-2022-Tahunan-META.pdf",
+          "File_Size": 182048,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "a3570a6b-306a-4b30-8321-b92d31214add",
+          "File_Modified": "2023-04-06T10:23:00.04",
+          "File_Name": "Nusantara Infrastructure Tbk 31 Dec 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/META/Nusantara Infrastructure Tbk 31 Dec 2022.pdf",
+          "File_Size": 3747218,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        }
+      ]
+    }
+  ]
+}

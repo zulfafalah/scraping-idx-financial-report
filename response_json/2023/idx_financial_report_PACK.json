@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PACK",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PACK",
+      "File_Modified": "2024-05-16T14:01:02.367",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Solusi Kemasan Digital Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PACK",
+          "File_ID": "dd571220-1d4e-4c38-a60a-0a57555b5043",
+          "File_Modified": "2024-05-16T14:01:02.367",
+          "File_Name": "FinancialStatement-2023-Tahunan-PACK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PACK/FinancialStatement-2023-Tahunan-PACK.pdf",
+          "File_Size": 891530,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Solusi Kemasan Digital Tbk"
+        },
+        {
+          "Emiten_Code": "PACK",
+          "File_ID": "4d1880b5-04cb-4819-931d-331b55a44b34",
+          "File_Modified": "2024-05-16T14:01:02.367",
+          "File_Name": "FinancialStatement-2023-Tahunan-PACK.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PACK/FinancialStatement-2023-Tahunan-PACK.xlsx",
+          "File_Size": 442524,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Solusi Kemasan Digital Tbk"
+        },
+        {
+          "Emiten_Code": "PACK",
+          "File_ID": "b5fe94ef-82dd-4cca-aa2b-54e287bbdae8",
+          "File_Modified": "2024-05-16T14:01:02.367",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PACK/instance.zip",
+          "File_Size": 160099,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Solusi Kemasan Digital Tbk"
+        },
+        {
+          "Emiten_Code": "PACK",
+          "File_ID": "2d8d2e6a-4cef-48bf-984e-ed6f31b46500",
+          "File_Modified": "2024-05-16T14:01:02.367",
+          "File_Name": "Surat Pengantar Laporan Keuangan 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PACK/Surat Pengantar Laporan Keuangan 31 Desember 2023.pdf",
+          "File_Size": 412702,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Solusi Kemasan Digital Tbk"
+        },
+        {
+          "Emiten_Code": "PACK",
+          "File_ID": "849a83dc-c69f-41f4-9cdd-1ae6039ece03",
+          "File_Modified": "2024-05-16T14:01:02.367",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PACK/inlineXBRL.zip",
+          "File_Size": 321361,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Solusi Kemasan Digital Tbk"
+        },
+        {
+          "Emiten_Code": "PACK",
+          "File_ID": "f6a48183-ddbe-401e-8e60-4298eec90d9e",
+          "File_Modified": "2024-05-16T14:01:02.367",
+          "File_Name": "AnnualReport2023-PACK-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f5bbeb4fec_4c308a8027.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Solusi Kemasan Digital Tbk"
+        },
+        {
+          "Emiten_Code": "PACK",
+          "File_ID": "ad2053ab-cbbd-4e11-a27f-56a29184726e",
+          "File_Modified": "2024-05-16T14:01:02.367",
+          "File_Name": "AnnualReport2023-PACK-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/127f0c57af_bc3ae3f51c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Solusi Kemasan Digital Tbk"
+        },
+        {
+          "Emiten_Code": "PACK",
+          "File_ID": "12fa6166-a4a3-48e3-a80a-de06be458121",
+          "File_Modified": "2024-05-16T14:01:02.367",
+          "File_Name": "SPP Lebih Dari 20 Persen 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PACK/SPP Lebih Dari 20 Persen 2023.pdf",
+          "File_Size": 278830,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Solusi Kemasan Digital Tbk"
+        },
+        {
+          "Emiten_Code": "PACK",
+          "File_ID": "ba5ebd0c-d177-4e63-90c4-d8074a51348b",
+          "File_Modified": "2024-05-16T14:01:02.367",
+          "File_Name": "231231 Final Audit Report PT SKD.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PACK/231231 Final Audit Report PT SKD.pdf",
+          "File_Size": 2994896,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Solusi Kemasan Digital Tbk"
+        },
+        {
+          "Emiten_Code": "PACK",
+          "File_ID": "c998856b-19b4-4a1a-97e7-f5728ba6283e",
+          "File_Modified": "2024-05-16T14:01:02.367",
+          "File_Name": "AnnualReport2023-PACK.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7e70a65d81_ac592a9489.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Solusi Kemasan Digital Tbk"
+        }
+      ]
+    }
+  ]
+}

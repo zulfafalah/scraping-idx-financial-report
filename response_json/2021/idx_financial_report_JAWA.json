@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "JAWA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "JAWA",
+      "File_Modified": "2022-04-29T10:52:14.557",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Jaya Agra Wattie Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "faf43835-8249-4bb1-8fb3-11468c0e939a",
+          "File_Modified": "2022-04-29T10:52:14.557",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAWA/instance.zip",
+          "File_Size": 29126,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "44b97ba0-ce1c-4395-8903-740f85c3b5c5",
+          "File_Modified": "2022-04-29T10:52:14.557",
+          "File_Name": "FinancialStatement-2021-Tahunan-JAWA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAWA/FinancialStatement-2021-Tahunan-JAWA.xlsx",
+          "File_Size": 159855,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "2f799f4d-2e88-462c-8b51-8268014ec5bd",
+          "File_Modified": "2022-04-29T10:52:14.557",
+          "File_Name": "FinancialStatement-2021-Tahunan-JAWA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAWA/FinancialStatement-2021-Tahunan-JAWA.pdf",
+          "File_Size": 50488,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "b84c77a6-3875-4c42-90e4-a059f48e80ee",
+          "File_Modified": "2022-04-29T10:52:14.557",
+          "File_Name": "006-JAW-CORSEC-IV-2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAWA/006-JAW-CORSEC-IV-2022.pdf",
+          "File_Size": 278021,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "06c971c0-a076-4962-83be-d784523c8e3a",
+          "File_Modified": "2022-04-29T10:52:14.557",
+          "File_Name": "AnnualReport2021-JAWA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/0c46c2b210_ea53b711f8.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "3f971691-ce5a-4554-a75c-ddb2a9e1dff7",
+          "File_Modified": "2022-04-29T10:52:14.557",
+          "File_Name": "JAWA Laporan Keuangan Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAWA/JAWA Laporan Keuangan Desember 2021.pdf",
+          "File_Size": 1797279,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "fe5e4148-03c3-4bca-84df-42b34d5bc3f2",
+          "File_Modified": "2022-04-29T10:52:14.557",
+          "File_Name": "JAWA SPD Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAWA/JAWA SPD Desember 2021.pdf",
+          "File_Size": 887113,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "ef8c4a22-d7f3-4b19-8e89-8e134ba16324",
+          "File_Modified": "2022-04-29T10:52:14.557",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAWA/inlineXBRL.zip",
+          "File_Size": 59466,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        },
+        {
+          "Emiten_Code": "JAWA",
+          "File_ID": "2fa12ee3-258b-4ae0-bbf6-875b47fef58d",
+          "File_Modified": "2022-04-29T10:52:14.557",
+          "File_Name": "JAWA Checklist Pengungkapan LK Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAWA/JAWA Checklist Pengungkapan LK Desember 2021.pdf",
+          "File_Size": 1351918,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Agra Wattie Tbk"
+        }
+      ]
+    }
+  ]
+}

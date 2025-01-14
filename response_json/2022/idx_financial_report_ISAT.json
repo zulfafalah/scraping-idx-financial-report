@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ISAT",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ISAT",
+      "File_Modified": "2023-02-17T12:07:45.78",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Indosat Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "41e65a35-a9f4-484a-954e-220a2e0e6ef9",
+          "File_Modified": "2023-02-17T12:07:45.78",
+          "File_Name": "DEC 2022 - IOH BOD Statement of  Responsibility.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ISAT/DEC 2022 - IOH BOD Statement of  Responsibility.pdf",
+          "File_Size": 1407445,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "e91e9587-d912-40db-af78-3fc67af229ac",
+          "File_Modified": "2023-02-17T12:07:45.78",
+          "File_Name": "AnnualReport2022-ISAT-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202303/1568c1dcc6_991fccf340.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "8e9b7df9-fcf2-44f8-a315-58759b25559d",
+          "File_Modified": "2023-02-17T12:07:45.78",
+          "File_Name": "FinancialStatement-2022-Tahunan-ISAT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ISAT/FinancialStatement-2022-Tahunan-ISAT.xlsx",
+          "File_Size": 1174158,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "be208133-5d1a-4b2f-9eb4-541f80bb1b49",
+          "File_Modified": "2023-02-17T12:07:45.78",
+          "File_Name": "FinancialStatement-2022-Tahunan-ISAT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ISAT/FinancialStatement-2022-Tahunan-ISAT.pdf",
+          "File_Size": 151621,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "1fb50994-5af4-4626-b75b-8451597699df",
+          "File_Modified": "2023-02-17T12:07:45.78",
+          "File_Name": "Info Memo 4Q22 Eng v11.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ISAT/Info Memo 4Q22 Eng v11.pdf",
+          "File_Size": 456999,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "2e59b7d6-55b1-42e8-acac-9324245d63ba",
+          "File_Modified": "2023-02-17T12:07:45.78",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ISAT/inlineXBRL.zip",
+          "File_Size": 172741,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "c3878fcf-2776-4297-99b3-99fd81093816",
+          "File_Modified": "2023-02-17T12:07:45.78",
+          "File_Name": "Info Memo 4Q22 Ind v11.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ISAT/Info Memo 4Q22 Ind v11.pdf",
+          "File_Size": 459070,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "6069b49b-4551-4578-b394-f22ca6a1006e",
+          "File_Modified": "2023-02-17T12:07:45.78",
+          "File_Name": "FS ISAT 31 Dec 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ISAT/FS ISAT 31 Dec 2022.pdf",
+          "File_Size": 7657474,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "4d8354a4-43e0-463c-8773-4fa8cc091d04",
+          "File_Modified": "2023-02-17T12:07:45.78",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ISAT/instance.zip",
+          "File_Size": 173866,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "9411e158-fc56-46fa-bb06-822401057be6",
+          "File_Modified": "2023-02-17T12:07:45.78",
+          "File_Name": "IOH - OJK Checklist 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ISAT/IOH - OJK Checklist 31 Des 2022.pdf",
+          "File_Size": 1002903,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indosat Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IKAI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IKAI",
+      "File_Modified": "2022-04-28T22:06:39.13",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Intikeramik Alamasri Industri Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "8ced3b68-720f-474c-8b82-050ded4ab0d0",
+          "File_Modified": "2022-04-28T22:06:39.13",
+          "File_Name": "AnnualReport2021-IKAI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202206/3ab041d2ab_0e8d075b70.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "877c1086-05a2-463b-813e-2f00e8a60ff9",
+          "File_Modified": "2022-04-28T22:06:39.13",
+          "File_Name": "FinancialStatement-2021-Tahunan-IKAI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKAI/FinancialStatement-2021-Tahunan-IKAI.xlsx",
+          "File_Size": 159397,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "7080deb8-428e-4cb9-8d79-fb4bf8aa1295",
+          "File_Modified": "2022-04-28T22:06:39.13",
+          "File_Name": "CHECKLIST VIII G 17 IKAI Q4 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKAI/CHECKLIST VIII G 17 IKAI Q4 2021.pdf",
+          "File_Size": 2342313,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "8d5d8314-7022-4aa5-83ea-18a29faeb708",
+          "File_Modified": "2022-04-28T22:06:39.13",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKAI/inlineXBRL.zip",
+          "File_Size": 58764,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "47043c52-2bd2-4103-9817-096c3aa6bf28",
+          "File_Modified": "2022-04-28T22:06:39.13",
+          "File_Name": "037.IKAI.IV.2022_Aset Liabilitas IKAI Q4 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKAI/037.IKAI.IV.2022_Aset Liabilitas IKAI Q4 2021.pdf",
+          "File_Size": 469139,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "98f2ffb7-a61b-446d-b54e-1eb5d6cfd162",
+          "File_Modified": "2022-04-28T22:06:39.13",
+          "File_Name": "Audit report PT IKAI Tbk - 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKAI/Audit report PT IKAI Tbk - 31 Des 2021.pdf",
+          "File_Size": 2893382,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "d3be614f-d71d-4855-9bc0-7448a3ab7485",
+          "File_Modified": "2022-04-28T22:06:39.13",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKAI/instance.zip",
+          "File_Size": 28758,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "dc71cb09-6884-4ae7-990e-c664bae04d47",
+          "File_Modified": "2022-04-28T22:06:39.13",
+          "File_Name": "FinancialStatement-2021-Tahunan-IKAI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKAI/FinancialStatement-2021-Tahunan-IKAI.pdf",
+          "File_Size": 48906,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ADMG",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ADMG",
+      "File_Modified": "2023-04-12T18:56:19.927",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Polychem Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "b4e2d9eb-444d-4c03-b68c-8c85f588b6df",
+          "File_Modified": "2023-04-12T18:56:19.927",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ADMG/instance.zip",
+          "File_Size": 180169,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "5da0ce67-893e-4812-8aec-b824c186021f",
+          "File_Modified": "2023-04-12T18:56:19.927",
+          "File_Name": "AnnualReport2022-ADMG-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/30c96767b1_57847a9bdc.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "a4b080d2-dd64-40ca-aa7c-0432f61546bd",
+          "File_Modified": "2023-04-12T18:56:19.927",
+          "File_Name": "SPD PT Polychem Indonesia Tbk FY22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ADMG/SPD PT Polychem Indonesia Tbk FY22.pdf",
+          "File_Size": 310793,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "cede4e0c-d223-4828-ae8e-7bc989bc366b",
+          "File_Modified": "2023-04-12T18:56:19.927",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ADMG/inlineXBRL.zip",
+          "File_Size": 167175,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "24be8c2e-13e9-46d4-b8c6-5a9330c67c26",
+          "File_Modified": "2023-04-12T18:56:19.927",
+          "File_Name": "FinancialStatement-2022-Tahunan-ADMG.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ADMG/FinancialStatement-2022-Tahunan-ADMG.xlsx",
+          "File_Size": 1182106,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "295e06a0-1794-456c-bee2-e63d4ff81ae9",
+          "File_Modified": "2023-04-12T18:56:19.927",
+          "File_Name": "FinancialStatement-2022-Tahunan-ADMG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ADMG/FinancialStatement-2022-Tahunan-ADMG.pdf",
+          "File_Size": 137524,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "8b66f7c3-f454-46fa-b694-f1089e98785d",
+          "File_Modified": "2023-04-12T18:56:19.927",
+          "File_Name": "Checklist PT Polychem Indonesia Tbk FY22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ADMG/Checklist PT Polychem Indonesia Tbk FY22.pdf",
+          "File_Size": 4914482,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "b1193711-e276-4855-a1e2-fc44e0054f52",
+          "File_Modified": "2023-04-12T18:56:19.927",
+          "File_Name": "PT Polychem Indonesia Tbk FY22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/ADMG/PT Polychem Indonesia Tbk FY22.pdf",
+          "File_Size": 2113968,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "HELI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "HELI",
+      "File_Modified": "2024-04-18T11:52:16.533",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Jaya Trishindo Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "df05aa9c-cac8-49b7-a747-56a5b4a65c10",
+          "File_Modified": "2024-04-18T11:52:16.533",
+          "File_Name": "AnnualReport2023-HELI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/02ba2affb8_b187600db3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "c9f1c3f1-147b-46c7-9bad-283c5e728aff",
+          "File_Modified": "2024-04-18T11:52:16.533",
+          "File_Name": "152-Penyampaian Laporan Keuangan 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HELI/152-Penyampaian Laporan Keuangan 2023.pdf",
+          "File_Size": 82891,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "97d7f7f1-df63-428c-bc53-6da4565f5838",
+          "File_Modified": "2024-04-18T11:52:16.533",
+          "File_Name": "FinancialStatement-2023-Tahunan-HELI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HELI/FinancialStatement-2023-Tahunan-HELI.xlsx",
+          "File_Size": 366283,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "6ec3b465-a3fd-4d82-86a4-9c48427338fd",
+          "File_Modified": "2024-04-18T11:52:16.533",
+          "File_Name": "AnnualReport2023-HELI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f98d0007e3_6090a0df8c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "9dbb20d9-4152-4835-a92c-bb450656bdfe",
+          "File_Modified": "2024-04-18T11:52:16.533",
+          "File_Name": "FinancialStatement-2023-Tahunan-HELI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HELI/FinancialStatement-2023-Tahunan-HELI.pdf",
+          "File_Size": 731636,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "0328c7e2-bbba-4e7c-80f1-fde0f2fe6a76",
+          "File_Modified": "2024-04-18T11:52:16.533",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HELI/inlineXBRL.zip",
+          "File_Size": 263444,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "e045051d-4743-4187-8f57-58a6b7203973",
+          "File_Modified": "2024-04-18T11:52:16.533",
+          "File_Name": "Checklist Bapepam 12-2023 - Jati.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HELI/Checklist Bapepam 12-2023 - Jati.pdf",
+          "File_Size": 2668168,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "47c6c0af-3d70-4873-b70b-87422d9cba86",
+          "File_Modified": "2024-04-18T11:52:16.533",
+          "File_Name": "Report Final Konsolidasian PT Jaya Trishindo Tbk.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HELI/Report Final Konsolidasian PT Jaya Trishindo Tbk.pdf",
+          "File_Size": 6045244,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "116cb016-39ef-4384-898b-8bf6939cd0b6",
+          "File_Modified": "2024-04-18T11:52:16.533",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HELI/instance.zip",
+          "File_Size": 128174,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        }
+      ]
+    }
+  ]
+}

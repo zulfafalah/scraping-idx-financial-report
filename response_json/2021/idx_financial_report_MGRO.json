@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MGRO",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MGRO",
+      "File_Modified": "2022-03-31T08:21:17.727",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Mahkota Group Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "6442aa8f-0657-4c5b-8a98-bc0070f821d7",
+          "File_Modified": "2022-03-31T08:21:17.727",
+          "File_Name": "FinancialStatement-2021-Tahunan-MGRO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MGRO/FinancialStatement-2021-Tahunan-MGRO.xlsx",
+          "File_Size": 160041,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "aefcee2f-ca0d-443c-8028-e735a1b77b61",
+          "File_Modified": "2022-03-31T08:21:17.727",
+          "File_Name": "FinancialStatement-2021-Tahunan-MGRO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MGRO/FinancialStatement-2021-Tahunan-MGRO.pdf",
+          "File_Size": 53795,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "60bbea8a-8c1e-4475-b823-02da3f583128",
+          "File_Modified": "2022-03-31T08:21:17.727",
+          "File_Name": "Surat Pengantar.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MGRO/Surat Pengantar.pdf",
+          "File_Size": 372015,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "6de9f2d0-3a5d-458f-86cf-580f1bf73442",
+          "File_Modified": "2022-03-31T08:21:17.727",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MGRO/inlineXBRL.zip",
+          "File_Size": 59938,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "d6dd1569-4124-40a0-8abb-5689398e8769",
+          "File_Modified": "2022-03-31T08:21:17.727",
+          "File_Name": "Mahkota Group dan Entitas Anak Dec 31 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MGRO/Mahkota Group dan Entitas Anak Dec 31 2021.pdf",
+          "File_Size": 3377479,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "5869f1b7-107d-46ed-ae88-c57c8e3ad0e7",
+          "File_Modified": "2022-03-31T08:21:17.727",
+          "File_Name": "2021_MGRO OJK Checklist.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MGRO/2021_MGRO OJK Checklist.pdf",
+          "File_Size": 835526,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "2010a575-1f86-49be-a1bb-014eb8a712b4",
+          "File_Modified": "2022-03-31T08:21:17.727",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MGRO/instance.zip",
+          "File_Size": 29349,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        },
+        {
+          "Emiten_Code": "MGRO",
+          "File_ID": "793d5202-c30e-4110-bbb7-c01727e8d372",
+          "File_Modified": "2022-03-31T08:21:17.727",
+          "File_Name": "Surat Perubahan Aktiva dan Liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MGRO/Surat Perubahan Aktiva dan Liabilitas.pdf",
+          "File_Size": 1624521,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mahkota Group Tbk."
+        }
+      ]
+    }
+  ]
+}

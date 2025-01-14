@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AKPI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AKPI",
+      "File_Modified": "2024-04-01T20:09:43.713",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Argha Karya Prima Ind. Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "ecb916fa-8bcb-4301-9028-8ad9ead594a0",
+          "File_Modified": "2024-04-01T20:09:43.713",
+          "File_Name": "AnnualReport2023-AKPI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/10c1914933_5e4814b4a2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "57bd4585-ea5a-4809-9860-9687338f1bde",
+          "File_Modified": "2024-04-01T20:09:43.713",
+          "File_Name": "argha karya_billingual_konsol_31_des_2023_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AKPI/argha karya_billingual_konsol_31_des_2023_released.pdf",
+          "File_Size": 9957681,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "84038371-39cd-425f-8f5d-de0510049ce7",
+          "File_Modified": "2024-04-01T20:09:43.713",
+          "File_Name": "FinancialStatement-2023-Tahunan-AKPI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AKPI/FinancialStatement-2023-Tahunan-AKPI.xlsx",
+          "File_Size": 192917,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "c8ea795e-5e53-48af-8755-ebc8423769a5",
+          "File_Modified": "2024-04-01T20:09:43.713",
+          "File_Name": "Ceklist 27 Mar.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AKPI/Ceklist 27 Mar.pdf",
+          "File_Size": 1574564,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "77f2c4f9-f4c2-4ccc-9b1b-0d63154fc855",
+          "File_Modified": "2024-04-01T20:09:43.713",
+          "File_Name": "AnnualReport2023-AKPI-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f241085c77_b4deac1368.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "3a65bf6e-858e-40e3-9c6e-c66d10fb06fc",
+          "File_Modified": "2024-04-01T20:09:43.713",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AKPI/instance.zip",
+          "File_Size": 128568,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "cb2b6c1d-0a87-468d-8cd4-42dde7f3b416",
+          "File_Modified": "2024-04-01T20:09:43.713",
+          "File_Name": "AnnualReport2023-AKPI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/abdc942b86_e6a75936f3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "21a61e99-a5e6-4002-9bba-f54b8cb4a8e6",
+          "File_Modified": "2024-04-01T20:09:43.713",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AKPI/inlineXBRL.zip",
+          "File_Size": 253411,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "16a556a4-3ee9-4ff9-937f-d0ef85a667b3",
+          "File_Modified": "2024-04-01T20:09:43.713",
+          "File_Name": "FinancialStatement-2023-Tahunan-AKPI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AKPI/FinancialStatement-2023-Tahunan-AKPI.pdf",
+          "File_Size": 707240,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "META",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "META",
+      "File_Modified": "2024-05-15T16:59:48.077",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Nusantara Infrastructure Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "META",
+          "File_ID": "99651a41-c95c-454e-ab29-7b617b6330d9",
+          "File_Modified": "2024-05-15T16:59:48.077",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/META/inlineXBRL.zip",
+          "File_Size": 256892,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "cfd831ca-11bd-4262-8ca6-17db16b66560",
+          "File_Modified": "2024-05-15T16:59:48.077",
+          "File_Name": "META Consol as of 31 Dec2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/META/META Consol as of 31 Dec2023.pdf",
+          "File_Size": 2404788,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "1c3ee6ce-6979-4682-8ace-bcf3917656a7",
+          "File_Modified": "2024-05-15T16:59:48.077",
+          "File_Name": "Penyampaian LKT 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/META/Penyampaian LKT 2023.pdf",
+          "File_Size": 496560,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "0a091ce1-8e5d-45b4-8027-ea9ac2c9178e",
+          "File_Modified": "2024-05-15T16:59:48.077",
+          "File_Name": "FinancialStatement-2023-Tahunan-META.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/META/FinancialStatement-2023-Tahunan-META.xlsx",
+          "File_Size": 349535,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "d2f6e69d-98ac-4919-a555-1a6fa377f218",
+          "File_Modified": "2024-05-15T16:59:48.077",
+          "File_Name": "FinancialStatement-2023-Tahunan-META.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/META/FinancialStatement-2023-Tahunan-META.pdf",
+          "File_Size": 694618,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "7653f73b-5e22-4f17-a82b-1b4d6ddab44e",
+          "File_Modified": "2024-05-15T16:59:48.077",
+          "File_Name": "AnnualReport2023-META-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/d43635002a_7d153bebb5.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "0a8da9a8-bfea-49d7-b0e8-508efe5969fe",
+          "File_Modified": "2024-05-15T16:59:48.077",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/META/instance.zip",
+          "File_Size": 142411,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "8d19d3fa-975f-40a6-b603-569721a20ede",
+          "File_Modified": "2024-05-15T16:59:48.077",
+          "File_Name": "AnnualReport2023-META-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/864669e671_898d42c4a6.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "c2ee6c2e-d441-402b-9244-dd6348542678",
+          "File_Modified": "2024-05-15T16:59:48.077",
+          "File_Name": "Penyampaian_Perubahan Aset Liab 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/META/Penyampaian_Perubahan Aset Liab 2023.pdf",
+          "File_Size": 218838,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "53de3504-9197-4b9d-902c-e44bfe6a7105",
+          "File_Modified": "2024-05-15T16:59:48.077",
+          "File_Name": "AnnualReport2023-META.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/0c9408570e_cba6c3f873.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        }
+      ]
+    }
+  ]
+}

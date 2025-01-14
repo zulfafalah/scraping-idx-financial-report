@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DAYA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DAYA",
+      "File_Modified": "2024-03-07T20:46:31.507",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Duta Intidaya Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "ea0b50de-9bd6-4251-8588-5911abf59332",
+          "File_Modified": "2024-03-07T20:46:31.507",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DAYA/instance.zip",
+          "File_Size": 114370,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "5421fc1c-527b-4510-9c89-7cd2ded1ee1a",
+          "File_Modified": "2024-03-07T20:46:31.507",
+          "File_Name": "FinancialStatement-2023-Tahunan-DAYA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DAYA/FinancialStatement-2023-Tahunan-DAYA.pdf",
+          "File_Size": 644908,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "280d3c2c-2ef0-42b7-a759-88064f31b61e",
+          "File_Modified": "2024-03-07T20:46:31.507",
+          "File_Name": "FINAL Signed FS Duta Intidaya Tbk 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DAYA/FINAL Signed FS Duta Intidaya Tbk 2023.pdf",
+          "File_Size": 3940787,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "9a2941ad-9be5-44df-9d5b-a496913aea0a",
+          "File_Modified": "2024-03-07T20:46:31.507",
+          "File_Name": "AnnualReport2023-DAYA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/a14d38a809_7c4a94fe24.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "1350de74-da90-408f-bd56-a6c323d292f9",
+          "File_Modified": "2024-03-07T20:46:31.507",
+          "File_Name": "FinancialStatement-2023-Tahunan-DAYA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DAYA/FinancialStatement-2023-Tahunan-DAYA.xlsx",
+          "File_Size": 305652,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "753dfbfe-33b1-4881-b65e-d2e0d9ad9eaa",
+          "File_Modified": "2024-03-07T20:46:31.507",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DAYA/inlineXBRL.zip",
+          "File_Size": 217164,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "13a8901f-dfc1-4665-a3ce-456d9c1c61d4",
+          "File_Modified": "2024-03-07T20:46:31.507",
+          "File_Name": "AnnualReport2023-DAYA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/bd9951bd01_e4567e5112.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        }
+      ]
+    }
+  ]
+}

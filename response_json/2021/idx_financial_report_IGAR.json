@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IGAR",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IGAR",
+      "File_Modified": "2022-04-01T21:28:07.287",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Champion Pacific Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "26b4459a-367f-46d4-8d17-a273e1f426f9",
+          "File_Modified": "2022-04-01T21:28:07.287",
+          "File_Name": "FinancialStatement-2021-Tahunan-IGAR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IGAR/FinancialStatement-2021-Tahunan-IGAR.pdf",
+          "File_Size": 50700,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "28a8d7f5-d633-4e8f-90e5-44d9ea45bda8",
+          "File_Modified": "2022-04-01T21:28:07.287",
+          "File_Name": "Kenaikan 20 persen pos Aset n Kewajiban_0001.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IGAR/Kenaikan 20 persen pos Aset n Kewajiban_0001.pdf",
+          "File_Size": 114745,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "121d8ebd-8287-4b5c-ac3a-7620807bc463",
+          "File_Modified": "2022-04-01T21:28:07.287",
+          "File_Name": "FinancialStatement-2021-Tahunan-IGAR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IGAR/FinancialStatement-2021-Tahunan-IGAR.xlsx",
+          "File_Size": 159877,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "fb9e85f4-3a72-4136-af7a-bae137bb7a0a",
+          "File_Modified": "2022-04-01T21:28:07.287",
+          "File_Name": "AnnualReport2021-IGAR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/f901bf71ab_3622745f0c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "57ac3615-e98b-4313-913d-4ee1e8f15ed2",
+          "File_Modified": "2022-04-01T21:28:07.287",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IGAR/inlineXBRL.zip",
+          "File_Size": 59194,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "ed87e29e-4cfb-458b-a320-6c93fe608412",
+          "File_Modified": "2022-04-01T21:28:07.287",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IGAR/instance.zip",
+          "File_Size": 29069,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "IGAR",
+          "File_ID": "6b1ebf07-3ca1-4593-a4bb-9a2cef7ce6cf",
+          "File_Modified": "2022-04-01T21:28:07.287",
+          "File_Name": "CPI billingual 31des21 released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IGAR/CPI billingual 31des21 released.pdf",
+          "File_Size": 3431658,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Champion Pacific Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

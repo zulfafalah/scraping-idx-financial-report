@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MMLP",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MMLP",
+      "File_Modified": "2022-06-21T16:04:05.267",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Mega Manunggal Property Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "f722c891-d91a-433e-b539-332cdac837f6",
+          "File_Modified": "2022-06-21T16:04:05.267",
+          "File_Name": "Surat Pengantar Revisi LKT 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MMLP/Surat Pengantar Revisi LKT 2021.pdf",
+          "File_Size": 273282,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "b49e74f2-dd55-4cf8-8f3f-b77d5a823cdd",
+          "File_Modified": "2022-06-21T16:04:05.267",
+          "File_Name": "FinancialStatement-2021-Tahunan-MMLP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MMLP/FinancialStatement-2021-Tahunan-MMLP.xlsx",
+          "File_Size": 154637,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "54b80803-6ff1-4432-bdf7-9d527a7df8b5",
+          "File_Modified": "2022-06-21T16:04:05.267",
+          "File_Name": "MMLP - CHECK LIST OJK FY 2021_.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MMLP/MMLP - CHECK LIST OJK FY 2021_.pdf",
+          "File_Size": 4598650,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "44a84104-0bb1-493d-8dfa-a3612208dad9",
+          "File_Modified": "2022-06-21T16:04:05.267",
+          "File_Name": "PT Mega Manunggal Property Tbk - Audit Report 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MMLP/PT Mega Manunggal Property Tbk - Audit Report 2021.pdf",
+          "File_Size": 1789612,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "9e239d77-1c23-4825-b8c9-f0605b3b4dfe",
+          "File_Modified": "2022-06-21T16:04:05.267",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MMLP/inlineXBRL.zip",
+          "File_Size": 54204,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "63211a13-a3ed-4b6a-8df8-f5bde6675135",
+          "File_Modified": "2022-06-21T16:04:05.267",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MMLP/instance.zip",
+          "File_Size": 27055,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "5edec62b-84fe-4878-bbd2-8fe85ed0dc27",
+          "File_Modified": "2022-06-21T16:04:05.267",
+          "File_Name": "Penjelasan Fluc FS FY21_.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MMLP/Penjelasan Fluc FS FY21_.pdf",
+          "File_Size": 356758,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "0253fd86-6585-4ba8-ab36-054f91a73794",
+          "File_Modified": "2022-06-21T16:04:05.267",
+          "File_Name": "FS MMLP 1221.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MMLP/FS MMLP 1221.pdf",
+          "File_Size": 1891698,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "d025b99b-09ef-487b-bb98-05dc4b100403",
+          "File_Modified": "2022-06-21T16:04:05.267",
+          "File_Name": "FinancialStatement-2021-Tahunan-MMLP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MMLP/FinancialStatement-2021-Tahunan-MMLP.pdf",
+          "File_Size": 55371,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "a357c554-fd7e-4dbc-9b73-169855b3679b",
+          "File_Modified": "2022-06-21T16:04:05.267",
+          "File_Name": "AnnualReport2021-MMLP-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202207/ca33ca1212_7af39a0f01.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "2997cbb7-2538-4835-ba01-c5de8bcf9961",
+          "File_Modified": "2022-06-21T16:04:05.267",
+          "File_Name": "Penjelasan Fluc FS FY21 kepada IDX_.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MMLP/Penjelasan Fluc FS FY21 kepada IDX_.pdf",
+          "File_Size": 356758,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "6cc346b2-ba21-45ce-b1f0-e352b753ff32",
+          "File_Modified": "2022-06-21T16:04:05.267",
+          "File_Name": "Surat Pengantar LK Tahunan 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MMLP/Surat Pengantar LK Tahunan 2021.pdf",
+          "File_Size": 291723,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        }
+      ]
+    }
+  ]
+}

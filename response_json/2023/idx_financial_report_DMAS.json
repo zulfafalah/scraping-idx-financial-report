@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DMAS",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DMAS",
+      "File_Modified": "2024-03-06T18:15:04.553",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Puradelta Lestari Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "6b2cf08c-9f00-46d7-8452-f8dde1992e74",
+          "File_Modified": "2024-03-06T18:15:04.553",
+          "File_Name": "AnnualReport2023-DMAS.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/c9ee1e2d79_a0d3b389de.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "4a6ee7d7-1c62-4150-920e-236137a3737e",
+          "File_Modified": "2024-03-06T18:15:04.553",
+          "File_Name": "OJK Checklist Financial Statement FY 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DMAS/OJK Checklist Financial Statement FY 2023.pdf",
+          "File_Size": 1754702,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "775c35e7-8f02-4cb2-a013-41d3f142451f",
+          "File_Modified": "2024-03-06T18:15:04.553",
+          "File_Name": "FinancialStatement-2023-Tahunan-DMAS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DMAS/FinancialStatement-2023-Tahunan-DMAS.xlsx",
+          "File_Size": 131586,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "e103d02a-c8dc-4e03-9c3f-6ee75bab95a2",
+          "File_Modified": "2024-03-06T18:15:04.553",
+          "File_Name": "AnnualReport2023-DMAS-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/1dac6da1f1_751da9d531.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "ce22cec6-b507-4fa3-bbcd-14681c279338",
+          "File_Modified": "2024-03-06T18:15:04.553",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DMAS/instance.zip",
+          "File_Size": 112836,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "01c2779b-fc0d-4867-93fe-59e6422a9dea",
+          "File_Modified": "2024-03-06T18:15:04.553",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DMAS/inlineXBRL.zip",
+          "File_Size": 214285,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "a5f240e6-ed38-4a9c-afb5-1e49c2488b60",
+          "File_Modified": "2024-03-06T18:15:04.553",
+          "File_Name": "SPD LapKeu FY 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DMAS/SPD LapKeu FY 2023.pdf",
+          "File_Size": 1959196,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "334b4a5c-fda7-4eb4-82c0-3159886288c6",
+          "File_Modified": "2024-03-06T18:15:04.553",
+          "File_Name": "FinancialStatement-2023-Tahunan-DMAS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DMAS/FinancialStatement-2023-Tahunan-DMAS.pdf",
+          "File_Size": 631364,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "4b2e0b97-7c21-4581-91c5-56962c9dbe2c",
+          "File_Modified": "2024-03-06T18:15:04.553",
+          "File_Name": "AnnualReport2023-DMAS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/e7cb2df578_fa819fe4f7.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "001fea43-a05e-4131-8574-63e217e373ee",
+          "File_Modified": "2024-03-06T18:15:04.553",
+          "File_Name": "007 - Penyampaian Laporan Keuangan Tahun 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DMAS/007 - Penyampaian Laporan Keuangan Tahun 2023.pdf",
+          "File_Size": 478021,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        },
+        {
+          "Emiten_Code": "DMAS",
+          "File_ID": "d05e1dff-9b32-4fdc-a395-71c964b0ebb6",
+          "File_Modified": "2024-03-06T18:15:04.553",
+          "File_Name": "DMAS Financial Statement FY 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DMAS/DMAS Financial Statement FY 2023.pdf",
+          "File_Size": 3468805,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Puradelta Lestari Tbk."
+        }
+      ]
+    }
+  ]
+}

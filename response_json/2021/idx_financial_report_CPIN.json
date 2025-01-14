@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "CPIN",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "CPIN",
+      "File_Modified": "2022-04-11T17:37:38.747",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Charoen Pokphand Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "CPIN",
+          "File_ID": "4f80bde5-c79d-4a99-af21-cb71f879fbf0",
+          "File_Modified": "2022-04-11T17:37:38.747",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPIN/inlineXBRL.zip",
+          "File_Size": 58673,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Charoen Pokphand Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "CPIN",
+          "File_ID": "4c0aff54-b084-414d-9a52-e2637ebf8ef4",
+          "File_Modified": "2022-04-11T17:37:38.747",
+          "File_Name": "CPIN-211231IE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPIN/CPIN-211231IE.pdf",
+          "File_Size": 2781676,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Charoen Pokphand Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "CPIN",
+          "File_ID": "d15fbf78-dc0a-4fe6-a13f-168f65cd1a86",
+          "File_Modified": "2022-04-11T17:37:38.747",
+          "File_Name": "FinancialStatement-2021-Tahunan-CPIN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPIN/FinancialStatement-2021-Tahunan-CPIN.xlsx",
+          "File_Size": 159082,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Charoen Pokphand Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "CPIN",
+          "File_ID": "74f9c147-b142-4d41-843d-5bfb6e6365c8",
+          "File_Modified": "2022-04-11T17:37:38.747",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPIN/instance.zip",
+          "File_Size": 28815,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Charoen Pokphand Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "CPIN",
+          "File_ID": "721db2b0-475b-41fe-8db3-e19b4380a0e5",
+          "File_Modified": "2022-04-11T17:37:38.747",
+          "File_Name": "CPIN Surat Pernyataan 20211231.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPIN/CPIN Surat Pernyataan 20211231.pdf",
+          "File_Size": 405735,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Charoen Pokphand Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "CPIN",
+          "File_ID": "98c648e7-2c1f-4776-bcdf-611e5b1dbb1e",
+          "File_Modified": "2022-04-11T17:37:38.747",
+          "File_Name": "CPIN 009 CPIN-OJK IV 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPIN/CPIN 009 CPIN-OJK IV 2022.pdf",
+          "File_Size": 735228,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Charoen Pokphand Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "CPIN",
+          "File_ID": "861107c6-5049-4cd4-a9d0-75f8df46ba09",
+          "File_Modified": "2022-04-11T17:37:38.747",
+          "File_Name": "CPIN-Checklist 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPIN/CPIN-Checklist 2021.pdf",
+          "File_Size": 1255345,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Charoen Pokphand Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "CPIN",
+          "File_ID": "d25ea28e-c711-461d-98d0-8c85eb8bcfbf",
+          "File_Modified": "2022-04-11T17:37:38.747",
+          "File_Name": "FinancialStatement-2021-Tahunan-CPIN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPIN/FinancialStatement-2021-Tahunan-CPIN.pdf",
+          "File_Size": 53382,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Charoen Pokphand Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

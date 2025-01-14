@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "META",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "META",
+      "File_Modified": "2022-04-19T17:19:19.383",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Nusantara Infrastructure Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "META",
+          "File_ID": "11cbb9f6-b781-4fee-b12b-69700b35f907",
+          "File_Modified": "2022-04-19T17:19:19.383",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/META/inlineXBRL.zip",
+          "File_Size": 55765,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "2626a00a-276c-46aa-a058-0917667cc30c",
+          "File_Modified": "2022-04-19T17:19:19.383",
+          "File_Name": "OJK Checklist META 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/META/OJK Checklist META 31 Des 2021.pdf",
+          "File_Size": 2387668,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "2f506c3f-42cc-4ae2-ac71-10e3680743a5",
+          "File_Modified": "2022-04-19T17:19:19.383",
+          "File_Name": "Nusantara Infrastructure Tbk 31 Dec 21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/META/Nusantara Infrastructure Tbk 31 Dec 21.pdf",
+          "File_Size": 2459062,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "fcc39f83-cfad-4170-9d33-79334080ad04",
+          "File_Modified": "2022-04-19T17:19:19.383",
+          "File_Name": "FinancialStatement-2021-Tahunan-META.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/META/FinancialStatement-2021-Tahunan-META.pdf",
+          "File_Size": 59846,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "9f94cf84-ca79-4805-92c9-00f21a52aa56",
+          "File_Modified": "2022-04-19T17:19:19.383",
+          "File_Name": "Surat Pengantar LKT 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/META/Surat Pengantar LKT 31 Des 2021.pdf",
+          "File_Size": 213875,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "10ceec8c-bf52-4c32-b82b-c4167a85ada4",
+          "File_Modified": "2022-04-19T17:19:19.383",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/META/instance.zip",
+          "File_Size": 28218,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "e4257e31-a961-4925-b5cf-2a50fe8f5b9f",
+          "File_Modified": "2022-04-19T17:19:19.383",
+          "File_Name": "FinancialStatement-2021-Tahunan-META.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/META/FinancialStatement-2021-Tahunan-META.xlsx",
+          "File_Size": 155618,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        },
+        {
+          "Emiten_Code": "META",
+          "File_ID": "c353089b-2f83-46ae-819f-8ef9324a9230",
+          "File_Modified": "2022-04-19T17:19:19.383",
+          "File_Name": "Pemberitahuan Total Kewajiban LK 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/META/Pemberitahuan Total Kewajiban LK 31 Des 2021.pdf",
+          "File_Size": 265942,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Nusantara Infrastructure Tbk"
+        }
+      ]
+    }
+  ]
+}

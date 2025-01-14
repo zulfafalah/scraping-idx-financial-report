@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SOFA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SOFA",
+      "File_Modified": "2024-04-01T16:28:23.313",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Boston Furniture Industries Tbk..",
+      "Attachments": [
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "26cf0c2d-3fff-455a-bfeb-30d4ee01dd2b",
+          "File_Modified": "2024-04-01T16:28:23.313",
+          "File_Name": "AnnualReport2023-SOFA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/e6125317b3_4b3911f64a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "1b4c4690-2fc1-4ee2-a97b-f3d57caf5293",
+          "File_Modified": "2024-04-01T16:28:23.313",
+          "File_Name": "Daftar Checklist LKT 2023 - SOFA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SOFA/Daftar Checklist LKT 2023 - SOFA.pdf",
+          "File_Size": 2305107,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "6dcf416e-8a1f-4bff-a40b-fb032198bf81",
+          "File_Modified": "2024-04-01T16:28:23.313",
+          "File_Name": "FinancialStatement-2023-Tahunan-SOFA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SOFA/FinancialStatement-2023-Tahunan-SOFA.pdf",
+          "File_Size": 686338,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "e5ca9cf1-3d7b-440f-bac3-5d675261b944",
+          "File_Modified": "2024-04-01T16:28:23.313",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SOFA/instance.zip",
+          "File_Size": 119930,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "35da4345-44db-4e37-a3ad-512bc467a7ab",
+          "File_Modified": "2024-04-01T16:28:23.313",
+          "File_Name": "Lampiran Penjelasan Perubahan 20 Persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SOFA/Lampiran Penjelasan Perubahan 20 Persen.pdf",
+          "File_Size": 3622636,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "4d3da091-7823-4c3b-8c5d-bd0e8e7a6da8",
+          "File_Modified": "2024-04-01T16:28:23.313",
+          "File_Name": "Lapkeu 31 Des 2023 (Audited) Sofa.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SOFA/Lapkeu 31 Des 2023 (Audited) Sofa.pdf",
+          "File_Size": 4736143,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "f0afcc77-3865-49df-b2d3-2d312e6b65c8",
+          "File_Modified": "2024-04-01T16:28:23.313",
+          "File_Name": "FinancialStatement-2023-Tahunan-SOFA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SOFA/FinancialStatement-2023-Tahunan-SOFA.xlsx",
+          "File_Size": 333067,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "d4df2d84-772c-4e80-8d32-53212e6e5c9e",
+          "File_Modified": "2024-04-01T16:28:23.313",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SOFA/inlineXBRL.zip",
+          "File_Size": 239592,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "a17ef69e-36b8-4df9-935a-6337a475c6c6",
+          "File_Modified": "2024-04-01T16:28:23.313",
+          "File_Name": "AnnualReport2023-SOFA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/6077d75f13_40d89dd682.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        }
+      ]
+    }
+  ]
+}

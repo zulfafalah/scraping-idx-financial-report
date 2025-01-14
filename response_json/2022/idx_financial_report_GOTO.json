@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GOTO",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GOTO",
+      "File_Modified": "2023-04-01T02:21:59.467",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "40c56973-d2d5-4b54-95b7-5fd0305afca3",
+          "File_Modified": "2023-04-01T02:21:59.467",
+          "File_Name": "FinancialStatement-2022-Tahunan-GOTO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GOTO/FinancialStatement-2022-Tahunan-GOTO.xlsx",
+          "File_Size": 1191506,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "413b4c48-322a-4506-a3bc-ebde141d858b",
+          "File_Modified": "2023-04-01T02:21:59.467",
+          "File_Name": "AnnualReport2022-GOTO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/db82f76b65_3f6c950c58.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "c788df48-5f79-44e8-bcbb-54fb8db4ab1f",
+          "File_Modified": "2023-04-01T02:21:59.467",
+          "File_Name": "GOTO_LKT 2022_31032023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GOTO/GOTO_LKT 2022_31032023.pdf",
+          "File_Size": 1562707,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "66e544de-7c87-4362-b1c5-90506bcc544a",
+          "File_Modified": "2023-04-01T02:21:59.467",
+          "File_Name": "FinancialStatement-2022-Tahunan-GOTO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GOTO/FinancialStatement-2022-Tahunan-GOTO.pdf",
+          "File_Size": 183408,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "9d865f2c-b61d-4cb9-8011-3547ca126f23",
+          "File_Modified": "2023-04-01T02:21:59.467",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GOTO/instance.zip",
+          "File_Size": 186299,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        },
+        {
+          "Emiten_Code": "GOTO",
+          "File_ID": "6549e8f2-c2fa-4180-b9d5-3edad48277e5",
+          "File_Modified": "2023-04-01T02:21:59.467",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GOTO/inlineXBRL.zip",
+          "File_Size": 196181,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT GoTo Gojek Tokopedia Tbk"
+        }
+      ]
+    }
+  ]
+}

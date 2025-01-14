@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TAMA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TAMA",
+      "File_Modified": "2023-03-31T22:07:25.083",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Lancartama Sejati Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "4b1e4f17-d9a2-4417-a358-7fee0d774a7a",
+          "File_Modified": "2023-03-31T22:07:25.083",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAMA/inlineXBRL.zip",
+          "File_Size": 118771,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "53d23ea3-25c5-485e-a91c-1a6c7e057081",
+          "File_Modified": "2023-03-31T22:07:25.083",
+          "File_Name": "PT Lancartama Sejati Tbk 31 Des 22 Final.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAMA/PT Lancartama Sejati Tbk 31 Des 22 Final.pdf",
+          "File_Size": 4625579,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "b325fe39-2b28-4d8b-b067-12de31c632f2",
+          "File_Modified": "2023-03-31T22:07:25.083",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAMA/instance.zip",
+          "File_Size": 149518,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "cce347c3-c3a7-4772-ba78-1f0ffb9f9ea7",
+          "File_Modified": "2023-03-31T22:07:25.083",
+          "File_Name": "FinancialStatement-2022-Tahunan-TAMA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAMA/FinancialStatement-2022-Tahunan-TAMA.pdf",
+          "File_Size": 70755,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "5235891d-a2fc-4d4b-a02f-1f1d3e6aef1e",
+          "File_Modified": "2023-03-31T22:07:25.083",
+          "File_Name": "FinancialStatement-2022-Tahunan-TAMA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAMA/FinancialStatement-2022-Tahunan-TAMA.xlsx",
+          "File_Size": 1125617,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "570bfe6b-8a70-4a74-8974-513442d2f02d",
+          "File_Modified": "2023-03-31T22:07:25.083",
+          "File_Name": "AnnualReport2022-TAMA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/a5188defb0_7ef557df07.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        }
+      ]
+    }
+  ]
+}

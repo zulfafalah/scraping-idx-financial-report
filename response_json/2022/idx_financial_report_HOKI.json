@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "HOKI",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "HOKI",
+      "File_Modified": "2023-03-31T19:31:50.04",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Buyung Poetra Sembada Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "5aa0b86b-93f6-4eac-8a2b-7d794700c3e6",
+          "File_Modified": "2023-03-31T19:31:50.04",
+          "File_Name": "AnnualReport2022-HOKI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/37c5e137fe_47818c2757.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "3078b143-316e-471f-9db5-7e525c07a539",
+          "File_Modified": "2023-03-31T19:31:50.04",
+          "File_Name": "SURAT LAPORAN KEUANGAN TAHUNAN HOKI Thn. 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HOKI/SURAT LAPORAN KEUANGAN TAHUNAN HOKI Thn. 2022.pdf",
+          "File_Size": 237934,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "0da6aa37-eb2e-414c-99c3-2773409962f2",
+          "File_Modified": "2023-03-31T19:31:50.04",
+          "File_Name": "PENJELASAN PERUBAHAN 54 PERSEN LIABILITAS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HOKI/PENJELASAN PERUBAHAN 54 PERSEN LIABILITAS.pdf",
+          "File_Size": 201948,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "3632420b-1099-42aa-8ab9-261c0248ed1e",
+          "File_Modified": "2023-03-31T19:31:50.04",
+          "File_Name": "FinancialStatement-2022-Tahunan-HOKI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HOKI/FinancialStatement-2022-Tahunan-HOKI.pdf",
+          "File_Size": 222659,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "d7b5945e-314f-4d88-afba-2c85acf6e52a",
+          "File_Modified": "2023-03-31T19:31:50.04",
+          "File_Name": "FinancialStatement-2022-Tahunan-HOKI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HOKI/FinancialStatement-2022-Tahunan-HOKI.xlsx",
+          "File_Size": 1177914,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "ae7b439b-0c8c-46b5-9413-caefce52bf3e",
+          "File_Modified": "2023-03-31T19:31:50.04",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HOKI/instance.zip",
+          "File_Size": 170384,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "8f3dfa2a-944a-48e8-8ece-f4c462a3d60b",
+          "File_Modified": "2023-03-31T19:31:50.04",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HOKI/inlineXBRL.zip",
+          "File_Size": 209443,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "40da61fd-0d92-4b15-ae8c-87c58e4c5983",
+          "File_Modified": "2023-03-31T19:31:50.04",
+          "File_Name": "HOKI 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/HOKI/HOKI 2022.pdf",
+          "File_Size": 2985525,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "WICO",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "WICO",
+      "File_Modified": "2023-03-31T18:20:47.113",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Wicaksana Overseas International Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "9de9b221-8578-4b66-9b06-6386e2771b79",
+          "File_Modified": "2023-03-31T18:20:47.113",
+          "File_Name": "AnnualReport2022-WICO.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/7145cb2ee2_f6e92db159.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "dcec37f9-7593-4c45-84e1-c7c0ba9cbeee",
+          "File_Modified": "2023-03-31T18:20:47.113",
+          "File_Name": "Wicaksana Overseas International Tbk-Dec 31 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WICO/Wicaksana Overseas International Tbk-Dec 31 2022.pdf",
+          "File_Size": 5123213,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "69c1e8a6-bff1-42bc-a060-0cb50ce3ae56",
+          "File_Modified": "2023-03-31T18:20:47.113",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WICO/instance.zip",
+          "File_Size": 179733,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "d07d5dd9-fd26-4590-9795-2998ada6869f",
+          "File_Modified": "2023-03-31T18:20:47.113",
+          "File_Name": "AnnualReport2022-WICO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/d256f583e5_2464223372.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "059dc121-569a-43dc-b4ee-3e0d28b342b0",
+          "File_Modified": "2023-03-31T18:20:47.113",
+          "File_Name": "Checklist Pengungkapan Laporan Keuangan 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WICO/Checklist Pengungkapan Laporan Keuangan 2022.pdf",
+          "File_Size": 1504406,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "996e9420-a2d8-4dad-9d8d-4756f9d43e3c",
+          "File_Modified": "2023-03-31T18:20:47.113",
+          "File_Name": "FinancialStatement-2022-Tahunan-WICO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WICO/FinancialStatement-2022-Tahunan-WICO.xlsx",
+          "File_Size": 1188338,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "aa3ed205-e54c-42b5-bf56-daa0eeb92db3",
+          "File_Modified": "2023-03-31T18:20:47.113",
+          "File_Name": "AnnualReport2022-WICO-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/6f9950851a_fb8ed1d507.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "37bafbb2-29b8-4dea-8a64-4b57b9e841c7",
+          "File_Modified": "2023-03-31T18:20:47.113",
+          "File_Name": "FinancialStatement-2022-Tahunan-WICO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WICO/FinancialStatement-2022-Tahunan-WICO.pdf",
+          "File_Size": 119249,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "495cafff-d8f7-437f-a645-011c679fd0f2",
+          "File_Modified": "2023-03-31T18:20:47.113",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WICO/inlineXBRL.zip",
+          "File_Size": 175572,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "6c60c108-f73b-47f1-ab9e-3ae6c22ab8df",
+          "File_Modified": "2023-03-31T18:20:47.113",
+          "File_Name": "AnnualReport2022-WICO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/d256f583e5_2464223372.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "44077d95-232a-4810-a4eb-b3e152a2faac",
+          "File_Modified": "2023-03-31T18:20:47.113",
+          "File_Name": "OJK_Penjelasan atas Perubahan Aset_2022.Q4.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WICO/OJK_Penjelasan atas Perubahan Aset_2022.Q4.pdf",
+          "File_Size": 301467,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        }
+      ]
+    }
+  ]
+}

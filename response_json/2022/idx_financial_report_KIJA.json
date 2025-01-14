@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "KIJA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "KIJA",
+      "File_Modified": "2023-03-21T15:51:24.247",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Kawasan Industri Jababeka Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "74caafb1-c619-4d64-b8b6-8687742e84d4",
+          "File_Modified": "2023-03-21T15:51:24.247",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KIJA/instance.zip",
+          "File_Size": 173931,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        },
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "3d640c6c-1fa1-4469-b101-7da7bc6b616e",
+          "File_Modified": "2023-03-21T15:51:24.247",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KIJA/inlineXBRL.zip",
+          "File_Size": 211873,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        },
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "68d16b25-29d8-4c81-9f57-e0a8deca0644",
+          "File_Modified": "2023-03-21T15:51:24.247",
+          "File_Name": "FS KIJA 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KIJA/FS KIJA 2022.pdf",
+          "File_Size": 6681543,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        },
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "4bf1f2f6-224a-41dd-be28-f621837a2d09",
+          "File_Modified": "2023-03-21T15:51:24.247",
+          "File_Name": "FinancialStatement-2022-Tahunan-KIJA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KIJA/FinancialStatement-2022-Tahunan-KIJA.pdf",
+          "File_Size": 170185,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        },
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "611feaef-a854-4234-9a75-4478f870a70b",
+          "File_Modified": "2023-03-21T15:51:24.247",
+          "File_Name": "FinancialStatement-2022-Tahunan-KIJA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KIJA/FinancialStatement-2022-Tahunan-KIJA.xlsx",
+          "File_Size": 1141056,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        },
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "c0a430cf-ebb2-449c-8bc3-838f34715fed",
+          "File_Modified": "2023-03-21T15:51:24.247",
+          "File_Name": "AnnualReport2022-KIJA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/dec110f576_7c325b8dce.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        },
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "bdbf0889-bc3d-4462-b6e4-e624319327f8",
+          "File_Modified": "2023-03-21T15:51:24.247",
+          "File_Name": "Surat Pernyataan Direksi FS KIJA 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KIJA/Surat Pernyataan Direksi FS KIJA 2022.pdf",
+          "File_Size": 445926,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        }
+      ]
+    }
+  ]
+}

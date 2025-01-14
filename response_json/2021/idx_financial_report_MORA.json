@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MORA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MORA",
+      "File_Modified": "2022-02-25T18:09:37.667",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Mora Telematika Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "20b1550e-a67c-4f52-8f5f-22d7cb5a83bc",
+          "File_Modified": "2022-02-25T18:09:37.667",
+          "File_Name": "PT Mora Telematika Indonesia Audited 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MORA/PT Mora Telematika Indonesia Audited 2021.pdf",
+          "File_Size": 2694214,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "f39ae164-1974-4cc7-9f26-cc077593d840",
+          "File_Modified": "2022-02-25T18:09:37.667",
+          "File_Name": "FinancialStatement-2021-Tahunan-MORA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MORA/FinancialStatement-2021-Tahunan-MORA.pdf",
+          "File_Size": 57009,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "3870ac45-6ca9-4298-b197-d26c55bb68cc",
+          "File_Modified": "2022-02-25T18:09:37.667",
+          "File_Name": "FinancialStatement-2021-Tahunan-MORA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MORA/FinancialStatement-2021-Tahunan-MORA.xlsx",
+          "File_Size": 155600,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "e6ba7506-3c22-4162-9e98-217aacf31475",
+          "File_Modified": "2022-02-25T18:09:37.667",
+          "File_Name": "PT Mora Telematika Indonesia Audited 2021-rev.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MORA/PT Mora Telematika Indonesia Audited 2021-rev.pdf",
+          "File_Size": 2448663,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "d533ee6d-d7b7-4edb-b4a1-862477b4a808",
+          "File_Modified": "2022-02-25T18:09:37.667",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MORA/inlineXBRL.zip",
+          "File_Size": 55587,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "ffedd69c-1a1e-4c2f-a4c4-7a1dc3d66cd5",
+          "File_Modified": "2022-02-25T18:09:37.667",
+          "File_Name": "Surat Pernyataan Direksi MTI 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MORA/Surat Pernyataan Direksi MTI 31 Des 2021.pdf",
+          "File_Size": 477006,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "74665c80-df3f-4829-b68e-b7cdaf71f583",
+          "File_Modified": "2022-02-25T18:09:37.667",
+          "File_Name": "Penjelasan kenaikan aset dan liabilitas 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MORA/Penjelasan kenaikan aset dan liabilitas 2021.pdf",
+          "File_Size": 235531,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "51e08383-3e1f-4306-8837-fb916166a8b4",
+          "File_Modified": "2022-02-25T18:09:37.667",
+          "File_Name": "Pengantar Laporan Keuangan 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MORA/Pengantar Laporan Keuangan 31 Des 2021.pdf",
+          "File_Size": 1151638,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "b601925f-3e37-49e2-a02f-2693d9774477",
+          "File_Modified": "2022-02-25T18:09:37.667",
+          "File_Name": "OJK Checklist 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MORA/OJK Checklist 2021.pdf",
+          "File_Size": 795556,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "ebba91f7-29f4-4a52-a3cd-510c36ba9c99",
+          "File_Modified": "2022-02-25T18:09:37.667",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MORA/instance.zip",
+          "File_Size": 28157,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "ada66ca4-ad3d-49da-a6ea-71d11067d152",
+          "File_Modified": "2022-02-25T18:09:37.667",
+          "File_Name": "Pengantar Koreksi Laporan Keuangan 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MORA/Pengantar Koreksi Laporan Keuangan 31 Des 2021.pdf",
+          "File_Size": 1072791,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

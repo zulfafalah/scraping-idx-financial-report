@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BUKK",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BUKK",
+      "File_Modified": "2024-04-05T11:36:45.057",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Bukaka Teknik Utama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "3ebd3f43-0958-46da-81ac-219bfbadf127",
+          "File_Modified": "2024-04-05T11:36:45.057",
+          "File_Name": "Perubahan Lebih Dari 20 Persen Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BUKK/Perubahan Lebih Dari 20 Persen Des 2023.pdf",
+          "File_Size": 360511,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "cd3b7184-b04b-47e4-a4b4-d58770f9c6ed",
+          "File_Modified": "2024-04-05T11:36:45.057",
+          "File_Name": "AnnualReport2023-BUKK-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/214d8ea35e_43b23dac49.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "073f8963-bdce-4a6b-bcee-22f8893c2079",
+          "File_Modified": "2024-04-05T11:36:45.057",
+          "File_Name": "Surat Pengantar_31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BUKK/Surat Pengantar_31 Des 2023.pdf",
+          "File_Size": 214307,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "5e48ac02-e01b-4a4c-a08c-f52be0ba3e0a",
+          "File_Modified": "2024-04-05T11:36:45.057",
+          "File_Name": "LAI PT BTU DAN ENTITAS ANAK PER 31 DESEMBER 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BUKK/LAI PT BTU DAN ENTITAS ANAK PER 31 DESEMBER 2023.pdf",
+          "File_Size": 4121565,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "666c4c13-4bbf-4021-8e7c-31726c168567",
+          "File_Modified": "2024-04-05T11:36:45.057",
+          "File_Name": "Surat Pengantar_Revisi LKT 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BUKK/Surat Pengantar_Revisi LKT 31 Des 2023.pdf",
+          "File_Size": 508497,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "377bd1d3-2217-4d6b-be8c-84d85a4766ca",
+          "File_Modified": "2024-04-05T11:36:45.057",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BUKK/instance.zip",
+          "File_Size": 133181,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "ca24a4c0-fade-4222-a514-8b0e380c456b",
+          "File_Modified": "2024-04-05T11:36:45.057",
+          "File_Name": "FinancialStatement-2023-Tahunan-BUKK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BUKK/FinancialStatement-2023-Tahunan-BUKK.pdf",
+          "File_Size": 715244,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "a2a096fe-6a9d-4cdb-acc3-bf0ec6dd91c6",
+          "File_Modified": "2024-04-05T11:36:45.057",
+          "File_Name": "Bapepam Checklist 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BUKK/Bapepam Checklist 31 Desember 2023.pdf",
+          "File_Size": 9306003,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "e386bccf-dd2b-4b20-b7e4-62b41dd267b6",
+          "File_Modified": "2024-04-05T11:36:45.057",
+          "File_Name": "AnnualReport2023-BUKK.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/a012043f43_41e1e7cc5f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "76942100-598e-47c6-9af5-7c7ef37933cd",
+          "File_Modified": "2024-04-05T11:36:45.057",
+          "File_Name": "FinancialStatement-2023-Tahunan-BUKK.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BUKK/FinancialStatement-2023-Tahunan-BUKK.xlsx",
+          "File_Size": 362108,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "30853032-95b2-43ae-ad62-ae47f93fa2f7",
+          "File_Modified": "2024-04-05T11:36:45.057",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BUKK/inlineXBRL.zip",
+          "File_Size": 265113,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "ac1a9fb8-2d50-46ae-af0f-f9628bdccfa5",
+          "File_Modified": "2024-04-05T11:36:45.057",
+          "File_Name": "AnnualReport2023-BUKK-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f92241a010_6d2a49920a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        }
+      ]
+    }
+  ]
+}

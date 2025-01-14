@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "WICO",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "WICO",
+      "File_Modified": "2022-04-30T16:59:42.69",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Wicaksana Overseas International Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "f72024ae-6f87-4d02-bbdf-bae16fa51766",
+          "File_Modified": "2022-04-30T16:59:42.69",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WICO/inlineXBRL.zip",
+          "File_Size": 58678,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "db12d877-1ed5-43e7-aaae-0c5c5326a023",
+          "File_Modified": "2022-04-30T16:59:42.69",
+          "File_Name": "FinancialStatement-2021-Tahunan-WICO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WICO/FinancialStatement-2021-Tahunan-WICO.pdf",
+          "File_Size": 42856,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "1edaeff2-d5ac-44f7-ad1c-a38edc0344cd",
+          "File_Modified": "2022-04-30T16:59:42.69",
+          "File_Name": "FinancialStatement-2021-Tahunan-WICO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WICO/FinancialStatement-2021-Tahunan-WICO.xlsx",
+          "File_Size": 159180,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "45ce15f4-8ce3-4eba-91fa-df0e24428c7d",
+          "File_Modified": "2022-04-30T16:59:42.69",
+          "File_Name": "WICO-Dec 31 2021_Released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WICO/WICO-Dec 31 2021_Released.pdf",
+          "File_Size": 2063171,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "3e526b1e-3022-4a56-8b48-a252112adb34",
+          "File_Modified": "2022-04-30T16:59:42.69",
+          "File_Name": "AnnualReport2021-WICO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/a88ae90e06_ff1e0f3195.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        },
+        {
+          "Emiten_Code": "WICO",
+          "File_ID": "61d8c10c-c175-4619-8653-aa77a6de6b0a",
+          "File_Modified": "2022-04-30T16:59:42.69",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WICO/instance.zip",
+          "File_Size": 28540,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Wicaksana Overseas International Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "EPAC",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "EPAC",
+      "File_Modified": "2024-04-05T09:02:23.413",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "EPAC",
+          "File_ID": "fcdb0ccc-b0f8-46ba-84c5-2370b8675774",
+          "File_Modified": "2024-04-05T09:02:23.413",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/EPAC/inlineXBRL.zip",
+          "File_Size": 265773,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk."
+        },
+        {
+          "Emiten_Code": "EPAC",
+          "File_ID": "9a083b6b-0946-446c-8079-6241649e542d",
+          "File_Modified": "2024-04-05T09:02:23.413",
+          "File_Name": "LK EPAC 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/EPAC/LK EPAC 2023.pdf",
+          "File_Size": 4095051,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk."
+        },
+        {
+          "Emiten_Code": "EPAC",
+          "File_ID": "b3b1557b-37ad-4088-b6d8-91266cd77544",
+          "File_Modified": "2024-04-05T09:02:23.413",
+          "File_Name": "FinancialStatement-2023-Tahunan-EPAC.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/EPAC/FinancialStatement-2023-Tahunan-EPAC.xlsx",
+          "File_Size": 367001,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk."
+        },
+        {
+          "Emiten_Code": "EPAC",
+          "File_ID": "7567fe96-3646-41cb-baa9-3a5bdcea3d99",
+          "File_Modified": "2024-04-05T09:02:23.413",
+          "File_Name": "FinancialStatement-2023-Tahunan-EPAC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/EPAC/FinancialStatement-2023-Tahunan-EPAC.pdf",
+          "File_Size": 729552,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk."
+        },
+        {
+          "Emiten_Code": "EPAC",
+          "File_ID": "5293cc49-780f-481b-a838-6dbe75b2ebfb",
+          "File_Modified": "2024-04-05T09:02:23.413",
+          "File_Name": "AnnualReport2023-EPAC.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/5c397d9d66_11a7a717df.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk."
+        },
+        {
+          "Emiten_Code": "EPAC",
+          "File_ID": "b29326eb-944c-49ba-8935-dea455a128c7",
+          "File_Modified": "2024-04-05T09:02:23.413",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/EPAC/instance.zip",
+          "File_Size": 127813,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk."
+        },
+        {
+          "Emiten_Code": "EPAC",
+          "File_ID": "d61fee4c-33c7-460e-8fbd-f7ebe1b1a363",
+          "File_Modified": "2024-04-05T09:02:23.413",
+          "File_Name": "AnnualReport2023-EPAC-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/e2fe7a4f46_661b36229b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk."
+        }
+      ]
+    }
+  ]
+}

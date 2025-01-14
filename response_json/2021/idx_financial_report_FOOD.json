@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "FOOD",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "FOOD",
+      "File_Modified": "2022-05-09T17:47:40.013",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Sentra Food Indonesia Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "31b5248f-7247-4887-8e93-18d496e48acd",
+          "File_Modified": "2022-05-09T17:47:40.013",
+          "File_Name": "FinancialStatement-2021-Tahunan-FOOD.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/FOOD/FinancialStatement-2021-Tahunan-FOOD.pdf",
+          "File_Size": 45233,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "7504673f-3685-49de-a98c-3ca745def8d6",
+          "File_Modified": "2022-05-09T17:47:40.013",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/FOOD/instance.zip",
+          "File_Size": 28670,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "895294a3-36c6-4968-bca7-5d482977dba3",
+          "File_Modified": "2022-05-09T17:47:40.013",
+          "File_Name": "AnnualReport2021-FOOD-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/29670bd682_7847018c5e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "6d23f05e-fa9d-4469-ac5d-5db8b95d7720",
+          "File_Modified": "2022-05-09T17:47:40.013",
+          "File_Name": "LK_PT SFI_Q4_2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/FOOD/LK_PT SFI_Q4_2021.pdf",
+          "File_Size": 3421211,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "9b9b2edb-6bb5-48c9-b599-c20de48904e4",
+          "File_Modified": "2022-05-09T17:47:40.013",
+          "File_Name": "spd sfi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/FOOD/spd sfi.pdf",
+          "File_Size": 2792287,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "334aaa4a-6107-4534-acec-319d87b40cca",
+          "File_Modified": "2022-05-09T17:47:40.013",
+          "File_Name": "Surat Pengantar LKT PUBEX FOOD 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/FOOD/Surat Pengantar LKT PUBEX FOOD 2022.pdf",
+          "File_Size": 134424,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "e794b2ff-372b-484f-8fda-a8fe52ceaaf9",
+          "File_Modified": "2022-05-09T17:47:40.013",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/FOOD/inlineXBRL.zip",
+          "File_Size": 58902,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "92be4d7f-10d5-4057-8aae-c73f6150e731",
+          "File_Modified": "2022-05-09T17:47:40.013",
+          "File_Name": "MATERI PUBEX FOOD - 9 Mei 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/FOOD/MATERI PUBEX FOOD - 9 Mei 2022.pdf",
+          "File_Size": 3861707,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "310f2cdd-e6ab-46b7-8629-17b273f0ce81",
+          "File_Modified": "2022-05-09T17:47:40.013",
+          "File_Name": "FinancialStatement-2021-Tahunan-FOOD.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/FOOD/FinancialStatement-2021-Tahunan-FOOD.xlsx",
+          "File_Size": 159305,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        }
+      ]
+    }
+  ]
+}

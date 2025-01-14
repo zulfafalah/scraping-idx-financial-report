@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PSGO",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PSGO",
+      "File_Modified": "2024-04-16T13:19:15.717",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Palma Serasih Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "PSGO",
+          "File_ID": "88d228d3-de02-477e-888a-4a2dce6bc55e",
+          "File_Modified": "2024-04-16T13:19:15.717",
+          "File_Name": "AnnualReport2023-PSGO-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/10769a6dfc_2217904f35.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Palma Serasih Tbk."
+        },
+        {
+          "Emiten_Code": "PSGO",
+          "File_ID": "35eb177e-f871-4a17-8f41-5023a3b89d99",
+          "File_Modified": "2024-04-16T13:19:15.717",
+          "File_Name": "PSGO_CHECKLIST_PENGUNGKAPAN_LK (31.12.23).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSGO/PSGO_CHECKLIST_PENGUNGKAPAN_LK (31.12.23).pdf",
+          "File_Size": 6140583,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Palma Serasih Tbk."
+        },
+        {
+          "Emiten_Code": "PSGO",
+          "File_ID": "69cb5a92-3aa5-493e-bd6c-71a115910af9",
+          "File_Modified": "2024-04-16T13:19:15.717",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSGO/inlineXBRL.zip",
+          "File_Size": 307436,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Palma Serasih Tbk."
+        },
+        {
+          "Emiten_Code": "PSGO",
+          "File_ID": "811345cc-e504-4046-8c93-7d96ac913202",
+          "File_Modified": "2024-04-16T13:19:15.717",
+          "File_Name": "AnnualReport2023-PSGO.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/6db3c782a2_a90ea79027.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Palma Serasih Tbk."
+        },
+        {
+          "Emiten_Code": "PSGO",
+          "File_ID": "178c0b4e-a30c-4be7-a6e1-946c5c4fc9a2",
+          "File_Modified": "2024-04-16T13:19:15.717",
+          "File_Name": "FinancialStatement-2023-Tahunan-PSGO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSGO/FinancialStatement-2023-Tahunan-PSGO.pdf",
+          "File_Size": 856819,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Palma Serasih Tbk."
+        },
+        {
+          "Emiten_Code": "PSGO",
+          "File_ID": "284b3ada-0135-4fb5-8fd5-c8e05f03c18a",
+          "File_Modified": "2024-04-16T13:19:15.717",
+          "File_Name": "AnnualReport2023-PSGO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/e420b3a53d_5466fced0b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Palma Serasih Tbk."
+        },
+        {
+          "Emiten_Code": "PSGO",
+          "File_ID": "4139a907-91b9-4cba-b6cb-fe856f3769c4",
+          "File_Modified": "2024-04-16T13:19:15.717",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSGO/instance.zip",
+          "File_Size": 168161,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Palma Serasih Tbk."
+        },
+        {
+          "Emiten_Code": "PSGO",
+          "File_ID": "97257c96-4c1a-4947-bae1-293f1d53d6bb",
+          "File_Modified": "2024-04-16T13:19:15.717",
+          "File_Name": "PSGO - LK 31 Des 23.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSGO/PSGO - LK 31 Des 23.pdf",
+          "File_Size": 9838850,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Palma Serasih Tbk."
+        },
+        {
+          "Emiten_Code": "PSGO",
+          "File_ID": "824091bd-66fe-45be-83e8-294770f3ffee",
+          "File_Modified": "2024-04-16T13:19:15.717",
+          "File_Name": "FinancialStatement-2023-Tahunan-PSGO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSGO/FinancialStatement-2023-Tahunan-PSGO.xlsx",
+          "File_Size": 418501,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Palma Serasih Tbk."
+        },
+        {
+          "Emiten_Code": "PSGO",
+          "File_ID": "f3efe4ab-ce42-4daf-8f5a-5367db54c36c",
+          "File_Modified": "2024-04-16T13:19:15.717",
+          "File_Name": "PSGO - Penjelasan Perubahan Aset dan Liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSGO/PSGO - Penjelasan Perubahan Aset dan Liabilitas.pdf",
+          "File_Size": 854722,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Palma Serasih Tbk."
+        },
+        {
+          "Emiten_Code": "PSGO",
+          "File_ID": "d7d3f437-043e-41fd-9f32-cbfb2ce21bda",
+          "File_Modified": "2024-04-16T13:19:15.717",
+          "File_Name": "PSGO - SPD 31 Des 23.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PSGO/PSGO - SPD 31 Des 23.pdf",
+          "File_Size": 2889197,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Palma Serasih Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PNLF",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PNLF",
+      "File_Modified": "2024-04-03T10:33:35.027",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Panin Financial Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "f17d33f4-938b-43b6-9deb-1b47d42877ef",
+          "File_Modified": "2024-04-03T10:33:35.027",
+          "File_Name": "CHECKLIST PENGUNGKAPAN LK_Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PNLF/CHECKLIST PENGUNGKAPAN LK_Des 2023.pdf",
+          "File_Size": 1446867,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "da911a4e-d492-4e9d-b60c-21e4fae8265e",
+          "File_Modified": "2024-04-03T10:33:35.027",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PNLF/instance.zip",
+          "File_Size": 52783,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "62910d4b-c934-47fc-84df-238f4611316a",
+          "File_Modified": "2024-04-03T10:33:35.027",
+          "File_Name": "SPD Audit Report 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PNLF/SPD Audit Report 2023.pdf",
+          "File_Size": 767737,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "7ed50b99-4e2e-431c-8ac6-8b74fe788a77",
+          "File_Modified": "2024-04-03T10:33:35.027",
+          "File_Name": "FinancialStatement-2023-Tahunan-PNLF.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PNLF/FinancialStatement-2023-Tahunan-PNLF.xlsx",
+          "File_Size": 129064,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "bf35d666-0f03-4c47-899a-6ab67a4ddc35",
+          "File_Modified": "2024-04-03T10:33:35.027",
+          "File_Name": "AnnualReport2023-PNLF-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/324cf93487_57ec914a85.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "dbb4ec6c-33de-4cac-a432-a78d571564dd",
+          "File_Modified": "2024-04-03T10:33:35.027",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PNLF/inlineXBRL.zip",
+          "File_Size": 100737,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "7ffc4a01-602c-43f3-8af1-b87f6a4dd44e",
+          "File_Modified": "2024-04-03T10:33:35.027",
+          "File_Name": "FinancialStatement-2023-Tahunan-PNLF.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PNLF/FinancialStatement-2023-Tahunan-PNLF.pdf",
+          "File_Size": 195898,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "60c933dc-3173-42f0-8eb7-f19c0ae98ac0",
+          "File_Modified": "2024-04-03T10:33:35.027",
+          "File_Name": "AnnualReport2023-PNLF.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7e700aeaef_fa6023c385.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "d5468ed8-77ed-4797-85ad-2b3c020ed59b",
+          "File_Modified": "2024-04-03T10:33:35.027",
+          "File_Name": "017-III-PF-24.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PNLF/017-III-PF-24.pdf",
+          "File_Size": 464563,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "322b905d-b18d-48c4-8d07-aee3b5bc33b5",
+          "File_Modified": "2024-04-03T10:33:35.027",
+          "File_Name": "Report PT Panin Financial Tbk 31122023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PNLF/Report PT Panin Financial Tbk 31122023.pdf",
+          "File_Size": 5536489,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Panin Financial Tbk"
+        },
+        {
+          "Emiten_Code": "PNLF",
+          "File_ID": "a162a45e-e5d3-4356-a370-e37bf976acca",
+          "File_Modified": "2024-04-03T10:33:35.027",
+          "File_Name": "016-III-PF-24.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PNLF/016-III-PF-24.pdf",
+          "File_Size": 484139,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Panin Financial Tbk"
+        }
+      ]
+    }
+  ]
+}

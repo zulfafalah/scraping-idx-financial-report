@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IKBI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IKBI",
+      "File_Modified": "2022-06-30T10:56:58.56",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Sumi Indo Kabel Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "2854319b-0bca-406f-a85d-7964ebe5adfe",
+          "File_Modified": "2022-06-30T10:56:58.56",
+          "File_Name": "AnnualReport2021-IKBI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202207/1be45b8e4a_21a5862c97.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "bd125515-d01c-4019-b133-29f1ed759483",
+          "File_Modified": "2022-06-30T10:56:58.56",
+          "File_Name": "Penyampaian penjelasan liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKBI/Penyampaian penjelasan liabilitas.pdf",
+          "File_Size": 701048,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "39d34e50-b861-4f3c-b955-0d1cfe8fdaf7",
+          "File_Modified": "2022-06-30T10:56:58.56",
+          "File_Name": "Check list FY2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKBI/Check list FY2021.pdf",
+          "File_Size": 1480964,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "b8e6121f-6a34-4cba-a6a4-303b60944d5d",
+          "File_Modified": "2022-06-30T10:56:58.56",
+          "File_Name": "Surat Checklist FY2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKBI/Surat Checklist FY2021.pdf",
+          "File_Size": 199342,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "a7011c39-487a-45b1-b2c1-73f664019e8c",
+          "File_Modified": "2022-06-30T10:56:58.56",
+          "File_Name": "FinancialStatement-2021-Tahunan-IKBI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKBI/FinancialStatement-2021-Tahunan-IKBI.pdf",
+          "File_Size": 44589,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "b0ac0022-fa80-4cf1-b933-bde4764b4b71",
+          "File_Modified": "2022-06-30T10:56:58.56",
+          "File_Name": "Surat Pengantar FY2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKBI/Surat Pengantar FY2021.pdf",
+          "File_Size": 194613,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "328f3d7d-fe23-400d-a918-262fc35096d6",
+          "File_Modified": "2022-06-30T10:56:58.56",
+          "File_Name": "sumi indo kabel billingual 31_mar_2022_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKBI/sumi indo kabel billingual 31_mar_2022_released.pdf",
+          "File_Size": 2217896,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "d133b714-4708-438e-b8ce-2d06cf45c6a9",
+          "File_Modified": "2022-06-30T10:56:58.56",
+          "File_Name": "Surat Pernyataan Direksi FY2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKBI/Surat Pernyataan Direksi FY2021.pdf",
+          "File_Size": 354965,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "16ac25c1-690c-43c6-9d09-81a9522b45a7",
+          "File_Modified": "2022-06-30T10:56:58.56",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKBI/instance.zip",
+          "File_Size": 28226,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "c4804feb-d3ec-4f6f-bd25-873f1b7afc7f",
+          "File_Modified": "2022-06-30T10:56:58.56",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKBI/inlineXBRL.zip",
+          "File_Size": 58031,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "2c146219-d556-4ace-8929-9fac1ea0438b",
+          "File_Modified": "2022-06-30T10:56:58.56",
+          "File_Name": "FinancialStatement-2021-Tahunan-IKBI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IKBI/FinancialStatement-2021-Tahunan-IKBI.xlsx",
+          "File_Size": 158775,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        }
+      ]
+    }
+  ]
+}

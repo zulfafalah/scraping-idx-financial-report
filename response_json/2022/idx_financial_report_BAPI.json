@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BAPI",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BAPI",
+      "File_Modified": "2023-08-11T13:28:45.12",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Bhakti Agung Propertindo Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "BAPI",
+          "File_ID": "db3e6481-9486-443d-9906-22e5fb18a5e6",
+          "File_Modified": "2023-08-11T13:28:45.12",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAPI/instance.zip",
+          "File_Size": 150881,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bhakti Agung Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "BAPI",
+          "File_ID": "51fec2b4-b62d-442e-8e5c-8e830f164c8f",
+          "File_Modified": "2023-08-11T13:28:45.12",
+          "File_Name": "Surat Pernyataan Direksi LK per 31 Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAPI/Surat Pernyataan Direksi LK per 31 Desember 2022.pdf",
+          "File_Size": 589597,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bhakti Agung Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "BAPI",
+          "File_ID": "0857f0b7-ee85-42fe-95cf-13d5661ab5d1",
+          "File_Modified": "2023-08-11T13:28:45.12",
+          "File_Name": "AnnualReport2022-BAPI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202308/fddffeead4_2a1402aed2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bhakti Agung Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "BAPI",
+          "File_ID": "71574792-4760-49e4-8920-57d1088dd061",
+          "File_Modified": "2023-08-11T13:28:45.12",
+          "File_Name": "AnnualReport2022-BAPI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202308/a79a14a7ae_ecd66edce8.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bhakti Agung Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "BAPI",
+          "File_ID": "fa6f25d0-cffe-4bb1-a7ca-a77c9a0c609c",
+          "File_Modified": "2023-08-11T13:28:45.12",
+          "File_Name": "FinancialStatement-2022-Tahunan-BAPI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAPI/FinancialStatement-2022-Tahunan-BAPI.xlsx",
+          "File_Size": 1126277,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bhakti Agung Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "BAPI",
+          "File_ID": "a7a9b6c2-8964-4203-a8ca-046ed4b3057b",
+          "File_Modified": "2023-08-11T13:28:45.12",
+          "File_Name": "Laporan Keuangan BAPI per 31 Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAPI/Laporan Keuangan BAPI per 31 Desember 2022.pdf",
+          "File_Size": 1591806,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bhakti Agung Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "BAPI",
+          "File_ID": "573148b8-69c9-4141-b511-0ab48c72d410",
+          "File_Modified": "2023-08-11T13:28:45.12",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAPI/inlineXBRL.zip",
+          "File_Size": 180993,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bhakti Agung Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "BAPI",
+          "File_ID": "420cc801-a393-466b-90f6-dab460ca3d50",
+          "File_Modified": "2023-08-11T13:28:45.12",
+          "File_Name": "FinancialStatement-2022-Tahunan-BAPI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAPI/FinancialStatement-2022-Tahunan-BAPI.pdf",
+          "File_Size": 59791,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bhakti Agung Propertindo Tbk."
+        }
+      ]
+    }
+  ]
+}

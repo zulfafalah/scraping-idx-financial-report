@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "NCKL",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "NCKL",
+      "File_Modified": "2024-04-01T16:19:30.083",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Trimegah Bangun Persada Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "NCKL",
+          "File_ID": "20a954bb-34c6-4145-969c-594011a477f9",
+          "File_Modified": "2024-04-01T16:19:30.083",
+          "File_Name": "FinancialStatement-2023-Tahunan-NCKL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NCKL/FinancialStatement-2023-Tahunan-NCKL.pdf",
+          "File_Size": 746006,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimegah Bangun Persada Tbk."
+        },
+        {
+          "Emiten_Code": "NCKL",
+          "File_ID": "84c4145b-9295-4fe2-be73-7a9cee146ad1",
+          "File_Modified": "2024-04-01T16:19:30.083",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NCKL/instance.zip",
+          "File_Size": 169438,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimegah Bangun Persada Tbk."
+        },
+        {
+          "Emiten_Code": "NCKL",
+          "File_ID": "e893757c-2799-41e8-8646-be13f0ea7d3e",
+          "File_Modified": "2024-04-01T16:19:30.083",
+          "File_Name": "Trimegah bangun persada tbk_31 Dec 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NCKL/Trimegah bangun persada tbk_31 Dec 2023.pdf",
+          "File_Size": 6208734,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimegah Bangun Persada Tbk."
+        },
+        {
+          "Emiten_Code": "NCKL",
+          "File_ID": "f6fdc739-0714-4d1f-bf3d-c507a93fe1a0",
+          "File_Modified": "2024-04-01T16:19:30.083",
+          "File_Name": "FinancialStatement-2023-Tahunan-NCKL.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NCKL/FinancialStatement-2023-Tahunan-NCKL.xlsx",
+          "File_Size": 384847,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimegah Bangun Persada Tbk."
+        },
+        {
+          "Emiten_Code": "NCKL",
+          "File_ID": "43673165-a3b2-45b3-b7bd-ec5bb1ea159a",
+          "File_Modified": "2024-04-01T16:19:30.083",
+          "File_Name": "AnnualReport2023-NCKL-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/30af8f8ba8_18c55c6a93.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimegah Bangun Persada Tbk."
+        },
+        {
+          "Emiten_Code": "NCKL",
+          "File_ID": "6cba73ce-6d62-4798-a23c-64bfc2dce205",
+          "File_Modified": "2024-04-01T16:19:30.083",
+          "File_Name": "Surat Penjelasan Perubahan Aset.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NCKL/Surat Penjelasan Perubahan Aset.pdf",
+          "File_Size": 567877,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimegah Bangun Persada Tbk."
+        },
+        {
+          "Emiten_Code": "NCKL",
+          "File_ID": "a8d52bf1-143a-434b-b206-f1f18fc8056e",
+          "File_Modified": "2024-04-01T16:19:30.083",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NCKL/inlineXBRL.zip",
+          "File_Size": 285801,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimegah Bangun Persada Tbk."
+        },
+        {
+          "Emiten_Code": "NCKL",
+          "File_ID": "12aa9137-7092-4603-a6ad-f2d71797ea26",
+          "File_Modified": "2024-04-01T16:19:30.083",
+          "File_Name": "AnnualReport2023-NCKL.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/a6b2c80624_3edf57ff82.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimegah Bangun Persada Tbk."
+        },
+        {
+          "Emiten_Code": "NCKL",
+          "File_ID": "698562c3-b546-47e1-98e5-099f6d03fdd3",
+          "File_Modified": "2024-04-01T16:19:30.083",
+          "File_Name": "OJK Checklist TBP - 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NCKL/OJK Checklist TBP - 31 Desember 2023.pdf",
+          "File_Size": 1631395,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimegah Bangun Persada Tbk."
+        },
+        {
+          "Emiten_Code": "NCKL",
+          "File_ID": "3b192615-2876-4231-8825-13dd7bfd0384",
+          "File_Modified": "2024-04-01T16:19:30.083",
+          "File_Name": "SPD TBP Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NCKL/SPD TBP Desember 2023.pdf",
+          "File_Size": 466144,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimegah Bangun Persada Tbk."
+        },
+        {
+          "Emiten_Code": "NCKL",
+          "File_ID": "f666eae2-addc-4099-9dfb-2f92c0c73c44",
+          "File_Modified": "2024-04-01T16:19:30.083",
+          "File_Name": "Surat Penyampaian Laporan Keuangan.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NCKL/Surat Penyampaian Laporan Keuangan.pdf",
+          "File_Size": 568470,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimegah Bangun Persada Tbk."
+        },
+        {
+          "Emiten_Code": "NCKL",
+          "File_ID": "fea065d2-549e-46cb-aa12-d486f5a5d6b4",
+          "File_Modified": "2024-04-01T16:19:30.083",
+          "File_Name": "AnnualReport2023-NCKL-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/c7812b9116_8261f8af3b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimegah Bangun Persada Tbk."
+        }
+      ]
+    }
+  ]
+}

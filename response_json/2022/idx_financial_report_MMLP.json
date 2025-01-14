@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MMLP",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MMLP",
+      "File_Modified": "2023-04-01T00:25:29.717",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Mega Manunggal Property Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "6d3f7313-165d-4743-94c5-2490d805260b",
+          "File_Modified": "2023-04-01T00:25:29.717",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MMLP/inlineXBRL.zip",
+          "File_Size": 184137,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "79ee0108-e2a4-4b95-9be1-255218f635f0",
+          "File_Modified": "2023-04-01T00:25:29.717",
+          "File_Name": "PT Mega Manunggal Property Tbk _Audit Report 2022_.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MMLP/PT Mega Manunggal Property Tbk _Audit Report 2022_.pdf",
+          "File_Size": 2516169,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "edbb5b43-a25d-401b-bf81-953577fc0266",
+          "File_Modified": "2023-04-01T00:25:29.717",
+          "File_Name": "AnnualReport2022-MMLP-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/4226456511_e99c47f34c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "394ca2e4-4e43-4290-9112-b2a8eb01b2c5",
+          "File_Modified": "2023-04-01T00:25:29.717",
+          "File_Name": "MMLP - CHECKLIST OJK FY 2022 - Final.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MMLP/MMLP - CHECKLIST OJK FY 2022 - Final.pdf",
+          "File_Size": 1814801,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "059da224-2193-455e-8ef4-369d26e7ae39",
+          "File_Modified": "2023-04-01T00:25:29.717",
+          "File_Name": "FinancialStatement-2022-Tahunan-MMLP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MMLP/FinancialStatement-2022-Tahunan-MMLP.xlsx",
+          "File_Size": 1157839,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "1cea8270-6372-486b-b9a5-67733ed1f2c6",
+          "File_Modified": "2023-04-01T00:25:29.717",
+          "File_Name": "FinancialStatement-2022-Tahunan-MMLP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MMLP/FinancialStatement-2022-Tahunan-MMLP.pdf",
+          "File_Size": 153615,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "97a2974d-bc39-45d3-8990-a1f14b7c5958",
+          "File_Modified": "2023-04-01T00:25:29.717",
+          "File_Name": "Penjelasan Fluc FS FY22 kepada IDX_.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MMLP/Penjelasan Fluc FS FY22 kepada IDX_.pdf",
+          "File_Size": 461352,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "41be573c-0592-4206-ad28-014dad103457",
+          "File_Modified": "2023-04-01T00:25:29.717",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MMLP/instance.zip",
+          "File_Size": 180260,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        },
+        {
+          "Emiten_Code": "MMLP",
+          "File_ID": "25a4c049-9dd9-46cf-80b4-ddea18127493",
+          "File_Modified": "2023-04-01T00:25:29.717",
+          "File_Name": "Surat Pengantar LK Tahunan 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MMLP/Surat Pengantar LK Tahunan 2022.pdf",
+          "File_Size": 251553,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Mega Manunggal Property Tbk."
+        }
+      ]
+    }
+  ]
+}

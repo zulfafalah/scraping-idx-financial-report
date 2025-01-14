@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PADI",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PADI",
+      "File_Modified": "2023-04-12T10:09:11",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Minna Padi Investama Sekuritas Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "54120dca-b737-48c0-bc14-784ff7ee8b0f",
+          "File_Modified": "2023-04-12T10:09:11",
+          "File_Name": "SPD - MPIS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PADI/SPD - MPIS.pdf",
+          "File_Size": 656788,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "82db9375-0b10-4a0b-a49c-f9f7b593c9f1",
+          "File_Modified": "2023-04-12T10:09:11",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PADI/instance.zip",
+          "File_Size": 96978,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "2798b75c-9d01-49ec-819d-d229a922c152",
+          "File_Modified": "2023-04-12T10:09:11",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PADI/inlineXBRL.zip",
+          "File_Size": 59579,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "d46206cd-92e2-4eb7-b65e-d84fcae44dc9",
+          "File_Modified": "2023-04-12T10:09:11",
+          "File_Name": "AnnualReport2022-PADI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/f9168353ef_ef6dc1036c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "025a45ba-c8ba-4730-9fb9-0e6c726ec544",
+          "File_Modified": "2023-04-12T10:09:11",
+          "File_Name": "FinancialStatement-2022-Tahunan-PADI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PADI/FinancialStatement-2022-Tahunan-PADI.xlsx",
+          "File_Size": 611028,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "82565b01-9589-4f3e-924c-377905d05f30",
+          "File_Modified": "2023-04-12T10:09:11",
+          "File_Name": "Final Report MPIS 31 Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PADI/Final Report MPIS 31 Desember 2022.pdf",
+          "File_Size": 5105229,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        },
+        {
+          "Emiten_Code": "PADI",
+          "File_ID": "f04fab38-c9e5-4363-8525-c15b9dd6a721",
+          "File_Modified": "2023-04-12T10:09:11",
+          "File_Name": "FinancialStatement-2022-Tahunan-PADI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PADI/FinancialStatement-2022-Tahunan-PADI.pdf",
+          "File_Size": 43167,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Minna Padi Investama Sekuritas Tbk"
+        }
+      ]
+    }
+  ]
+}

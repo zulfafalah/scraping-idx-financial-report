@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ASII",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ASII",
+      "File_Modified": "2024-02-27T19:15:43.113",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Astra International Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "d8f3e910-a958-43f4-9e00-5dd495d08782",
+          "File_Modified": "2024-02-27T19:15:43.113",
+          "File_Name": "Astra Account December 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASII/Astra Account December 2023.pdf",
+          "File_Size": 3841000,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "4292d0c2-fd9d-460e-ab60-73412e405dc8",
+          "File_Modified": "2024-02-27T19:15:43.113",
+          "File_Name": "AnnualReport2023-ASII.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/4b9aff584b_d8ec0bdd36.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "205f9f37-dfd8-403d-9be0-fd7e5fac1611",
+          "File_Modified": "2024-02-27T19:15:43.113",
+          "File_Name": "FinancialStatement-2023-Tahunan-ASII.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASII/FinancialStatement-2023-Tahunan-ASII.pdf",
+          "File_Size": 726915,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "c325dc3c-9200-459b-9a86-260d17411e9d",
+          "File_Modified": "2024-02-27T19:15:43.113",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASII/instance.zip",
+          "File_Size": 129685,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "ba1c743b-da92-4fd0-8b19-5afe01d099f5",
+          "File_Modified": "2024-02-27T19:15:43.113",
+          "File_Name": "FinancialStatement-2023-Tahunan-ASII.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASII/FinancialStatement-2023-Tahunan-ASII.xlsx",
+          "File_Size": 359455,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "be95d39b-a4ae-4efd-b0f5-ab034fbc387e",
+          "File_Modified": "2024-02-27T19:15:43.113",
+          "File_Name": "10. LACC- 055 - Report to OJK 1223.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASII/10. LACC- 055 - Report to OJK 1223.pdf",
+          "File_Size": 220076,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "9f7eef6e-5892-417a-b837-11a652980ca9",
+          "File_Modified": "2024-02-27T19:15:43.113",
+          "File_Name": "11. LACC- 056 - Report to BEI 1223.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASII/11. LACC- 056 - Report to BEI 1223.pdf",
+          "File_Size": 223907,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "beb9a25d-1bcb-48ff-8b40-c5319bc964f7",
+          "File_Modified": "2024-02-27T19:15:43.113",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASII/inlineXBRL.zip",
+          "File_Size": 261833,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "d5189387-ed55-4f5b-ba01-cadb5217ed14",
+          "File_Modified": "2024-02-27T19:15:43.113",
+          "File_Name": "AnnualReport2023-ASII-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/e30d024c8b_5e9f35f246.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "b59a6643-d91d-4fa2-ae84-e338aed90a41",
+          "File_Modified": "2024-02-27T19:15:43.113",
+          "File_Name": "AnnualReport2023-ASII-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f8e02d98b3_ed0689046b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra International Tbk"
+        },
+        {
+          "Emiten_Code": "ASII",
+          "File_ID": "55fdc16d-721d-4905-94d1-fa982489d105",
+          "File_Modified": "2024-02-27T19:15:43.113",
+          "File_Name": "AnnualReport2023-ASII-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/bac04386bd_3aced93bef.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Astra International Tbk"
+        }
+      ]
+    }
+  ]
+}

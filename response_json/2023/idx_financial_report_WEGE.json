@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "WEGE",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "WEGE",
+      "File_Modified": "2024-03-29T10:24:48.597",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Wijaya Karya Bangunan Gedung Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "WEGE",
+          "File_ID": "16ae00b0-ec08-41ad-acc0-8e4ef83b40df",
+          "File_Modified": "2024-03-29T10:24:48.597",
+          "File_Name": "FinancialStatement-2023-Tahunan-WEGE.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WEGE/FinancialStatement-2023-Tahunan-WEGE.xlsx",
+          "File_Size": 167814,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya Bangunan Gedung Tbk."
+        },
+        {
+          "Emiten_Code": "WEGE",
+          "File_ID": "65b958ae-06ef-4e65-978b-1cf4e40abf86",
+          "File_Modified": "2024-03-29T10:24:48.597",
+          "File_Name": "AnnualReport2023-WEGE.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/1c681980d6_6cc552ab9d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya Bangunan Gedung Tbk."
+        },
+        {
+          "Emiten_Code": "WEGE",
+          "File_ID": "52f3559b-2849-486d-802a-45fb5c6cbea5",
+          "File_Modified": "2024-03-29T10:24:48.597",
+          "File_Name": "Checklist Pengungkapan LK WEGE FY2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WEGE/Checklist Pengungkapan LK WEGE FY2023.pdf",
+          "File_Size": 7429358,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya Bangunan Gedung Tbk."
+        },
+        {
+          "Emiten_Code": "WEGE",
+          "File_ID": "ee07a971-8603-44ad-86dc-4e2ab1488e1d",
+          "File_Modified": "2024-03-29T10:24:48.597",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WEGE/instance.zip",
+          "File_Size": 140854,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya Bangunan Gedung Tbk."
+        },
+        {
+          "Emiten_Code": "WEGE",
+          "File_ID": "73231aea-970a-4478-942d-d3ea7aca0d6c",
+          "File_Modified": "2024-03-29T10:24:48.597",
+          "File_Name": "Surat Pengantar LK WEGE FY2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WEGE/Surat Pengantar LK WEGE FY2023.pdf",
+          "File_Size": 251075,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya Bangunan Gedung Tbk."
+        },
+        {
+          "Emiten_Code": "WEGE",
+          "File_ID": "2de42378-ef8c-48b0-88f7-159c7790c958",
+          "File_Modified": "2024-03-29T10:24:48.597",
+          "File_Name": "AnnualReport2023-WEGE-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/147df348bf_87ef812e18.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya Bangunan Gedung Tbk."
+        },
+        {
+          "Emiten_Code": "WEGE",
+          "File_ID": "4d18dbca-4ba4-4939-ac6a-5ce2c31abe80",
+          "File_Modified": "2024-03-29T10:24:48.597",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WEGE/inlineXBRL.zip",
+          "File_Size": 278510,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya Bangunan Gedung Tbk."
+        },
+        {
+          "Emiten_Code": "WEGE",
+          "File_ID": "974df138-cef3-4a91-ac3f-fc7f95553fb0",
+          "File_Modified": "2024-03-29T10:24:48.597",
+          "File_Name": "FinancialStatement-2023-Tahunan-WEGE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WEGE/FinancialStatement-2023-Tahunan-WEGE.pdf",
+          "File_Size": 743234,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya Bangunan Gedung Tbk."
+        },
+        {
+          "Emiten_Code": "WEGE",
+          "File_ID": "271b85db-2c21-4120-8fa6-6d623f033341",
+          "File_Modified": "2024-03-29T10:24:48.597",
+          "File_Name": "Laporan Keuangan WEGE FY2023 (Audited).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WEGE/Laporan Keuangan WEGE FY2023 (Audited).pdf",
+          "File_Size": 6386353,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya Bangunan Gedung Tbk."
+        },
+        {
+          "Emiten_Code": "WEGE",
+          "File_ID": "061e5520-f650-48f1-8637-ddb42c4228b0",
+          "File_Modified": "2024-03-29T10:24:48.597",
+          "File_Name": "AnnualReport2023-WEGE-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/8b8feb4aa6_b3f33d8eb5.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya Bangunan Gedung Tbk."
+        }
+      ]
+    }
+  ]
+}

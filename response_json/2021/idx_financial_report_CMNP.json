@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "CMNP",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "CMNP",
+      "File_Modified": "2022-04-28T13:40:43.043",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Citra Marga Nusaphala Persada Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "d116c084-251a-4f5f-8706-60e403502476",
+          "File_Modified": "2022-04-28T13:40:43.043",
+          "File_Name": "Report PT CMNP Tbk - 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CMNP/Report PT CMNP Tbk - 31 Desember 2021.pdf",
+          "File_Size": 7632205,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "54d6747b-a7e5-451d-b9c3-033dc7ad7bbe",
+          "File_Modified": "2022-04-28T13:40:43.043",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CMNP/inlineXBRL.zip",
+          "File_Size": 54896,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "2bed94ac-c7dc-45c8-9a42-ffa31b280957",
+          "File_Modified": "2022-04-28T13:40:43.043",
+          "File_Name": "Surat Penjelasan Aset Per 31 Desember 2021.PDF",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CMNP/Surat Penjelasan Aset Per 31 Desember 2021.PDF",
+          "File_Size": 490292,
+          "File_Type": ".PDF",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "0502b8b5-2d36-48f7-a17f-31718d464872",
+          "File_Modified": "2022-04-28T13:40:43.043",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CMNP/instance.zip",
+          "File_Size": 27786,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "2f006653-6914-4a4c-bcfa-715e05c6791d",
+          "File_Modified": "2022-04-28T13:40:43.043",
+          "File_Name": "FinancialStatement-2021-Tahunan-CMNP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CMNP/FinancialStatement-2021-Tahunan-CMNP.pdf",
+          "File_Size": 56883,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "c14c2b52-4e83-4471-bf89-af87e57ce2c5",
+          "File_Modified": "2022-04-28T13:40:43.043",
+          "File_Name": "SPD Per 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CMNP/SPD Per 31 Desember 2021.pdf",
+          "File_Size": 199975,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "c9601155-3f90-4ac9-acb4-d7a097941142",
+          "File_Modified": "2022-04-28T13:40:43.043",
+          "File_Name": "Surat OJK Per 31 Desember 2021.PDF",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CMNP/Surat OJK Per 31 Desember 2021.PDF",
+          "File_Size": 478318,
+          "File_Type": ".PDF",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "23cb73c2-c0eb-479e-af52-051af3f52b73",
+          "File_Modified": "2022-04-28T13:40:43.043",
+          "File_Name": "FinancialStatement-2021-Tahunan-CMNP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CMNP/FinancialStatement-2021-Tahunan-CMNP.xlsx",
+          "File_Size": 155086,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "46c88824-e7c3-4f59-8521-3ede8a544bb5",
+          "File_Modified": "2022-04-28T13:40:43.043",
+          "File_Name": "AnnualReport2021-CMNP-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/2c33f0a506_0a8165aecf.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        },
+        {
+          "Emiten_Code": "CMNP",
+          "File_ID": "ff9b6ba8-5de2-40f8-8f08-79a27978bf40",
+          "File_Modified": "2022-04-28T13:40:43.043",
+          "File_Name": "Surat BEI Per 31 Desember 2021.PDF",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CMNP/Surat BEI Per 31 Desember 2021.PDF",
+          "File_Size": 459052,
+          "File_Type": ".PDF",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Citra Marga Nusaphala Persada Tbk"
+        }
+      ]
+    }
+  ]
+}

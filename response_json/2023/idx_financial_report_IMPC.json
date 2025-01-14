@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IMPC",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IMPC",
+      "File_Modified": "2024-03-28T18:54:40.107",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Impack Pratama Industri Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "e135d372-3792-4226-a6cb-4b859adaefaf",
+          "File_Modified": "2024-03-28T18:54:40.107",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMPC/inlineXBRL.zip",
+          "File_Size": 287226,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "5e0c2d54-fcea-469a-94e5-740caf1af874",
+          "File_Modified": "2024-03-28T18:54:40.107",
+          "File_Name": "AnnualReport2023-IMPC-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/2e58aa5b8c_17229f2ed6.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "aeef6708-215a-4940-9c5e-74c092c43bc9",
+          "File_Modified": "2024-03-28T18:54:40.107",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMPC/instance.zip",
+          "File_Size": 146631,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "eb610d55-70b2-441c-b79d-a74a2f23ba59",
+          "File_Modified": "2024-03-28T18:54:40.107",
+          "File_Name": "Checklist VIII.G.7 - 2023.12.31 (Audited).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMPC/Checklist VIII.G.7 - 2023.12.31 (Audited).pdf",
+          "File_Size": 1723871,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "ee5c4a00-98c9-4cf5-9b15-0c126e46d7ba",
+          "File_Modified": "2024-03-28T18:54:40.107",
+          "File_Name": "FinancialStatement-2023-Tahunan-IMPC.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMPC/FinancialStatement-2023-Tahunan-IMPC.xlsx",
+          "File_Size": 209975,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "40085d34-1693-48fa-821c-a8c30b958fe4",
+          "File_Modified": "2024-03-28T18:54:40.107",
+          "File_Name": "AnnualReport2023-IMPC-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7d6a01191d_2942f4f7f4.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "c1af6c4d-378c-45a1-9319-c9b0ba54a42d",
+          "File_Modified": "2024-03-28T18:54:40.107",
+          "File_Name": "FinancialStatement-2023-Tahunan-IMPC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMPC/FinancialStatement-2023-Tahunan-IMPC.pdf",
+          "File_Size": 758726,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "e00a5f1b-e1fa-4f3c-b568-07fc5e249235",
+          "File_Modified": "2024-03-28T18:54:40.107",
+          "File_Name": "GA - 2023.12.31 - IMPC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMPC/GA - 2023.12.31 - IMPC.pdf",
+          "File_Size": 5701738,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "14133d00-838f-4fde-a56a-49edd476a170",
+          "File_Modified": "2024-03-28T18:54:40.107",
+          "File_Name": "Pengantar LK IMPC - 2023_Q4.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMPC/Pengantar LK IMPC - 2023_Q4.pdf",
+          "File_Size": 296785,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "9c1326bf-1b63-416c-9c0f-5d0aed2372f0",
+          "File_Modified": "2024-03-28T18:54:40.107",
+          "File_Name": "AnnualReport2023-IMPC.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/d10023d56a_24aacfd658.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        }
+      ]
+    }
+  ]
+}

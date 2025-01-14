@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BDMN",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BDMN",
+      "File_Modified": "2024-03-04T14:26:49.007",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Bank Danamon Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "9f9c873d-aea3-4d5f-9fce-7b0a71d535b7",
+          "File_Modified": "2024-03-04T14:26:49.007",
+          "File_Name": "PT Bank Danamon Indonesia Tbk-31Des2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BDMN/PT Bank Danamon Indonesia Tbk-31Des2023.pdf",
+          "File_Size": 7700706,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "1c403dfd-3643-4afe-ba13-1ec042412e4f",
+          "File_Modified": "2024-03-04T14:26:49.007",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BDMN/instance.zip",
+          "File_Size": 82242,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "d093193f-04f9-43ed-9e15-7e477fbc314d",
+          "File_Modified": "2024-03-04T14:26:49.007",
+          "File_Name": "AnnualReport2023-BDMN.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202402/e3af3b2252_a9a8fee72d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "e3e878a6-45b1-486e-8d92-09981ae3d27f",
+          "File_Modified": "2024-03-04T14:26:49.007",
+          "File_Name": "S.013.CORSEC.02.2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BDMN/S.013.CORSEC.02.2024.pdf",
+          "File_Size": 683707,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "ac74f074-0cb4-46e7-aada-320eb55bf765",
+          "File_Modified": "2024-03-04T14:26:49.007",
+          "File_Name": "FinancialStatement-2023-Tahunan-BDMN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BDMN/FinancialStatement-2023-Tahunan-BDMN.pdf",
+          "File_Size": 378698,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "3b19eb41-3232-48fd-b8b3-fe35c0609d95",
+          "File_Modified": "2024-03-04T14:26:49.007",
+          "File_Name": "AnnualReport2023-BDMN-att4.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202402/c521a356ba_01654fc194.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "165f0797-fc30-4c44-a94a-2699ea411769",
+          "File_Modified": "2024-03-04T14:26:49.007",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BDMN/inlineXBRL.zip",
+          "File_Size": 173002,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "c4a5fcfe-6a75-4be0-b721-3154f942de88",
+          "File_Modified": "2024-03-04T14:26:49.007",
+          "File_Name": "AnnualReport2023-BDMN-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202402/b0924db094_a3e09c2e3b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "ed3eb6b6-e9a8-4ca7-b434-6973997cb861",
+          "File_Modified": "2024-03-04T14:26:49.007",
+          "File_Name": "AnnualReport2023-BDMN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202402/14080ca2c0_ac31fd421a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "b33a7911-cc86-4e51-a858-8c20bfe596ab",
+          "File_Modified": "2024-03-04T14:26:49.007",
+          "File_Name": "AnnualReport2023-BDMN-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202402/b16a262437_e92a8e5061.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "6bda9ae2-e7c8-46e2-ae42-e32ce34fd9ca",
+          "File_Modified": "2024-03-04T14:26:49.007",
+          "File_Name": "FinancialStatement-2023-Tahunan-BDMN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BDMN/FinancialStatement-2023-Tahunan-BDMN.xlsx",
+          "File_Size": 226711,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

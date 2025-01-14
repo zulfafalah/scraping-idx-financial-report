@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DSNG",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DSNG",
+      "File_Modified": "2022-02-23T07:10:47.54",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Dharma Satya Nusantara Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "acc45120-cc7e-4593-b5ec-16d6da262ace",
+          "File_Modified": "2022-02-23T07:10:47.54",
+          "File_Name": "FS PT DSN Tbk and Subs 31 Dec 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSNG/FS PT DSN Tbk and Subs 31 Dec 2021.pdf",
+          "File_Size": 3158260,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "52afc752-30c2-4470-8ee5-6764d32b6a4e",
+          "File_Modified": "2022-02-23T07:10:47.54",
+          "File_Name": "Surat Pengantar LK Dec 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSNG/Surat Pengantar LK Dec 2021.pdf",
+          "File_Size": 251362,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "9fc4a609-3916-4049-96f8-cfa2b60c7766",
+          "File_Modified": "2022-02-23T07:10:47.54",
+          "File_Name": "FinancialStatement-2021-Tahunan-DSNG.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSNG/FinancialStatement-2021-Tahunan-DSNG.xlsx",
+          "File_Size": 159468,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "6d230369-4978-4ffc-864d-62eb8c20cec6",
+          "File_Modified": "2022-02-23T07:10:47.54",
+          "File_Name": "FinancialStatement-2021-Tahunan-DSNG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSNG/FinancialStatement-2021-Tahunan-DSNG.pdf",
+          "File_Size": 67500,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "22346c81-7bab-496d-ac7f-0530ae376443",
+          "File_Modified": "2022-02-23T07:10:47.54",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSNG/inlineXBRL.zip",
+          "File_Size": 59395,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "5344fb45-d681-4aad-bd33-840feaa2e11e",
+          "File_Modified": "2022-02-23T07:10:47.54",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSNG/instance.zip",
+          "File_Size": 29286,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        },
+        {
+          "Emiten_Code": "DSNG",
+          "File_ID": "96cdfdbd-8a47-4b08-ae6b-ff97ccef9067",
+          "File_Modified": "2022-02-23T07:10:47.54",
+          "File_Name": "DSN-OJK Checklist - Dec 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSNG/DSN-OJK Checklist - Dec 2021.pdf",
+          "File_Size": 1462581,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Dharma Satya Nusantara Tbk."
+        }
+      ]
+    }
+  ]
+}

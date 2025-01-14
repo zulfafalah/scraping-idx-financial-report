@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DYAN",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DYAN",
+      "File_Modified": "2024-03-26T16:13:00.047",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Dyandra Media International Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "acab0269-6fa4-4db5-bc84-cd512453c959",
+          "File_Modified": "2024-03-26T16:13:00.047",
+          "File_Name": "Checklist Pengungkapan Laporan DYAN 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DYAN/Checklist Pengungkapan Laporan DYAN 2023.pdf",
+          "File_Size": 1989828,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "d863921e-6d1b-4a2f-bed1-3177663259ab",
+          "File_Modified": "2024-03-26T16:13:00.047",
+          "File_Name": "PT Dyandra Media International Tbk_2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DYAN/PT Dyandra Media International Tbk_2023.pdf",
+          "File_Size": 5764096,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "082fb6bc-af84-4cf0-bb84-76bad528f2f9",
+          "File_Modified": "2024-03-26T16:13:00.047",
+          "File_Name": "DYAN Surat Pernyataan Direksi 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DYAN/DYAN Surat Pernyataan Direksi 2023.pdf",
+          "File_Size": 670682,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "05b9ceb5-4e07-46eb-bb25-a039cdbd2157",
+          "File_Modified": "2024-03-26T16:13:00.047",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DYAN/inlineXBRL.zip",
+          "File_Size": 266702,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "b66acbc2-ef80-4ff8-ae56-4f103666ae29",
+          "File_Modified": "2024-03-26T16:13:00.047",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DYAN/instance.zip",
+          "File_Size": 150334,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "a3c83935-8878-4e08-aec3-5c4038c46004",
+          "File_Modified": "2024-03-26T16:13:00.047",
+          "File_Name": "FinancialStatement-2023-Tahunan-DYAN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DYAN/FinancialStatement-2023-Tahunan-DYAN.xlsx",
+          "File_Size": 226369,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "274de498-c4a8-4b5a-9013-8e4f4e61c67e",
+          "File_Modified": "2024-03-26T16:13:00.047",
+          "File_Name": "AnnualReport2023-DYAN.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/83b0118771_875247be20.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "e28a4f35-b3b5-4ad6-a4cb-a337c46940b4",
+          "File_Modified": "2024-03-26T16:13:00.047",
+          "File_Name": "FinancialStatement-2023-Tahunan-DYAN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DYAN/FinancialStatement-2023-Tahunan-DYAN.pdf",
+          "File_Size": 660537,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "4b04d7e3-3971-4c19-9529-20b37120b022",
+          "File_Modified": "2024-03-26T16:13:00.047",
+          "File_Name": "AnnualReport2023-DYAN-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/68eb107b79_3738df2ab4.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "d55a44f3-b178-43e9-8485-bfc44de49b49",
+          "File_Modified": "2024-03-26T16:13:00.047",
+          "File_Name": "DYAN Surat Pengantar 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DYAN/DYAN Surat Pengantar 2023.pdf",
+          "File_Size": 383659,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        },
+        {
+          "Emiten_Code": "DYAN",
+          "File_ID": "1b8cf39c-c844-4836-b727-de62da90b124",
+          "File_Modified": "2024-03-26T16:13:00.047",
+          "File_Name": "AnnualReport2023-DYAN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/1f4100f235_cf25130276.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Dyandra Media International Tbk."
+        }
+      ]
+    }
+  ]
+}

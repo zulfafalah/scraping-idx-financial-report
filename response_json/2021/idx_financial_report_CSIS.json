@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "CSIS",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "CSIS",
+      "File_Modified": "2022-04-11T09:18:22.28",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "11633f37-f14e-41db-a677-1c18755378b3",
+          "File_Modified": "2022-04-11T09:18:22.28",
+          "File_Name": "Perubahan Aset Liab Audit Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CSIS/Perubahan Aset Liab Audit Des 2021.pdf",
+          "File_Size": 675724,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "5ddf5103-ef0b-43f9-a378-4e9059899d75",
+          "File_Modified": "2022-04-11T09:18:22.28",
+          "File_Name": "CSIS 21_LK Audit.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CSIS/CSIS 21_LK Audit.pdf",
+          "File_Size": 2615094,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "d2f31e72-c567-4b17-99ae-60cd769678c2",
+          "File_Modified": "2022-04-11T09:18:22.28",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CSIS/instance.zip",
+          "File_Size": 27382,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "1976dd45-8c2a-47a9-8ae6-7e1b3ebcad18",
+          "File_Modified": "2022-04-11T09:18:22.28",
+          "File_Name": "FinancialStatement-2021-Tahunan-CSIS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CSIS/FinancialStatement-2021-Tahunan-CSIS.pdf",
+          "File_Size": 53451,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "d5df93fd-5a79-4ae5-a69e-92a996a7dff1",
+          "File_Modified": "2022-04-11T09:18:22.28",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CSIS/inlineXBRL.zip",
+          "File_Size": 54675,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "55ba93a7-7f22-4488-af2d-ee54f2adb2c8",
+          "File_Modified": "2022-04-11T09:18:22.28",
+          "File_Name": "Checklist Pengungkapan Lap Keu 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CSIS/Checklist Pengungkapan Lap Keu 31 Des 2021.pdf",
+          "File_Size": 1397972,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "a0e0801f-8203-4ab9-b43a-39df8dad0132",
+          "File_Modified": "2022-04-11T09:18:22.28",
+          "File_Name": "Penyampaian Laporan Keuangan 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CSIS/Penyampaian Laporan Keuangan 31 Desember 2021.pdf",
+          "File_Size": 824329,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "cc493b41-0d31-47de-a43b-74c0b565980f",
+          "File_Modified": "2022-04-11T09:18:22.28",
+          "File_Name": "FinancialStatement-2021-Tahunan-CSIS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CSIS/FinancialStatement-2021-Tahunan-CSIS.xlsx",
+          "File_Size": 155105,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "7812fdd9-9549-4299-be7f-f8c5a76a8768",
+          "File_Modified": "2022-04-11T09:18:22.28",
+          "File_Name": "AnnualReport2021-CSIS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202206/1898127599_c4cb495304.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        }
+      ]
+    }
+  ]
+}

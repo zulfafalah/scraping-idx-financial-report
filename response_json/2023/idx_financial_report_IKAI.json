@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IKAI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IKAI",
+      "File_Modified": "2024-03-30T10:59:49.007",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Intikeramik Alamasri Industri Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "4a5d89d7-5eb3-484d-9871-c7d784687e6a",
+          "File_Modified": "2024-03-30T10:59:49.007",
+          "File_Name": "Penjelasan atas Perubahan Aset Liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKAI/Penjelasan atas Perubahan Aset Liabilitas.pdf",
+          "File_Size": 215102,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "39a63bd9-2df9-4f11-8aad-e2330d67befc",
+          "File_Modified": "2024-03-30T10:59:49.007",
+          "File_Name": "AnnualReport2023-IKAI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/9c418691bb_f43eeb72a9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "45269d87-cc24-4443-b0f1-29871145f98c",
+          "File_Modified": "2024-03-30T10:59:49.007",
+          "File_Name": "Audit Report PT IKAI Tbk 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKAI/Audit Report PT IKAI Tbk 2023.pdf",
+          "File_Size": 4570793,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "8415928b-0a3b-40af-bc39-8c7143420b89",
+          "File_Modified": "2024-03-30T10:59:49.007",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKAI/instance.zip",
+          "File_Size": 134716,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "a53b090c-f029-4dc2-939b-da621881c5ed",
+          "File_Modified": "2024-03-30T10:59:49.007",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKAI/inlineXBRL.zip",
+          "File_Size": 269900,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "37b7ad07-42e7-4307-bc89-05a226cc932d",
+          "File_Modified": "2024-03-30T10:59:49.007",
+          "File_Name": "FinancialStatement-2023-Tahunan-IKAI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKAI/FinancialStatement-2023-Tahunan-IKAI.xlsx",
+          "File_Size": 376074,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "11efd94e-5afe-40c8-b988-7d1e5cd7f125",
+          "File_Modified": "2024-03-30T10:59:49.007",
+          "File_Name": "FinancialStatement-2023-Tahunan-IKAI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKAI/FinancialStatement-2023-Tahunan-IKAI.pdf",
+          "File_Size": 766655,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "625441ac-765c-4987-97d5-f3964ff32c96",
+          "File_Modified": "2024-03-30T10:59:49.007",
+          "File_Name": "Surat Pernyataan Direksi IKAI - 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKAI/Surat Pernyataan Direksi IKAI - 31 Desember 2023.pdf",
+          "File_Size": 98229,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "12a2073e-d9a3-4a74-9eeb-503ed3556bde",
+          "File_Modified": "2024-03-30T10:59:49.007",
+          "File_Name": "AnnualReport2023-IKAI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/5c414e0d5e_f207b244a3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IKAI",
+          "File_ID": "36a5bcfb-1cd4-41ee-a87a-a6fd071b0ab1",
+          "File_Modified": "2024-03-30T10:59:49.007",
+          "File_Name": "Dokumen Pengantar Pelaporan OJK Q4 Final Submit.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IKAI/Dokumen Pengantar Pelaporan OJK Q4 Final Submit.pdf",
+          "File_Size": 1597186,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intikeramik Alamasri Industri Tbk"
+        }
+      ]
+    }
+  ]
+}

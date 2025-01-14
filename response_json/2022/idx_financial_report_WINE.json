@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "WINE",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "WINE",
+      "File_Modified": "2023-03-30T11:30:14.72",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Hatten Bali Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "WINE",
+          "File_ID": "fb35e6fa-c5e8-461f-8f4c-d352574d24a0",
+          "File_Modified": "2023-03-30T11:30:14.72",
+          "File_Name": "LK TAHUNAN 2022 - WINE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WINE/LK TAHUNAN 2022 - WINE.pdf",
+          "File_Size": 3292764,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hatten Bali Tbk"
+        },
+        {
+          "Emiten_Code": "WINE",
+          "File_ID": "2f6c9bc0-1852-4fbd-bf61-499a8fb12308",
+          "File_Modified": "2023-03-30T11:30:14.72",
+          "File_Name": "Penyampaian LK WINE 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WINE/Penyampaian LK WINE 2022.pdf",
+          "File_Size": 290291,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hatten Bali Tbk"
+        },
+        {
+          "Emiten_Code": "WINE",
+          "File_ID": "80200962-e0cc-466a-80a0-5fa5d9721d75",
+          "File_Modified": "2023-03-30T11:30:14.72",
+          "File_Name": "FinancialStatement-2022-Tahunan-WINE.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WINE/FinancialStatement-2022-Tahunan-WINE.xlsx",
+          "File_Size": 1184388,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hatten Bali Tbk"
+        },
+        {
+          "Emiten_Code": "WINE",
+          "File_ID": "2e6cec9b-d045-49fe-b9df-da6cb3564aad",
+          "File_Modified": "2023-03-30T11:30:14.72",
+          "File_Name": "Director Statements WINE 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WINE/Director Statements WINE 2022.pdf",
+          "File_Size": 769891,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hatten Bali Tbk"
+        },
+        {
+          "Emiten_Code": "WINE",
+          "File_ID": "c0095382-0a0f-401d-b3c3-f0ac27bb987a",
+          "File_Modified": "2023-03-30T11:30:14.72",
+          "File_Name": "FinancialStatement-2022-Tahunan-WINE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WINE/FinancialStatement-2022-Tahunan-WINE.pdf",
+          "File_Size": 128957,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hatten Bali Tbk"
+        },
+        {
+          "Emiten_Code": "WINE",
+          "File_ID": "41721d94-8e01-4ec2-8b22-de7e7ad5729d",
+          "File_Modified": "2023-03-30T11:30:14.72",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WINE/inlineXBRL.zip",
+          "File_Size": 202728,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hatten Bali Tbk"
+        },
+        {
+          "Emiten_Code": "WINE",
+          "File_ID": "7483786a-8d7e-4cd9-b8c5-012479dc4260",
+          "File_Modified": "2023-03-30T11:30:14.72",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WINE/instance.zip",
+          "File_Size": 179847,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hatten Bali Tbk"
+        },
+        {
+          "Emiten_Code": "WINE",
+          "File_ID": "22a23cf4-03f0-4430-870f-07b1eda13899",
+          "File_Modified": "2023-03-30T11:30:14.72",
+          "File_Name": "AnnualReport2022-WINE-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/ce63a8d8a6_96e3e345ed.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hatten Bali Tbk"
+        },
+        {
+          "Emiten_Code": "WINE",
+          "File_ID": "01763583-2815-4dd0-8c1c-0d617d7d361d",
+          "File_Modified": "2023-03-30T11:30:14.72",
+          "File_Name": "Checklist Pengungkapan LK Tahunan 2022 - WINE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WINE/Checklist Pengungkapan LK Tahunan 2022 - WINE.pdf",
+          "File_Size": 1124301,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hatten Bali Tbk"
+        }
+      ]
+    }
+  ]
+}

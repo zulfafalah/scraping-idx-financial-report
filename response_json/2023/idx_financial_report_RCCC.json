@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "RCCC",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "RCCC",
+      "File_Modified": "2024-03-28T10:56:48.427",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Utama Radar Cahaya Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "d28b152c-16f0-4b9f-8a51-a58e322e2891",
+          "File_Modified": "2024-03-28T10:56:48.427",
+          "File_Name": "RCCC - LK PT Utama Radar Cahaya Tbk 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RCCC/RCCC - LK PT Utama Radar Cahaya Tbk 2023.pdf",
+          "File_Size": 2812868,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "304de971-7889-4d15-bb14-43769991d94a",
+          "File_Modified": "2024-03-28T10:56:48.427",
+          "File_Name": "RCCC - 018 SPD Kenaikan Aset dan Liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RCCC/RCCC - 018 SPD Kenaikan Aset dan Liabilitas.pdf",
+          "File_Size": 503549,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "b68ba4fa-4dbd-4094-a1ae-4b2046774054",
+          "File_Modified": "2024-03-28T10:56:48.427",
+          "File_Name": "FinancialStatement-2023-Tahunan-RCCC.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RCCC/FinancialStatement-2023-Tahunan-RCCC.xlsx",
+          "File_Size": 180896,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "d075b39a-95c9-4b73-bbd4-aa36f8467a65",
+          "File_Modified": "2024-03-28T10:56:48.427",
+          "File_Name": "AnnualReport2023-RCCC-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/fd4dbe207a_2c30cf36ee.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "c4d8a66e-9a3f-474e-a941-d69dd74e8df6",
+          "File_Modified": "2024-03-28T10:56:48.427",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RCCC/inlineXBRL.zip",
+          "File_Size": 257013,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "187edf84-3c0a-41a9-b161-57cf45ab43fd",
+          "File_Modified": "2024-03-28T10:56:48.427",
+          "File_Name": "AnnualReport2023-RCCC-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/818ab47b36_8ea4bca43f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "413fe44d-6f22-418b-a2dc-90c46e76c742",
+          "File_Modified": "2024-03-28T10:56:48.427",
+          "File_Name": "AnnualReport2023-RCCC.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/8f6a79c4af_9b0636cf93.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "2b1f2b59-382c-4e9f-8485-9e515ae79be0",
+          "File_Modified": "2024-03-28T10:56:48.427",
+          "File_Name": "RCCC - 019 OJK Surat Pengantar LKT 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RCCC/RCCC - 019 OJK Surat Pengantar LKT 31 Des 2023.pdf",
+          "File_Size": 329597,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "9f4bcf04-5042-4124-ad58-ffef2429aa02",
+          "File_Modified": "2024-03-28T10:56:48.427",
+          "File_Name": "RCCC - 020 BEI Surat Pengantar LKT 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RCCC/RCCC - 020 BEI Surat Pengantar LKT 31 Des 2023.pdf",
+          "File_Size": 319071,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "1451c28a-5938-44c2-b1db-16e2f9a8b96f",
+          "File_Modified": "2024-03-28T10:56:48.427",
+          "File_Name": "FinancialStatement-2023-Tahunan-RCCC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RCCC/FinancialStatement-2023-Tahunan-RCCC.pdf",
+          "File_Size": 713957,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "e0b6e119-2b2d-49bc-a083-48eb7ea6bd9f",
+          "File_Modified": "2024-03-28T10:56:48.427",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RCCC/instance.zip",
+          "File_Size": 127725,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "9c246ccf-dc7c-4da2-95d0-a1953eaccd2d",
+          "File_Modified": "2024-03-28T10:56:48.427",
+          "File_Name": "AnnualReport2023-RCCC-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/717eb12a74_becd34e642.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        }
+      ]
+    }
+  ]
+}

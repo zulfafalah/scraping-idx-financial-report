@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BDMN",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BDMN",
+      "File_Modified": "2022-02-17T14:37:14.123",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Bank Danamon Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "96817c32-c78e-4b1a-9292-33a8e4b1ec45",
+          "File_Modified": "2022-02-17T14:37:14.123",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BDMN/inlineXBRL.zip",
+          "File_Size": 60216,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "67d33892-25bd-42e2-9b01-3a92019f85cf",
+          "File_Modified": "2022-02-17T14:37:14.123",
+          "File_Name": "S.011.CORSEC.022022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BDMN/S.011.CORSEC.022022.pdf",
+          "File_Size": 585679,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "95bb45a7-e7a5-4800-ac69-aa7e5a616585",
+          "File_Modified": "2022-02-17T14:37:14.123",
+          "File_Name": "FinancialStatement-2021-Tahunan-BDMN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BDMN/FinancialStatement-2021-Tahunan-BDMN.pdf",
+          "File_Size": 115403,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "3dc83316-e98e-4a7c-b2fe-eeae83cb9bd2",
+          "File_Modified": "2022-02-17T14:37:14.123",
+          "File_Name": "BDI FS Audit 31 Dec 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BDMN/BDI FS Audit 31 Dec 2021.pdf",
+          "File_Size": 5091956,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "6eaa6f07-c30d-4bbb-b436-2b5a3a6431f9",
+          "File_Modified": "2022-02-17T14:37:14.123",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BDMN/instance.zip",
+          "File_Size": 31488,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BDMN",
+          "File_ID": "414edf88-0b6c-405b-a248-5a3eec796409",
+          "File_Modified": "2022-02-17T14:37:14.123",
+          "File_Name": "FinancialStatement-2021-Tahunan-BDMN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BDMN/FinancialStatement-2021-Tahunan-BDMN.xlsx",
+          "File_Size": 162102,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank Danamon Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

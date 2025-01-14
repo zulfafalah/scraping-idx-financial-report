@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MLPT",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MLPT",
+      "File_Modified": "2024-03-28T17:23:46.637",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Multipolar Technology Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "82e2c2dc-2313-45ea-8af4-6e22af0e95a8",
+          "File_Modified": "2024-03-28T17:23:46.637",
+          "File_Name": "FinancialStatement-2023-Tahunan-MLPT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MLPT/FinancialStatement-2023-Tahunan-MLPT.xlsx",
+          "File_Size": 366438,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "57217299-4f37-4912-8655-a164be14bd5d",
+          "File_Modified": "2024-03-28T17:23:46.637",
+          "File_Name": "Pengantar LapKeu 31Des2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MLPT/Pengantar LapKeu 31Des2023.pdf",
+          "File_Size": 220201,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "ad07a71a-4976-4524-9040-f89d2de03d52",
+          "File_Modified": "2024-03-28T17:23:46.637",
+          "File_Name": "(2024) MLPT - SPDIR 001 - Lap Keuangan_001.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MLPT/(2024) MLPT - SPDIR 001 - Lap Keuangan_001.pdf",
+          "File_Size": 851723,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "c22cbe1e-7f43-4e28-be77-fec486e45b17",
+          "File_Modified": "2024-03-28T17:23:46.637",
+          "File_Name": "Checklist LapKeu 31Des2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MLPT/Checklist LapKeu 31Des2023.pdf",
+          "File_Size": 6708649,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "a729d2d8-84c9-4814-b551-29c2f3b19184",
+          "File_Modified": "2024-03-28T17:23:46.637",
+          "File_Name": "FinancialStatement-2023-Tahunan-MLPT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MLPT/FinancialStatement-2023-Tahunan-MLPT.pdf",
+          "File_Size": 726833,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "71a06930-ac6d-4dda-bb3c-e2b1582819c3",
+          "File_Modified": "2024-03-28T17:23:46.637",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MLPT/instance.zip",
+          "File_Size": 138828,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "c8edb413-dcad-4b0b-a928-0076f41295b9",
+          "File_Modified": "2024-03-28T17:23:46.637",
+          "File_Name": "Penjelasan Perubahan lebih dari 20 persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MLPT/Penjelasan Perubahan lebih dari 20 persen.pdf",
+          "File_Size": 298955,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "a1c296ff-3909-4530-97d8-0df0546aac0d",
+          "File_Modified": "2024-03-28T17:23:46.637",
+          "File_Name": "Multipolar Technology GA 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MLPT/Multipolar Technology GA 31 Des 2023.pdf",
+          "File_Size": 5221055,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "a8455ff3-0c06-4d0f-8827-4404318115de",
+          "File_Modified": "2024-03-28T17:23:46.637",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MLPT/inlineXBRL.zip",
+          "File_Size": 265977,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "1530322c-c89d-4fad-bcd2-92af7b967b22",
+          "File_Modified": "2024-03-28T17:23:46.637",
+          "File_Name": "AnnualReport2023-MLPT-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/c6839dd2e5_6c4a10cafc.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        },
+        {
+          "Emiten_Code": "MLPT",
+          "File_ID": "fba0edfd-9439-4f4f-a370-6d7b9a4f8454",
+          "File_Modified": "2024-03-28T17:23:46.637",
+          "File_Name": "AnnualReport2023-MLPT.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/8f8c3af7f9_f79ffd28ae.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Multipolar Technology Tbk."
+        }
+      ]
+    }
+  ]
+}

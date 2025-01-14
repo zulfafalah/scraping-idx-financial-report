@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "LAND",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "LAND",
+      "File_Modified": "2022-04-27T16:18:05.59",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Trimitra Propertindo Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "eaf8010d-b597-44be-8d13-2ccddb5eb862",
+          "File_Modified": "2022-04-27T16:18:05.59",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LAND/instance.zip",
+          "File_Size": 26515,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "ee89fcd8-d489-4485-85d6-58ef18507dc5",
+          "File_Modified": "2022-04-27T16:18:05.59",
+          "File_Name": "Release Report TMP Tbk Dec 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LAND/Release Report TMP Tbk Dec 2021.pdf",
+          "File_Size": 2425972,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "458b8219-d611-4db9-b7de-16e57e2bcd1e",
+          "File_Modified": "2022-04-27T16:18:05.59",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LAND/inlineXBRL.zip",
+          "File_Size": 53491,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "a72f3f9f-db9b-4623-9d8b-ae3afb3519a9",
+          "File_Modified": "2022-04-27T16:18:05.59",
+          "File_Name": "FinancialStatement-2021-Tahunan-LAND.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LAND/FinancialStatement-2021-Tahunan-LAND.pdf",
+          "File_Size": 40863,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "25c5c76c-e72c-4778-a3b7-de24ce24ca02",
+          "File_Modified": "2022-04-27T16:18:05.59",
+          "File_Name": "AnnualReport2021-LAND-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202206/c0f7cbd675_abb27ac401.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "4929e525-79b5-468e-a81d-b3e38686b354",
+          "File_Modified": "2022-04-27T16:18:05.59",
+          "File_Name": "FinancialStatement-2021-Tahunan-LAND.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/LAND/FinancialStatement-2021-Tahunan-LAND.xlsx",
+          "File_Size": 154402,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        }
+      ]
+    }
+  ]
+}

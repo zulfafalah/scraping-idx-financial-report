@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TAMA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TAMA",
+      "File_Modified": "2024-03-29T16:49:55.123",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Lancartama Sejati Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "656e6592-a957-40df-a581-12b7b4401134",
+          "File_Modified": "2024-03-29T16:49:55.123",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAMA/instance.zip",
+          "File_Size": 111386,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "730df8e4-ac2b-4472-89ed-bca4a38e055c",
+          "File_Modified": "2024-03-29T16:49:55.123",
+          "File_Name": "AnnualReport2023-TAMA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/c89e60afb6_f192212285.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "4654d32e-7ccc-430e-826b-34a6cb45039d",
+          "File_Modified": "2024-03-29T16:49:55.123",
+          "File_Name": "Report Audit PT Lancartama Sejati Tbk 31 Des 23.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAMA/Report Audit PT Lancartama Sejati Tbk 31 Des 23.pdf",
+          "File_Size": 3668810,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "00541074-4707-4421-9940-bff926a93de3",
+          "File_Modified": "2024-03-29T16:49:55.123",
+          "File_Name": "AnnualReport2023-TAMA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/765cc1851a_86365d3354.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "7a2f12e7-b74c-435b-bbe8-eba102cd4249",
+          "File_Modified": "2024-03-29T16:49:55.123",
+          "File_Name": "FinancialStatement-2023-Tahunan-TAMA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAMA/FinancialStatement-2023-Tahunan-TAMA.xlsx",
+          "File_Size": 308008,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "f196e541-ed09-4df2-a038-56726bc82bff",
+          "File_Modified": "2024-03-29T16:49:55.123",
+          "File_Name": "AnnualReport2023-TAMA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f264278bc9_d5cc4bb030.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "4393e33f-ba02-4f3d-b08f-46915031c64f",
+          "File_Modified": "2024-03-29T16:49:55.123",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAMA/inlineXBRL.zip",
+          "File_Size": 215809,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        },
+        {
+          "Emiten_Code": "TAMA",
+          "File_ID": "78b277ae-a3b0-4d51-adcb-62e8b397b055",
+          "File_Modified": "2024-03-29T16:49:55.123",
+          "File_Name": "FinancialStatement-2023-Tahunan-TAMA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TAMA/FinancialStatement-2023-Tahunan-TAMA.pdf",
+          "File_Size": 637823,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Lancartama Sejati Tbk."
+        }
+      ]
+    }
+  ]
+}

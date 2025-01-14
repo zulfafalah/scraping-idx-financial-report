@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IMPC",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IMPC",
+      "File_Modified": "2022-03-31T15:51:10.307",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Impack Pratama Industri Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "916c0dda-0c88-4bc1-a4bc-4c46f1c6980d",
+          "File_Modified": "2022-03-31T15:51:10.307",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IMPC/inlineXBRL.zip",
+          "File_Size": 60288,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "687159db-72d8-4024-a991-7e5efd7a4e20",
+          "File_Modified": "2022-03-31T15:51:10.307",
+          "File_Name": "FinancialStatement-2021-Tahunan-IMPC.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IMPC/FinancialStatement-2021-Tahunan-IMPC.xlsx",
+          "File_Size": 160374,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "23223cbb-ef05-4a0c-8cf5-06c9e51e02a3",
+          "File_Modified": "2022-03-31T15:51:10.307",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IMPC/instance.zip",
+          "File_Size": 29753,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "4451a73b-5def-43f2-8d1c-1a56f77401f9",
+          "File_Modified": "2022-03-31T15:51:10.307",
+          "File_Name": "Checklist VIII.G.7 - 2021.12.31 (Audited).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IMPC/Checklist VIII.G.7 - 2021.12.31 (Audited).pdf",
+          "File_Size": 1365007,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "fa2268e9-01b8-402d-85a5-789aa1c142b6",
+          "File_Modified": "2022-03-31T15:51:10.307",
+          "File_Name": "FinancialStatement-2021-Tahunan-IMPC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IMPC/FinancialStatement-2021-Tahunan-IMPC.pdf",
+          "File_Size": 58638,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "2e143500-0def-4110-895e-a9b04b639e74",
+          "File_Modified": "2022-03-31T15:51:10.307",
+          "File_Name": "Pengantar LK IMPC - 2021_Q4.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IMPC/Pengantar LK IMPC - 2021_Q4.pdf",
+          "File_Size": 503762,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        },
+        {
+          "Emiten_Code": "IMPC",
+          "File_ID": "10f06e1e-55ac-433c-bbe8-88507cc3e157",
+          "File_Modified": "2022-03-31T15:51:10.307",
+          "File_Name": "GA - 2021.12.31 - IMPC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IMPC/GA - 2021.12.31 - IMPC.pdf",
+          "File_Size": 4074452,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Impack Pratama Industri Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "NAYZ",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "NAYZ",
+      "File_Modified": "2023-04-24T10:35:13.447",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Hassana Boga Sejahtera Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "1a49a502-ff88-408d-be62-2f010f6eb93b",
+          "File_Modified": "2023-04-24T10:35:13.447",
+          "File_Name": "AnnualReport2022-NAYZ-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/3c6274a07a_f462e34a69.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "1d9232e2-c26f-463f-bc3a-c8e732816a52",
+          "File_Modified": "2023-04-24T10:35:13.447",
+          "File_Name": "LK PT Hassana Boga Sejahtera Tbk 2022 - Audited.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NAYZ/LK PT Hassana Boga Sejahtera Tbk 2022 - Audited.pdf",
+          "File_Size": 3219129,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "c789f1b2-9e4c-4494-82b4-b68a334ae984",
+          "File_Modified": "2023-04-24T10:35:13.447",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NAYZ/instance.zip",
+          "File_Size": 176521,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "8d00096a-6193-4fad-ad13-31f0339078c0",
+          "File_Modified": "2023-04-24T10:35:13.447",
+          "File_Name": "FinancialStatement-2022-Tahunan-NAYZ.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NAYZ/FinancialStatement-2022-Tahunan-NAYZ.pdf",
+          "File_Size": 195458,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "50ea7ded-6df4-48c4-8b46-2dbe41552d52",
+          "File_Modified": "2023-04-24T10:35:13.447",
+          "File_Name": "FinancialStatement-2022-Tahunan-NAYZ.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NAYZ/FinancialStatement-2022-Tahunan-NAYZ.xlsx",
+          "File_Size": 1179868,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "1bebf9f0-1294-43b1-93e1-846db1043b83",
+          "File_Modified": "2023-04-24T10:35:13.447",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NAYZ/inlineXBRL.zip",
+          "File_Size": 187032,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BEKS",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BEKS",
+      "File_Modified": "2023-03-30T10:27:20.917",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Bank Pembangunan Daerah Banten Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "BEKS",
+          "File_ID": "b27d4205-6ed2-4751-8574-4a478da14fe2",
+          "File_Modified": "2023-03-30T10:27:20.917",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BEKS/inlineXBRL.zip",
+          "File_Size": 95336,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Pembangunan Daerah Banten Tbk."
+        },
+        {
+          "Emiten_Code": "BEKS",
+          "File_ID": "c25561fd-ec5f-493b-aabd-121cc6570da0",
+          "File_Modified": "2023-03-30T10:27:20.917",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BEKS/instance.zip",
+          "File_Size": 83102,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Pembangunan Daerah Banten Tbk."
+        },
+        {
+          "Emiten_Code": "BEKS",
+          "File_ID": "c1f0844a-c60d-470e-8216-3b68e50391b9",
+          "File_Modified": "2023-03-30T10:27:20.917",
+          "File_Name": "AnnualReport2022-BEKS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/34bac5c808_cc560fa789.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Pembangunan Daerah Banten Tbk."
+        },
+        {
+          "Emiten_Code": "BEKS",
+          "File_ID": "7b049316-a32a-4416-ac80-4533ed4e5800",
+          "File_Modified": "2023-03-30T10:27:20.917",
+          "File_Name": "FinancialStatement-2022-Tahunan-BEKS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BEKS/FinancialStatement-2022-Tahunan-BEKS.pdf",
+          "File_Size": 82300,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Pembangunan Daerah Banten Tbk."
+        },
+        {
+          "Emiten_Code": "BEKS",
+          "File_ID": "92fec0ef-3e0c-4ed0-8f8b-4dac6fd8a498",
+          "File_Modified": "2023-03-30T10:27:20.917",
+          "File_Name": "Final Report PT BPD Banten 31 Desember 2022.1.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BEKS/Final Report PT BPD Banten 31 Desember 2022.1.pdf",
+          "File_Size": 6358630,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Pembangunan Daerah Banten Tbk."
+        },
+        {
+          "Emiten_Code": "BEKS",
+          "File_ID": "572a0785-c8bd-4d4d-8273-e3cbc5e945dd",
+          "File_Modified": "2023-03-30T10:27:20.917",
+          "File_Name": "FinancialStatement-2022-Tahunan-BEKS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BEKS/FinancialStatement-2022-Tahunan-BEKS.xlsx",
+          "File_Size": 574707,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Pembangunan Daerah Banten Tbk."
+        }
+      ]
+    }
+  ]
+}

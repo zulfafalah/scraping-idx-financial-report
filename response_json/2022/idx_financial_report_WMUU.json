@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "WMUU",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "WMUU",
+      "File_Modified": "2023-04-18T17:57:44.36",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Widodo Makmur Unggas Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "WMUU",
+          "File_ID": "46f520a0-3ea5-4ca6-a5ed-5b28e4b5d42e",
+          "File_Modified": "2023-04-18T17:57:44.36",
+          "File_Name": "AnnualReport2022-WMUU-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/b745a52cc2_b315672ed1.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Widodo Makmur Unggas Tbk"
+        },
+        {
+          "Emiten_Code": "WMUU",
+          "File_ID": "ca1f048a-6782-476a-b681-8a368b4a30ef",
+          "File_Modified": "2023-04-18T17:57:44.36",
+          "File_Name": "AnnualReport2022-WMUU-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/3a45d43d36_7a9c9f9984.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Widodo Makmur Unggas Tbk"
+        },
+        {
+          "Emiten_Code": "WMUU",
+          "File_ID": "d8359e8c-65bb-407e-a19e-9787b9dc75af",
+          "File_Modified": "2023-04-18T17:57:44.36",
+          "File_Name": "SPD Des 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WMUU/SPD Des 22.pdf",
+          "File_Size": 238323,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Widodo Makmur Unggas Tbk"
+        },
+        {
+          "Emiten_Code": "WMUU",
+          "File_ID": "67be073d-da21-4b8a-bb84-ac6b06283c4e",
+          "File_Modified": "2023-04-18T17:57:44.36",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WMUU/instance.zip",
+          "File_Size": 169697,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Widodo Makmur Unggas Tbk"
+        },
+        {
+          "Emiten_Code": "WMUU",
+          "File_ID": "4c08a6ab-2e48-4710-8674-ee806b47d9a3",
+          "File_Modified": "2023-04-18T17:57:44.36",
+          "File_Name": "AnnualReport2022-WMUU.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/2753d32438_0c3aaebb78.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Widodo Makmur Unggas Tbk"
+        },
+        {
+          "Emiten_Code": "WMUU",
+          "File_ID": "2136e527-5427-4503-84a5-10c49054f8e7",
+          "File_Modified": "2023-04-18T17:57:44.36",
+          "File_Name": "FinancialStatement-2022-Tahunan-WMUU.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WMUU/FinancialStatement-2022-Tahunan-WMUU.xlsx",
+          "File_Size": 1181388,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Widodo Makmur Unggas Tbk"
+        },
+        {
+          "Emiten_Code": "WMUU",
+          "File_ID": "7f65c905-2941-4db9-bafc-6e5aa8e415fc",
+          "File_Modified": "2023-04-18T17:57:44.36",
+          "File_Name": "AnnualReport2022-WMUU-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/b745a52cc2_b315672ed1.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Widodo Makmur Unggas Tbk"
+        },
+        {
+          "Emiten_Code": "WMUU",
+          "File_ID": "38cfb138-04a6-41c0-9354-214eb0069358",
+          "File_Modified": "2023-04-18T17:57:44.36",
+          "File_Name": "FinancialStatement-2022-Tahunan-WMUU.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WMUU/FinancialStatement-2022-Tahunan-WMUU.pdf",
+          "File_Size": 101486,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Widodo Makmur Unggas Tbk"
+        },
+        {
+          "Emiten_Code": "WMUU",
+          "File_ID": "69ac3ad3-8c9d-47b4-8103-880c12e028a8",
+          "File_Modified": "2023-04-18T17:57:44.36",
+          "File_Name": "Surat Penjelasan Perubahan Liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WMUU/Surat Penjelasan Perubahan Liabilitas.pdf",
+          "File_Size": 563223,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Widodo Makmur Unggas Tbk"
+        },
+        {
+          "Emiten_Code": "WMUU",
+          "File_ID": "05c43a0c-a86f-40e4-b50b-41e8b7db00a6",
+          "File_Modified": "2023-04-18T17:57:44.36",
+          "File_Name": "checklist laporan keuangan (1).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WMUU/checklist laporan keuangan (1).pdf",
+          "File_Size": 4692236,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Widodo Makmur Unggas Tbk"
+        },
+        {
+          "Emiten_Code": "WMUU",
+          "File_ID": "06995779-81cf-4769-981a-4b314c72695c",
+          "File_Modified": "2023-04-18T17:57:44.36",
+          "File_Name": "LAI WMUU 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WMUU/LAI WMUU 31 Des 2022.pdf",
+          "File_Size": 5948928,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Widodo Makmur Unggas Tbk"
+        },
+        {
+          "Emiten_Code": "WMUU",
+          "File_ID": "da20b9a6-13ab-4ffe-96fb-ed1209fdc083",
+          "File_Modified": "2023-04-18T17:57:44.36",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WMUU/inlineXBRL.zip",
+          "File_Size": 145336,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Widodo Makmur Unggas Tbk"
+        }
+      ]
+    }
+  ]
+}

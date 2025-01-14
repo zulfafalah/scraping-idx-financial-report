@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MTDL",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MTDL",
+      "File_Modified": "2024-03-28T14:29:49.233",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Metrodata Electronics Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "dfee706b-8d79-48d6-9c9e-44b32c859ab0",
+          "File_Modified": "2024-03-28T14:29:49.233",
+          "File_Name": "AnnualReport2023-MTDL.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/3dca9d98f6_ea92d7a9ac.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "2eddd944-6e59-487f-862b-ab45c7c18a8c",
+          "File_Modified": "2024-03-28T14:29:49.233",
+          "File_Name": "AnnualReport2023-MTDL-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7938aac44f_70955cb96d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "85f3359c-7bf1-4b78-8d68-d19a87a934f3",
+          "File_Modified": "2024-03-28T14:29:49.233",
+          "File_Name": "Penjelasan Kenaikan Liabilitas 31 Dec 23.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MTDL/Penjelasan Kenaikan Liabilitas 31 Dec 23.pdf",
+          "File_Size": 661465,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "d4b754c5-cf45-49a9-8c84-36a0aba9c2d2",
+          "File_Modified": "2024-03-28T14:29:49.233",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MTDL/inlineXBRL.zip",
+          "File_Size": 246124,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "039cc794-0e52-448f-aab2-3fcb5d3db4c4",
+          "File_Modified": "2024-03-28T14:29:49.233",
+          "File_Name": "FinancialStatement-2023-Tahunan-MTDL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MTDL/FinancialStatement-2023-Tahunan-MTDL.pdf",
+          "File_Size": 697464,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "3b667fca-3b1a-49db-9001-5d36624a1675",
+          "File_Modified": "2024-03-28T14:29:49.233",
+          "File_Name": "CHECKLIST-PENGUNGKAPAN-LAPORAN-KEUANGAN Dec 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MTDL/CHECKLIST-PENGUNGKAPAN-LAPORAN-KEUANGAN Dec 2023.pdf",
+          "File_Size": 1727463,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "ebcbe2b9-3e07-4421-91c8-db9f98db3f66",
+          "File_Modified": "2024-03-28T14:29:49.233",
+          "File_Name": "FinancialStatement-2023-Tahunan-MTDL.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MTDL/FinancialStatement-2023-Tahunan-MTDL.xlsx",
+          "File_Size": 343665,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "79731f7f-3966-4942-a9a4-af53b4f231fd",
+          "File_Modified": "2024-03-28T14:29:49.233",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MTDL/instance.zip",
+          "File_Size": 124655,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "a3ebe8fe-4bc0-41be-8d34-ee9e4720e8be",
+          "File_Modified": "2024-03-28T14:29:49.233",
+          "File_Name": "P.T. METRODATA ELECTRONICS TBK 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MTDL/P.T. METRODATA ELECTRONICS TBK 2023.pdf",
+          "File_Size": 5091285,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        }
+      ]
+    }
+  ]
+}

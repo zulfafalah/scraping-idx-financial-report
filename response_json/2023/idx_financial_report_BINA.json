@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BINA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BINA",
+      "File_Modified": "2024-04-16T09:11:05.433",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Bank Ina Perdana Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "3553a6c0-6edc-49cb-b366-17ba3a038c33",
+          "File_Modified": "2024-04-16T09:11:05.433",
+          "File_Name": "AnnualReport2023-BINA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f26b8da270_3ff59cbcaa.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "020924cc-a7f0-4003-b4bb-3820b8f4c151",
+          "File_Modified": "2024-04-16T09:11:05.433",
+          "File_Name": "KI Terkait Penjelasan Manajemen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BINA/KI Terkait Penjelasan Manajemen.pdf",
+          "File_Size": 180875,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "230cbd1f-fc8d-48e8-b11c-1296c44ee109",
+          "File_Modified": "2024-04-16T09:11:05.433",
+          "File_Name": "AnnualReport2023-BINA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/001c826426_1e3608e045.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "3879bb2f-e4a2-49be-964f-4f4d918b013e",
+          "File_Modified": "2024-04-16T09:11:05.433",
+          "File_Name": "AnnualReport2023-BINA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/63f9ef3180_110380b003.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "40670af0-7756-4764-8fd0-90ea227ae6de",
+          "File_Modified": "2024-04-16T09:11:05.433",
+          "File_Name": "FinancialStatement-2023-Tahunan-BINA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BINA/FinancialStatement-2023-Tahunan-BINA.pdf",
+          "File_Size": 291817,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "a002757d-4ddd-415e-bc73-0b01227282cd",
+          "File_Modified": "2024-04-16T09:11:05.433",
+          "File_Name": "FinancialStatement-2023-Tahunan-BINA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BINA/FinancialStatement-2023-Tahunan-BINA.xlsx",
+          "File_Size": 181902,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "e4bb4ab4-cafa-4a70-8285-aa7079f7f173",
+          "File_Modified": "2024-04-16T09:11:05.433",
+          "File_Name": "bank ina perdana tbk_31_desember_2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BINA/bank ina perdana tbk_31_desember_2023.pdf",
+          "File_Size": 9947248,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "839f2935-64e7-40e8-85cb-ff8d25589ded",
+          "File_Modified": "2024-04-16T09:11:05.433",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BINA/instance.zip",
+          "File_Size": 58653,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        },
+        {
+          "Emiten_Code": "BINA",
+          "File_ID": "82e56a28-48da-4fa6-96f3-ca1c98b88033",
+          "File_Modified": "2024-04-16T09:11:05.433",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BINA/inlineXBRL.zip",
+          "File_Size": 140205,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank Ina Perdana Tbk."
+        }
+      ]
+    }
+  ]
+}

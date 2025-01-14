@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TAXI",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TAXI",
+      "File_Modified": "2023-09-06T11:47:49.723",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Express Transindo Utama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "08984b1f-f2c6-4803-a704-61b9888c5703",
+          "File_Modified": "2023-09-06T11:47:49.723",
+          "File_Name": "Audit Report PT ETU Tbk 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAXI/Audit Report PT ETU Tbk 2022.pdf",
+          "File_Size": 2600476,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "7083d91d-172f-46ec-89e5-a2e233ef40bb",
+          "File_Modified": "2023-09-06T11:47:49.723",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAXI/inlineXBRL.zip",
+          "File_Size": 204256,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "8bf066a4-af2f-414b-b3b4-403863b3d3de",
+          "File_Modified": "2023-09-06T11:47:49.723",
+          "File_Name": "FinancialStatement-2022-Tahunan-TAXI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAXI/FinancialStatement-2022-Tahunan-TAXI.xlsx",
+          "File_Size": 1158860,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "cd37a6db-4039-4006-9a35-1a44f532ca5f",
+          "File_Modified": "2023-09-06T11:47:49.723",
+          "File_Name": "Checklist  - LK  31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAXI/Checklist  - LK  31 Des 2022.pdf",
+          "File_Size": 691855,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "19f3f4b0-bc3d-4c20-80b3-d9895f280b6a",
+          "File_Modified": "2023-09-06T11:47:49.723",
+          "File_Name": "FinancialStatement-2022-Tahunan-TAXI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAXI/FinancialStatement-2022-Tahunan-TAXI.pdf",
+          "File_Size": 91398,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "b8f54d39-1a35-4833-bcc9-0d9c7a8a22ee",
+          "File_Modified": "2023-09-06T11:47:49.723",
+          "File_Name": "Audit Final Report PT ETU Tbk 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAXI/Audit Final Report PT ETU Tbk 2022.pdf",
+          "File_Size": 6015619,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "3422dedc-cd47-4c46-a33c-0e1986fb660f",
+          "File_Modified": "2023-09-06T11:47:49.723",
+          "File_Name": "Checklist LK 31 Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAXI/Checklist LK 31 Desember 2022.pdf",
+          "File_Size": 880081,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "60b29a2f-a1a7-4a7e-a418-5fb38a5c3d20",
+          "File_Modified": "2023-09-06T11:47:49.723",
+          "File_Name": "AnnualReport2022-TAXI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/fac19a0685_d794fe0f2d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "5c487dc0-53f7-4886-940b-66cc1af93642",
+          "File_Modified": "2023-09-06T11:47:49.723",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAXI/instance.zip",
+          "File_Size": 165208,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        }
+      ]
+    }
+  ]
+}

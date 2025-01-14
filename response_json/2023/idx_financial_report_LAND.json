@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "LAND",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "LAND",
+      "File_Modified": "2024-03-28T16:23:10.077",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Trimitra Propertindo Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "85f52ccc-d208-4a5d-9a8c-248d7d4e9136",
+          "File_Modified": "2024-03-28T16:23:10.077",
+          "File_Name": "FinancialStatement-2023-Tahunan-LAND.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/LAND/FinancialStatement-2023-Tahunan-LAND.pdf",
+          "File_Size": 710147,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "0c752b60-fc04-4fdd-bb95-871ba8fe19cb",
+          "File_Modified": "2024-03-28T16:23:10.077",
+          "File_Name": "Release Report TMP - 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/LAND/Release Report TMP - 31 Des 2023.pdf",
+          "File_Size": 6711588,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "7cdb7f0c-8dd0-4c2f-afe7-caf200b08982",
+          "File_Modified": "2024-03-28T16:23:10.077",
+          "File_Name": "FinancialStatement-2023-Tahunan-LAND.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/LAND/FinancialStatement-2023-Tahunan-LAND.xlsx",
+          "File_Size": 172027,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "5be83329-937b-411d-b152-3fdac03052f8",
+          "File_Modified": "2024-03-28T16:23:10.077",
+          "File_Name": "AnnualReport2023-LAND-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/4f26bf350a_ac3555e074.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "d5307c28-5775-438a-9e4c-7d0ff437f0d0",
+          "File_Modified": "2024-03-28T16:23:10.077",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/LAND/inlineXBRL.zip",
+          "File_Size": 248713,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "3faa9234-9dfd-4d9c-ad35-e8f174ffe916",
+          "File_Modified": "2024-03-28T16:23:10.077",
+          "File_Name": "AnnualReport2023-LAND-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/ffb2febe60_d2bd719f5e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "710746e7-e92c-4bed-9059-81aeaf767d8f",
+          "File_Modified": "2024-03-28T16:23:10.077",
+          "File_Name": "AnnualReport2023-LAND.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/5738026369_ebed7f99fb.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "e66ad728-0389-4855-a6f2-ab542ee4e894",
+          "File_Modified": "2024-03-28T16:23:10.077",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/LAND/instance.zip",
+          "File_Size": 140117,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        }
+      ]
+    }
+  ]
+}

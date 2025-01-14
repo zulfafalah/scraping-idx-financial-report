@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BRIS",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BRIS",
+      "File_Modified": "2023-02-14T18:30:25.06",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Bank Syariah Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BRIS",
+          "File_ID": "af959254-48d6-4577-9b9d-270809a86328",
+          "File_Modified": "2023-02-14T18:30:25.06",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BRIS/instance.zip",
+          "File_Size": 109666,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Syariah Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BRIS",
+          "File_ID": "8e8ea8f0-4363-4f4d-a0b2-f24b53f35430",
+          "File_Modified": "2023-02-14T18:30:25.06",
+          "File_Name": "Bappepam Checklist 31 Desember 2022_compressed.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BRIS/Bappepam Checklist 31 Desember 2022_compressed.pdf",
+          "File_Size": 4117215,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Syariah Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BRIS",
+          "File_ID": "32c0d997-8fd7-4735-9d37-7788ecde0dd4",
+          "File_Modified": "2023-02-14T18:30:25.06",
+          "File_Name": "FinancialStatement-2022-Tahunan-BRIS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BRIS/FinancialStatement-2022-Tahunan-BRIS.xlsx",
+          "File_Size": 581817,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Syariah Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BRIS",
+          "File_ID": "b64cc64b-254f-4d14-9beb-2b70eee4eb7f",
+          "File_Modified": "2023-02-14T18:30:25.06",
+          "File_Name": "FinancialStatement-2022-Tahunan-BRIS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BRIS/FinancialStatement-2022-Tahunan-BRIS.pdf",
+          "File_Size": 149904,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Syariah Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BRIS",
+          "File_ID": "f64c85ee-950e-4951-b74c-4d6f59fc0bfc",
+          "File_Modified": "2023-02-14T18:30:25.06",
+          "File_Name": "03.179-3.DIR-CFA-10.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BRIS/03.179-3.DIR-CFA-10.pdf",
+          "File_Size": 156832,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Syariah Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BRIS",
+          "File_ID": "706000f3-5cac-4486-b527-94b76d70d066",
+          "File_Modified": "2023-02-14T18:30:25.06",
+          "File_Name": "PT Bank Syariah Indonesia Tbk 31 Dec 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BRIS/PT Bank Syariah Indonesia Tbk 31 Dec 22.pdf",
+          "File_Size": 5471749,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Syariah Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BRIS",
+          "File_ID": "654d58a3-c941-4c9d-86ca-ec4cf71ad91c",
+          "File_Modified": "2023-02-14T18:30:25.06",
+          "File_Name": "AnnualReport2022-BRIS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/c4bf38908e_85acadd4ec.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Syariah Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BRIS",
+          "File_ID": "79c54146-ce49-449a-a694-5851e4f6d441",
+          "File_Modified": "2023-02-14T18:30:25.06",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BRIS/inlineXBRL.zip",
+          "File_Size": 156728,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Syariah Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

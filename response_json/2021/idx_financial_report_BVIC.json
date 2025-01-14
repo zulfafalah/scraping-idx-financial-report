@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BVIC",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BVIC",
+      "File_Modified": "2022-04-28T13:22:00.263",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Bank Victoria International Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "0b896eb9-0cda-449e-89fc-7a2f78a5da01",
+          "File_Modified": "2022-04-28T13:22:00.263",
+          "File_Name": "FinancialStatement-2021-Tahunan-BVIC.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BVIC/FinancialStatement-2021-Tahunan-BVIC.xlsx",
+          "File_Size": 161803,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "91bf585b-065d-4057-afea-e30e0f7fd1da",
+          "File_Modified": "2022-04-28T13:22:00.263",
+          "File_Name": "Perubahan Liabilitas Des 21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BVIC/Perubahan Liabilitas Des 21.pdf",
+          "File_Size": 51405,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "6366dbd4-588e-488b-8511-f82412ccec29",
+          "File_Modified": "2022-04-28T13:22:00.263",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BVIC/inlineXBRL.zip",
+          "File_Size": 60816,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "d70bc533-adfd-45f7-8980-02d32aece025",
+          "File_Modified": "2022-04-28T13:22:00.263",
+          "File_Name": "FinancialStatement-2021-Tahunan-BVIC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BVIC/FinancialStatement-2021-Tahunan-BVIC.pdf",
+          "File_Size": 64245,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "90fd3909-d6a8-44a7-828b-5d7f7d002db4",
+          "File_Modified": "2022-04-28T13:22:00.263",
+          "File_Name": "062DIREKS0422 .pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BVIC/062DIREKS0422 .pdf",
+          "File_Size": 593555,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "d5770dec-8fe0-4e9b-905b-65eed87d76b2",
+          "File_Modified": "2022-04-28T13:22:00.263",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BVIC/instance.zip",
+          "File_Size": 31034,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "8dc294aa-c399-411c-8c77-5f329f567230",
+          "File_Modified": "2022-04-28T13:22:00.263",
+          "File_Name": "LKT 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BVIC/LKT 2021.pdf",
+          "File_Size": 4096921,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DSFI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DSFI",
+      "File_Modified": "2024-03-28T16:58:04.293",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "f6e611d9-28ee-4ae2-a060-29af800d03f1",
+          "File_Modified": "2024-03-28T16:58:04.293",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSFI/instance.zip",
+          "File_Size": 120975,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "84696929-0b6c-41de-9d7b-338feee2cb7b",
+          "File_Modified": "2024-03-28T16:58:04.293",
+          "File_Name": "FinancialStatement-2023-Tahunan-DSFI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSFI/FinancialStatement-2023-Tahunan-DSFI.xlsx",
+          "File_Size": 161699,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "390c5b21-f00f-4c9e-80df-3e4170f3b98f",
+          "File_Modified": "2024-03-28T16:58:04.293",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSFI/inlineXBRL.zip",
+          "File_Size": 235085,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "005b29e5-ef37-4d23-95d9-fb1be60f3659",
+          "File_Modified": "2024-03-28T16:58:04.293",
+          "File_Name": "AnnualReport2023-DSFI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/07ce56df7d_8fd3630d89.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "e846db50-32de-4a2e-92d0-c7010fa5fda4",
+          "File_Modified": "2024-03-28T16:58:04.293",
+          "File_Name": "FinancialStatement-2023-Tahunan-DSFI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSFI/FinancialStatement-2023-Tahunan-DSFI.pdf",
+          "File_Size": 676576,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "1ed82830-19e9-4e1c-be15-df38df74c542",
+          "File_Modified": "2024-03-28T16:58:04.293",
+          "File_Name": "AnnualReport2023-DSFI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/4d5c5c7967_f4bc7eb41c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "00f30b64-4908-4989-95df-609036401cab",
+          "File_Modified": "2024-03-28T16:58:04.293",
+          "File_Name": "AnnualReport2023-DSFI-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/d3602d8772_f90748e185.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "c3003f81-dede-45aa-814e-7e5e05c889fd",
+          "File_Modified": "2024-03-28T16:58:04.293",
+          "File_Name": "AnnualReport2023-DSFI-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/99b1b67f4b_28e7c6c88c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "73612698-4469-4236-b36e-7e99b9cb96c0",
+          "File_Modified": "2024-03-28T16:58:04.293",
+          "File_Name": "LK DSFI 31 Des 2023 Audited Final.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSFI/LK DSFI 31 Des 2023 Audited Final.pdf",
+          "File_Size": 3143662,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "e02c1b1f-fc11-4687-bf61-d0bd9c57b338",
+          "File_Modified": "2024-03-28T16:58:04.293",
+          "File_Name": "Surat pengantar LK 31 Desember 2023 audited BEI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSFI/Surat pengantar LK 31 Desember 2023 audited BEI.pdf",
+          "File_Size": 189562,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "40e50ed0-8f2a-4854-9290-0eb6e134fe17",
+          "File_Modified": "2024-03-28T16:58:04.293",
+          "File_Name": "Checklist LK 31 Des 2023 Audited Final.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSFI/Checklist LK 31 Des 2023 Audited Final.pdf",
+          "File_Size": 906560,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "daa54b7f-5b2d-457c-bd31-e98f089a6d2e",
+          "File_Modified": "2024-03-28T16:58:04.293",
+          "File_Name": "Surat pengantar LK 31 Desember 2023 audited OJK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/DSFI/Surat pengantar LK 31 Desember 2023 audited OJK.pdf",
+          "File_Size": 204881,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        }
+      ]
+    }
+  ]
+}

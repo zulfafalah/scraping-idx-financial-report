@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "STTP",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "STTP",
+      "File_Modified": "2023-05-04T11:39:45.793",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Siantar Top Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "9dcaf264-8fa6-41fe-8600-31fa0d34eb95",
+          "File_Modified": "2023-05-04T11:39:45.793",
+          "File_Name": "FinancialStatement-2022-Tahunan-STTP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/STTP/FinancialStatement-2022-Tahunan-STTP.xlsx",
+          "File_Size": 1190358,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "a3994107-1825-4b9a-9083-4a2161a6258d",
+          "File_Modified": "2023-05-04T11:39:45.793",
+          "File_Name": "SURAT CRL 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/STTP/SURAT CRL 2022.pdf",
+          "File_Size": 4611229,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "0ffceb47-4541-465c-8e24-89c10a087c7d",
+          "File_Modified": "2023-05-04T11:39:45.793",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/STTP/instance.zip",
+          "File_Size": 193901,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "11be2569-098f-4946-9c75-e975786b19fe",
+          "File_Modified": "2023-05-04T11:39:45.793",
+          "File_Name": "CEKLIST PENGUNGKAPAN LK 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/STTP/CEKLIST PENGUNGKAPAN LK 2022.pdf",
+          "File_Size": 1184746,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "97c21ab5-c166-43bc-b069-c10f6c77c2a3",
+          "File_Modified": "2023-05-04T11:39:45.793",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/STTP/inlineXBRL.zip",
+          "File_Size": 181419,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "09d9a7ad-b5f4-447a-a927-e8432c6ce4bf",
+          "File_Modified": "2023-05-04T11:39:45.793",
+          "File_Name": "Laporan Keuangan Tahunan STTP 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/STTP/Laporan Keuangan Tahunan STTP 2022.pdf",
+          "File_Size": 2643223,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "3b7b6c59-fed6-4b6f-a5b3-cd09afee8d35",
+          "File_Modified": "2023-05-04T11:39:45.793",
+          "File_Name": "FinancialStatement-2022-Tahunan-STTP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/STTP/FinancialStatement-2022-Tahunan-STTP.pdf",
+          "File_Size": 143535,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "2b23413d-9677-4583-b2d8-e6d728c79c30",
+          "File_Modified": "2023-05-04T11:39:45.793",
+          "File_Name": "AnnualReport2022-STTP-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/638d05428c_202c42f90e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "dc1e2024-6740-4d11-8bae-205dd853114e",
+          "File_Modified": "2023-05-04T11:39:45.793",
+          "File_Name": "Surat Pernyataan Direksi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/STTP/Surat Pernyataan Direksi.pdf",
+          "File_Size": 236309,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "6368d761-30fc-4af9-ad7d-e49530fd5ed7",
+          "File_Modified": "2023-05-04T11:39:45.793",
+          "File_Name": "Surat  perubahan aset dan liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/STTP/Surat  perubahan aset dan liabilitas.pdf",
+          "File_Size": 149794,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        }
+      ]
+    }
+  ]
+}

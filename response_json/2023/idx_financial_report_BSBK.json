@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BSBK",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BSBK",
+      "File_Modified": "2024-03-27T09:30:12.823",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Wulandari Bangun Laksana Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "e261e8ed-3fa7-4176-9ce0-288a4f21a24a",
+          "File_Modified": "2024-03-27T09:30:12.823",
+          "File_Name": "AnnualReport2023-BSBK.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/ca3e3b7db3_40acf6a7ee.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "d9aa2fce-3741-44fd-941b-329954c49383",
+          "File_Modified": "2024-03-27T09:30:12.823",
+          "File_Name": "FinancialStatement-2023-Tahunan-BSBK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BSBK/FinancialStatement-2023-Tahunan-BSBK.pdf",
+          "File_Size": 714860,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "299ce15e-496e-4702-a247-6b50a096e18d",
+          "File_Modified": "2024-03-27T09:30:12.823",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BSBK/inlineXBRL.zip",
+          "File_Size": 264342,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "104907e3-64c3-446f-ba10-e5e48e816010",
+          "File_Modified": "2024-03-27T09:30:12.823",
+          "File_Name": "Laporan Keuangan 31 Desember 2023 BSBK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BSBK/Laporan Keuangan 31 Desember 2023 BSBK.pdf",
+          "File_Size": 5836631,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "c9492093-b129-4c72-bc76-61570593d4fd",
+          "File_Modified": "2024-03-27T09:30:12.823",
+          "File_Name": "AnnualReport2023-BSBK-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/00f4c3198c_7a606ece35.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "aae629f4-600f-447b-a502-31164a3c3bb2",
+          "File_Modified": "2024-03-27T09:30:12.823",
+          "File_Name": "FinancialStatement-2023-Tahunan-BSBK.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BSBK/FinancialStatement-2023-Tahunan-BSBK.xlsx",
+          "File_Size": 195565,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "fa25958e-8839-4e56-9109-b94d5ce168d4",
+          "File_Modified": "2024-03-27T09:30:12.823",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BSBK/instance.zip",
+          "File_Size": 134171,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        },
+        {
+          "Emiten_Code": "BSBK",
+          "File_ID": "4d40ab93-aac9-4859-89d8-ea1f5267729e",
+          "File_Modified": "2024-03-27T09:30:12.823",
+          "File_Name": "Surat Pernyataan Direksi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BSBK/Surat Pernyataan Direksi.pdf",
+          "File_Size": 417671,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wulandari Bangun Laksana Tbk"
+        }
+      ]
+    }
+  ]
+}

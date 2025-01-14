@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SMAR",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SMAR",
+      "File_Modified": "2023-04-03T16:36:42.543",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Sinar Mas Agro Resources and Technology Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "SMAR",
+          "File_ID": "f0249971-fdb2-45bc-ab0f-10f565c3be21",
+          "File_Modified": "2023-04-03T16:36:42.543",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMAR/instance.zip",
+          "File_Size": 195011,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sinar Mas Agro Resources and Technology Tbk"
+        },
+        {
+          "Emiten_Code": "SMAR",
+          "File_ID": "a575aa1a-9505-40a4-abee-1db1ec3372d0",
+          "File_Modified": "2023-04-03T16:36:42.543",
+          "File_Name": "Srt Penyampaian LK 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMAR/Srt Penyampaian LK 31 Des 2022.pdf",
+          "File_Size": 86705,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sinar Mas Agro Resources and Technology Tbk"
+        },
+        {
+          "Emiten_Code": "SMAR",
+          "File_ID": "c0ec2792-1c5e-4935-9ef9-747d41a1b325",
+          "File_Modified": "2023-04-03T16:36:42.543",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMAR/inlineXBRL.zip",
+          "File_Size": 254242,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sinar Mas Agro Resources and Technology Tbk"
+        },
+        {
+          "Emiten_Code": "SMAR",
+          "File_ID": "610904e9-6f4e-45cd-a3b8-890dffb184cd",
+          "File_Modified": "2023-04-03T16:36:42.543",
+          "File_Name": "FinancialStatement-2022-Tahunan-SMAR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMAR/FinancialStatement-2022-Tahunan-SMAR.xlsx",
+          "File_Size": 1205195,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sinar Mas Agro Resources and Technology Tbk"
+        },
+        {
+          "Emiten_Code": "SMAR",
+          "File_ID": "07bf199b-3e3b-4d96-951d-866099f46753",
+          "File_Modified": "2023-04-03T16:36:42.543",
+          "File_Name": "Checklist LK 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMAR/Checklist LK 31 Des 2022.pdf",
+          "File_Size": 6746591,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sinar Mas Agro Resources and Technology Tbk"
+        },
+        {
+          "Emiten_Code": "SMAR",
+          "File_ID": "b6695365-1b51-4d16-95f3-e7d787de7de2",
+          "File_Modified": "2023-04-03T16:36:42.543",
+          "File_Name": "FinancialStatement-2022-Tahunan-SMAR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMAR/FinancialStatement-2022-Tahunan-SMAR.pdf",
+          "File_Size": 228511,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sinar Mas Agro Resources and Technology Tbk"
+        },
+        {
+          "Emiten_Code": "SMAR",
+          "File_ID": "e773055a-ec19-4533-bae5-20fdef9b6c7b",
+          "File_Modified": "2023-04-03T16:36:42.543",
+          "File_Name": "SPD Smart Group Dec 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMAR/SPD Smart Group Dec 2022.pdf",
+          "File_Size": 711389,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sinar Mas Agro Resources and Technology Tbk"
+        },
+        {
+          "Emiten_Code": "SMAR",
+          "File_ID": "591b0d23-80bf-4ce6-b0d1-6fe1a6b9aedc",
+          "File_Modified": "2023-04-03T16:36:42.543",
+          "File_Name": "LK SMART 31 Des 22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SMAR/LK SMART 31 Des 22.pdf",
+          "File_Size": 2245568,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sinar Mas Agro Resources and Technology Tbk"
+        },
+        {
+          "Emiten_Code": "SMAR",
+          "File_ID": "cb965d5a-d715-4252-ba30-eb932e91e154",
+          "File_Modified": "2023-04-03T16:36:42.543",
+          "File_Name": "AnnualReport2022-SMAR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/6ac7b00f6f_0871a78826.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sinar Mas Agro Resources and Technology Tbk"
+        }
+      ]
+    }
+  ]
+}

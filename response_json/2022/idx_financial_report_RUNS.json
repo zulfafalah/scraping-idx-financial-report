@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "RUNS",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "RUNS",
+      "File_Modified": "2023-03-17T00:42:06.22",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Global Sukses Solusi Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "25c06134-818d-451e-aaf3-2a57ff02407c",
+          "File_Modified": "2023-03-17T00:42:06.22",
+          "File_Name": "FinancialStatement-2022-Tahunan-RUNS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RUNS/FinancialStatement-2022-Tahunan-RUNS.xlsx",
+          "File_Size": 1174121,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "b491ad8c-05dd-485a-8f8d-f097f4cbe923",
+          "File_Modified": "2023-03-17T00:42:06.22",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RUNS/instance.zip",
+          "File_Size": 164537,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "4897beb9-258d-40dc-9d2b-bb8d4cf31096",
+          "File_Modified": "2023-03-17T00:42:06.22",
+          "File_Name": "AnnualReport2022-RUNS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202303/a24cffc52d_e6716aa772.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "34841e19-9dcd-414d-8bf4-317aea155253",
+          "File_Modified": "2023-03-17T00:42:06.22",
+          "File_Name": "FinancialStatement-2022-Tahunan-RUNS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RUNS/FinancialStatement-2022-Tahunan-RUNS.pdf",
+          "File_Size": 73781,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "bbca70fa-b5f0-42be-a070-b28e3653763c",
+          "File_Modified": "2023-03-17T00:42:06.22",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RUNS/inlineXBRL.zip",
+          "File_Size": 132231,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "cc62302a-cb0b-41e1-bf5f-dd27a543a011",
+          "File_Modified": "2023-03-17T00:42:06.22",
+          "File_Name": "Penjelasan Perubahan Aset dan Liabilitas 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RUNS/Penjelasan Perubahan Aset dan Liabilitas 2022.pdf",
+          "File_Size": 6188047,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "b17f9571-63ba-4183-8cbb-dd9667b74418",
+          "File_Modified": "2023-03-17T00:42:06.22",
+          "File_Name": "PT Global Sukses Solusi Tbk 31 Des 2022(RUNS).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RUNS/PT Global Sukses Solusi Tbk 31 Des 2022(RUNS).pdf",
+          "File_Size": 2711348,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        },
+        {
+          "Emiten_Code": "RUNS",
+          "File_ID": "892f95ed-b7f1-4d6a-9afe-f2c4f0da9a97",
+          "File_Modified": "2023-03-17T00:42:06.22",
+          "File_Name": "PT GSS Tbk - Checklist to OJK 31 Des 2022(RUNS).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RUNS/PT GSS Tbk - Checklist to OJK 31 Des 2022(RUNS).pdf",
+          "File_Size": 2114610,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Global Sukses Solusi Tbk"
+        }
+      ]
+    }
+  ]
+}

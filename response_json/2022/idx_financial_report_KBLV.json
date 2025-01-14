@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "KBLV",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "KBLV",
+      "File_Modified": "2023-03-31T06:31:54.083",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "First Media Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "8f30eec6-11f3-4cc6-b3b5-14095786c819",
+          "File_Modified": "2023-03-31T06:31:54.083",
+          "File_Name": "FinancialStatement-2022-Tahunan-KBLV.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KBLV/FinancialStatement-2022-Tahunan-KBLV.xlsx",
+          "File_Size": 1179562,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "ec3c9a41-b3d5-48ae-9768-a9f2137616e1",
+          "File_Modified": "2023-03-31T06:31:54.083",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KBLV/inlineXBRL.zip",
+          "File_Size": 170534,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "7be52b14-1918-47c1-b5b3-d262557447d7",
+          "File_Modified": "2023-03-31T06:31:54.083",
+          "File_Name": "SPD_KBLV_311222.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KBLV/SPD_KBLV_311222.pdf",
+          "File_Size": 398179,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "f0b6c8b3-be0c-40c1-8509-5011096e03d2",
+          "File_Modified": "2023-03-31T06:31:54.083",
+          "File_Name": "Lap_Keu_KBLV_311222.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KBLV/Lap_Keu_KBLV_311222.pdf",
+          "File_Size": 4428147,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "54a1b030-29a0-491d-ad5b-c34d38b3b504",
+          "File_Modified": "2023-03-31T06:31:54.083",
+          "File_Name": "AnnualReport2022-KBLV-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/ae9c70f064_ccc400e922.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "c5964ba2-a506-4859-84de-2ed9fe1f856c",
+          "File_Modified": "2023-03-31T06:31:54.083",
+          "File_Name": "Checklist Pengungkapan Lap Keu KBLV_311222.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KBLV/Checklist Pengungkapan Lap Keu KBLV_311222.pdf",
+          "File_Size": 5925746,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "825e7b58-bd14-451a-834e-9990575e227c",
+          "File_Modified": "2023-03-31T06:31:54.083",
+          "File_Name": "Penjelasan Perubahan lebih dari 20_KBLV_311222.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KBLV/Penjelasan Perubahan lebih dari 20_KBLV_311222.pdf",
+          "File_Size": 263986,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "4aa604b7-44b3-4d0e-9159-ff04b70cd03c",
+          "File_Modified": "2023-03-31T06:31:54.083",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KBLV/instance.zip",
+          "File_Size": 171568,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "First Media Tbk"
+        },
+        {
+          "Emiten_Code": "KBLV",
+          "File_ID": "a2fa3fd3-594e-4217-b493-ff5f59ca2068",
+          "File_Modified": "2023-03-31T06:31:54.083",
+          "File_Name": "FinancialStatement-2022-Tahunan-KBLV.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/KBLV/FinancialStatement-2022-Tahunan-KBLV.pdf",
+          "File_Size": 126097,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "First Media Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BUKK",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BUKK",
+      "File_Modified": "2022-03-31T09:05:38.277",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Bukaka Teknik Utama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "408f7b94-9455-4c18-b8b8-2640dd6d18ec",
+          "File_Modified": "2022-03-31T09:05:38.277",
+          "File_Name": "FinancialStatement-2021-Tahunan-BUKK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUKK/FinancialStatement-2021-Tahunan-BUKK.pdf",
+          "File_Size": 57074,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "2f47c1ae-5c19-4247-85b4-59122cf3f624",
+          "File_Modified": "2022-03-31T09:05:38.277",
+          "File_Name": "Checklist Pengungkapan PT BTU-Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUKK/Checklist Pengungkapan PT BTU-Des 2021.pdf",
+          "File_Size": 2272149,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "37699ce9-97a3-4212-b463-78626a57a05e",
+          "File_Modified": "2022-03-31T09:05:38.277",
+          "File_Name": "LAI PT BTU DAN ENTITAS ANAK PER 31 DES 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUKK/LAI PT BTU DAN ENTITAS ANAK PER 31 DES 2021.pdf",
+          "File_Size": 4071466,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "8d2b13f4-9029-4893-801f-ad7b935ef8db",
+          "File_Modified": "2022-03-31T09:05:38.277",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUKK/inlineXBRL.zip",
+          "File_Size": 54499,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "9eb1b234-1865-4db8-8337-cf715fc665b7",
+          "File_Modified": "2022-03-31T09:05:38.277",
+          "File_Name": "Penjelasan Deviasi 20 Persen Per 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUKK/Penjelasan Deviasi 20 Persen Per 31 Desember 2021.pdf",
+          "File_Size": 598305,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "aba1c810-9144-4dd7-813a-1a549356bb4c",
+          "File_Modified": "2022-03-31T09:05:38.277",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUKK/instance.zip",
+          "File_Size": 27438,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "3f592951-49a3-4568-b4dd-4389e428f746",
+          "File_Modified": "2022-03-31T09:05:38.277",
+          "File_Name": "FinancialStatement-2021-Tahunan-BUKK.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUKK/FinancialStatement-2021-Tahunan-BUKK.xlsx",
+          "File_Size": 154796,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        }
+      ]
+    }
+  ]
+}

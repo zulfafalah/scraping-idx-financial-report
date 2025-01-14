@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TRJA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TRJA",
+      "File_Modified": "2024-05-06T00:00:19.563",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Transkon Jaya Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "5123de60-b95c-4cb5-ad75-ad8c899b1549",
+          "File_Modified": "2024-05-06T00:00:19.563",
+          "File_Name": "AnnualReport2023-TRJA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/6b3812519b_8c354a2380.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "18fc2ab0-632f-4be3-9d46-da0eb10710d7",
+          "File_Modified": "2024-05-06T00:00:19.563",
+          "File_Name": "TRJA SPD Dec 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TRJA/TRJA SPD Dec 2023.pdf",
+          "File_Size": 209299,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "a0417329-45b1-45bf-9477-fc45df30193c",
+          "File_Modified": "2024-05-06T00:00:19.563",
+          "File_Name": "FinancialStatement-2023-Tahunan-TRJA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TRJA/FinancialStatement-2023-Tahunan-TRJA.xlsx",
+          "File_Size": 371222,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "c22792ad-37ad-4dc4-934a-383e232516fa",
+          "File_Modified": "2024-05-06T00:00:19.563",
+          "File_Name": "AnnualReport2023-TRJA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/212cd874cf_79b527fa7a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "3b0d3e50-35ff-41d3-bb65-428c032d06d8",
+          "File_Modified": "2024-05-06T00:00:19.563",
+          "File_Name": "AnnualReport2023-TRJA-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/cfe5de531c_73d92dcda9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "bd68153f-3c10-4fb8-8f0c-84910265e181",
+          "File_Modified": "2024-05-06T00:00:19.563",
+          "File_Name": "Checklist OJK Q4 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TRJA/Checklist OJK Q4 2023.pdf",
+          "File_Size": 2153830,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "fae28f54-ef0e-4f5e-a628-9b9c76d07711",
+          "File_Modified": "2024-05-06T00:00:19.563",
+          "File_Name": "FinancialStatement-2023-Tahunan-TRJA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TRJA/FinancialStatement-2023-Tahunan-TRJA.pdf",
+          "File_Size": 733573,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "0a556db1-8607-467c-9125-bdaf7feacb79",
+          "File_Modified": "2024-05-06T00:00:19.563",
+          "File_Name": "PT Transkon Jaya Tbk 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TRJA/PT Transkon Jaya Tbk 31 Des 2023.pdf",
+          "File_Size": 6102070,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "23218e05-f2ca-49bc-840c-46e107c2832d",
+          "File_Modified": "2024-05-06T00:00:19.563",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TRJA/instance.zip",
+          "File_Size": 134411,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "52588f44-c88c-48e0-889b-1bb538e9faa4",
+          "File_Modified": "2024-05-06T00:00:19.563",
+          "File_Name": "AnnualReport2023-TRJA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/661a2512ec_ff7ebbfe8c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "ddcaf11f-785b-4e87-8fa4-c69cefe5159f",
+          "File_Modified": "2024-05-06T00:00:19.563",
+          "File_Name": "TRJA Penjelasan kenaikan 20 persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TRJA/TRJA Penjelasan kenaikan 20 persen.pdf",
+          "File_Size": 311756,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "TRJA",
+          "File_ID": "94e252ce-f592-4bd3-8aba-de2cdbfbad66",
+          "File_Modified": "2024-05-06T00:00:19.563",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TRJA/inlineXBRL.zip",
+          "File_Size": 269839,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Transkon Jaya Tbk."
+        }
+      ]
+    }
+  ]
+}

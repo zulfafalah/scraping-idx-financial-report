@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BSDE",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BSDE",
+      "File_Modified": "2022-03-31T09:53:49.603",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Bumi Serpong Damai Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "babd5fe6-1592-4794-873c-0ae7d32dbf18",
+          "File_Modified": "2022-03-31T09:53:49.603",
+          "File_Name": "LK BSDE 31122021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSDE/LK BSDE 31122021.pdf",
+          "File_Size": 1886374,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "cb56429a-30a4-439d-9739-855d9b516107",
+          "File_Modified": "2022-03-31T09:53:49.603",
+          "File_Name": "BSDE Checklist.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSDE/BSDE Checklist.pdf",
+          "File_Size": 7246344,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "efd437c0-9152-4ef4-9eb4-48581ce222f6",
+          "File_Modified": "2022-03-31T09:53:49.603",
+          "File_Name": "FinancialStatement-2021-Tahunan-BSDE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSDE/FinancialStatement-2021-Tahunan-BSDE.pdf",
+          "File_Size": 66352,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "1a6be290-a3f0-4984-946c-0f4d3bbf2cc1",
+          "File_Modified": "2022-03-31T09:53:49.603",
+          "File_Name": "AnnualReport2021-BSDE-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/36000bdf9c_146d1acef6.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "62df0eb0-b5ab-4196-8952-5b488fe76aaa",
+          "File_Modified": "2022-03-31T09:53:49.603",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSDE/instance.zip",
+          "File_Size": 28655,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "49cd3bdf-e7d1-4aed-8aca-5c605bacfc4c",
+          "File_Modified": "2022-03-31T09:53:49.603",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSDE/inlineXBRL.zip",
+          "File_Size": 56428,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "fb0daa0c-5d2a-498d-b4aa-989468457f10",
+          "File_Modified": "2022-03-31T09:53:49.603",
+          "File_Name": "043.IR-CS.BSD.III.2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSDE/043.IR-CS.BSD.III.2022.pdf",
+          "File_Size": 43305,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        },
+        {
+          "Emiten_Code": "BSDE",
+          "File_ID": "0710b77d-888c-4548-b2bd-c6f3ee263483",
+          "File_Modified": "2022-03-31T09:53:49.603",
+          "File_Name": "FinancialStatement-2021-Tahunan-BSDE.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BSDE/FinancialStatement-2021-Tahunan-BSDE.xlsx",
+          "File_Size": 156415,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bumi Serpong Damai Tbk"
+        }
+      ]
+    }
+  ]
+}

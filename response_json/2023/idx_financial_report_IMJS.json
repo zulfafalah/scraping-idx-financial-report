@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IMJS",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IMJS",
+      "File_Modified": "2024-03-28T09:39:56.093",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Indomobil Multi Jasa Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "9a8187d1-ecce-4fa2-9c96-4845fe2b18cf",
+          "File_Modified": "2024-03-28T09:39:56.093",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMJS/instance.zip",
+          "File_Size": 152829,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "a71912eb-e401-4176-9d57-e035e58274aa",
+          "File_Modified": "2024-03-28T09:39:56.093",
+          "File_Name": "Surat Pernyataan Direksi LKT IMJ 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMJS/Surat Pernyataan Direksi LKT IMJ 2023.pdf",
+          "File_Size": 224937,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "8d105279-dca2-417f-b0ce-342dcd4f4a4c",
+          "File_Modified": "2024-03-28T09:39:56.093",
+          "File_Name": "Checklist Pengungkapan LKT IMJ 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMJS/Checklist Pengungkapan LKT IMJ 2023.pdf",
+          "File_Size": 1690467,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "7b86ac36-0f43-4bc9-9659-3a1a4f45238e",
+          "File_Modified": "2024-03-28T09:39:56.093",
+          "File_Name": "FinancialStatement-2023-Tahunan-IMJS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMJS/FinancialStatement-2023-Tahunan-IMJS.pdf",
+          "File_Size": 745522,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "624df608-5831-4939-8818-dc2096e4854d",
+          "File_Modified": "2024-03-28T09:39:56.093",
+          "File_Name": "AnnualReport2023-IMJS-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/13397777f2_eda41dfbd8.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "1be48b9a-81b0-4e5c-b3fe-e9f4e4ee81e6",
+          "File_Modified": "2024-03-28T09:39:56.093",
+          "File_Name": "AnnualReport2023-IMJS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/a7fbb8a64c_b10b19d43b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "2023ed59-00b3-433a-ab3e-299437602ad2",
+          "File_Modified": "2024-03-28T09:39:56.093",
+          "File_Name": "FinancialStatement-2023-Tahunan-IMJS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMJS/FinancialStatement-2023-Tahunan-IMJS.xlsx",
+          "File_Size": 194102,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "c5eb5f52-88da-4aa8-a779-4f90f42a509e",
+          "File_Modified": "2024-03-28T09:39:56.093",
+          "File_Name": "indomobil multi jasa tbk_31_dec_2023_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMJS/indomobil multi jasa tbk_31_dec_2023_released.pdf",
+          "File_Size": 3696648,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "3b51fd3a-c880-4e1b-a45b-ce0fc1e2423c",
+          "File_Modified": "2024-03-28T09:39:56.093",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMJS/inlineXBRL.zip",
+          "File_Size": 282654,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "7683cb46-d4ec-464e-b74d-d4bc16d5cae1",
+          "File_Modified": "2024-03-28T09:39:56.093",
+          "File_Name": "AnnualReport2023-IMJS.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/60d4c02b4f_1ee2543259.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        },
+        {
+          "Emiten_Code": "IMJS",
+          "File_ID": "623ea4d5-3266-4bf4-bee1-d5b5633211a1",
+          "File_Modified": "2024-03-28T09:39:56.093",
+          "File_Name": "Surat Penyampaian LKT IMJ 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IMJS/Surat Penyampaian LKT IMJ 2023.pdf",
+          "File_Size": 142502,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Indomobil Multi Jasa Tbk."
+        }
+      ]
+    }
+  ]
+}

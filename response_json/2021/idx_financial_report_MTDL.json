@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MTDL",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MTDL",
+      "File_Modified": "2022-03-29T08:33:47.58",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Metrodata Electronics Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "0b84bd57-c054-475d-b5e9-06e420812774",
+          "File_Modified": "2022-03-29T08:33:47.58",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MTDL/instance.zip",
+          "File_Size": 28629,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "3925d31f-c8a7-4e20-8079-3d98205bc3d2",
+          "File_Modified": "2022-03-29T08:33:47.58",
+          "File_Name": "FinancialStatement-2021-Tahunan-MTDL.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MTDL/FinancialStatement-2021-Tahunan-MTDL.xlsx",
+          "File_Size": 158979,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "b4fd16c5-475b-4c2d-bca2-43f725e49521",
+          "File_Modified": "2022-03-29T08:33:47.58",
+          "File_Name": "P.T. METRODATA ELECTRONICS TBK 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MTDL/P.T. METRODATA ELECTRONICS TBK 2021.pdf",
+          "File_Size": 2429116,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "0e33dca4-7659-4c7a-851f-51e89020ae68",
+          "File_Modified": "2022-03-29T08:33:47.58",
+          "File_Name": "CHECKLIST-PENGUNGKAPAN-LAPORAN-KEUANGAN Dec 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MTDL/CHECKLIST-PENGUNGKAPAN-LAPORAN-KEUANGAN Dec 2021.pdf",
+          "File_Size": 2116055,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "b64f3e1d-7346-479d-a50a-e62ed2a714db",
+          "File_Modified": "2022-03-29T08:33:47.58",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MTDL/inlineXBRL.zip",
+          "File_Size": 58657,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "c6292acf-c78b-4078-9984-21cf444bbe1a",
+          "File_Modified": "2022-03-29T08:33:47.58",
+          "File_Name": "FinancialStatement-2021-Tahunan-MTDL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MTDL/FinancialStatement-2021-Tahunan-MTDL.pdf",
+          "File_Size": 53928,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        },
+        {
+          "Emiten_Code": "MTDL",
+          "File_ID": "c5e1700a-4b59-47c3-8d54-7da179a5742b",
+          "File_Modified": "2022-03-29T08:33:47.58",
+          "File_Name": "Surat Penjelasan kenaikan aset dan liab MTDL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MTDL/Surat Penjelasan kenaikan aset dan liab MTDL.pdf",
+          "File_Size": 157576,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Metrodata Electronics Tbk"
+        }
+      ]
+    }
+  ]
+}

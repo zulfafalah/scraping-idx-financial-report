@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BHIT",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BHIT",
+      "File_Modified": "2023-04-03T19:37:42.663",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT MNC Asia Holding Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BHIT",
+          "File_ID": "599745a1-9765-40a3-bd86-170c7627c8a0",
+          "File_Modified": "2023-04-03T19:37:42.663",
+          "File_Name": "FinancialStatement-2022-Tahunan-BHIT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BHIT/FinancialStatement-2022-Tahunan-BHIT.xlsx",
+          "File_Size": 1194003,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT MNC Asia Holding Tbk"
+        },
+        {
+          "Emiten_Code": "BHIT",
+          "File_ID": "368bd1f8-442b-48cf-aa6c-38b72701ccf6",
+          "File_Modified": "2023-04-03T19:37:42.663",
+          "File_Name": "FinancialStatement-2022-Tahunan-BHIT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BHIT/FinancialStatement-2022-Tahunan-BHIT.pdf",
+          "File_Size": 312582,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT MNC Asia Holding Tbk"
+        },
+        {
+          "Emiten_Code": "BHIT",
+          "File_ID": "b5d02d7e-8cf7-4368-950a-abcabfae8db1",
+          "File_Modified": "2023-04-03T19:37:42.663",
+          "File_Name": "Surat Pernyataan Direksi MNCI 2022-IV.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BHIT/Surat Pernyataan Direksi MNCI 2022-IV.pdf",
+          "File_Size": 107871,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT MNC Asia Holding Tbk"
+        },
+        {
+          "Emiten_Code": "BHIT",
+          "File_ID": "f808894a-6a22-408c-a1d4-cfef35ed4cab",
+          "File_Modified": "2023-04-03T19:37:42.663",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BHIT/inlineXBRL.zip",
+          "File_Size": 188019,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT MNC Asia Holding Tbk"
+        },
+        {
+          "Emiten_Code": "BHIT",
+          "File_ID": "6137d5d9-a611-4899-b291-d08647304fbc",
+          "File_Modified": "2023-04-03T19:37:42.663",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BHIT/instance.zip",
+          "File_Size": 189017,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT MNC Asia Holding Tbk"
+        },
+        {
+          "Emiten_Code": "BHIT",
+          "File_ID": "02681658-342a-479b-b1ac-d33cb06442bc",
+          "File_Modified": "2023-04-03T19:37:42.663",
+          "File_Name": "Audited FS BHIT 31 Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BHIT/Audited FS BHIT 31 Desember 2022.pdf",
+          "File_Size": 6369992,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT MNC Asia Holding Tbk"
+        },
+        {
+          "Emiten_Code": "BHIT",
+          "File_ID": "668ccdff-f51d-4c2c-8ea4-84b58e837187",
+          "File_Modified": "2023-04-03T19:37:42.663",
+          "File_Name": "AnnualReport2022-BHIT-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/9dd77fbaa3_d8bdf87368.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT MNC Asia Holding Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TOWR",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TOWR",
+      "File_Modified": "2024-04-02T10:45:18.277",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Sarana Menara Nusantara Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "285f0499-4208-47f8-83b2-03201df87b14",
+          "File_Modified": "2024-04-02T10:45:18.277",
+          "File_Name": "SMN_bilingual_31_des_2023_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOWR/SMN_bilingual_31_des_2023_released.pdf",
+          "File_Size": 2308623,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "04c1e66f-e83e-49a5-a9aa-46558e366797",
+          "File_Modified": "2024-04-02T10:45:18.277",
+          "File_Name": "FinancialStatement-2023-Tahunan-TOWR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOWR/FinancialStatement-2023-Tahunan-TOWR.pdf",
+          "File_Size": 724835,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "8c1c8aa4-11b4-4b28-a490-437702971179",
+          "File_Modified": "2024-04-02T10:45:18.277",
+          "File_Name": "AnnualReport2023-TOWR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/ef7e48d18a_64bde70501.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "2d56aec8-5ff5-428f-8169-af515008f6d6",
+          "File_Modified": "2024-04-02T10:45:18.277",
+          "File_Name": "FinancialStatement-2023-Tahunan-TOWR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOWR/FinancialStatement-2023-Tahunan-TOWR.xlsx",
+          "File_Size": 362243,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "85fc7a6f-c959-4aa0-85d6-15997c5499b2",
+          "File_Modified": "2024-04-02T10:45:18.277",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOWR/instance.zip",
+          "File_Size": 134748,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "613140c4-dc59-4d56-ad7d-839f71a2a0de",
+          "File_Modified": "2024-04-02T10:45:18.277",
+          "File_Name": "AnnualReport2023-TOWR-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/d4f9a14ae7_34f47c903e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "f4566e24-a484-4860-a72c-cdae985be92b",
+          "File_Modified": "2024-04-02T10:45:18.277",
+          "File_Name": "AnnualReport2023-TOWR.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7b66e2b45e_acb5691fe9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "8b05b9a5-db96-4807-919d-d7dd1486c887",
+          "File_Modified": "2024-04-02T10:45:18.277",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOWR/inlineXBRL.zip",
+          "File_Size": 263760,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        }
+      ]
+    }
+  ]
+}

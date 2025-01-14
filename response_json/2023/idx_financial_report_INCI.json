@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "INCI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "INCI",
+      "File_Modified": "2024-04-01T15:59:12.073",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Intanwijaya Internasional Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "1fdd82bb-76be-464a-85f4-17d6475e5675",
+          "File_Modified": "2024-04-01T15:59:12.073",
+          "File_Name": "FinancialStatement-2023-Tahunan-INCI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INCI/FinancialStatement-2023-Tahunan-INCI.xlsx",
+          "File_Size": 368497,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "eb6b4687-856a-4fc0-b435-1ff279cf04e3",
+          "File_Modified": "2024-04-01T15:59:12.073",
+          "File_Name": "FinancialStatement-2023-Tahunan-INCI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INCI/FinancialStatement-2023-Tahunan-INCI.pdf",
+          "File_Size": 731289,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "c489011a-0479-45bb-907b-45fdd1992fd5",
+          "File_Modified": "2024-04-01T15:59:12.073",
+          "File_Name": "Surat Pengantar BEI 31 DES 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INCI/Surat Pengantar BEI 31 DES 2023.pdf",
+          "File_Size": 163090,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "1e237853-083d-4013-9821-99c661948bdf",
+          "File_Modified": "2024-04-01T15:59:12.073",
+          "File_Name": "Final Report PT IWI 31 Des 2023 Compress (3).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INCI/Final Report PT IWI 31 Des 2023 Compress (3).pdf",
+          "File_Size": 2559049,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "7f879094-71f6-49e1-a2fb-dbdecd9bb241",
+          "File_Modified": "2024-04-01T15:59:12.073",
+          "File_Name": "AnnualReport2023-INCI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/3541bd5b3a_3878bb43cd.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "104f5da7-7b7d-4e7e-acfb-dcb87ab62a03",
+          "File_Modified": "2024-04-01T15:59:12.073",
+          "File_Name": "AnnualReport2023-INCI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/de7dfe21bf_8f60aaa52e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "d31b2c66-819b-4781-9756-05d8fb452dfe",
+          "File_Modified": "2024-04-01T15:59:12.073",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INCI/instance.zip",
+          "File_Size": 135932,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "8184315a-bf40-45de-ab59-63d351500720",
+          "File_Modified": "2024-04-01T15:59:12.073",
+          "File_Name": "AnnualReport2023-INCI-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/ee6e918fdd_15b61bf205.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "1f6a83e2-debe-445c-a170-8a0f85549559",
+          "File_Modified": "2024-04-01T15:59:12.073",
+          "File_Name": "Surat Pengantar OJK 31 DES 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INCI/Surat Pengantar OJK 31 DES 2023.pdf",
+          "File_Size": 124782,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "d680991d-c54e-49df-99e2-9067286f4047",
+          "File_Modified": "2024-04-01T15:59:12.073",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INCI/inlineXBRL.zip",
+          "File_Size": 268835,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "82fb67ad-70bd-44dc-abff-725fd0e117df",
+          "File_Modified": "2024-04-01T15:59:12.073",
+          "File_Name": "Laporan Perubahan 20 BEI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INCI/Laporan Perubahan 20 BEI.pdf",
+          "File_Size": 247691,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "INCI",
+          "File_ID": "caf52f71-0218-48fd-8e6e-a304df05fcff",
+          "File_Modified": "2024-04-01T15:59:12.073",
+          "File_Name": "Laporan Perubahan 20 OJK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/INCI/Laporan Perubahan 20 OJK.pdf",
+          "File_Size": 248497,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Intanwijaya Internasional Tbk"
+        }
+      ]
+    }
+  ]
+}

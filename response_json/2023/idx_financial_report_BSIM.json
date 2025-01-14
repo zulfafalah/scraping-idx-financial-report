@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BSIM",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BSIM",
+      "File_Modified": "2024-03-30T12:17:50.163",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Bank Sinarmas Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "e5982bf2-4a62-4ced-af68-7616fcd0146c",
+          "File_Modified": "2024-03-30T12:17:50.163",
+          "File_Name": "AnnualReport2023-BSIM.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/99929396a1_ce66832133.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "da875f67-7195-437e-8dcb-e771cc3ed09c",
+          "File_Modified": "2024-03-30T12:17:50.163",
+          "File_Name": "AnnualReport2023-BSIM-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/b574309044_37426545fd.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "dd62bc8e-c5a5-45d8-9474-e8335e037706",
+          "File_Modified": "2024-03-30T12:17:50.163",
+          "File_Name": "BSIM_LKT_2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BSIM/BSIM_LKT_2023.pdf",
+          "File_Size": 6605427,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "5846cd37-e800-446e-ab1e-951cfbc0e2ea",
+          "File_Modified": "2024-03-30T12:17:50.163",
+          "File_Name": "Surat Pengantar.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BSIM/Surat Pengantar.pdf",
+          "File_Size": 444073,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "dfcf61e7-1035-4294-b0f1-059b3d5ce79c",
+          "File_Modified": "2024-03-30T12:17:50.163",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BSIM/instance.zip",
+          "File_Size": 57294,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "cc159d05-60dc-4e3b-8a13-84134a8def63",
+          "File_Modified": "2024-03-30T12:17:50.163",
+          "File_Name": "AnnualReport2023-BSIM-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/9923b40c69_768bc1b5ca.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "f5653338-48ab-4e5c-bfd6-e4be40ea1255",
+          "File_Modified": "2024-03-30T12:17:50.163",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BSIM/inlineXBRL.zip",
+          "File_Size": 133355,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "6c953db1-9fdb-495a-b1b4-111534fa66fd",
+          "File_Modified": "2024-03-30T12:17:50.163",
+          "File_Name": "FinancialStatement-2023-Tahunan-BSIM.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BSIM/FinancialStatement-2023-Tahunan-BSIM.xlsx",
+          "File_Size": 173970,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "884ba457-0cb7-4029-bc1c-7a05bc12b7ca",
+          "File_Modified": "2024-03-30T12:17:50.163",
+          "File_Name": "Surat Pernyataan Direksi - 31 Des 2023 OK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BSIM/Surat Pernyataan Direksi - 31 Des 2023 OK.pdf",
+          "File_Size": 2147013,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "d9da8b2a-7ccc-46dc-ac66-7faf62c5a699",
+          "File_Modified": "2024-03-30T12:17:50.163",
+          "File_Name": "FinancialStatement-2023-Tahunan-BSIM.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BSIM/FinancialStatement-2023-Tahunan-BSIM.pdf",
+          "File_Size": 265729,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        }
+      ]
+    }
+  ]
+}

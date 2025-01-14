@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BISI",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BISI",
+      "File_Modified": "2023-04-09T13:55:28.927",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "BISI INTERNATIONAL Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "c13f5e89-c5f2-4f89-9aae-190696d6bfe9",
+          "File_Modified": "2023-04-09T13:55:28.927",
+          "File_Name": "AnnualReport2022-BISI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/005e710ef7_af245b3747.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "c53af934-de54-4551-a183-d9cfed4b88f2",
+          "File_Modified": "2023-04-09T13:55:28.927",
+          "File_Name": "FinancialStatement-2022-Tahunan-BISI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BISI/FinancialStatement-2022-Tahunan-BISI.pdf",
+          "File_Size": 161131,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "7b2f49b9-e927-4877-b227-f44edd078eec",
+          "File_Modified": "2023-04-09T13:55:28.927",
+          "File_Name": "FinancialStatement-2022-Tahunan-BISI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BISI/FinancialStatement-2022-Tahunan-BISI.xlsx",
+          "File_Size": 1176770,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "bbe1efdd-7b1a-4c0a-9a44-65f146c91bb5",
+          "File_Modified": "2023-04-09T13:55:28.927",
+          "File_Name": "BISI-Check List 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BISI/BISI-Check List 2022.pdf",
+          "File_Size": 1188210,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "1c69bb24-f5f7-4f97-9d60-6607e32211e2",
+          "File_Modified": "2023-04-09T13:55:28.927",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BISI/inlineXBRL.zip",
+          "File_Size": 127686,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "0273cb9d-ebab-4e73-ac79-241228690de8",
+          "File_Modified": "2023-04-09T13:55:28.927",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BISI/instance.zip",
+          "File_Size": 168162,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "449f5bdd-9b3a-489c-8d90-4a43656606c9",
+          "File_Modified": "2023-04-09T13:55:28.927",
+          "File_Name": "BISI-221231IE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BISI/BISI-221231IE.pdf",
+          "File_Size": 1238929,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        },
+        {
+          "Emiten_Code": "BISI",
+          "File_ID": "c0022567-2795-4df9-b54a-feace69ec47b",
+          "File_Modified": "2023-04-09T13:55:28.927",
+          "File_Name": "002 BISI-OJK III 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BISI/002 BISI-OJK III 2023.pdf",
+          "File_Size": 265237,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "BISI INTERNATIONAL Tbk"
+        }
+      ]
+    }
+  ]
+}

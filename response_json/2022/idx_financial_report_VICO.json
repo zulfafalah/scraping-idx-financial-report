@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "VICO",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "VICO",
+      "File_Modified": "2023-05-31T11:14:37.353",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Victoria Investama Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "VICO",
+          "File_ID": "cf1ba67f-570b-4df2-bea5-0d5ce3ef3eeb",
+          "File_Modified": "2023-05-31T11:14:37.353",
+          "File_Name": "PT VICTORIA INVESTAMA TBK DAN EA 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VICO/PT VICTORIA INVESTAMA TBK DAN EA 31 Des 2022.pdf",
+          "File_Size": 9206070,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Victoria Investama Tbk."
+        },
+        {
+          "Emiten_Code": "VICO",
+          "File_ID": "fdb8d431-20ba-4a71-b4d8-61792901f710",
+          "File_Modified": "2023-05-31T11:14:37.353",
+          "File_Name": "FinancialStatement-2022-Tahunan-VICO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VICO/FinancialStatement-2022-Tahunan-VICO.pdf",
+          "File_Size": 112353,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Victoria Investama Tbk."
+        },
+        {
+          "Emiten_Code": "VICO",
+          "File_ID": "a0d55644-40e5-45b0-b485-697d64eabf9e",
+          "File_Modified": "2023-05-31T11:14:37.353",
+          "File_Name": "AnnualReport2022-VICO.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/844dbf2778_2b4b8227b7.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Victoria Investama Tbk."
+        },
+        {
+          "Emiten_Code": "VICO",
+          "File_ID": "c4f33240-0f23-4a85-b528-70e35e7a34da",
+          "File_Modified": "2023-05-31T11:14:37.353",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VICO/inlineXBRL.zip",
+          "File_Size": 110655,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Victoria Investama Tbk."
+        },
+        {
+          "Emiten_Code": "VICO",
+          "File_ID": "50d3149f-63fe-4d3b-b1a5-714ba1bbbf13",
+          "File_Modified": "2023-05-31T11:14:37.353",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VICO/instance.zip",
+          "File_Size": 89389,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Victoria Investama Tbk."
+        },
+        {
+          "Emiten_Code": "VICO",
+          "File_ID": "a1eb7317-5359-4d1b-9469-ac93574d207a",
+          "File_Modified": "2023-05-31T11:14:37.353",
+          "File_Name": "AnnualReport2022-VICO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/33d8b100cc_f7d962674e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Victoria Investama Tbk."
+        },
+        {
+          "Emiten_Code": "VICO",
+          "File_ID": "574c3929-43d4-4540-969f-b932f567b409",
+          "File_Modified": "2023-05-31T11:14:37.353",
+          "File_Name": "FinancialStatement-2022-Tahunan-VICO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VICO/FinancialStatement-2022-Tahunan-VICO.xlsx",
+          "File_Size": 579145,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Victoria Investama Tbk."
+        },
+        {
+          "Emiten_Code": "VICO",
+          "File_ID": "29b3e833-4cc1-4305-ba34-f5fb94cac4e4",
+          "File_Modified": "2023-05-31T11:14:37.353",
+          "File_Name": "Q4 Surat Penyampaian Laporan Keuangan VICO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VICO/Q4 Surat Penyampaian Laporan Keuangan VICO.pdf",
+          "File_Size": 166335,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Victoria Investama Tbk."
+        },
+        {
+          "Emiten_Code": "VICO",
+          "File_ID": "f57917a4-8bf1-4087-9081-2f94472c6c90",
+          "File_Modified": "2023-05-31T11:14:37.353",
+          "File_Name": "AnnualReport2022-VICO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202306/33d8b100cc_f7d962674e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Victoria Investama Tbk."
+        },
+        {
+          "Emiten_Code": "VICO",
+          "File_ID": "655394ac-3927-4b80-99dd-645c0047026a",
+          "File_Modified": "2023-05-31T11:14:37.353",
+          "File_Name": "SPD PT Victoria Investama Tbk dan Entitas Anak.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/VICO/SPD PT Victoria Investama Tbk dan Entitas Anak.pdf",
+          "File_Size": 166193,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Victoria Investama Tbk."
+        }
+      ]
+    }
+  ]
+}

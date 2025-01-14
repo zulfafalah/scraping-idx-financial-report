@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GTRA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GTRA",
+      "File_Modified": "2024-03-26T20:35:11.767",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "fb170a4d-37e2-4aa9-a846-304c7305754a",
+          "File_Modified": "2024-03-26T20:35:11.767",
+          "File_Name": "GTRA_Surat Pernyataan Direksi 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GTRA/GTRA_Surat Pernyataan Direksi 31 Des 2023.pdf",
+          "File_Size": 542857,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "042bdbbd-df6d-46a9-9aa8-584bfbb4fcec",
+          "File_Modified": "2024-03-26T20:35:11.767",
+          "File_Name": "FinancialStatement-2023-Tahunan-GTRA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GTRA/FinancialStatement-2023-Tahunan-GTRA.pdf",
+          "File_Size": 758453,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "45f17fee-1d66-43b1-9a0a-27ce1180c368",
+          "File_Modified": "2024-03-26T20:35:11.767",
+          "File_Name": "AnnualReport2023-GTRA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/5291ad3dd6_4d4869ba65.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "a21b9875-b37a-467b-91fa-839d609b8c32",
+          "File_Modified": "2024-03-26T20:35:11.767",
+          "File_Name": "FinancialStatement-2023-Tahunan-GTRA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GTRA/FinancialStatement-2023-Tahunan-GTRA.xlsx",
+          "File_Size": 144468,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "49e69191-a984-44b3-a660-e14c29e54c0c",
+          "File_Modified": "2024-03-26T20:35:11.767",
+          "File_Name": "GTRA - LK Audited 31 Des 2023 - Final.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GTRA/GTRA - LK Audited 31 Des 2023 - Final.pdf",
+          "File_Size": 3074952,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "03407764-a578-4d90-94d1-25e0bf76e107",
+          "File_Modified": "2024-03-26T20:35:11.767",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GTRA/inlineXBRL.zip",
+          "File_Size": 274691,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "8e48d5e5-be34-4a3b-b326-4846fdf63add",
+          "File_Modified": "2024-03-26T20:35:11.767",
+          "File_Name": "AnnualReport2023-GTRA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/e8b86a557c_240d10eafa.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "ee8227d2-7325-4ace-a5f2-85cc41a950a4",
+          "File_Modified": "2024-03-26T20:35:11.767",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GTRA/instance.zip",
+          "File_Size": 142205,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "0fab6b1f-c5a9-43a3-a4b6-2525f8cca9b1",
+          "File_Modified": "2024-03-26T20:35:11.767",
+          "File_Name": "AnnualReport2023-GTRA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f24c07b18b_ef305e39f3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        },
+        {
+          "Emiten_Code": "GTRA",
+          "File_ID": "ba46a958-4269-4ab7-9d4c-727cbb95ce04",
+          "File_Modified": "2024-03-26T20:35:11.767",
+          "File_Name": "GTRA_Penjelasan Perubahan Lebih dari 20 Persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/GTRA/GTRA_Penjelasan Perubahan Lebih dari 20 Persen.pdf",
+          "File_Size": 992682,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Grahaprima Suksesmandiri Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AMMS",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AMMS",
+      "File_Modified": "2023-04-11T16:05:18.307",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Agung Menjangan Mas Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "198019db-a9c9-4130-951e-b472d8c04580",
+          "File_Modified": "2023-04-11T16:05:18.307",
+          "File_Name": "Final PT AMM 31 DESEMBER 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMMS/Final PT AMM 31 DESEMBER 2022.pdf",
+          "File_Size": 3299292,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "0613d2fe-57f6-4a46-a06f-e034a68011fe",
+          "File_Modified": "2023-04-11T16:05:18.307",
+          "File_Name": "Srt perubahan Kenaikan Total aset dan Liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMMS/Srt perubahan Kenaikan Total aset dan Liabilitas.pdf",
+          "File_Size": 201140,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "5f59762c-5dd4-49eb-af6e-e3ec11df1828",
+          "File_Modified": "2023-04-11T16:05:18.307",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMMS/inlineXBRL.zip",
+          "File_Size": 147336,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "df5b59db-73df-42ec-8d45-13398c9850b6",
+          "File_Modified": "2023-04-11T16:05:18.307",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMMS/instance.zip",
+          "File_Size": 180600,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "ae0bc12c-5722-44e8-85ac-35032f1a352e",
+          "File_Modified": "2023-04-11T16:05:18.307",
+          "File_Name": "FinancialStatement-2022-Tahunan-AMMS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMMS/FinancialStatement-2022-Tahunan-AMMS.xlsx",
+          "File_Size": 1181454,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "d8b1a1f6-0dac-4c53-ae91-4cd04dc43b28",
+          "File_Modified": "2023-04-11T16:05:18.307",
+          "File_Name": "FinancialStatement-2022-Tahunan-AMMS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMMS/FinancialStatement-2022-Tahunan-AMMS.pdf",
+          "File_Size": 82944,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "cc0c7a8b-0df5-42c7-8974-549772bd726b",
+          "File_Modified": "2023-04-11T16:05:18.307",
+          "File_Name": "Srt pernyataan direksi Lap Keuangan 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMMS/Srt pernyataan direksi Lap Keuangan 31 Des 2022.pdf",
+          "File_Size": 202909,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        },
+        {
+          "Emiten_Code": "AMMS",
+          "File_ID": "51401b03-b91b-4ad8-9f55-f34e57643076",
+          "File_Modified": "2023-04-11T16:05:18.307",
+          "File_Name": "AnnualReport2022-AMMS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/ba516ddbc9_a06f68a6c2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Menjangan Mas Tbk"
+        }
+      ]
+    }
+  ]
+}

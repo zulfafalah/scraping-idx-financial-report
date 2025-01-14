@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "RELI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "RELI",
+      "File_Modified": "2024-04-05T14:38:06.053",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Reliance Sekuritas Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "c5615954-73a7-4184-b6d7-1df0390f7ab0",
+          "File_Modified": "2024-04-05T14:38:06.053",
+          "File_Name": "Revisi Lap Keu 2023 Audited RELI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RELI/Revisi Lap Keu 2023 Audited RELI.pdf",
+          "File_Size": 4999345,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "cca98f7e-a589-46b7-a306-3565fcb61cf3",
+          "File_Modified": "2024-04-05T14:38:06.053",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RELI/inlineXBRL.zip",
+          "File_Size": 136664,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "a4c45539-62ee-4539-82e0-d467e7cfa428",
+          "File_Modified": "2024-04-05T14:38:06.053",
+          "File_Name": "FinancialStatement-2023-Tahunan-RELI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RELI/FinancialStatement-2023-Tahunan-RELI.xlsx",
+          "File_Size": 133146,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "112191bc-83b5-4e5b-967b-a945126b51a7",
+          "File_Modified": "2024-04-05T14:38:06.053",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RELI/instance.zip",
+          "File_Size": 79364,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "acf0148f-182e-4057-8d4d-19cb0374f7ae",
+          "File_Modified": "2024-04-05T14:38:06.053",
+          "File_Name": "FinancialStatement-2023-Tahunan-RELI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RELI/FinancialStatement-2023-Tahunan-RELI.pdf",
+          "File_Size": 324340,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "235c0810-5180-4e13-a63a-6e536ca98d8f",
+          "File_Modified": "2024-04-05T14:38:06.053",
+          "File_Name": "Surat pernyataan Direksi LS Tahun 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RELI/Surat pernyataan Direksi LS Tahun 2023.pdf",
+          "File_Size": 6898225,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "9471c0ae-a866-46fc-a23d-6e5ed4504b21",
+          "File_Modified": "2024-04-05T14:38:06.053",
+          "File_Name": "Surat Revisi Lap Keu-PT Bursa Efek Indonesia.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RELI/Surat Revisi Lap Keu-PT Bursa Efek Indonesia.pdf",
+          "File_Size": 163087,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "c52c2e1d-ad5c-41cc-9a8f-55a4034bb544",
+          "File_Modified": "2024-04-05T14:38:06.053",
+          "File_Name": "Lap Keu 2023 Audited RELI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RELI/Lap Keu 2023 Audited RELI.pdf",
+          "File_Size": 4888564,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "4b6f3ae5-1661-4823-b119-bfc6ec7bafe5",
+          "File_Modified": "2024-04-05T14:38:06.053",
+          "File_Name": "AnnualReport2023-RELI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/3d25fc5266_d18f7f7473.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "RELI",
+          "File_ID": "a432162c-03c2-4d18-9e13-fd86c265915b",
+          "File_Modified": "2024-04-05T14:38:06.053",
+          "File_Name": "AnnualReport2023-RELI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/d4636dd5f7_8231b00740.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Reliance Sekuritas Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

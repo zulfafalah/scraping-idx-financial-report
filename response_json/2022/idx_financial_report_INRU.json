@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "INRU",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "INRU",
+      "File_Modified": "2023-04-06T18:48:09.29",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Toba Pulp Lestari Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "6f360a2e-b527-4c0c-8f04-241d4de1d385",
+          "File_Modified": "2023-04-06T18:48:09.29",
+          "File_Name": "AnnualReport2022-INRU-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/4c463f6e9b_b0d0d07aa2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        },
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "b2f5536a-cac8-4645-a36c-5d9383e08fc6",
+          "File_Modified": "2023-04-06T18:48:09.29",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/INRU/inlineXBRL.zip",
+          "File_Size": 182249,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        },
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "3573a260-10c5-4642-a22e-c24efcf1fad5",
+          "File_Modified": "2023-04-06T18:48:09.29",
+          "File_Name": "Surat Pernyataan Direksi 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/INRU/Surat Pernyataan Direksi 2022.pdf",
+          "File_Size": 703715,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        },
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "65b440cb-fd60-4f29-9045-feab8a7c0ae6",
+          "File_Modified": "2023-04-06T18:48:09.29",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/INRU/instance.zip",
+          "File_Size": 189639,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        },
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "f39b6ab5-4d27-4311-b9b6-35105d0c084e",
+          "File_Modified": "2023-04-06T18:48:09.29",
+          "File_Name": "FinancialStatement-2022-Tahunan-INRU.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/INRU/FinancialStatement-2022-Tahunan-INRU.xlsx",
+          "File_Size": 1188146,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        },
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "18aeb546-046e-4ed6-9a86-0b6da1c08b82",
+          "File_Modified": "2023-04-06T18:48:09.29",
+          "File_Name": "FinancialStatement-2022-Tahunan-INRU.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/INRU/FinancialStatement-2022-Tahunan-INRU.pdf",
+          "File_Size": 153886,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        },
+        {
+          "Emiten_Code": "INRU",
+          "File_ID": "15bb41a7-0ebc-4d51-8f15-5c83cbd2d3da",
+          "File_Modified": "2023-04-06T18:48:09.29",
+          "File_Name": "Laporan Tahunan 2022 INRU.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/INRU/Laporan Tahunan 2022 INRU.pdf",
+          "File_Size": 7505123,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Toba Pulp Lestari Tbk"
+        }
+      ]
+    }
+  ]
+}

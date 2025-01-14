@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "JAYA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "JAYA",
+      "File_Modified": "2024-03-28T11:52:49.903",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Armada Berjaya Trans Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "0e07f5b5-f19f-43a9-a916-b164d664c0c4",
+          "File_Modified": "2024-03-28T11:52:49.903",
+          "File_Name": "AnnualReport2023-JAYA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/25b30a61ad_90219deb0a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "7205af8c-d2cf-48a8-a79f-e7f4db4a7eb5",
+          "File_Modified": "2024-03-28T11:52:49.903",
+          "File_Name": "SPD-27-03-24.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAYA/SPD-27-03-24.pdf",
+          "File_Size": 2941546,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "7824c9e8-62ba-4f1c-bb5c-6cd797a92784",
+          "File_Modified": "2024-03-28T11:52:49.903",
+          "File_Name": "ABT-003-III-2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAYA/ABT-003-III-2024.pdf",
+          "File_Size": 1290349,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "130c0651-69a3-4237-ba22-a46468f8896b",
+          "File_Modified": "2024-03-28T11:52:49.903",
+          "File_Name": "AnnualReport2023-JAYA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/75e0e2b26e_8b250b50e8.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "70f68965-0bb1-4876-a356-0090fbf83c94",
+          "File_Modified": "2024-03-28T11:52:49.903",
+          "File_Name": "JAYA-LKT 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAYA/JAYA-LKT 31 Des 2023.pdf",
+          "File_Size": 2938844,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "1fee1797-9074-48bc-b70a-8c6bfaa69362",
+          "File_Modified": "2024-03-28T11:52:49.903",
+          "File_Name": "WEB-JAYA-LKT 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAYA/WEB-JAYA-LKT 2023.pdf",
+          "File_Size": 105027,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "b81b26e4-4c38-4e2f-bab6-b8ce6328e114",
+          "File_Modified": "2024-03-28T11:52:49.903",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAYA/instance.zip",
+          "File_Size": 119033,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "c94dab28-32c8-4ec7-a3e6-e9c88e25e283",
+          "File_Modified": "2024-03-28T11:52:49.903",
+          "File_Name": "Checklist Laporan Keuangan JAYA 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAYA/Checklist Laporan Keuangan JAYA 31 Des 2023.pdf",
+          "File_Size": 1320296,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "256775ec-78e3-456c-96f5-12f9fd7a6ee2",
+          "File_Modified": "2024-03-28T11:52:49.903",
+          "File_Name": "FinancialStatement-2023-Tahunan-JAYA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAYA/FinancialStatement-2023-Tahunan-JAYA.pdf",
+          "File_Size": 669547,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "128ed7bb-42f1-4e38-91fe-4cdfdad2267f",
+          "File_Modified": "2024-03-28T11:52:49.903",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAYA/inlineXBRL.zip",
+          "File_Size": 235165,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "87eda290-2f63-4f0d-bb4b-e51dbafc75b7",
+          "File_Modified": "2024-03-28T11:52:49.903",
+          "File_Name": "FinancialStatement-2023-Tahunan-JAYA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JAYA/FinancialStatement-2023-Tahunan-JAYA.xlsx",
+          "File_Size": 329886,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        }
+      ]
+    }
+  ]
+}

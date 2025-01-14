@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "POWR",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "POWR",
+      "File_Modified": "2024-03-04T13:59:31.477",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Cikarang Listrindo Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "32fc80ff-9bb7-4ccd-9113-4138271ee2b8",
+          "File_Modified": "2024-03-04T13:59:31.477",
+          "File_Name": "AnnualReport2023-POWR-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/c04b98015c_e12553e187.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "89e30598-bdf0-4364-bdf3-e3d2fd6439ee",
+          "File_Modified": "2024-03-04T13:59:31.477",
+          "File_Name": "AnnualReport2023-POWR.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/f48ec1ffe5_c8695af394.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "0d9e3975-16aa-449e-b640-005f6491dc1d",
+          "File_Modified": "2024-03-04T13:59:31.477",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/POWR/instance.zip",
+          "File_Size": 130759,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "946760b0-2d30-4ca0-b6d2-b34cd49a51cb",
+          "File_Modified": "2024-03-04T13:59:31.477",
+          "File_Name": "AnnualReport2023-POWR-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/b194f533ff_5c7fd9eace.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "d53f79e7-90a0-4c4d-8afb-ee491e2ea4b6",
+          "File_Modified": "2024-03-04T13:59:31.477",
+          "File_Name": "FinancialStatement-2023-Tahunan-POWR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/POWR/FinancialStatement-2023-Tahunan-POWR.pdf",
+          "File_Size": 685405,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "a7271aea-9c61-4ba0-a486-1a23fc371f69",
+          "File_Modified": "2024-03-04T13:59:31.477",
+          "File_Name": "0008 POWR Laporan Keuangan FY23.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/POWR/0008 POWR Laporan Keuangan FY23.pdf",
+          "File_Size": 1712135,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "3a523165-d3cf-4543-a6ea-21f37db6bc37",
+          "File_Modified": "2024-03-04T13:59:31.477",
+          "File_Name": "FinancialStatement-2023-Tahunan-POWR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/POWR/FinancialStatement-2023-Tahunan-POWR.xlsx",
+          "File_Size": 342424,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        },
+        {
+          "Emiten_Code": "POWR",
+          "File_ID": "3d378819-8771-48f4-ac61-bc2aa32f47f4",
+          "File_Modified": "2024-03-04T13:59:31.477",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/POWR/inlineXBRL.zip",
+          "File_Size": 246784,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cikarang Listrindo Tbk."
+        }
+      ]
+    }
+  ]
+}

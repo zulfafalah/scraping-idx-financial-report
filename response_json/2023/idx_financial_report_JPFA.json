@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "JPFA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "JPFA",
+      "File_Modified": "2024-03-01T17:23:51.617",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "JAPFA Comfeed Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "JPFA",
+          "File_ID": "c26a2bba-a191-4997-ab43-0ecedfc5393e",
+          "File_Modified": "2024-03-01T17:23:51.617",
+          "File_Name": "FinancialStatement-2023-Tahunan-JPFA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JPFA/FinancialStatement-2023-Tahunan-JPFA.xlsx",
+          "File_Size": 353576,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "JAPFA Comfeed Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "JPFA",
+          "File_ID": "1a80a9e2-cda2-4657-ab40-f664df952492",
+          "File_Modified": "2024-03-01T17:23:51.617",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JPFA/instance.zip",
+          "File_Size": 126158,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "JAPFA Comfeed Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "JPFA",
+          "File_ID": "9a516ae1-7b54-4bcc-aff3-3d7122300991",
+          "File_Modified": "2024-03-01T17:23:51.617",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JPFA/inlineXBRL.zip",
+          "File_Size": 259331,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "JAPFA Comfeed Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "JPFA",
+          "File_ID": "671bb62c-f7b8-4351-9fcf-65308e44d1ba",
+          "File_Modified": "2024-03-01T17:23:51.617",
+          "File_Name": "AnnualReport2023-JPFA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/435f128d5b_157726c1f4.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "JAPFA Comfeed Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "JPFA",
+          "File_ID": "28c447f0-5910-40d5-8ebd-422a4f0dfcf2",
+          "File_Modified": "2024-03-01T17:23:51.617",
+          "File_Name": "FinancialStatement-2023-Tahunan-JPFA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JPFA/FinancialStatement-2023-Tahunan-JPFA.pdf",
+          "File_Size": 724694,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "JAPFA Comfeed Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "JPFA",
+          "File_ID": "9acc4690-b597-41e5-8575-6fc546190421",
+          "File_Modified": "2024-03-01T17:23:51.617",
+          "File_Name": "AnnualReport2023-JPFA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202403/f0c64489ee_d8f6503e55.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "JAPFA Comfeed Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "JPFA",
+          "File_ID": "d98ad482-478e-4d4d-a782-ed08eda5bedb",
+          "File_Modified": "2024-03-01T17:23:51.617",
+          "File_Name": "PT Japfa Tbk CFS as of 31 December 2023-Audited.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JPFA/PT Japfa Tbk CFS as of 31 December 2023-Audited.pdf",
+          "File_Size": 1659077,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "JAPFA Comfeed Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "JPFA",
+          "File_ID": "8b7e8450-798e-4140-aa3a-f52b79d1deeb",
+          "File_Modified": "2024-03-01T17:23:51.617",
+          "File_Name": "SPD 31 Dec 23 - PT Japfa Comfeed Indonesia Tbk.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/JPFA/SPD 31 Dec 23 - PT Japfa Comfeed Indonesia Tbk.pdf",
+          "File_Size": 617510,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "JAPFA Comfeed Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

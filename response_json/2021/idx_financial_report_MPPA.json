@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MPPA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MPPA",
+      "File_Modified": "2022-03-31T20:37:36.073",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Matahari Putra Prima Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "d65cc4f6-1257-4306-9f20-1e1cee9224db",
+          "File_Modified": "2022-03-31T20:37:36.073",
+          "File_Name": "Matahari Putra Prima GA 31 Dec 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MPPA/Matahari Putra Prima GA 31 Dec 2021.pdf",
+          "File_Size": 2565191,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "dbc92075-0ba1-405c-b5ab-3059cff7a295",
+          "File_Modified": "2022-03-31T20:37:36.073",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MPPA/instance.zip",
+          "File_Size": 28426,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "d1296a43-321a-4765-bcd4-5b7bc3d2d99b",
+          "File_Modified": "2022-03-31T20:37:36.073",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MPPA/inlineXBRL.zip",
+          "File_Size": 58121,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "6b94f4b1-ae3f-450a-8ea1-de20ed7a5824",
+          "File_Modified": "2022-03-31T20:37:36.073",
+          "File_Name": "033 Surat Pernyataan Direksi MPPA 31Des2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MPPA/033 Surat Pernyataan Direksi MPPA 31Des2021.pdf",
+          "File_Size": 587316,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "d22b2f3b-202e-4ef6-b2ca-a155ef6b125a",
+          "File_Modified": "2022-03-31T20:37:36.073",
+          "File_Name": "033 OJK IDX Penyampaian LapKeu Tahunan 31Des2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MPPA/033 OJK IDX Penyampaian LapKeu Tahunan 31Des2021.pdf",
+          "File_Size": 518039,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "97e1c5f2-1fe0-4de2-ab65-eacff57c9d69",
+          "File_Modified": "2022-03-31T20:37:36.073",
+          "File_Name": "033 CHECKLIST LK MPPA 31 12 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MPPA/033 CHECKLIST LK MPPA 31 12 2021.pdf",
+          "File_Size": 700853,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "1f73b6ad-d315-43be-b732-f32a96b4d1a4",
+          "File_Modified": "2022-03-31T20:37:36.073",
+          "File_Name": "FinancialStatement-2021-Tahunan-MPPA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MPPA/FinancialStatement-2021-Tahunan-MPPA.xlsx",
+          "File_Size": 158746,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        },
+        {
+          "Emiten_Code": "MPPA",
+          "File_ID": "e4f10d52-1db4-4fac-8074-52e91d2ed2d3",
+          "File_Modified": "2022-03-31T20:37:36.073",
+          "File_Name": "FinancialStatement-2021-Tahunan-MPPA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MPPA/FinancialStatement-2021-Tahunan-MPPA.pdf",
+          "File_Size": 46856,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Matahari Putra Prima Tbk"
+        }
+      ]
+    }
+  ]
+}

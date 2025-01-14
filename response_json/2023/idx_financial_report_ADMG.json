@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ADMG",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ADMG",
+      "File_Modified": "2024-05-13T09:59:16.01",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Polychem Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "f5318fe9-c8a5-4b99-8d92-ad2126054a5c",
+          "File_Modified": "2024-05-13T09:59:16.01",
+          "File_Name": "FinancialStatement-2023-Tahunan-ADMG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ADMG/FinancialStatement-2023-Tahunan-ADMG.pdf",
+          "File_Size": 732289,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "da27195a-bd54-44c9-9ee8-fc88df71a4f2",
+          "File_Modified": "2024-05-13T09:59:16.01",
+          "File_Name": "AnnualReport2023-ADMG.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/66064027fa_b50ceb9512.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "a354c489-93b3-42b2-b732-3602bf31e819",
+          "File_Modified": "2024-05-13T09:59:16.01",
+          "File_Name": "AnnualReport2023-ADMG-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/c2c61af485_d56e224348.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "ddb8cf7c-3606-4cad-aec8-a941f1b0d81f",
+          "File_Modified": "2024-05-13T09:59:16.01",
+          "File_Name": "FinancialStatement-2023-Tahunan-ADMG.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ADMG/FinancialStatement-2023-Tahunan-ADMG.xlsx",
+          "File_Size": 370244,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "de369b95-1376-4807-9aec-cbd301d9f09a",
+          "File_Modified": "2024-05-13T09:59:16.01",
+          "File_Name": "LK PT Polychem Indonesia Tbk - 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ADMG/LK PT Polychem Indonesia Tbk - 31 Desember 2023.pdf",
+          "File_Size": 4112591,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "c53ca281-880e-438d-9e3d-027dab7a6e26",
+          "File_Modified": "2024-05-13T09:59:16.01",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ADMG/instance.zip",
+          "File_Size": 131291,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "e7f642b0-94cb-47da-8884-06ed80d038d0",
+          "File_Modified": "2024-05-13T09:59:16.01",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ADMG/inlineXBRL.zip",
+          "File_Size": 267804,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "89ca7de0-be55-4c3e-a958-77f8e310ce79",
+          "File_Modified": "2024-05-13T09:59:16.01",
+          "File_Name": "Directors Statement ADMG  27 Maret 2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ADMG/Directors Statement ADMG  27 Maret 2024.pdf",
+          "File_Size": 433663,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "b4c5b54d-c595-4cde-8be9-8f4063f8510a",
+          "File_Modified": "2024-05-13T09:59:16.01",
+          "File_Name": "Cheklist LK PT Polychem Indonesia Tbk 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ADMG/Cheklist LK PT Polychem Indonesia Tbk 31 Des 2023.pdf",
+          "File_Size": 3401390,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "693a8a24-c315-4c5e-a448-b1deb0a3c5e1",
+          "File_Modified": "2024-05-13T09:59:16.01",
+          "File_Name": "Penjelasan Liabilitas LK ADMG 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ADMG/Penjelasan Liabilitas LK ADMG 31 Des 2023.pdf",
+          "File_Size": 601105,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "3daf09eb-b48f-4259-902c-140358397a52",
+          "File_Modified": "2024-05-13T09:59:16.01",
+          "File_Name": "AnnualReport2023-ADMG-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/647ad66bad_ee8b52e139.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "ADMG",
+          "File_ID": "f5bb80af-b939-440d-b539-e4cd332cb058",
+          "File_Modified": "2024-05-13T09:59:16.01",
+          "File_Name": "LK PT Polychem Indonesia Tbk 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ADMG/LK PT Polychem Indonesia Tbk 31 Desember 2023.pdf",
+          "File_Size": 4112591,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Polychem Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

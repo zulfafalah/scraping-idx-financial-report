@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TOWR",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TOWR",
+      "File_Modified": "2022-04-19T12:18:54.91",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Sarana Menara Nusantara Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "73e6b668-5f07-4e00-8b48-2464ddea5e3b",
+          "File_Modified": "2022-04-19T12:18:54.91",
+          "File_Name": "Penjelasan kenaikan 20 persen SMN Q4 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOWR/Penjelasan kenaikan 20 persen SMN Q4 2021.pdf",
+          "File_Size": 70557,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "ec0a8aa3-9521-423a-b62a-5a36db37963c",
+          "File_Modified": "2022-04-19T12:18:54.91",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOWR/inlineXBRL.zip",
+          "File_Size": 54572,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "048021b4-0f6d-48d3-900f-f70014313f00",
+          "File_Modified": "2022-04-19T12:18:54.91",
+          "File_Name": "sarana menara nusantara_31 dec 2021_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOWR/sarana menara nusantara_31 dec 2021_released.pdf",
+          "File_Size": 2841572,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "f347ea86-529e-4ea6-9077-aff51330ff12",
+          "File_Modified": "2022-04-19T12:18:54.91",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOWR/instance.zip",
+          "File_Size": 27539,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "8ba7fb9c-2cc9-43b2-b19f-d7c34f645a1e",
+          "File_Modified": "2022-04-19T12:18:54.91",
+          "File_Name": "FinancialStatement-2021-Tahunan-TOWR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOWR/FinancialStatement-2021-Tahunan-TOWR.xlsx",
+          "File_Size": 154594,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        },
+        {
+          "Emiten_Code": "TOWR",
+          "File_ID": "3d305e9b-f773-4307-9c6a-fb8061e546fd",
+          "File_Modified": "2022-04-19T12:18:54.91",
+          "File_Name": "FinancialStatement-2021-Tahunan-TOWR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOWR/FinancialStatement-2021-Tahunan-TOWR.pdf",
+          "File_Size": 65864,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Sarana Menara Nusantara Tbk"
+        }
+      ]
+    }
+  ]
+}

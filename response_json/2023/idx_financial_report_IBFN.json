@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IBFN",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IBFN",
+      "File_Modified": "2024-04-19T07:25:44.257",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Intan Baru Prana Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "b80347b3-cd5e-4c08-8833-33d5c84453f4",
+          "File_Modified": "2024-04-19T07:25:44.257",
+          "File_Name": "AnnualReport2023-IBFN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f93f7fd0ac_bf26516ff2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "fb35023d-fdab-434d-8e43-f800caf12d06",
+          "File_Modified": "2024-04-19T07:25:44.257",
+          "File_Name": "AnnualReport2023-IBFN.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/87a746a058_eded23ad0f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "c819ae26-61b4-40a3-8dff-810024b0cbf8",
+          "File_Modified": "2024-04-19T07:25:44.257",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IBFN/inlineXBRL.zip",
+          "File_Size": 270230,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "12ba8e56-66ec-4a38-ad0d-aa09a3e5bc87",
+          "File_Modified": "2024-04-19T07:25:44.257",
+          "File_Name": "FinancialStatement-2023-Tahunan-IBFN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IBFN/FinancialStatement-2023-Tahunan-IBFN.pdf",
+          "File_Size": 765683,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "485306cf-3aec-456f-916e-bddc3c993c95",
+          "File_Modified": "2024-04-19T07:25:44.257",
+          "File_Name": "Notes PT Intan Baru Prana Tbk 31 December 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IBFN/Notes PT Intan Baru Prana Tbk 31 December 2023.pdf",
+          "File_Size": 5699959,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "e6fde0cd-0d5b-401d-a874-0845a278d35f",
+          "File_Modified": "2024-04-19T07:25:44.257",
+          "File_Name": "AnnualReport2023-IBFN-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/dcbbd80a04_74d0f2a5b0.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "425484c3-c665-4a60-93e9-3724ba8dea64",
+          "File_Modified": "2024-04-19T07:25:44.257",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IBFN/instance.zip",
+          "File_Size": 135837,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        },
+        {
+          "Emiten_Code": "IBFN",
+          "File_ID": "06da2c15-bd18-4c50-877e-6d6c595de96c",
+          "File_Modified": "2024-04-19T07:25:44.257",
+          "File_Name": "FinancialStatement-2023-Tahunan-IBFN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/IBFN/FinancialStatement-2023-Tahunan-IBFN.xlsx",
+          "File_Size": 377786,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Intan Baru Prana Tbk"
+        }
+      ]
+    }
+  ]
+}

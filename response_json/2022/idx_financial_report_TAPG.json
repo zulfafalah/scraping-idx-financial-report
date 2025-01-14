@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TAPG",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TAPG",
+      "File_Modified": "2023-03-01T14:45:30.157",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Triputra Agro Persada Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "692cdeee-f199-4059-b5af-36d39a274298",
+          "File_Modified": "2023-03-01T14:45:30.157",
+          "File_Name": "FinancialStatement-2022-Tahunan-TAPG.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAPG/FinancialStatement-2022-Tahunan-TAPG.xlsx",
+          "File_Size": 1389270,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "81deeb59-ae49-45a5-b73c-2a9abe3342cd",
+          "File_Modified": "2023-03-01T14:45:30.157",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAPG/inlineXBRL.zip",
+          "File_Size": 235456,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "36f55cbc-3611-41dd-bdb1-31c8e174f608",
+          "File_Modified": "2023-03-01T14:45:30.157",
+          "File_Name": "Penyampaian TAPG LK Q4 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAPG/Penyampaian TAPG LK Q4 2022.pdf",
+          "File_Size": 379861,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "f3905e4d-b788-4805-b5a2-9bfeffd1f51f",
+          "File_Modified": "2023-03-01T14:45:30.157",
+          "File_Name": "TAPG LK Q4 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAPG/TAPG LK Q4 2022.pdf",
+          "File_Size": 1567119,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "09c318e5-fd5d-4a33-99cc-e3a6695291fe",
+          "File_Modified": "2023-03-01T14:45:30.157",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAPG/instance.zip",
+          "File_Size": 218812,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "c8f0a2d0-6aaa-47ed-9448-d009ca4902b9",
+          "File_Modified": "2023-03-01T14:45:30.157",
+          "File_Name": "AnnualReport2022-TAPG-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/f2bafee138_d15a54d736.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "bb0d2d23-6281-4e78-abb6-fab36a537ef2",
+          "File_Modified": "2023-03-01T14:45:30.157",
+          "File_Name": "FinancialStatement-2022-Tahunan-TAPG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TAPG/FinancialStatement-2022-Tahunan-TAPG.pdf",
+          "File_Size": 532322,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        }
+      ]
+    }
+  ]
+}

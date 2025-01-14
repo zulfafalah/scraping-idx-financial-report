@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BSIM",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BSIM",
+      "File_Modified": "2023-04-01T01:48:26.713",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Bank Sinarmas Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "d7304a4d-6095-4c55-8aba-5c5771a39663",
+          "File_Modified": "2023-04-01T01:48:26.713",
+          "File_Name": "FinancialStatement-2022-Tahunan-BSIM.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSIM/FinancialStatement-2022-Tahunan-BSIM.xlsx",
+          "File_Size": 579648,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "dc60d9dd-4b83-4f3e-81fd-70bdee55ea5a",
+          "File_Modified": "2023-04-01T01:48:26.713",
+          "File_Name": "AnnualReport2022-BSIM-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/07dde8f781_f89aea9a0a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "84f8f837-7b32-4c2a-913a-25a6b9dbf310",
+          "File_Modified": "2023-04-01T01:48:26.713",
+          "File_Name": "FinancialStatement-2022-Tahunan-BSIM.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSIM/FinancialStatement-2022-Tahunan-BSIM.pdf",
+          "File_Size": 166642,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "1029d834-70b8-47ec-9f01-7cc975a0fb0b",
+          "File_Modified": "2023-04-01T01:48:26.713",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSIM/inlineXBRL.zip",
+          "File_Size": 138272,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "2a76e00c-bbbf-4a54-9bfc-3d1283ac64e4",
+          "File_Modified": "2023-04-01T01:48:26.713",
+          "File_Name": "SPD - PT Bank Sinarmas Tbk 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSIM/SPD - PT Bank Sinarmas Tbk 2022.pdf",
+          "File_Size": 116274,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "f9458d84-3a0d-415b-aeac-9729cba67b68",
+          "File_Modified": "2023-04-01T01:48:26.713",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSIM/instance.zip",
+          "File_Size": 98437,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        },
+        {
+          "Emiten_Code": "BSIM",
+          "File_ID": "1bd9d347-d560-4d70-8b60-5ff4c61551db",
+          "File_Modified": "2023-04-01T01:48:26.713",
+          "File_Name": "Final Report - PT Bank Sinamas Tbk.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BSIM/Final Report - PT Bank Sinamas Tbk.pdf",
+          "File_Size": 2501249,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bank Sinarmas Tbk"
+        }
+      ]
+    }
+  ]
+}

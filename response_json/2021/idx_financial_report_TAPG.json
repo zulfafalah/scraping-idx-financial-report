@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TAPG",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TAPG",
+      "File_Modified": "2022-03-24T17:25:45.327",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Triputra Agro Persada Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "9e2d32ce-b8b2-44b9-9725-3e0c82d22936",
+          "File_Modified": "2022-03-24T17:25:45.327",
+          "File_Name": "FinancialStatement-2021-Tahunan-TAPG.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAPG/FinancialStatement-2021-Tahunan-TAPG.xlsx",
+          "File_Size": 163179,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "4c519c83-11a1-4f8b-8185-3e730fff0080",
+          "File_Modified": "2022-03-24T17:25:45.327",
+          "File_Name": "TAPG LK Tahunan 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAPG/TAPG LK Tahunan 2021.pdf",
+          "File_Size": 1762185,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "8040409a-01e5-4dbd-87f4-b7d096cdf063",
+          "File_Modified": "2022-03-24T17:25:45.327",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAPG/inlineXBRL.zip",
+          "File_Size": 58234,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "554a1046-9961-48cb-8b56-e164882c4727",
+          "File_Modified": "2022-03-24T17:25:45.327",
+          "File_Name": "Penyampaian TAPG LK Tahunan 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAPG/Penyampaian TAPG LK Tahunan 2021.pdf",
+          "File_Size": 371999,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "80de22f0-c531-4224-bc1e-3faa315e89d5",
+          "File_Modified": "2022-03-24T17:25:45.327",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAPG/instance.zip",
+          "File_Size": 31156,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TAPG",
+          "File_ID": "101d5f94-c227-498b-a304-bf7aa48f5ee5",
+          "File_Modified": "2022-03-24T17:25:45.327",
+          "File_Name": "FinancialStatement-2021-Tahunan-TAPG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAPG/FinancialStatement-2021-Tahunan-TAPG.pdf",
+          "File_Size": 204920,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Triputra Agro Persada Tbk."
+        }
+      ]
+    }
+  ]
+}

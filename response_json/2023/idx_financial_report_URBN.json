@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "URBN",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "URBN",
+      "File_Modified": "2024-08-21T14:37:56.023",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Urban Jakarta Propertindo Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "0f902050-a842-4c05-8ea3-284a83c0a52b",
+          "File_Modified": "2024-08-21T14:37:56.023",
+          "File_Name": "AnnualReport2023-URBN.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202406/2ff7cf0e5e_7f07e02fda.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "17f15611-ca7b-4920-9d7a-3ec11e701a2a",
+          "File_Modified": "2024-08-21T14:37:56.023",
+          "File_Name": "UJP Surat Penyampaian LK Interim Des23.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/URBN/UJP Surat Penyampaian LK Interim Des23.pdf",
+          "File_Size": 347866,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "26911ba0-5356-4bcb-971a-5e3814d6111d",
+          "File_Modified": "2024-08-21T14:37:56.023",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/URBN/instance.zip",
+          "File_Size": 123741,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "70b2cc74-4968-4d96-98e6-6d653b50c57b",
+          "File_Modified": "2024-08-21T14:37:56.023",
+          "File_Name": "FinancialStatement-2023-Tahunan-URBN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/URBN/FinancialStatement-2023-Tahunan-URBN.xlsx",
+          "File_Size": 308910,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "69326b20-ca5a-4925-aa43-eb661421fcd7",
+          "File_Modified": "2024-08-21T14:37:56.023",
+          "File_Name": "Final Report UJP 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/URBN/Final Report UJP 2023.pdf",
+          "File_Size": 4815669,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "7c0c4646-662c-40ad-b9d3-f0312ef6a7ec",
+          "File_Modified": "2024-08-21T14:37:56.023",
+          "File_Name": "FinancialStatement-2023-Tahunan-URBN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/URBN/FinancialStatement-2023-Tahunan-URBN.pdf",
+          "File_Size": 763572,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "d0d32867-1a97-4310-a494-24137101baa2",
+          "File_Modified": "2024-08-21T14:37:56.023",
+          "File_Name": "AnnualReport2023-URBN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202406/359199b336_41d36fcf32.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "c00e68aa-eb6c-44c3-9fd6-15346c864eae",
+          "File_Modified": "2024-08-21T14:37:56.023",
+          "File_Name": "CHECKLIST UJP 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/URBN/CHECKLIST UJP 2023.pdf",
+          "File_Size": 1252444,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "7d1bdfdd-a093-4b39-a45a-cf2868ac7fa0",
+          "File_Modified": "2024-08-21T14:37:56.023",
+          "File_Name": "AnnualReport2023-URBN-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202406/8baa8b41e1_c1f2c0f037.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "acf19dd0-39fb-4365-b4f0-cc0a96320288",
+          "File_Modified": "2024-08-21T14:37:56.023",
+          "File_Name": "1.Penjelasan Wajar dengan Pengecualian.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/URBN/1.Penjelasan Wajar dengan Pengecualian.pdf",
+          "File_Size": 52203,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "b47cc42e-75ad-424b-a2ba-d4692e2ef3f6",
+          "File_Modified": "2024-08-21T14:37:56.023",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/URBN/inlineXBRL.zip",
+          "File_Size": 219731,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "URBN",
+          "File_ID": "cbcd4597-069d-4113-b075-fc7c4c610233",
+          "File_Modified": "2024-08-21T14:37:56.023",
+          "File_Name": "SPD LK 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/URBN/SPD LK 2023.pdf",
+          "File_Size": 468410,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Urban Jakarta Propertindo Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "HEXA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "HEXA",
+      "File_Modified": "2022-06-30T22:12:47.767",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Hexindo Adiperkasa Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "HEXA",
+          "File_ID": "eb50b737-382f-4566-b5e7-c258cb849210",
+          "File_Modified": "2022-06-30T22:12:47.767",
+          "File_Name": "AnnualReport2021-HEXA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202207/a3deaeb223_41f0bd4c85.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Hexindo Adiperkasa Tbk"
+        },
+        {
+          "Emiten_Code": "HEXA",
+          "File_ID": "ca214715-3619-4148-abe1-cbc41a3e7702",
+          "File_Modified": "2022-06-30T22:12:47.767",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HEXA/instance.zip",
+          "File_Size": 28724,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Hexindo Adiperkasa Tbk"
+        },
+        {
+          "Emiten_Code": "HEXA",
+          "File_ID": "dc93f71a-071e-4d06-9c3e-cfc6cb5e9185",
+          "File_Modified": "2022-06-30T22:12:47.767",
+          "File_Name": "HEXA_bilingual_31_maret_2022_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HEXA/HEXA_bilingual_31_maret_2022_released.pdf",
+          "File_Size": 3741153,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Hexindo Adiperkasa Tbk"
+        },
+        {
+          "Emiten_Code": "HEXA",
+          "File_ID": "286d45e6-804b-40b0-941b-434624683395",
+          "File_Modified": "2022-06-30T22:12:47.767",
+          "File_Name": "LO2022-029-OJK-LKT_310322.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HEXA/LO2022-029-OJK-LKT_310322.pdf",
+          "File_Size": 250567,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Hexindo Adiperkasa Tbk"
+        },
+        {
+          "Emiten_Code": "HEXA",
+          "File_ID": "d32e4292-0fae-4384-b99f-b12fafa6d91e",
+          "File_Modified": "2022-06-30T22:12:47.767",
+          "File_Name": "FinancialStatement-2021-Tahunan-HEXA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HEXA/FinancialStatement-2021-Tahunan-HEXA.pdf",
+          "File_Size": 49149,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Hexindo Adiperkasa Tbk"
+        },
+        {
+          "Emiten_Code": "HEXA",
+          "File_ID": "7ba7d916-5fc2-41a2-a0c3-bc0441549c91",
+          "File_Modified": "2022-06-30T22:12:47.767",
+          "File_Name": "FinancialStatement-2021-Tahunan-HEXA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HEXA/FinancialStatement-2021-Tahunan-HEXA.xlsx",
+          "File_Size": 159311,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Hexindo Adiperkasa Tbk"
+        },
+        {
+          "Emiten_Code": "HEXA",
+          "File_ID": "66f5f302-2505-4d35-896e-3607da65c9e7",
+          "File_Modified": "2022-06-30T22:12:47.767",
+          "File_Name": "Directors Statement - BILI- HAP YE 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HEXA/Directors Statement - BILI- HAP YE 2022.pdf",
+          "File_Size": 1780451,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Hexindo Adiperkasa Tbk"
+        },
+        {
+          "Emiten_Code": "HEXA",
+          "File_ID": "2b7d409e-8d3d-4112-96a0-733b33426587",
+          "File_Modified": "2022-06-30T22:12:47.767",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HEXA/inlineXBRL.zip",
+          "File_Size": 58656,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Hexindo Adiperkasa Tbk"
+        },
+        {
+          "Emiten_Code": "HEXA",
+          "File_ID": "ca4de5b5-844a-4785-b856-e40473e8fb86",
+          "File_Modified": "2022-06-30T22:12:47.767",
+          "File_Name": "Aset dan Liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HEXA/Aset dan Liabilitas.pdf",
+          "File_Size": 157423,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Hexindo Adiperkasa Tbk"
+        }
+      ]
+    }
+  ]
+}

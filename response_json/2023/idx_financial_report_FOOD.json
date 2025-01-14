@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "FOOD",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "FOOD",
+      "File_Modified": "2024-04-03T14:43:53.277",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Sentra Food Indonesia Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "18b52d6c-3c62-48d6-a6f5-6569cad1442d",
+          "File_Modified": "2024-04-03T14:43:53.277",
+          "File_Name": "FinancialStatement-2023-Tahunan-FOOD.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/FOOD/FinancialStatement-2023-Tahunan-FOOD.xlsx",
+          "File_Size": 363710,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "18d0329e-281b-49c1-9f41-b7270de9e701",
+          "File_Modified": "2024-04-03T14:43:53.277",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/FOOD/inlineXBRL.zip",
+          "File_Size": 263562,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "ce41d070-adfd-4771-8a8f-eb410cc17822",
+          "File_Modified": "2024-04-03T14:43:53.277",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/FOOD/instance.zip",
+          "File_Size": 130480,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "72facf34-3e71-4349-ac41-44a88c2ed648",
+          "File_Modified": "2024-04-03T14:43:53.277",
+          "File_Name": "MATERI PUBEX FOOD 2024 - 31 Maret 2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/FOOD/MATERI PUBEX FOOD 2024 - 31 Maret 2024.pdf",
+          "File_Size": 3159761,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "8bf30761-1c35-48b7-bcaf-a47da4cc86c4",
+          "File_Modified": "2024-04-03T14:43:53.277",
+          "File_Name": "Surat Pernyataan Direksi SFI - 28 Maret 2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/FOOD/Surat Pernyataan Direksi SFI - 28 Maret 2024.pdf",
+          "File_Size": 525168,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "3768f8bc-d787-4a34-838e-89d99a0be60f",
+          "File_Modified": "2024-04-03T14:43:53.277",
+          "File_Name": "FinancialStatement-2023-Tahunan-FOOD.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/FOOD/FinancialStatement-2023-Tahunan-FOOD.pdf",
+          "File_Size": 726144,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "0f8490e8-bd25-4024-a4fd-9ad39c7bfaf6",
+          "File_Modified": "2024-04-03T14:43:53.277",
+          "File_Name": "AnnualReport2023-FOOD.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/2e39ba2eac_8219e6c56f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "efc29d7e-c9e2-427a-b51c-a18e738fee30",
+          "File_Modified": "2024-04-03T14:43:53.277",
+          "File_Name": "AnnualReport2023-FOOD-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/ea576c4f32_ae1502a47b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "FOOD",
+          "File_ID": "0fddd755-4fba-4d1d-a938-cb354cfe29d1",
+          "File_Modified": "2024-04-03T14:43:53.277",
+          "File_Name": "LK PT SFI Tbk 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/FOOD/LK PT SFI Tbk 31 Desember 2023.pdf",
+          "File_Size": 3495555,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sentra Food Indonesia Tbk."
+        }
+      ]
+    }
+  ]
+}

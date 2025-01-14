@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ISAT",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ISAT",
+      "File_Modified": "2022-02-22T09:29:51.01",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Indosat Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "777f290e-52c1-40bc-b816-02bca21a5014",
+          "File_Modified": "2022-02-22T09:29:51.01",
+          "File_Name": "Info Memo 4Q21 Ind (Release ISAT-ok).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ISAT/Info Memo 4Q21 Ind (Release ISAT-ok).pdf",
+          "File_Size": 438076,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "99bf6513-cfca-407e-b102-ab6d592deb55",
+          "File_Modified": "2022-02-22T09:29:51.01",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ISAT/inlineXBRL.zip",
+          "File_Size": 54856,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "ea612e09-842c-48be-93b9-49d4156d1167",
+          "File_Modified": "2022-02-22T09:29:51.01",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ISAT/instance.zip",
+          "File_Size": 28007,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "40b7fd3a-c0a9-486c-a824-7987906da7ae",
+          "File_Modified": "2022-02-22T09:29:51.01",
+          "File_Name": "AnnualReport2021-ISAT-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/837ddb8473_2959c2a7d3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "d2731208-1a59-418a-bc84-e7539669563b",
+          "File_Modified": "2022-02-22T09:29:51.01",
+          "File_Name": "ISAT_Q4_2021_Final Report Release.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ISAT/ISAT_Q4_2021_Final Report Release.pdf",
+          "File_Size": 4795645,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "933a3ef7-1116-427d-a12d-057e295c24d9",
+          "File_Modified": "2022-02-22T09:29:51.01",
+          "File_Name": "OJK Checklist ISAT Group.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ISAT/OJK Checklist ISAT Group.pdf",
+          "File_Size": 1070371,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "d987fe54-b8d5-423f-817a-44f9f24a6ad0",
+          "File_Modified": "2022-02-22T09:29:51.01",
+          "File_Name": "FinancialStatement-2021-Tahunan-ISAT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ISAT/FinancialStatement-2021-Tahunan-ISAT.xlsx",
+          "File_Size": 155309,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosat Tbk"
+        },
+        {
+          "Emiten_Code": "ISAT",
+          "File_ID": "51f2dd3e-e6f1-4349-a641-a45a35a3c6bc",
+          "File_Modified": "2022-02-22T09:29:51.01",
+          "File_Name": "FinancialStatement-2021-Tahunan-ISAT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ISAT/FinancialStatement-2021-Tahunan-ISAT.pdf",
+          "File_Size": 69987,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosat Tbk"
+        }
+      ]
+    }
+  ]
+}

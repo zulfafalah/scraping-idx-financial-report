@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IFSH",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IFSH",
+      "File_Modified": "2022-03-30T21:31:03.217",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Ifishdeco Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "IFSH",
+          "File_ID": "77cb32e2-58fc-4a98-b3a3-3d5246b3ab8f",
+          "File_Modified": "2022-03-30T21:31:03.217",
+          "File_Name": "LK PT IFISHDECO KONSOLIDASIAN 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IFSH/LK PT IFISHDECO KONSOLIDASIAN 2021.pdf",
+          "File_Size": 7159934,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ifishdeco Tbk."
+        },
+        {
+          "Emiten_Code": "IFSH",
+          "File_ID": "b11248c3-a9d8-40d6-aa81-c8eb0d247a5a",
+          "File_Modified": "2022-03-30T21:31:03.217",
+          "File_Name": "FinancialStatement-2021-Tahunan-IFSH.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IFSH/FinancialStatement-2021-Tahunan-IFSH.xlsx",
+          "File_Size": 159902,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ifishdeco Tbk."
+        },
+        {
+          "Emiten_Code": "IFSH",
+          "File_ID": "6cbe4c43-a73a-4c17-a552-d0f01a7f5798",
+          "File_Modified": "2022-03-30T21:31:03.217",
+          "File_Name": "BAPEPAM Checklist PT Ifishdeco Tbk 2021 -300322.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IFSH/BAPEPAM Checklist PT Ifishdeco Tbk 2021 -300322.pdf",
+          "File_Size": 805202,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ifishdeco Tbk."
+        },
+        {
+          "Emiten_Code": "IFSH",
+          "File_ID": "cd98aad4-b470-44b4-a590-98169ce55338",
+          "File_Modified": "2022-03-30T21:31:03.217",
+          "File_Name": "Cover Letter LKT Auditan 31 Des 21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IFSH/Cover Letter LKT Auditan 31 Des 21.pdf",
+          "File_Size": 201463,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ifishdeco Tbk."
+        },
+        {
+          "Emiten_Code": "IFSH",
+          "File_ID": "16ce3e96-97d4-4498-bcfc-e7ba82555dfa",
+          "File_Modified": "2022-03-30T21:31:03.217",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IFSH/inlineXBRL.zip",
+          "File_Size": 59556,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ifishdeco Tbk."
+        },
+        {
+          "Emiten_Code": "IFSH",
+          "File_ID": "168eb2ae-a972-47d2-becd-336c2de9e6a2",
+          "File_Modified": "2022-03-30T21:31:03.217",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IFSH/instance.zip",
+          "File_Size": 29253,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ifishdeco Tbk."
+        },
+        {
+          "Emiten_Code": "IFSH",
+          "File_ID": "2663f655-44ad-4b3e-a4bd-9f3db8a8dca8",
+          "File_Modified": "2022-03-30T21:31:03.217",
+          "File_Name": "FinancialStatement-2021-Tahunan-IFSH.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/IFSH/FinancialStatement-2021-Tahunan-IFSH.pdf",
+          "File_Size": 50164,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Ifishdeco Tbk."
+        }
+      ]
+    }
+  ]
+}

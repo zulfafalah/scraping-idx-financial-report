@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ASJT",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ASJT",
+      "File_Modified": "2024-03-21T16:17:54.313",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Asuransi Jasa Tania Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "cb4d1b4f-89c6-470b-853a-f8a71b295a2d",
+          "File_Modified": "2024-03-21T16:17:54.313",
+          "File_Name": "PT Asuransi Jasa Tania Tbk 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASJT/PT Asuransi Jasa Tania Tbk 2023.pdf",
+          "File_Size": 3594338,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "63c2d1db-8d6a-415e-88ee-67a46c3b30a5",
+          "File_Modified": "2024-03-21T16:17:54.313",
+          "File_Name": "FinancialStatement-2023-Tahunan-ASJT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASJT/FinancialStatement-2023-Tahunan-ASJT.pdf",
+          "File_Size": 178972,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "2b36e9b3-ef23-4b9f-878b-a1c6a856ebab",
+          "File_Modified": "2024-03-21T16:17:54.313",
+          "File_Name": "AnnualReport2023-ASJT.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/bfce1f67db_57de8926ed.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "f795fb3b-b2ff-49e0-8244-2da510ff5b82",
+          "File_Modified": "2024-03-21T16:17:54.313",
+          "File_Name": "AnnualReport2023-ASJT-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/5624980c79_00bfd808f7.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "866b02a5-d188-4ef0-9ea2-41d3ef370e42",
+          "File_Modified": "2024-03-21T16:17:54.313",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASJT/inlineXBRL.zip",
+          "File_Size": 88197,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "41ccf097-ae2e-48ed-ba24-e090c3d742a5",
+          "File_Modified": "2024-03-21T16:17:54.313",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASJT/instance.zip",
+          "File_Size": 39615,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "8440f137-02f6-439f-b0a2-64a1b4616de8",
+          "File_Modified": "2024-03-21T16:17:54.313",
+          "File_Name": "Surat Pernyataan Direksi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASJT/Surat Pernyataan Direksi.pdf",
+          "File_Size": 150272,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "ec7d0eff-428d-4a41-9647-f73370594e36",
+          "File_Modified": "2024-03-21T16:17:54.313",
+          "File_Name": "FinancialStatement-2023-Tahunan-ASJT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/ASJT/FinancialStatement-2023-Tahunan-ASJT.xlsx",
+          "File_Size": 116072,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        }
+      ]
+    }
+  ]
+}

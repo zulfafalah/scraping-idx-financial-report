@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BWPT",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BWPT",
+      "File_Modified": "2024-03-03T10:43:29.233",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Eagle High Plantations Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "a057abb8-f95c-460f-b69d-83b458a8c2e8",
+          "File_Modified": "2024-03-03T10:43:29.233",
+          "File_Name": "FinancialStatement-2023-Tahunan-BWPT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BWPT/FinancialStatement-2023-Tahunan-BWPT.pdf",
+          "File_Size": 844043,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "3d1aacbf-e571-45e6-ae8c-b9f62b388ad1",
+          "File_Modified": "2024-03-03T10:43:29.233",
+          "File_Name": "FinancialStatement-2023-Tahunan-BWPT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BWPT/FinancialStatement-2023-Tahunan-BWPT.xlsx",
+          "File_Size": 408972,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "4d47f0df-3360-4a43-a6ec-e21f612d0ed6",
+          "File_Modified": "2024-03-03T10:43:29.233",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BWPT/inlineXBRL.zip",
+          "File_Size": 298202,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "69e2ef0c-fb6f-4005-862b-1177c179c608",
+          "File_Modified": "2024-03-03T10:43:29.233",
+          "File_Name": "AnnualReport2023-BWPT-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f13cf92493_8420cc03e8.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "5bb3ddf6-7498-484c-bdb5-8e798ebcc2f9",
+          "File_Modified": "2024-03-03T10:43:29.233",
+          "File_Name": "CHECKLIST PENGUNGKAPAN_LKT Des 2023 BWPT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BWPT/CHECKLIST PENGUNGKAPAN_LKT Des 2023 BWPT.pdf",
+          "File_Size": 256829,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "9947efda-8275-411c-8138-a7afedd7630c",
+          "File_Modified": "2024-03-03T10:43:29.233",
+          "File_Name": "LKT 2023 PT EAGLE HIGH PLANTATIONS TBK .pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BWPT/LKT 2023 PT EAGLE HIGH PLANTATIONS TBK .pdf",
+          "File_Size": 5718271,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "ae1a2ef2-5f6f-4a26-80fb-e063a6a6c337",
+          "File_Modified": "2024-03-03T10:43:29.233",
+          "File_Name": "AnnualReport2023-BWPT-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/db0b78fe43_ad70b5a1f5.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "5c5986a1-5f83-4308-929b-1def0c08d890",
+          "File_Modified": "2024-03-03T10:43:29.233",
+          "File_Name": "014-Pelaporan LKT 2023 PT EHP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BWPT/014-Pelaporan LKT 2023 PT EHP.pdf",
+          "File_Size": 185388,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "8dd58699-c724-4174-b7e6-a9a3f2553042",
+          "File_Modified": "2024-03-03T10:43:29.233",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BWPT/instance.zip",
+          "File_Size": 162146,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "d91329de-6e17-47f7-8a42-dccae6c8e9cc",
+          "File_Modified": "2024-03-03T10:43:29.233",
+          "File_Name": "AnnualReport2023-BWPT.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/ca5bf6d7dd_6aab90842d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        }
+      ]
+    }
+  ]
+}

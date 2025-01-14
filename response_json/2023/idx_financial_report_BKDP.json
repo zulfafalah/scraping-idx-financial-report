@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BKDP",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BKDP",
+      "File_Modified": "2024-04-03T12:27:03.06",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Bukit Darmo Property Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "263479b7-01cb-495f-bbc6-5a837f3c715e",
+          "File_Modified": "2024-04-03T12:27:03.06",
+          "File_Name": "LKT_BKDP_2023 (Consolidated) FINAL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKDP/LKT_BKDP_2023 (Consolidated) FINAL.pdf",
+          "File_Size": 4175722,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "c6ccf9a6-8611-4e35-8e02-846a165f7732",
+          "File_Modified": "2024-04-03T12:27:03.06",
+          "File_Name": "Surat Pengantar LKT 2023 - BKDP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKDP/Surat Pengantar LKT 2023 - BKDP.pdf",
+          "File_Size": 278712,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "e8c56065-3cb2-4555-bbd1-850059e6c9d9",
+          "File_Modified": "2024-04-03T12:27:03.06",
+          "File_Name": "Surat Pernyataan Direksi LKT 2023 - BKDP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKDP/Surat Pernyataan Direksi LKT 2023 - BKDP.pdf",
+          "File_Size": 499832,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "211600af-9778-4d9a-8858-b328d25f403a",
+          "File_Modified": "2024-04-03T12:27:03.06",
+          "File_Name": "FinancialStatement-2023-Tahunan-BKDP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKDP/FinancialStatement-2023-Tahunan-BKDP.pdf",
+          "File_Size": 689772,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "79e207fe-e589-4480-be7d-dadbd190c57c",
+          "File_Modified": "2024-04-03T12:27:03.06",
+          "File_Name": "AnnualReport2023-BKDP.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/cf400cd3dc_558e778c9b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "b861cb76-b3f0-4c7a-ad6e-3a88317e4423",
+          "File_Modified": "2024-04-03T12:27:03.06",
+          "File_Name": "FinancialStatement-2023-Tahunan-BKDP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKDP/FinancialStatement-2023-Tahunan-BKDP.xlsx",
+          "File_Size": 331230,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "3ecc3cf8-91ca-431e-b87c-c8b9d60f8cc7",
+          "File_Modified": "2024-04-03T12:27:03.06",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKDP/instance.zip",
+          "File_Size": 123208,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "edd4037a-4850-463b-afc1-7a13c3725553",
+          "File_Modified": "2024-04-03T12:27:03.06",
+          "File_Name": "AnnualReport2023-BKDP-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/9a8c291143_c83af73c9d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "876292ef-636a-463e-b3c0-8d06f718959c",
+          "File_Modified": "2024-04-03T12:27:03.06",
+          "File_Name": "AnnualReport2023-BKDP-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/4ded4b0d27_c73d42b65a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        },
+        {
+          "Emiten_Code": "BKDP",
+          "File_ID": "e8d797f7-9fe4-467d-b535-d04680764698",
+          "File_Modified": "2024-04-03T12:27:03.06",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKDP/inlineXBRL.zip",
+          "File_Size": 230235,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bukit Darmo Property Tbk"
+        }
+      ]
+    }
+  ]
+}

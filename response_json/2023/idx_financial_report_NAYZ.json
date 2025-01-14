@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "NAYZ",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "NAYZ",
+      "File_Modified": "2024-04-02T17:21:50.957",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Hassana Boga Sejahtera Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "b310f333-7d18-4093-9127-082cd5361017",
+          "File_Modified": "2024-04-02T17:21:50.957",
+          "File_Name": "Final Report PT HBS Tbk Tahun Buku 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NAYZ/Final Report PT HBS Tbk Tahun Buku 31 Des 2023.pdf",
+          "File_Size": 2172523,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "f2f323a5-f7eb-4d06-ade1-c61c3a73c9be",
+          "File_Modified": "2024-04-02T17:21:50.957",
+          "File_Name": "FinancialStatement-2023-Tahunan-NAYZ.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NAYZ/FinancialStatement-2023-Tahunan-NAYZ.pdf",
+          "File_Size": 846940,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "863a3995-403e-49aa-a5e9-ff36b39dd56d",
+          "File_Modified": "2024-04-02T17:21:50.957",
+          "File_Name": "AnnualReport2023-NAYZ-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/b69365d842_3d01a6bb17.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "9e1c17e9-6241-4e38-b2e7-91d7a0aff942",
+          "File_Modified": "2024-04-02T17:21:50.957",
+          "File_Name": "AnnualReport2023-NAYZ.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/542855c4f0_d2a25af556.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "26f9eaea-90d9-46be-b6fd-bef7bc117a60",
+          "File_Modified": "2024-04-02T17:21:50.957",
+          "File_Name": "Surat Pernyataan Direksi LK HBS 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NAYZ/Surat Pernyataan Direksi LK HBS 31 Des 2023.pdf",
+          "File_Size": 309816,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "a321a842-c49b-4cf6-b5b6-25fc5712bde7",
+          "File_Modified": "2024-04-02T17:21:50.957",
+          "File_Name": "Surat Penjelasan Perubahan Aset.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NAYZ/Surat Penjelasan Perubahan Aset.pdf",
+          "File_Size": 648500,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "89b584ce-6eac-43fb-af54-26d7faa338e1",
+          "File_Modified": "2024-04-02T17:21:50.957",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NAYZ/instance.zip",
+          "File_Size": 154554,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "8a15ce07-4fe5-4f5a-85f9-48c40664f70e",
+          "File_Modified": "2024-04-02T17:21:50.957",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NAYZ/inlineXBRL.zip",
+          "File_Size": 295730,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "f26405bd-3c74-4601-baaf-e5a07bdb7203",
+          "File_Modified": "2024-04-02T17:21:50.957",
+          "File_Name": "AnnualReport2023-NAYZ-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/1d312a2382_e3f9a17154.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "NAYZ",
+          "File_ID": "569483aa-547e-4f0d-b6ba-418427740bb9",
+          "File_Modified": "2024-04-02T17:21:50.957",
+          "File_Name": "FinancialStatement-2023-Tahunan-NAYZ.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NAYZ/FinancialStatement-2023-Tahunan-NAYZ.xlsx",
+          "File_Size": 228201,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Hassana Boga Sejahtera Tbk"
+        }
+      ]
+    }
+  ]
+}

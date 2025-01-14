@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "EPAC",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "EPAC",
+      "File_Modified": "2022-04-30T15:25:11.243",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "EPAC",
+          "File_ID": "77dc070a-36da-4096-8515-c2f54f4ce06d",
+          "File_Modified": "2022-04-30T15:25:11.243",
+          "File_Name": "FinancialStatement-2021-Tahunan-EPAC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/EPAC/FinancialStatement-2021-Tahunan-EPAC.pdf",
+          "File_Size": 52265,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk."
+        },
+        {
+          "Emiten_Code": "EPAC",
+          "File_ID": "61067658-80c4-4e0a-b829-d10432540dfa",
+          "File_Modified": "2022-04-30T15:25:11.243",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/EPAC/inlineXBRL.zip",
+          "File_Size": 59647,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk."
+        },
+        {
+          "Emiten_Code": "EPAC",
+          "File_ID": "15ba2803-e033-4f6f-b010-3c8de64f367c",
+          "File_Modified": "2022-04-30T15:25:11.243",
+          "File_Name": "FinancialStatement-2021-Tahunan-EPAC.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/EPAC/FinancialStatement-2021-Tahunan-EPAC.xlsx",
+          "File_Size": 159917,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk."
+        },
+        {
+          "Emiten_Code": "EPAC",
+          "File_ID": "d10e0df9-3609-424f-80cb-a8b96c1e25ce",
+          "File_Modified": "2022-04-30T15:25:11.243",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/EPAC/instance.zip",
+          "File_Size": 29254,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk."
+        },
+        {
+          "Emiten_Code": "EPAC",
+          "File_ID": "8712d562-3976-4253-8438-be6563309ac7",
+          "File_Modified": "2022-04-30T15:25:11.243",
+          "File_Name": "AnnualReport2021-EPAC-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/b1ff283b71_cfdf05d8ce.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk."
+        },
+        {
+          "Emiten_Code": "EPAC",
+          "File_ID": "39b9e362-0562-4891-84d3-6a5d7fdc7e1a",
+          "File_Modified": "2022-04-30T15:25:11.243",
+          "File_Name": "EPAC LK Tahunan 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/EPAC/EPAC LK Tahunan 2021.pdf",
+          "File_Size": 3841895,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Megalestari Epack Sentosaraya Tbk."
+        }
+      ]
+    }
+  ]
+}

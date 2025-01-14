@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GZCO",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GZCO",
+      "File_Modified": "2023-03-31T13:03:44.31",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Gozco Plantations Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "171332b3-69f5-40e3-9a68-6d4f5d74eb6a",
+          "File_Modified": "2023-03-31T13:03:44.31",
+          "File_Name": "AnnualReport2022-GZCO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/cc3f6d8093_8b1f276049.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "eaac3721-3301-4ffa-b112-6d65f0a6decd",
+          "File_Modified": "2023-03-31T13:03:44.31",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GZCO/instance.zip",
+          "File_Size": 185746,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "1c1f6bdb-2f8c-4889-830e-87fea4dcfaed",
+          "File_Modified": "2023-03-31T13:03:44.31",
+          "File_Name": "FinancialStatement-2022-Tahunan-GZCO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GZCO/FinancialStatement-2022-Tahunan-GZCO.xlsx",
+          "File_Size": 1181339,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "19547c64-7537-47a6-9558-25e38a89052b",
+          "File_Modified": "2023-03-31T13:03:44.31",
+          "File_Name": "OJK disclosure checklist 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GZCO/OJK disclosure checklist 2022.pdf",
+          "File_Size": 969310,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "699c03f9-214c-4f39-a043-44252c363128",
+          "File_Modified": "2023-03-31T13:03:44.31",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GZCO/inlineXBRL.zip",
+          "File_Size": 167158,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "21e0ad22-8825-4381-9820-37a87f8f45bd",
+          "File_Modified": "2023-03-31T13:03:44.31",
+          "File_Name": "00037 PT Gozco Plantations Tbk 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GZCO/00037 PT Gozco Plantations Tbk 2022.pdf",
+          "File_Size": 6926654,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "2cbaafc7-4090-4857-9769-efb81006caad",
+          "File_Modified": "2023-03-31T13:03:44.31",
+          "File_Name": "FinancialStatement-2022-Tahunan-GZCO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GZCO/FinancialStatement-2022-Tahunan-GZCO.pdf",
+          "File_Size": 127488,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BABP",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BABP",
+      "File_Modified": "2024-03-28T15:40:20.073",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Bank MNC Internasional Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "59cdc93e-f043-41d7-be60-6332a54567c3",
+          "File_Modified": "2024-03-28T15:40:20.073",
+          "File_Name": "BABP 2023 Pubex Presentation.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BABP/BABP 2023 Pubex Presentation.pdf",
+          "File_Size": 4361623,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "54ddaed6-4f89-487b-a1f8-77d97ae2a439",
+          "File_Modified": "2024-03-28T15:40:20.073",
+          "File_Name": "125 MNCB DIR III 2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BABP/125 MNCB DIR III 2024.pdf",
+          "File_Size": 181694,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "df276363-ea9b-461d-86da-6c1011cec9c6",
+          "File_Modified": "2024-03-28T15:40:20.073",
+          "File_Name": "AnnualReport2023-BABP-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/9f02760784_cf9a1476c9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "45e8bbec-fe9e-4fa4-b69d-e63687b52d93",
+          "File_Modified": "2024-03-28T15:40:20.073",
+          "File_Name": "AnnualReport2023-BABP.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/fc138cd7e4_884ad596d6.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "54efbb7b-4439-438a-bfd8-033b3b77bf53",
+          "File_Modified": "2024-03-28T15:40:20.073",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BABP/inlineXBRL.zip",
+          "File_Size": 100249,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "eae8c12f-e47c-4ccb-be23-54d2ffa53371",
+          "File_Modified": "2024-03-28T15:40:20.073",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BABP/instance.zip",
+          "File_Size": 43111,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "579565dc-fb40-4c59-b1e9-5fd336401ab9",
+          "File_Modified": "2024-03-28T15:40:20.073",
+          "File_Name": "Laporan Keuangan MNC Bank 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BABP/Laporan Keuangan MNC Bank 31 Des 2023.pdf",
+          "File_Size": 5117086,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "f5d26260-0002-40cf-9154-86f6ab68b397",
+          "File_Modified": "2024-03-28T15:40:20.073",
+          "File_Name": "AnnualReport2023-BABP-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/14a4e2c98f_bcc5729c6c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "e767401c-3a3e-4b26-83ab-a8dabb05dc79",
+          "File_Modified": "2024-03-28T15:40:20.073",
+          "File_Name": "FinancialStatement-2023-Tahunan-BABP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BABP/FinancialStatement-2023-Tahunan-BABP.pdf",
+          "File_Size": 216475,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "cb4784c8-a110-4da5-84cd-c7ddf0f08a4e",
+          "File_Modified": "2024-03-28T15:40:20.073",
+          "File_Name": "FinancialStatement-2023-Tahunan-BABP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BABP/FinancialStatement-2023-Tahunan-BABP.xlsx",
+          "File_Size": 99587,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "aacb636a-fdae-4dcd-b8cc-cd102f36d575",
+          "File_Modified": "2024-03-28T15:40:20.073",
+          "File_Name": "SPD Laporan Keuangan MNC Bank 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BABP/SPD Laporan Keuangan MNC Bank 31 Des 2023.pdf",
+          "File_Size": 418859,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "2161f49b-2fff-40ab-b482-e8e292e8a5c9",
+          "File_Modified": "2024-03-28T15:40:20.073",
+          "File_Name": "Checklist Pengungkapan LK 31 Des 2023 (Audited).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BABP/Checklist Pengungkapan LK 31 Des 2023 (Audited).pdf",
+          "File_Size": 1563214,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        }
+      ]
+    }
+  ]
+}

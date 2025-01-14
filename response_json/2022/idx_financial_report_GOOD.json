@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GOOD",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GOOD",
+      "File_Modified": "2023-03-01T10:23:51.563",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "b915fd4b-348f-4804-9ce3-0e692c6b38d5",
+          "File_Modified": "2023-03-01T10:23:51.563",
+          "File_Name": "Surat Pengantar OJK GOOD 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GOOD/Surat Pengantar OJK GOOD 2022.pdf",
+          "File_Size": 246067,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "86f00bb0-bffc-40ce-bb83-9a5182d366d3",
+          "File_Modified": "2023-03-01T10:23:51.563",
+          "File_Name": "Surat Pengantar BEI GOOD 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GOOD/Surat Pengantar BEI GOOD 2022.pdf",
+          "File_Size": 191363,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "446a6535-ea37-4c84-9839-a1fd62e4848e",
+          "File_Modified": "2023-03-01T10:23:51.563",
+          "File_Name": "FinancialStatement-2022-Tahunan-GOOD.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GOOD/FinancialStatement-2022-Tahunan-GOOD.xlsx",
+          "File_Size": 1192099,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "81a5fe0f-1336-46f5-83ec-35404e5b61e0",
+          "File_Modified": "2023-03-01T10:23:51.563",
+          "File_Name": "Checklist Laporan Keuangan GOOD_31.12.2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GOOD/Checklist Laporan Keuangan GOOD_31.12.2022.pdf",
+          "File_Size": 1688677,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "3066994d-f7f0-415a-b663-f4667588e9a0",
+          "File_Modified": "2023-03-01T10:23:51.563",
+          "File_Name": "PT Garudafood Putra Putri Jaya_31.12.2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GOOD/PT Garudafood Putra Putri Jaya_31.12.2022.pdf",
+          "File_Size": 6650143,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "c090d51e-4bd1-4f14-9f45-08a62f8f7b9d",
+          "File_Modified": "2023-03-01T10:23:51.563",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GOOD/inlineXBRL.zip",
+          "File_Size": 237930,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "e79026c6-6b96-4720-bb13-d78084519d5d",
+          "File_Modified": "2023-03-01T10:23:51.563",
+          "File_Name": "AnnualReport2022-GOOD-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202303/e1460ccd89_bba24284a4.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "7c0aa4e9-df29-4cbd-af81-f0319679c198",
+          "File_Modified": "2023-03-01T10:23:51.563",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GOOD/instance.zip",
+          "File_Size": 186803,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        },
+        {
+          "Emiten_Code": "GOOD",
+          "File_ID": "1984e13d-826d-4218-9a91-fffe356a3902",
+          "File_Modified": "2023-03-01T10:23:51.563",
+          "File_Name": "FinancialStatement-2022-Tahunan-GOOD.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GOOD/FinancialStatement-2022-Tahunan-GOOD.pdf",
+          "File_Size": 178381,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Garudafood Putra Putri Jaya Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "POLI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "POLI",
+      "File_Modified": "2022-06-29T18:01:44.003",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Pollux Hotels Group Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "a0b58a9e-2322-4f91-b5a7-5298c84b9b77",
+          "File_Modified": "2022-06-29T18:01:44.003",
+          "File_Name": "FinancialStatement-2021-Tahunan-POLI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POLI/FinancialStatement-2021-Tahunan-POLI.xlsx",
+          "File_Size": 159930,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "c9b7cda7-9048-42b7-8951-8171911fd4a1",
+          "File_Modified": "2022-06-29T18:01:44.003",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POLI/inlineXBRL.zip",
+          "File_Size": 59535,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "e4ad3dfd-c3d5-48cd-92d0-a3add24c26f3",
+          "File_Modified": "2022-06-29T18:01:44.003",
+          "File_Name": "AnnualReport2021-POLI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202209/2aa43843fd_22e2871772.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "19e3a3cf-7124-429c-bfb6-eb89aeaa17e5",
+          "File_Modified": "2022-06-29T18:01:44.003",
+          "File_Name": "POLI-CHECKLIST-PENGUNGKAPAN-LAPORAN-KEUANGAN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POLI/POLI-CHECKLIST-PENGUNGKAPAN-LAPORAN-KEUANGAN.pdf",
+          "File_Size": 1254638,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "34d67e46-acc7-4177-b3c3-ec0ef44425ec",
+          "File_Modified": "2022-06-29T18:01:44.003",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POLI/instance.zip",
+          "File_Size": 29319,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "05a8ff7b-d5fd-48f5-a2a0-f4c57e750ddc",
+          "File_Modified": "2022-06-29T18:01:44.003",
+          "File_Name": "POLI-Laporan Keuangan Tahunan 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POLI/POLI-Laporan Keuangan Tahunan 31 Des 2021.pdf",
+          "File_Size": 2503305,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        },
+        {
+          "Emiten_Code": "POLI",
+          "File_ID": "a757c30f-4294-4528-a4a7-2b82d9c8956f",
+          "File_Modified": "2022-06-29T18:01:44.003",
+          "File_Name": "FinancialStatement-2021-Tahunan-POLI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/POLI/FinancialStatement-2021-Tahunan-POLI.pdf",
+          "File_Size": 58243,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Pollux Hotels Group Tbk"
+        }
+      ]
+    }
+  ]
+}

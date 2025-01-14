@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "NZIA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "NZIA",
+      "File_Modified": "2022-03-29T15:16:28.153",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Nusantara Almazia, Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "d34566a8-e17b-4118-a452-3afe27659252",
+          "File_Modified": "2022-03-29T15:16:28.153",
+          "File_Name": "FinancialStatement-2021-Tahunan-NZIA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NZIA/FinancialStatement-2021-Tahunan-NZIA.pdf",
+          "File_Size": 49922,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "2aa3108c-3932-4048-9c3d-953b644fb10c",
+          "File_Modified": "2022-03-29T15:16:28.153",
+          "File_Name": "FinancialStatement-2021-Tahunan-NZIA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NZIA/FinancialStatement-2021-Tahunan-NZIA.xlsx",
+          "File_Size": 154843,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "6f2ccf9c-501c-47c5-8e99-c329f9ae8088",
+          "File_Modified": "2022-03-29T15:16:28.153",
+          "File_Name": "SPD NZIA 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NZIA/SPD NZIA 2021.pdf",
+          "File_Size": 774425,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "b984a7d5-6e9a-4a7d-bd43-06173c743b02",
+          "File_Modified": "2022-03-29T15:16:28.153",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NZIA/instance.zip",
+          "File_Size": 27035,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "233ded02-c5d0-4f52-979b-46e30b9173bc",
+          "File_Modified": "2022-03-29T15:16:28.153",
+          "File_Name": "Surat Perubahan Liabilitas NZIA Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NZIA/Surat Perubahan Liabilitas NZIA Des 2021.pdf",
+          "File_Size": 503437,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "4ca145c4-d2c3-40b9-ac0a-d40d8adf6766",
+          "File_Modified": "2022-03-29T15:16:28.153",
+          "File_Name": "Final Report NZIA Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NZIA/Final Report NZIA Des 2021.pdf",
+          "File_Size": 7286565,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "2fd32073-1afa-42f3-ab81-152f71f58bb5",
+          "File_Modified": "2022-03-29T15:16:28.153",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NZIA/inlineXBRL.zip",
+          "File_Size": 54399,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "ad467d2a-f863-45d8-b2bd-ff66244da0e7",
+          "File_Modified": "2022-03-29T15:16:28.153",
+          "File_Name": "OJK Ceklist NZIA Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NZIA/OJK Ceklist NZIA Des 2021.pdf",
+          "File_Size": 1831736,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        }
+      ]
+    }
+  ]
+}

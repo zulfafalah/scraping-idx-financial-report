@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BUDI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BUDI",
+      "File_Modified": "2022-04-27T17:54:00.577",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Budi Starch & Sweetener Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "BUDI",
+          "File_ID": "6353b4c0-8da9-463c-ba56-278cc604329e",
+          "File_Modified": "2022-04-27T17:54:00.577",
+          "File_Name": "Bapepam OJK CHECKLIST PENGUNGKAPAN LK 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUDI/Bapepam OJK CHECKLIST PENGUNGKAPAN LK 31 Des 2021.pdf",
+          "File_Size": 1534747,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Budi Starch & Sweetener Tbk."
+        },
+        {
+          "Emiten_Code": "BUDI",
+          "File_ID": "bba8b8ae-c71f-42b2-ba77-6dcfdc8eb926",
+          "File_Modified": "2022-04-27T17:54:00.577",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUDI/inlineXBRL.zip",
+          "File_Size": 58060,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Budi Starch & Sweetener Tbk."
+        },
+        {
+          "Emiten_Code": "BUDI",
+          "File_ID": "f7b29fab-87fb-4377-bf31-c8d8b9f3ce2f",
+          "File_Modified": "2022-04-27T17:54:00.577",
+          "File_Name": "Surat_Pernyataan_Direksi_BUDI_Des21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUDI/Surat_Pernyataan_Direksi_BUDI_Des21.pdf",
+          "File_Size": 795168,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Budi Starch & Sweetener Tbk."
+        },
+        {
+          "Emiten_Code": "BUDI",
+          "File_ID": "3f8318ad-a405-46ab-8d17-67f4f1d7e7b9",
+          "File_Modified": "2022-04-27T17:54:00.577",
+          "File_Name": "FinancialStatement-2021-Tahunan-BUDI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUDI/FinancialStatement-2021-Tahunan-BUDI.xlsx",
+          "File_Size": 158728,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Budi Starch & Sweetener Tbk."
+        },
+        {
+          "Emiten_Code": "BUDI",
+          "File_ID": "17868d02-334b-4bfe-bdd2-ae0bef942dcc",
+          "File_Modified": "2022-04-27T17:54:00.577",
+          "File_Name": "FinancialStatement-2021-Tahunan-BUDI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUDI/FinancialStatement-2021-Tahunan-BUDI.pdf",
+          "File_Size": 48198,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Budi Starch & Sweetener Tbk."
+        },
+        {
+          "Emiten_Code": "BUDI",
+          "File_ID": "72dae358-d7c6-47be-b6e1-cb6717403e89",
+          "File_Modified": "2022-04-27T17:54:00.577",
+          "File_Name": "AnnualReport2021-BUDI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/3f06feb5fc_f606bc6bd4.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Budi Starch & Sweetener Tbk."
+        },
+        {
+          "Emiten_Code": "BUDI",
+          "File_ID": "a66a2991-25cf-43e4-96aa-5d6ac1663ded",
+          "File_Modified": "2022-04-27T17:54:00.577",
+          "File_Name": "Laporan_Keuangan_Konsolidasian_BUDI_270422.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUDI/Laporan_Keuangan_Konsolidasian_BUDI_270422.pdf",
+          "File_Size": 1392126,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Budi Starch & Sweetener Tbk."
+        },
+        {
+          "Emiten_Code": "BUDI",
+          "File_ID": "9584a138-bd2e-45bf-afcc-63cea4037cab",
+          "File_Modified": "2022-04-27T17:54:00.577",
+          "File_Name": "062 L IV 2022 - Penyampaian LK 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUDI/062 L IV 2022 - Penyampaian LK 31 Desember 2021.pdf",
+          "File_Size": 543179,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Budi Starch & Sweetener Tbk."
+        },
+        {
+          "Emiten_Code": "BUDI",
+          "File_ID": "30698f68-ddb8-460d-8a13-be09c56e565f",
+          "File_Modified": "2022-04-27T17:54:00.577",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BUDI/instance.zip",
+          "File_Size": 28328,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Budi Starch & Sweetener Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "NASA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "NASA",
+      "File_Modified": "2022-04-28T15:16:05.533",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Andalan Perkasa Abadi Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "1ff274f0-73a7-4e16-b951-3aa3408a65b1",
+          "File_Modified": "2022-04-28T15:16:05.533",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NASA/instance.zip",
+          "File_Size": 28281,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "7d3d409b-4263-49e7-9f18-563ca1af4a77",
+          "File_Modified": "2022-04-28T15:16:05.533",
+          "File_Name": "REPORT AUDIT FINAL PT ANDALAN PERKASA ABADI 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NASA/REPORT AUDIT FINAL PT ANDALAN PERKASA ABADI 2021.pdf",
+          "File_Size": 1200977,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "1917955a-19c8-41c5-b996-523739a0f51c",
+          "File_Modified": "2022-04-28T15:16:05.533",
+          "File_Name": "FinancialStatement-2021-Tahunan-NASA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NASA/FinancialStatement-2021-Tahunan-NASA.xlsx",
+          "File_Size": 158950,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "e29623e5-b0bd-4897-82b4-747ec1e3f43c",
+          "File_Modified": "2022-04-28T15:16:05.533",
+          "File_Name": "penjelasan perubahan aset liabilitas NASA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NASA/penjelasan perubahan aset liabilitas NASA.pdf",
+          "File_Size": 95494,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "0d279b4d-5834-4a74-add4-b1b243b27234",
+          "File_Modified": "2022-04-28T15:16:05.533",
+          "File_Name": "Surat pengantar LK NASA 31 des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NASA/Surat pengantar LK NASA 31 des 2021.pdf",
+          "File_Size": 124646,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "d904ea7a-f270-44b8-ac34-bc49e06fc1b0",
+          "File_Modified": "2022-04-28T15:16:05.533",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NASA/inlineXBRL.zip",
+          "File_Size": 58316,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "8bdbf8ce-81ca-4963-9b63-5dd7894f3fd6",
+          "File_Modified": "2022-04-28T15:16:05.533",
+          "File_Name": "Checklist OJK 31 Des 2021 NASA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NASA/Checklist OJK 31 Des 2021 NASA.pdf",
+          "File_Size": 604026,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "8fa371a8-7f4e-4f97-807a-1275b5c48120",
+          "File_Modified": "2022-04-28T15:16:05.533",
+          "File_Name": "AnnualReport2021-NASA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/5dab64c89d_d94d0dac0d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        },
+        {
+          "Emiten_Code": "NASA",
+          "File_ID": "21545cf9-cf4c-4146-b4e6-defd04e43f3f",
+          "File_Modified": "2022-04-28T15:16:05.533",
+          "File_Name": "FinancialStatement-2021-Tahunan-NASA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/NASA/FinancialStatement-2021-Tahunan-NASA.pdf",
+          "File_Size": 46254,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Andalan Perkasa Abadi Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TRUE",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TRUE",
+      "File_Modified": "2022-05-09T16:37:23.017",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Triniti Dinamik Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "5d8d1b17-5bee-4096-b5b7-6221117b3539",
+          "File_Modified": "2022-05-09T16:37:23.017",
+          "File_Name": "FinancialStatement-2021-Tahunan-TRUE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TRUE/FinancialStatement-2021-Tahunan-TRUE.pdf",
+          "File_Size": 49288,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "2fdc9d2e-a2c7-4f5d-ad8b-77afafb117ee",
+          "File_Modified": "2022-05-09T16:37:23.017",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TRUE/instance.zip",
+          "File_Size": 26968,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "d6f24834-35ee-4e6b-9f01-b5cb497cb917",
+          "File_Modified": "2022-05-09T16:37:23.017",
+          "File_Name": "FinancialStatement-2021-Tahunan-TRUE.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TRUE/FinancialStatement-2021-Tahunan-TRUE.xlsx",
+          "File_Size": 154775,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "629825ee-5380-4e28-85fd-aad9e7e89052",
+          "File_Modified": "2022-05-09T16:37:23.017",
+          "File_Name": "AnnualReport2021-TRUE-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/c8d490b3e4_bf215ff573.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "1b64641d-300a-407e-889f-376d49442a48",
+          "File_Modified": "2022-05-09T16:37:23.017",
+          "File_Name": "PT Triniti Dinamik Tbk 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TRUE/PT Triniti Dinamik Tbk 31 Des 2021.pdf",
+          "File_Size": 1536502,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "5f61c4f7-8801-45a7-8567-aca5d08ef510",
+          "File_Modified": "2022-05-09T16:37:23.017",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TRUE/inlineXBRL.zip",
+          "File_Size": 54209,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        }
+      ]
+    }
+  ]
+}

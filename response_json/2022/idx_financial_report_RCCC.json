@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "RCCC",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "RCCC",
+      "File_Modified": "2023-03-29T18:43:35.233",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Utama Radar Cahaya Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "f1e04df6-c364-4cd0-84f7-027bf0ecd591",
+          "File_Modified": "2023-03-29T18:43:35.233",
+          "File_Name": "AnnualReport2022-RCCC-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/99770041d0_e2705c9cbb.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "b3e543b4-dd04-40d6-87b9-6df37aedf089",
+          "File_Modified": "2023-03-29T18:43:35.233",
+          "File_Name": "FinancialStatement-2022-Tahunan-RCCC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RCCC/FinancialStatement-2022-Tahunan-RCCC.pdf",
+          "File_Size": 83440,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "f3ed0c3b-7825-42a5-bd47-a49cbaaf68f2",
+          "File_Modified": "2023-03-29T18:43:35.233",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RCCC/inlineXBRL.zip",
+          "File_Size": 148499,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "27e86a41-ed05-43f4-8322-1bd7f35cb2a5",
+          "File_Modified": "2023-03-29T18:43:35.233",
+          "File_Name": "040 RCCC BEI LKT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RCCC/040 RCCC BEI LKT.pdf",
+          "File_Size": 349105,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "207a1e45-1227-4bcb-a900-633712faca50",
+          "File_Modified": "2023-03-29T18:43:35.233",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RCCC/instance.zip",
+          "File_Size": 180546,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "8d6876f1-63a1-4b50-afb1-7f7f7d312134",
+          "File_Modified": "2023-03-29T18:43:35.233",
+          "File_Name": "FinancialStatement-2022-Tahunan-RCCC.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RCCC/FinancialStatement-2022-Tahunan-RCCC.xlsx",
+          "File_Size": 1185751,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "1500c67c-5672-4732-8673-adae70fdb457",
+          "File_Modified": "2023-03-29T18:43:35.233",
+          "File_Name": "038 SPD Kenaikan Aset .pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RCCC/038 SPD Kenaikan Aset .pdf",
+          "File_Size": 894420,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "c4775bd8-b1f7-443e-82fe-d31a0d05f084",
+          "File_Modified": "2023-03-29T18:43:35.233",
+          "File_Name": "Final_LAI - PT Utama Radar Cahaya Tbk 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RCCC/Final_LAI - PT Utama Radar Cahaya Tbk 2022.pdf",
+          "File_Size": 2900217,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        },
+        {
+          "Emiten_Code": "RCCC",
+          "File_ID": "0f92320e-b318-4273-9f2b-75b27c9fd3be",
+          "File_Modified": "2023-03-29T18:43:35.233",
+          "File_Name": "039 RCCC OJK LKT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RCCC/039 RCCC OJK LKT.pdf",
+          "File_Size": 362426,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Utama Radar Cahaya Tbk"
+        }
+      ]
+    }
+  ]
+}

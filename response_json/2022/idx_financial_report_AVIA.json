@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AVIA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AVIA",
+      "File_Modified": "2023-03-02T13:05:31.613",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Avia Avian Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "886239bf-9e4d-4440-bd00-64ca34bdec48",
+          "File_Modified": "2023-03-02T13:05:31.613",
+          "File_Name": "AVIA_LaporanKeuangan_31Des2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AVIA/AVIA_LaporanKeuangan_31Des2022.pdf",
+          "File_Size": 5737167,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "a377c028-20d8-4f4c-a59a-d435498c9095",
+          "File_Modified": "2023-03-02T13:05:31.613",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AVIA/inlineXBRL.zip",
+          "File_Size": 160487,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "3ada33cf-158c-419e-a58a-228181f6dfec",
+          "File_Modified": "2023-03-02T13:05:31.613",
+          "File_Name": "FinancialStatement-2022-Tahunan-AVIA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AVIA/FinancialStatement-2022-Tahunan-AVIA.pdf",
+          "File_Size": 138892,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "6969d936-a5d8-47c6-a1cd-a72e7c1d65aa",
+          "File_Modified": "2023-03-02T13:05:31.613",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AVIA/instance.zip",
+          "File_Size": 176970,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "2622fffd-db6b-4918-9b0d-c28365e52042",
+          "File_Modified": "2023-03-02T13:05:31.613",
+          "File_Name": "AVIA_PenyampaianLaporanKeuanganKonsolidasian.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AVIA/AVIA_PenyampaianLaporanKeuanganKonsolidasian.pdf",
+          "File_Size": 1715947,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "de9ceacd-ba4c-4a52-8ce7-7b0234bdb3f1",
+          "File_Modified": "2023-03-02T13:05:31.613",
+          "File_Name": "FinancialStatement-2022-Tahunan-AVIA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AVIA/FinancialStatement-2022-Tahunan-AVIA.xlsx",
+          "File_Size": 1183179,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "b51d8175-0f76-49d9-b831-49cd4c0a57de",
+          "File_Modified": "2023-03-02T13:05:31.613",
+          "File_Name": "OJK Checklist Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AVIA/OJK Checklist Des 2022.pdf",
+          "File_Size": 1914918,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        },
+        {
+          "Emiten_Code": "AVIA",
+          "File_ID": "9dad0740-7d39-46cd-b366-58f14789330c",
+          "File_Modified": "2023-03-02T13:05:31.613",
+          "File_Name": "AnnualReport2022-AVIA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202303/e891fba0ae_5508ae995f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Avia Avian Tbk"
+        }
+      ]
+    }
+  ]
+}

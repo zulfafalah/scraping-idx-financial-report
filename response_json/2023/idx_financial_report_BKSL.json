@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BKSL",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BKSL",
+      "File_Modified": "2024-04-09T18:01:50.587",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Sentul City Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "21059567-a913-4f09-8195-22b76e7477b1",
+          "File_Modified": "2024-04-09T18:01:50.587",
+          "File_Name": "AnnualReport2023-BKSL-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/5322c068dc_ecf94f3672.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "91cacc53-603b-452a-87d4-30343c6f30a2",
+          "File_Modified": "2024-04-09T18:01:50.587",
+          "File_Name": "SC - Checklist OJK - Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKSL/SC - Checklist OJK - Des 2023.pdf",
+          "File_Size": 5742060,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "0998be4d-a462-4dc5-be58-8fc721616b15",
+          "File_Modified": "2024-04-09T18:01:50.587",
+          "File_Name": "FinancialStatement-2023-Tahunan-BKSL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKSL/FinancialStatement-2023-Tahunan-BKSL.pdf",
+          "File_Size": 816347,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "0e3a8776-ff64-45cd-bbcf-b18a9654706e",
+          "File_Modified": "2024-04-09T18:01:50.587",
+          "File_Name": "SC - Penjelasan 20_ - Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKSL/SC - Penjelasan 20_ - Des 2023.pdf",
+          "File_Size": 2255622,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "80370d2a-5404-4d62-ac7b-b246d60c242f",
+          "File_Modified": "2024-04-09T18:01:50.587",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKSL/inlineXBRL.zip",
+          "File_Size": 286755,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "6331b780-ad5f-4d10-bb7d-eea607bc56f4",
+          "File_Modified": "2024-04-09T18:01:50.587",
+          "File_Name": "AnnualReport2023-BKSL.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/36863988d8_52a02916b1.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "026b36b6-e47f-4023-8bca-9722139aebe8",
+          "File_Modified": "2024-04-09T18:01:50.587",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKSL/instance.zip",
+          "File_Size": 157346,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "5eb452bf-0023-4cb1-9b41-26313ad94482",
+          "File_Modified": "2024-04-09T18:01:50.587",
+          "File_Name": "SC - Laporan Keuangan Tahunan - 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKSL/SC - Laporan Keuangan Tahunan - 2023.pdf",
+          "File_Size": 3887922,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "6a1376f6-d49d-4eab-b77b-90ae6d0ca8ea",
+          "File_Modified": "2024-04-09T18:01:50.587",
+          "File_Name": "FinancialStatement-2023-Tahunan-BKSL.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BKSL/FinancialStatement-2023-Tahunan-BKSL.xlsx",
+          "File_Size": 395260,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "75645862-05a2-4b1e-bcb6-bc440500c26b",
+          "File_Modified": "2024-04-09T18:01:50.587",
+          "File_Name": "AnnualReport2023-BKSL-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/daf98718b5_a3627cbb43.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Sentul City Tbk"
+        }
+      ]
+    }
+  ]
+}

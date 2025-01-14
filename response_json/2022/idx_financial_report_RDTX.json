@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "RDTX",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "RDTX",
+      "File_Modified": "2023-04-04T22:36:15.433",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Roda Vivatex Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "258d7334-4e6a-4840-92fc-0c3566a5802f",
+          "File_Modified": "2023-04-04T22:36:15.433",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RDTX/inlineXBRL.zip",
+          "File_Size": 99518,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "9fbc1748-b50a-4c4e-b8e2-9004b521e7da",
+          "File_Modified": "2023-04-04T22:36:15.433",
+          "File_Name": "FinancialStatement-2022-Tahunan-RDTX.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RDTX/FinancialStatement-2022-Tahunan-RDTX.xlsx",
+          "File_Size": 1129946,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "ec8b3b49-2cd2-4653-bd2c-3f03d9791ecd",
+          "File_Modified": "2023-04-04T22:36:15.433",
+          "File_Name": "IKLAN LKT 2022 - INVESTOR DAILY.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RDTX/IKLAN LKT 2022 - INVESTOR DAILY.pdf",
+          "File_Size": 899296,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "2b805c2b-1904-45e5-8461-636d20e469d7",
+          "File_Modified": "2023-04-04T22:36:15.433",
+          "File_Name": "AnnualReport2022-RDTX-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/9aeec3becb_3c44c258eb.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "bd561075-cacf-4642-b945-8d64dc53cf06",
+          "File_Modified": "2023-04-04T22:36:15.433",
+          "File_Name": "FinancialStatement-2022-Tahunan-RDTX.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RDTX/FinancialStatement-2022-Tahunan-RDTX.pdf",
+          "File_Size": 82699,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "c38b9c99-9015-4ed9-9c62-059b5bde7928",
+          "File_Modified": "2023-04-04T22:36:15.433",
+          "File_Name": "Digitalisasi Report PT Roda Vivatex Tbk 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RDTX/Digitalisasi Report PT Roda Vivatex Tbk 2022.pdf",
+          "File_Size": 4777408,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "02f2d20c-7c62-4a1a-9583-0ade1d0cbc6a",
+          "File_Modified": "2023-04-04T22:36:15.433",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RDTX/instance.zip",
+          "File_Size": 151700,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "82b64dbe-1ab5-4447-a970-de00e78ad147",
+          "File_Modified": "2023-04-04T22:36:15.433",
+          "File_Name": "CHECKLIST LAP KEUANGAN TAHUNAN 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RDTX/CHECKLIST LAP KEUANGAN TAHUNAN 2022.pdf",
+          "File_Size": 1374162,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        }
+      ]
+    }
+  ]
+}

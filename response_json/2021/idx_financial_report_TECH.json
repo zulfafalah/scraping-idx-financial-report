@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TECH",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TECH",
+      "File_Modified": "2022-05-27T16:25:14.257",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Indosterling Technomedia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TECH",
+          "File_ID": "0f6b34d3-806b-4c22-be85-0b1c564eed84",
+          "File_Modified": "2022-05-27T16:25:14.257",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TECH/instance.zip",
+          "File_Size": 28478,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosterling Technomedia Tbk"
+        },
+        {
+          "Emiten_Code": "TECH",
+          "File_ID": "b37cc480-0593-4d3d-833c-8a5b28e05c02",
+          "File_Modified": "2022-05-27T16:25:14.257",
+          "File_Name": "AnnualReport2021-TECH-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/36f40ede19_410f9d142d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosterling Technomedia Tbk"
+        },
+        {
+          "Emiten_Code": "TECH",
+          "File_ID": "39c12f30-04cf-4f20-878e-8becea004062",
+          "File_Modified": "2022-05-27T16:25:14.257",
+          "File_Name": "Audit Report TECH_2 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TECH/Audit Report TECH_2 2021.pdf",
+          "File_Size": 4441505,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosterling Technomedia Tbk"
+        },
+        {
+          "Emiten_Code": "TECH",
+          "File_ID": "76b92536-660d-4dd3-b610-92bb222db99e",
+          "File_Modified": "2022-05-27T16:25:14.257",
+          "File_Name": "Audit Report TECH 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TECH/Audit Report TECH 2021.pdf",
+          "File_Size": 4529026,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosterling Technomedia Tbk"
+        },
+        {
+          "Emiten_Code": "TECH",
+          "File_ID": "39f8119b-bb8b-4635-b3ea-b909e768a2b6",
+          "File_Modified": "2022-05-27T16:25:14.257",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TECH/inlineXBRL.zip",
+          "File_Size": 58802,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosterling Technomedia Tbk"
+        },
+        {
+          "Emiten_Code": "TECH",
+          "File_ID": "869dcd9e-68ba-4d90-a5ed-49f60febb639",
+          "File_Modified": "2022-05-27T16:25:14.257",
+          "File_Name": "Surat Pengantar OJK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TECH/Surat Pengantar OJK.pdf",
+          "File_Size": 279935,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosterling Technomedia Tbk"
+        },
+        {
+          "Emiten_Code": "TECH",
+          "File_ID": "b78e9295-9a9a-4df6-965a-69233dac85f3",
+          "File_Modified": "2022-05-27T16:25:14.257",
+          "File_Name": "Checklist Pengungkapan LK TECH Tbk 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TECH/Checklist Pengungkapan LK TECH Tbk 2021.pdf",
+          "File_Size": 1347867,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosterling Technomedia Tbk"
+        },
+        {
+          "Emiten_Code": "TECH",
+          "File_ID": "4f8fcb9c-53bd-4298-8dd3-dd21a5c7c525",
+          "File_Modified": "2022-05-27T16:25:14.257",
+          "File_Name": "Checklist Pengungkapan LK TECH Tbk 2021_2.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TECH/Checklist Pengungkapan LK TECH Tbk 2021_2.pdf",
+          "File_Size": 1158988,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosterling Technomedia Tbk"
+        },
+        {
+          "Emiten_Code": "TECH",
+          "File_ID": "4a919998-ccea-4e08-86c0-29aaba9d2249",
+          "File_Modified": "2022-05-27T16:25:14.257",
+          "File_Name": "FinancialStatement-2021-Tahunan-TECH.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TECH/FinancialStatement-2021-Tahunan-TECH.pdf",
+          "File_Size": 43610,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosterling Technomedia Tbk"
+        },
+        {
+          "Emiten_Code": "TECH",
+          "File_ID": "68a64659-e50b-4291-9a95-45a6b1916a6d",
+          "File_Modified": "2022-05-27T16:25:14.257",
+          "File_Name": "FinancialStatement-2021-Tahunan-TECH.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TECH/FinancialStatement-2021-Tahunan-TECH.xlsx",
+          "File_Size": 159194,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Indosterling Technomedia Tbk"
+        }
+      ]
+    }
+  ]
+}

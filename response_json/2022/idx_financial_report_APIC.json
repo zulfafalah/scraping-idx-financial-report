@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "APIC",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "APIC",
+      "File_Modified": "2023-04-05T18:03:48.68",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "5ba80460-e43d-4614-969d-15548d06db36",
+          "File_Modified": "2023-04-05T18:03:48.68",
+          "File_Name": "Checklist LKT 2022 APIC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APIC/Checklist LKT 2022 APIC.pdf",
+          "File_Size": 1565056,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "12b6fa65-34be-4aa0-9bff-6eb838a74dda",
+          "File_Modified": "2023-04-05T18:03:48.68",
+          "File_Name": "LKT DES 2022 APIC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APIC/LKT DES 2022 APIC.pdf",
+          "File_Size": 4178962,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "87ae3615-19fe-49ef-939f-579603858027",
+          "File_Modified": "2023-04-05T18:03:48.68",
+          "File_Name": "BEI_Surat Pengantar LKT 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APIC/BEI_Surat Pengantar LKT 2022.pdf",
+          "File_Size": 380908,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "4ac783b8-ac99-462a-b75a-81d0046aeb0f",
+          "File_Modified": "2023-04-05T18:03:48.68",
+          "File_Name": "OJK_Surat Pengantar LKT 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APIC/OJK_Surat Pengantar LKT 2022.pdf",
+          "File_Size": 322884,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "488a700d-a433-4173-a4dd-a44ca91a3b77",
+          "File_Modified": "2023-04-05T18:03:48.68",
+          "File_Name": "AnnualReport2022-APIC-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/6091d052cc_b9c7cab5f3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "4257c9fc-9508-486b-8341-a99b49f4e5bb",
+          "File_Modified": "2023-04-05T18:03:48.68",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APIC/inlineXBRL.zip",
+          "File_Size": 178694,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "c73d8ac3-5093-45c0-9047-b0c4c85baeb7",
+          "File_Modified": "2023-04-05T18:03:48.68",
+          "File_Name": "FinancialStatement-2022-Tahunan-APIC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APIC/FinancialStatement-2022-Tahunan-APIC.pdf",
+          "File_Size": 137504,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "6945a678-12dc-49f0-a02e-b48f094748de",
+          "File_Modified": "2023-04-05T18:03:48.68",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APIC/instance.zip",
+          "File_Size": 181537,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "32b445bc-d81a-47d3-ae09-dfab4ceb9008",
+          "File_Modified": "2023-04-05T18:03:48.68",
+          "File_Name": "FinancialStatement-2022-Tahunan-APIC.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/APIC/FinancialStatement-2022-Tahunan-APIC.xlsx",
+          "File_Size": 1193726,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        }
+      ]
+    }
+  ]
+}

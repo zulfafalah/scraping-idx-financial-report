@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "CPRI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "CPRI",
+      "File_Modified": "2022-04-29T05:07:58.957",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Capri Nusa Satu Properti Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "CPRI",
+          "File_ID": "eb125ee8-6b32-483b-a00e-01e4a2072660",
+          "File_Modified": "2022-04-29T05:07:58.957",
+          "File_Name": "DSL CPRI Dec 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPRI/DSL CPRI Dec 2021.pdf",
+          "File_Size": 593120,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Capri Nusa Satu Properti Tbk."
+        },
+        {
+          "Emiten_Code": "CPRI",
+          "File_ID": "95bbeaa8-ca57-45ef-ad81-30e89f954eff",
+          "File_Modified": "2022-04-29T05:07:58.957",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPRI/inlineXBRL.zip",
+          "File_Size": 53333,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Capri Nusa Satu Properti Tbk."
+        },
+        {
+          "Emiten_Code": "CPRI",
+          "File_ID": "8a1b9f3f-8a26-4d9e-b92e-8f2730919491",
+          "File_Modified": "2022-04-29T05:07:58.957",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPRI/instance.zip",
+          "File_Size": 26346,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Capri Nusa Satu Properti Tbk."
+        },
+        {
+          "Emiten_Code": "CPRI",
+          "File_ID": "be8f9700-7cad-4228-9cdf-df611b23a1f0",
+          "File_Modified": "2022-04-29T05:07:58.957",
+          "File_Name": "FinancialStatement-2021-Tahunan-CPRI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPRI/FinancialStatement-2021-Tahunan-CPRI.xlsx",
+          "File_Size": 154158,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Capri Nusa Satu Properti Tbk."
+        },
+        {
+          "Emiten_Code": "CPRI",
+          "File_ID": "55af8b0b-0070-43f2-92b3-44975b3df665",
+          "File_Modified": "2022-04-29T05:07:58.957",
+          "File_Name": "Final CPRI 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPRI/Final CPRI 2021.pdf",
+          "File_Size": 3207766,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Capri Nusa Satu Properti Tbk."
+        },
+        {
+          "Emiten_Code": "CPRI",
+          "File_ID": "b989cf93-4a9c-4862-bf9a-4bf1de227b81",
+          "File_Modified": "2022-04-29T05:07:58.957",
+          "File_Name": "FinancialStatement-2021-Tahunan-CPRI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/CPRI/FinancialStatement-2021-Tahunan-CPRI.pdf",
+          "File_Size": 41287,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Capri Nusa Satu Properti Tbk."
+        },
+        {
+          "Emiten_Code": "CPRI",
+          "File_ID": "3296385b-a12c-4c40-ac82-e55225515ff5",
+          "File_Modified": "2022-04-29T05:07:58.957",
+          "File_Name": "AnnualReport2021-CPRI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202206/a771f14f59_7999c0d5ce.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Capri Nusa Satu Properti Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "KIJA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "KIJA",
+      "File_Modified": "2024-03-28T14:53:33.1",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Kawasan Industri Jababeka Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "09909214-bd00-45fa-8472-a4f7d0d6c2ff",
+          "File_Modified": "2024-03-28T14:53:33.1",
+          "File_Name": "Surat Pernyataan Direksi FS KIJA 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KIJA/Surat Pernyataan Direksi FS KIJA 2023.pdf",
+          "File_Size": 454463,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        },
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "a5d9374d-e066-4251-a413-c4948df7410d",
+          "File_Modified": "2024-03-28T14:53:33.1",
+          "File_Name": "FinancialStatement-2023-Tahunan-KIJA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KIJA/FinancialStatement-2023-Tahunan-KIJA.pdf",
+          "File_Size": 703978,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        },
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "7140f0b0-e5e1-4e99-a91c-ef3afa946f0d",
+          "File_Modified": "2024-03-28T14:53:33.1",
+          "File_Name": "AnnualReport2023-KIJA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/62b4c52d32_ce44f3a6e8.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        },
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "50bf5df0-58c6-46a2-b90d-1dc0f2e15e67",
+          "File_Modified": "2024-03-28T14:53:33.1",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KIJA/inlineXBRL.zip",
+          "File_Size": 254991,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        },
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "138a28cf-fc9a-4c50-87bd-6f936e3013da",
+          "File_Modified": "2024-03-28T14:53:33.1",
+          "File_Name": "AnnualReport2023-KIJA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f1593f0958_6fcbda345f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        },
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "73cb8780-3e2c-431d-aa4a-80357404b4ea",
+          "File_Modified": "2024-03-28T14:53:33.1",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KIJA/instance.zip",
+          "File_Size": 134224,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        },
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "6964ca3c-e8df-4b21-98c8-993dd13c6bf9",
+          "File_Modified": "2024-03-28T14:53:33.1",
+          "File_Name": "FS KIJA 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KIJA/FS KIJA 2023.pdf",
+          "File_Size": 5932562,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        },
+        {
+          "Emiten_Code": "KIJA",
+          "File_ID": "b375be8f-1447-4a42-bab3-b9f5737125a5",
+          "File_Modified": "2024-03-28T14:53:33.1",
+          "File_Name": "FinancialStatement-2023-Tahunan-KIJA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/KIJA/FinancialStatement-2023-Tahunan-KIJA.xlsx",
+          "File_Size": 347821,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Kawasan Industri Jababeka Tbk"
+        }
+      ]
+    }
+  ]
+}

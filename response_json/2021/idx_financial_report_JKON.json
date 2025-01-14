@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "JKON",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "JKON",
+      "File_Modified": "2022-04-08T11:01:33.043",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Jaya Konstruksi Manggala Pratama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "JKON",
+          "File_ID": "b63641b6-10ae-4424-91d9-6f3d9714f250",
+          "File_Modified": "2022-04-08T11:01:33.043",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JKON/instance.zip",
+          "File_Size": 27476,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Konstruksi Manggala Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "JKON",
+          "File_ID": "dacdecf2-ba8d-45ee-98e3-77ce349ad2b1",
+          "File_Modified": "2022-04-08T11:01:33.043",
+          "File_Name": "AnnualReport2021-JKON-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/ea54b4978d_b651f22128.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Konstruksi Manggala Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "JKON",
+          "File_ID": "d824ce37-34f8-4659-8c00-8c0666ef9585",
+          "File_Modified": "2022-04-08T11:01:33.043",
+          "File_Name": "FinancialStatement-2021-Tahunan-JKON.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JKON/FinancialStatement-2021-Tahunan-JKON.xlsx",
+          "File_Size": 155118,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Konstruksi Manggala Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "JKON",
+          "File_ID": "662a3f11-1a57-4f72-ad78-bb2d952b1c2d",
+          "File_Modified": "2022-04-08T11:01:33.043",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JKON/inlineXBRL.zip",
+          "File_Size": 54568,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Konstruksi Manggala Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "JKON",
+          "File_ID": "e5612564-85c8-4a6e-8c0d-c527a1aa635b",
+          "File_Modified": "2022-04-08T11:01:33.043",
+          "File_Name": "Laporan Keuangan JKON_2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JKON/Laporan Keuangan JKON_2021.pdf",
+          "File_Size": 3325386,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Konstruksi Manggala Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "JKON",
+          "File_ID": "3bbe9edd-813c-4154-b885-c3715082517c",
+          "File_Modified": "2022-04-08T11:01:33.043",
+          "File_Name": "FinancialStatement-2021-Tahunan-JKON.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JKON/FinancialStatement-2021-Tahunan-JKON.pdf",
+          "File_Size": 56748,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Konstruksi Manggala Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "JKON",
+          "File_ID": "8a9b8f2f-2d58-4400-ab72-d903a53bf668",
+          "File_Modified": "2022-04-08T11:01:33.043",
+          "File_Name": "SPD_JKON_2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JKON/SPD_JKON_2021.pdf",
+          "File_Size": 522912,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Konstruksi Manggala Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "JKON",
+          "File_ID": "cba76745-a3c1-4c89-8ee5-f9941fec34ad",
+          "File_Modified": "2022-04-08T11:01:33.043",
+          "File_Name": "13_CS_JK_IV_2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JKON/13_CS_JK_IV_2022.pdf",
+          "File_Size": 702418,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Jaya Konstruksi Manggala Pratama Tbk"
+        }
+      ]
+    }
+  ]
+}

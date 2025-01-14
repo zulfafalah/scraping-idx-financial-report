@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "NZIA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "NZIA",
+      "File_Modified": "2023-03-24T06:20:39.853",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Nusantara Almazia, Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "d6c00a93-2daa-4116-a0fc-1b968fa9d213",
+          "File_Modified": "2023-03-24T06:20:39.853",
+          "File_Name": "Surat Pengantar Lapkeu NZIA Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NZIA/Surat Pengantar Lapkeu NZIA Des 2022.pdf",
+          "File_Size": 517036,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "6265fa16-b737-426c-aa0d-44fc598bc5e9",
+          "File_Modified": "2023-03-24T06:20:39.853",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NZIA/instance.zip",
+          "File_Size": 160200,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "01dc8135-e5f8-4c56-b303-2d55efe2d3c6",
+          "File_Modified": "2023-03-24T06:20:39.853",
+          "File_Name": "FinancialStatement-2022-Tahunan-NZIA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NZIA/FinancialStatement-2022-Tahunan-NZIA.xlsx",
+          "File_Size": 1131192,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "cd0debd1-a93a-42a8-9cce-3a64e03897fe",
+          "File_Modified": "2023-03-24T06:20:39.853",
+          "File_Name": "AnnualReport2022-NZIA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202303/33790819b7_7e4fe8a4e0.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "884b4f85-45e5-45c6-9704-6c969d8cbc39",
+          "File_Modified": "2023-03-24T06:20:39.853",
+          "File_Name": "FinancialStatement-2022-Tahunan-NZIA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NZIA/FinancialStatement-2022-Tahunan-NZIA.pdf",
+          "File_Size": 103990,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "0edb1177-8e95-4fc3-b134-d06f0cebaad7",
+          "File_Modified": "2023-03-24T06:20:39.853",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NZIA/inlineXBRL.zip",
+          "File_Size": 135681,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "dcd8d09c-cb3f-4747-a594-105e70348c59",
+          "File_Modified": "2023-03-24T06:20:39.853",
+          "File_Name": "SPD NA 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NZIA/SPD NA 2022.pdf",
+          "File_Size": 391663,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "8a4f469e-084d-40da-bf91-46863996f44d",
+          "File_Modified": "2023-03-24T06:20:39.853",
+          "File_Name": "Surat Penjelasan NZIA Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NZIA/Surat Penjelasan NZIA Des 2022.pdf",
+          "File_Size": 518624,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "5c343751-9ce2-4a04-97c2-995d647f8002",
+          "File_Modified": "2023-03-24T06:20:39.853",
+          "File_Name": "OJK Cek List NZIA Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NZIA/OJK Cek List NZIA Des 2022.pdf",
+          "File_Size": 1833512,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "5cc597e0-f6c1-4de8-9bab-d366ed2b70c1",
+          "File_Modified": "2023-03-24T06:20:39.853",
+          "File_Name": "Final Report NZIA Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/NZIA/Final Report NZIA Des 2022.pdf",
+          "File_Size": 4716612,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        }
+      ]
+    }
+  ]
+}

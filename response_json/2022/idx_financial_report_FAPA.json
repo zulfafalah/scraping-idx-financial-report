@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "FAPA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "FAPA",
+      "File_Modified": "2023-04-10T18:35:17.23",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT FAP Agri Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "50cbe54b-22cf-4ae5-926c-d213a008e9ef",
+          "File_Modified": "2023-04-10T18:35:17.23",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/FAPA/instance.zip",
+          "File_Size": 174911,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "5846dbad-3132-41a1-81aa-d2311aa21c63",
+          "File_Modified": "2023-04-10T18:35:17.23",
+          "File_Name": "FAPA_SPD 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/FAPA/FAPA_SPD 2022.pdf",
+          "File_Size": 254011,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "9165dbcc-4c5d-4bbc-b990-efad1ae0e659",
+          "File_Modified": "2023-04-10T18:35:17.23",
+          "File_Name": "FinancialStatement-2022-Tahunan-FAPA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/FAPA/FinancialStatement-2022-Tahunan-FAPA.xlsx",
+          "File_Size": 1186451,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "5fc8285a-81fc-41bc-9b58-14c9406b68d9",
+          "File_Modified": "2023-04-10T18:35:17.23",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/FAPA/inlineXBRL.zip",
+          "File_Size": 155783,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "ee10d990-d582-49de-976f-5e9ef8fa6e4f",
+          "File_Modified": "2023-04-10T18:35:17.23",
+          "File_Name": "AnnualReport2022-FAPA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/6b91a2ca5e_ec9bd3aea2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "d20aa0b5-0944-4158-86dd-e96eff8e8ec2",
+          "File_Modified": "2023-04-10T18:35:17.23",
+          "File_Name": "FAPA_LK Audited 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/FAPA/FAPA_LK Audited 2022.pdf",
+          "File_Size": 4101090,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "8940bbec-4c07-4b64-844f-a1bf33746a2e",
+          "File_Modified": "2023-04-10T18:35:17.23",
+          "File_Name": "FinancialStatement-2022-Tahunan-FAPA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/FAPA/FinancialStatement-2022-Tahunan-FAPA.pdf",
+          "File_Size": 142828,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        },
+        {
+          "Emiten_Code": "FAPA",
+          "File_ID": "cce9a421-060f-4c4c-bc07-c0a059c6e13b",
+          "File_Modified": "2023-04-10T18:35:17.23",
+          "File_Name": "FAPA_Checklist LK 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/FAPA/FAPA_Checklist LK 2022.pdf",
+          "File_Size": 3663702,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT FAP Agri Tbk"
+        }
+      ]
+    }
+  ]
+}

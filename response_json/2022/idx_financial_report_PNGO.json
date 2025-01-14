@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PNGO",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PNGO",
+      "File_Modified": "2023-03-31T12:02:42.59",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Pinago Utama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "c158e2f7-9e34-4603-8b4e-0f0cb88eeb85",
+          "File_Modified": "2023-03-31T12:02:42.59",
+          "File_Name": "FinancialStatement-2022-Tahunan-PNGO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PNGO/FinancialStatement-2022-Tahunan-PNGO.pdf",
+          "File_Size": 157614,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "9839ec2c-8327-4bd5-847d-6d6ccea33cce",
+          "File_Modified": "2023-03-31T12:02:42.59",
+          "File_Name": "PNGO Checklist Pengungkapan LK TAHUNAN 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PNGO/PNGO Checklist Pengungkapan LK TAHUNAN 2022.pdf",
+          "File_Size": 1188870,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "24b11a5b-3ac4-4dbe-a669-8eb9d4978460",
+          "File_Modified": "2023-03-31T12:02:42.59",
+          "File_Name": "SURAT PENGANTAR PNGO LK TAHUNAN 2022-BEI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PNGO/SURAT PENGANTAR PNGO LK TAHUNAN 2022-BEI.pdf",
+          "File_Size": 393646,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "9bacb080-20c8-46b1-aab2-0a2915f0468d",
+          "File_Modified": "2023-03-31T12:02:42.59",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PNGO/inlineXBRL.zip",
+          "File_Size": 186937,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "f1375363-bbf6-42ef-b092-70662ecc579b",
+          "File_Modified": "2023-03-31T12:02:42.59",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PNGO/instance.zip",
+          "File_Size": 187677,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "3244d2c5-9307-4326-b418-82264855165d",
+          "File_Modified": "2023-03-31T12:02:42.59",
+          "File_Name": "SURAT PENGANTAR PNGO LK TAHUNAN 2022-OJK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PNGO/SURAT PENGANTAR PNGO LK TAHUNAN 2022-OJK.pdf",
+          "File_Size": 391389,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "c0c533aa-bf92-4f15-8519-b562b1124ef4",
+          "File_Modified": "2023-03-31T12:02:42.59",
+          "File_Name": "FinancialStatement-2022-Tahunan-PNGO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PNGO/FinancialStatement-2022-Tahunan-PNGO.xlsx",
+          "File_Size": 1194870,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "51919412-64b9-47aa-854c-da28b2c2c8f0",
+          "File_Modified": "2023-03-31T12:02:42.59",
+          "File_Name": "SURAT PERNYATAAN DIREKSI PNGO LK TAHUNAN 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PNGO/SURAT PERNYATAAN DIREKSI PNGO LK TAHUNAN 2022.pdf",
+          "File_Size": 670622,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "32c4ce8c-cdcb-4ca1-82f1-dab09e67dafb",
+          "File_Modified": "2023-03-31T12:02:42.59",
+          "File_Name": "AnnualReport2022-PNGO-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/fec6a5d4ce_ba4155ac97.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        },
+        {
+          "Emiten_Code": "PNGO",
+          "File_ID": "1cc42b37-9c44-4ed9-869b-4eb170c352ae",
+          "File_Modified": "2023-03-31T12:02:42.59",
+          "File_Name": "PNGO LK TAHUNAN 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PNGO/PNGO LK TAHUNAN 2022.pdf",
+          "File_Size": 8428155,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Pinago Utama Tbk"
+        }
+      ]
+    }
+  ]
+}

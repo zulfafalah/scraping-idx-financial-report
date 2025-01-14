@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DSFI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DSFI",
+      "File_Modified": "2022-04-28T12:33:34.977",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "8453595f-be32-4386-a73e-62131c3cd860",
+          "File_Modified": "2022-04-28T12:33:34.977",
+          "File_Name": "FinancialStatement-2021-Tahunan-DSFI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSFI/FinancialStatement-2021-Tahunan-DSFI.xlsx",
+          "File_Size": 159441,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "3d1c7e37-be63-431b-8453-5f9eb6cdfe0a",
+          "File_Modified": "2022-04-28T12:33:34.977",
+          "File_Name": "FinancialStatement-2021-Tahunan-DSFI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSFI/FinancialStatement-2021-Tahunan-DSFI.pdf",
+          "File_Size": 48168,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "da8cd3ed-f9c0-46ec-83a7-c5706ee47a29",
+          "File_Modified": "2022-04-28T12:33:34.977",
+          "File_Name": "AnnualReport2021-DSFI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/33c66c02bf_03c8ac1f4c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "136769d7-9b0e-4d5d-8c42-cbc2b1af2c66",
+          "File_Modified": "2022-04-28T12:33:34.977",
+          "File_Name": "Checklist Pengungkapan LK 31 Des 21 Final.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSFI/Checklist Pengungkapan LK 31 Des 21 Final.pdf",
+          "File_Size": 1855823,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "b00193dc-fa2a-4a92-bdcd-edc8000e6ee8",
+          "File_Modified": "2022-04-28T12:33:34.977",
+          "File_Name": "LK Tahunan 2021 Audited Final.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSFI/LK Tahunan 2021 Audited Final.pdf",
+          "File_Size": 5505247,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "4f2c5990-ba24-4334-a68f-35fe56f84fa0",
+          "File_Modified": "2022-04-28T12:33:34.977",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSFI/inlineXBRL.zip",
+          "File_Size": 58883,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "d696667e-e3e1-4e9f-b9ae-b21dc28b21ba",
+          "File_Modified": "2022-04-28T12:33:34.977",
+          "File_Name": "Surat pengantar LK 31 Desember 2021 audited OJK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSFI/Surat pengantar LK 31 Desember 2021 audited OJK.pdf",
+          "File_Size": 472925,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "6496e163-0a7c-409a-bf4f-db5623281de0",
+          "File_Modified": "2022-04-28T12:33:34.977",
+          "File_Name": "Surat pengantar LK 31 Desember 2021 audited BEI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSFI/Surat pengantar LK 31 Desember 2021 audited BEI.pdf",
+          "File_Size": 447042,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "DSFI",
+          "File_ID": "7e129774-3dcf-412a-8424-fdfd08e4d436",
+          "File_Modified": "2022-04-28T12:33:34.977",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DSFI/instance.zip",
+          "File_Size": 28751,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Dharma Samudera Fishing Ind. Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DAYA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DAYA",
+      "File_Modified": "2023-03-16T19:18:00.593",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Duta Intidaya Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "7c73cd9b-dc11-412a-b786-16472a3b8e53",
+          "File_Modified": "2023-03-16T19:18:00.593",
+          "File_Name": "AnnualReport2022-DAYA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/dd7c61b773_31fae4287f.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "1681163d-1f61-4bf0-8ec5-02ab30df32d2",
+          "File_Modified": "2023-03-16T19:18:00.593",
+          "File_Name": "FinancialStatement-2022-Tahunan-DAYA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DAYA/FinancialStatement-2022-Tahunan-DAYA.xlsx",
+          "File_Size": 1179820,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "557e583a-b233-4889-b971-14b46087654b",
+          "File_Modified": "2023-03-16T19:18:00.593",
+          "File_Name": "FinancialStatement-2022-Tahunan-DAYA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DAYA/FinancialStatement-2022-Tahunan-DAYA.pdf",
+          "File_Size": 95891,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "f362de8f-90fc-45c3-8664-5c0cd886be4f",
+          "File_Modified": "2023-03-16T19:18:00.593",
+          "File_Name": "FINAL Signed FS Duta Intidaya Tbk 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DAYA/FINAL Signed FS Duta Intidaya Tbk 2022.pdf",
+          "File_Size": 3482817,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "1d34604b-4cc5-4087-8068-9823f76cf546",
+          "File_Modified": "2023-03-16T19:18:00.593",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DAYA/inlineXBRL.zip",
+          "File_Size": 158537,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        },
+        {
+          "Emiten_Code": "DAYA",
+          "File_ID": "bc4e6a4d-5299-40f3-adba-ae4fccaee1d3",
+          "File_Modified": "2023-03-16T19:18:00.593",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DAYA/instance.zip",
+          "File_Size": 167611,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Duta Intidaya Tbk."
+        }
+      ]
+    }
+  ]
+}

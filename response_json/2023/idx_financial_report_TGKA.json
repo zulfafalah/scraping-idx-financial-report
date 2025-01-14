@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TGKA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TGKA",
+      "File_Modified": "2024-03-27T16:07:41.207",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Tigaraksa Satria Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "2f65d306-6445-4dbf-87d5-36cc17bebe8d",
+          "File_Modified": "2024-03-27T16:07:41.207",
+          "File_Name": "FinancialStatement-2023-Tahunan-TGKA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TGKA/FinancialStatement-2023-Tahunan-TGKA.pdf",
+          "File_Size": 720735,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "7261a572-1804-470c-a8ef-5663edfe1917",
+          "File_Modified": "2024-03-27T16:07:41.207",
+          "File_Name": "TGKA_Surat Pernyataan Direksi LK Tahunan 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TGKA/TGKA_Surat Pernyataan Direksi LK Tahunan 2023.pdf",
+          "File_Size": 429096,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "6a1c8bb2-ad3d-4699-be9d-783b9aead8d0",
+          "File_Modified": "2024-03-27T16:07:41.207",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TGKA/instance.zip",
+          "File_Size": 126602,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "f555bc76-2f17-464b-a22f-4133e7ff9a3b",
+          "File_Modified": "2024-03-27T16:07:41.207",
+          "File_Name": "TGKA_Checklist Pengungkapan LK 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TGKA/TGKA_Checklist Pengungkapan LK 2023.pdf",
+          "File_Size": 2129247,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "d18dbb62-28e3-4785-a83b-83ef6e857337",
+          "File_Modified": "2024-03-27T16:07:41.207",
+          "File_Name": "FinancialStatement-2023-Tahunan-TGKA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TGKA/FinancialStatement-2023-Tahunan-TGKA.xlsx",
+          "File_Size": 358307,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "16bf7819-a437-41a5-a192-9b65bc6356d4",
+          "File_Modified": "2024-03-27T16:07:41.207",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TGKA/inlineXBRL.zip",
+          "File_Size": 257505,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "201b9f9c-f348-4ef6-8028-9fc7f83bfc59",
+          "File_Modified": "2024-03-27T16:07:41.207",
+          "File_Name": "AnnualReport2023-TGKA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/d23c95763d_4db0cddd6d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "206d61e7-798e-4079-b8ed-d5f647fb84d8",
+          "File_Modified": "2024-03-27T16:07:41.207",
+          "File_Name": "TGKA_LK 31Des23_Final_Released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TGKA/TGKA_LK 31Des23_Final_Released.pdf",
+          "File_Size": 3172800,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "7888fa3a-dee1-40f6-b9ed-8ec4441cc093",
+          "File_Modified": "2024-03-27T16:07:41.207",
+          "File_Name": "AnnualReport2023-TGKA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/83a49f172a_367668a244.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "95fc8388-aa26-48fa-be7d-cc52ae6be4f0",
+          "File_Modified": "2024-03-27T16:07:41.207",
+          "File_Name": "AnnualReport2023-TGKA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/8fa5fca05b_67193c1752.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        }
+      ]
+    }
+  ]
+}

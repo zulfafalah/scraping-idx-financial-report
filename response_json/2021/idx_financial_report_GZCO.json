@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GZCO",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GZCO",
+      "File_Modified": "2022-04-29T09:41:39.75",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Gozco Plantations Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "2aede2aa-e877-4661-8d72-c960055ec945",
+          "File_Modified": "2022-04-29T09:41:39.75",
+          "File_Name": "FinancialStatement-2021-Tahunan-GZCO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GZCO/FinancialStatement-2021-Tahunan-GZCO.pdf",
+          "File_Size": 51442,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "d7e3e539-92c1-43d0-b24d-e9e1aba2c3a6",
+          "File_Modified": "2022-04-29T09:41:39.75",
+          "File_Name": "AnnualReport2021-GZCO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/3652260e7a_3c2e1f5656.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "199f35d2-9ef2-4461-9236-4753dccd306b",
+          "File_Modified": "2022-04-29T09:41:39.75",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GZCO/instance.zip",
+          "File_Size": 28520,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "f12a11eb-70cc-4866-98a2-5f74c4b77121",
+          "File_Modified": "2022-04-29T09:41:39.75",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GZCO/inlineXBRL.zip",
+          "File_Size": 58286,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "cce4681b-d958-4560-9dab-92cadcfdfb31",
+          "File_Modified": "2022-04-29T09:41:39.75",
+          "File_Name": "FinancialStatement-2021-Tahunan-GZCO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GZCO/FinancialStatement-2021-Tahunan-GZCO.xlsx",
+          "File_Size": 158840,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "GZCO",
+          "File_ID": "0f1bc1b3-8df2-4ef0-88ec-6734d1be5e4d",
+          "File_Modified": "2022-04-29T09:41:39.75",
+          "File_Name": "PT Gozco Plantations Tbk 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/GZCO/PT Gozco Plantations Tbk 2021.pdf",
+          "File_Size": 5021659,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Gozco Plantations Tbk"
+        }
+      ]
+    }
+  ]
+}

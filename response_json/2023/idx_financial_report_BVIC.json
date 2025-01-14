@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BVIC",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BVIC",
+      "File_Modified": "2024-04-01T09:46:06.953",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Bank Victoria International Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "d13ca3ec-c74c-4d96-afa4-0ef966703f12",
+          "File_Modified": "2024-04-01T09:46:06.953",
+          "File_Name": "Perubahan Liabilitas Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BVIC/Perubahan Liabilitas Des 2023.pdf",
+          "File_Size": 209692,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "1a341ce5-ab50-41f3-bbad-22905f92d562",
+          "File_Modified": "2024-04-01T09:46:06.953",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BVIC/inlineXBRL.zip",
+          "File_Size": 115129,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "fba67d27-285c-4a3a-9d9c-4e87d8d7e3c4",
+          "File_Modified": "2024-04-01T09:46:06.953",
+          "File_Name": "AnnualReport2023-BVIC.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/a6443b412b_c3b3cee209.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "fb9c9c83-e441-461b-bdfe-c87a6934811b",
+          "File_Modified": "2024-04-01T09:46:06.953",
+          "File_Name": "AnnualReport2023-BVIC-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/83cfe33917_a7602cb3df.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "13780c22-0f2b-4051-b6b8-fa2790b80b7a",
+          "File_Modified": "2024-04-01T09:46:06.953",
+          "File_Name": "AnnualReport2023-BVIC-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/d136268bb2_d150383f5d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "fec44b87-f82c-4a39-a0a8-51fab59ab083",
+          "File_Modified": "2024-04-01T09:46:06.953",
+          "File_Name": "FinancialStatement-2023-Tahunan-BVIC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BVIC/FinancialStatement-2023-Tahunan-BVIC.pdf",
+          "File_Size": 238390,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "02adb90d-edee-4f41-bc67-9da71f610266",
+          "File_Modified": "2024-04-01T09:46:06.953",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BVIC/instance.zip",
+          "File_Size": 46515,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "d564bb0e-c11a-4c58-9dc6-f1677649fb69",
+          "File_Modified": "2024-04-01T09:46:06.953",
+          "File_Name": "LKT Bank Victoria 31 Desember 2023_BEI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BVIC/LKT Bank Victoria 31 Desember 2023_BEI.pdf",
+          "File_Size": 7282626,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        },
+        {
+          "Emiten_Code": "BVIC",
+          "File_ID": "a9f5ea69-2e5e-4afe-8d98-37b80ee94bc4",
+          "File_Modified": "2024-04-01T09:46:06.953",
+          "File_Name": "FinancialStatement-2023-Tahunan-BVIC.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/BVIC/FinancialStatement-2023-Tahunan-BVIC.xlsx",
+          "File_Size": 150784,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Bank Victoria International Tbk"
+        }
+      ]
+    }
+  ]
+}

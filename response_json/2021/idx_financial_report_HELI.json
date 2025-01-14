@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "HELI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "HELI",
+      "File_Modified": "2022-04-28T11:36:51.26",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Jaya Trishindo Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "80d253b7-b733-499f-b848-1fec0990c7fc",
+          "File_Modified": "2022-04-28T11:36:51.26",
+          "File_Name": "32 Surat Pengantar Laporan Keuangan 28 April 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HELI/32 Surat Pengantar Laporan Keuangan 28 April 2022.pdf",
+          "File_Size": 85537,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "72083bb2-c23e-4c76-af6c-0fda3afe2ad2",
+          "File_Modified": "2022-04-28T11:36:51.26",
+          "File_Name": "34 Laporan Informasi atau Fakta Material.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HELI/34 Laporan Informasi atau Fakta Material.pdf",
+          "File_Size": 169713,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "d1ef69d7-80b2-48cd-8991-c1323c12ac66",
+          "File_Modified": "2022-04-28T11:36:51.26",
+          "File_Name": "Checklist Bapepam 12-2021 - PT Jaya Trishindo Tbk.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HELI/Checklist Bapepam 12-2021 - PT Jaya Trishindo Tbk.pdf",
+          "File_Size": 1878776,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "439d3d67-fd7d-4e95-935a-385ca09acaff",
+          "File_Modified": "2022-04-28T11:36:51.26",
+          "File_Name": "Audit  PT Jaya Trishindo Tbk 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HELI/Audit  PT Jaya Trishindo Tbk 31 Desember 2021.pdf",
+          "File_Size": 2206482,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "454f1aa0-3672-48a0-96eb-e7f798533b9c",
+          "File_Modified": "2022-04-28T11:36:51.26",
+          "File_Name": "FinancialStatement-2021-Tahunan-HELI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HELI/FinancialStatement-2021-Tahunan-HELI.pdf",
+          "File_Size": 47676,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "180f54c7-ba40-4f63-9b43-0c8a1583cfd1",
+          "File_Modified": "2022-04-28T11:36:51.26",
+          "File_Name": "FinancialStatement-2021-Tahunan-HELI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HELI/FinancialStatement-2021-Tahunan-HELI.xlsx",
+          "File_Size": 159584,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "83c9902c-1a47-4e12-a6fa-8d6128a27823",
+          "File_Modified": "2022-04-28T11:36:51.26",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HELI/instance.zip",
+          "File_Size": 28890,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "34a15887-b874-473a-8dea-9cc73731bcfa",
+          "File_Modified": "2022-04-28T11:36:51.26",
+          "File_Name": "AnnualReport2021-HELI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202206/0ecd4645f6_e232ab54dc.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        },
+        {
+          "Emiten_Code": "HELI",
+          "File_ID": "ba6bd086-baaf-4d1a-81e7-b15fd4d563eb",
+          "File_Modified": "2022-04-28T11:36:51.26",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/HELI/inlineXBRL.zip",
+          "File_Size": 59112,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Jaya Trishindo Tbk"
+        }
+      ]
+    }
+  ]
+}

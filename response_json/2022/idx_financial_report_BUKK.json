@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BUKK",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BUKK",
+      "File_Modified": "2023-03-24T06:41:02.183",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Bukaka Teknik Utama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "13458958-94d2-4d41-99bf-0c1247d52757",
+          "File_Modified": "2023-03-24T06:41:02.183",
+          "File_Name": "FinancialStatement-2022-Tahunan-BUKK.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BUKK/FinancialStatement-2022-Tahunan-BUKK.xlsx",
+          "File_Size": 1173689,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "94b3ec16-374f-4252-9f6e-13da16d96a6b",
+          "File_Modified": "2023-03-24T06:41:02.183",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BUKK/inlineXBRL.zip",
+          "File_Size": 186506,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "05eb86d5-e4c1-4216-bbdb-42cbb0dec94a",
+          "File_Modified": "2023-03-24T06:41:02.183",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BUKK/instance.zip",
+          "File_Size": 179181,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "d773f7ae-a001-4840-b83e-3f531f4866ff",
+          "File_Modified": "2023-03-24T06:41:02.183",
+          "File_Name": "LAI PT BTU DAN ENTITAS ANAK PER 31 DES 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BUKK/LAI PT BTU DAN ENTITAS ANAK PER 31 DES 2022.pdf",
+          "File_Size": 6970883,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "6d695ad3-b7b0-4b99-8a68-243bbe2e4858",
+          "File_Modified": "2023-03-24T06:41:02.183",
+          "File_Name": "Bappepam Checklist 31 Dec 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BUKK/Bappepam Checklist 31 Dec 2022.pdf",
+          "File_Size": 2093590,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "0088ae59-4081-4e14-9d91-384cdd006747",
+          "File_Modified": "2023-03-24T06:41:02.183",
+          "File_Name": "Penjelasan Perubahan Lebih Dari 20 Persen Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BUKK/Penjelasan Perubahan Lebih Dari 20 Persen Des 2022.pdf",
+          "File_Size": 602895,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "cefca5c4-ce75-4ea7-ada5-8b398643453a",
+          "File_Modified": "2023-03-24T06:41:02.183",
+          "File_Name": "FinancialStatement-2022-Tahunan-BUKK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BUKK/FinancialStatement-2022-Tahunan-BUKK.pdf",
+          "File_Size": 177748,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        },
+        {
+          "Emiten_Code": "BUKK",
+          "File_ID": "63b23f54-bc6f-4d23-a47c-722a81ecfdb9",
+          "File_Modified": "2023-03-24T06:41:02.183",
+          "File_Name": "AnnualReport2022-BUKK-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/f9092bdec1_7767d9765a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Bukaka Teknik Utama Tbk"
+        }
+      ]
+    }
+  ]
+}

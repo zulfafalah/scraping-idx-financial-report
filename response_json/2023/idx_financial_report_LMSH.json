@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "LMSH",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "LMSH",
+      "File_Modified": "2024-08-08T11:23:58.247",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Lionmesh Prima Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "c978a124-d301-4b77-a681-093d0acd6bb7",
+          "File_Modified": "2024-08-08T11:23:58.247",
+          "File_Name": "AnnualReport2023-LMSH-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/e2dffd185f_9e1ba69b41.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "37a0f82a-babb-4ab0-a680-28e81dbde51b",
+          "File_Modified": "2024-08-08T11:23:58.247",
+          "File_Name": "PT Lionmesh Prima Tbk tahun buku 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/LMSH/PT Lionmesh Prima Tbk tahun buku 31 Desember 2023.pdf",
+          "File_Size": 4970200,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "a46cf33c-828e-46ff-8a1a-43f83774e6e1",
+          "File_Modified": "2024-08-08T11:23:58.247",
+          "File_Name": "PT Lionmesh Prima Tbk tahun buku 31 Des 2023 (B).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/LMSH/PT Lionmesh Prima Tbk tahun buku 31 Des 2023 (B).pdf",
+          "File_Size": 4417467,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "fb5ba0a2-bda9-4eb2-aad6-7ddbc516eb3d",
+          "File_Modified": "2024-08-08T11:23:58.247",
+          "File_Name": "FinancialStatement-2023-Tahunan-LMSH.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/LMSH/FinancialStatement-2023-Tahunan-LMSH.pdf",
+          "File_Size": 1066091,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "7513b4c2-b40a-498b-9eed-908169708bd2",
+          "File_Modified": "2024-08-08T11:23:58.247",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/LMSH/inlineXBRL.zip",
+          "File_Size": 331834,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "385ae47f-afdc-44e8-b14c-f05d866cec5c",
+          "File_Modified": "2024-08-08T11:23:58.247",
+          "File_Name": "AnnualReport2023-LMSH-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/06063ee6ca_06071f36a6.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "f739317e-b0bc-453c-b42d-967db36c6cfe",
+          "File_Modified": "2024-08-08T11:23:58.247",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/LMSH/instance.zip",
+          "File_Size": 170953,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "52fa521c-a582-4ef1-bae2-5e707660703b",
+          "File_Modified": "2024-08-08T11:23:58.247",
+          "File_Name": "Checklist LK LMP tahun 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/LMSH/Checklist LK LMP tahun 2023.pdf",
+          "File_Size": 1303317,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "5fafe220-7dc5-47b9-be0a-06adc5a8f233",
+          "File_Modified": "2024-08-08T11:23:58.247",
+          "File_Name": "FinancialStatement-2023-Tahunan-LMSH.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/LMSH/FinancialStatement-2023-Tahunan-LMSH.xlsx",
+          "File_Size": 455542,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        },
+        {
+          "Emiten_Code": "LMSH",
+          "File_ID": "b1e2cab4-062e-490b-88b2-bb8e3c4bd0df",
+          "File_Modified": "2024-08-08T11:23:58.247",
+          "File_Name": "AnnualReport2023-LMSH.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/d92c767223_617dc2285a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Lionmesh Prima Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "APIC",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "APIC",
+      "File_Modified": "2024-04-02T16:40:44.833",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "816f695b-3651-4e98-aa28-36e903830790",
+          "File_Modified": "2024-04-02T16:40:44.833",
+          "File_Name": "CHECKLIST LKT 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APIC/CHECKLIST LKT 2023.pdf",
+          "File_Size": 1229060,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "82a782b4-3cd0-4d09-a16a-37ba98d898d5",
+          "File_Modified": "2024-04-02T16:40:44.833",
+          "File_Name": "AnnualReport2023-APIC-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/def0597005_07712c96b7.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "12e6a8f2-2122-41dc-bf4e-6f7cbc8e18de",
+          "File_Modified": "2024-04-02T16:40:44.833",
+          "File_Name": "OJK_Surat Pengantar LKT 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APIC/OJK_Surat Pengantar LKT 2023.pdf",
+          "File_Size": 186728,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "4f6a299e-758c-4b86-afdd-7c68d4375a70",
+          "File_Modified": "2024-04-02T16:40:44.833",
+          "File_Name": "AnnualReport2023-APIC-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/4846bcf95c_c3c4a9e8ed.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "48121717-66a5-4db2-983c-0e7f7f3111bc",
+          "File_Modified": "2024-04-02T16:40:44.833",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APIC/instance.zip",
+          "File_Size": 131956,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "e38d0bb1-437d-4f3a-aadc-b03ead11d439",
+          "File_Modified": "2024-04-02T16:40:44.833",
+          "File_Name": "APIC LKT 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APIC/APIC LKT 2023.pdf",
+          "File_Size": 7618136,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "c7897011-ba23-4e52-a7e7-46c02e007acc",
+          "File_Modified": "2024-04-02T16:40:44.833",
+          "File_Name": "BEI_Surat Pengantar LKT 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APIC/BEI_Surat Pengantar LKT 2023.pdf",
+          "File_Size": 186578,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "afb66fe2-084f-4b71-b159-47a2977bece3",
+          "File_Modified": "2024-04-02T16:40:44.833",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APIC/inlineXBRL.zip",
+          "File_Size": 248528,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "51f363f5-14dd-46e6-9e7a-7e101f7954f8",
+          "File_Modified": "2024-04-02T16:40:44.833",
+          "File_Name": "AnnualReport2023-APIC.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/bfad2ccb4f_2ce43aa6f7.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "ffff62a7-d452-4957-9adc-a41b3ea14c80",
+          "File_Modified": "2024-04-02T16:40:44.833",
+          "File_Name": "FinancialStatement-2023-Tahunan-APIC.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APIC/FinancialStatement-2023-Tahunan-APIC.xlsx",
+          "File_Size": 342576,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "51fb0a4b-e846-4b59-81c6-33090f661e3a",
+          "File_Modified": "2024-04-02T16:40:44.833",
+          "File_Name": "FinancialStatement-2023-Tahunan-APIC.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/APIC/FinancialStatement-2023-Tahunan-APIC.pdf",
+          "File_Size": 694887,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        },
+        {
+          "Emiten_Code": "APIC",
+          "File_ID": "3c74ce02-4da1-4bdb-a5fa-51d3f893d1c9",
+          "File_Modified": "2024-04-02T16:40:44.833",
+          "File_Name": "AnnualReport2023-APIC-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/637e7fb063_605be65c98.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PACIFIC STRATEGIC FINANCIAL Tbk"
+        }
+      ]
+    }
+  ]
+}

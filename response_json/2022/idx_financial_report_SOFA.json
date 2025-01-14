@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SOFA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SOFA",
+      "File_Modified": "2023-04-02T17:36:02.01",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Boston Furniture Industries Tbk..",
+      "Attachments": [
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "6cd7a168-6afd-4214-93a5-2d5dff6a64f0",
+          "File_Modified": "2023-04-02T17:36:02.01",
+          "File_Name": "Penjelasan Perubahan Lebih dari 20 persen - SOFA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SOFA/Penjelasan Perubahan Lebih dari 20 persen - SOFA.pdf",
+          "File_Size": 2847531,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "59cfb291-38ec-4729-8086-8d470f224bf0",
+          "File_Modified": "2023-04-02T17:36:02.01",
+          "File_Name": "FinancialStatement-2022-Tahunan-SOFA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SOFA/FinancialStatement-2022-Tahunan-SOFA.xlsx",
+          "File_Size": 1176847,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "85c5480d-3b99-4aac-8aa8-2b7c47a62140",
+          "File_Modified": "2023-04-02T17:36:02.01",
+          "File_Name": "FinancialStatement-2022-Tahunan-SOFA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SOFA/FinancialStatement-2022-Tahunan-SOFA.pdf",
+          "File_Size": 92017,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "9ba05f8f-5f48-4fa0-bbc4-e11af59ba19e",
+          "File_Modified": "2023-04-02T17:36:02.01",
+          "File_Name": "Audit Report 31 Des 2022 SOFA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SOFA/Audit Report 31 Des 2022 SOFA.pdf",
+          "File_Size": 6115608,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "49852fb5-7e49-4dda-8146-5c56d9db88a3",
+          "File_Modified": "2023-04-02T17:36:02.01",
+          "File_Name": "Lapkeu 31 Des 2022 (Audited) Sofa.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SOFA/Lapkeu 31 Des 2022 (Audited) Sofa.pdf",
+          "File_Size": 4068574,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "773a7991-22fb-4c7a-8c70-764cb64c4f1b",
+          "File_Modified": "2023-04-02T17:36:02.01",
+          "File_Name": "Cheklist LKT 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SOFA/Cheklist LKT 2022.pdf",
+          "File_Size": 1762325,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "8d956350-43af-449f-b087-a5724021e4b5",
+          "File_Modified": "2023-04-02T17:36:02.01",
+          "File_Name": "Penjelasan atas Perubahan Lebih dari 20 persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SOFA/Penjelasan atas Perubahan Lebih dari 20 persen.pdf",
+          "File_Size": 2844084,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "6dfd6d6c-9d14-4b3d-8617-efe0c1505a94",
+          "File_Modified": "2023-04-02T17:36:02.01",
+          "File_Name": "Cheklist LKT 2022 - signed.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SOFA/Cheklist LKT 2022 - signed.pdf",
+          "File_Size": 1778815,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "2630af50-bcb0-460f-85bc-f06fd993d8fb",
+          "File_Modified": "2023-04-02T17:36:02.01",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SOFA/inlineXBRL.zip",
+          "File_Size": 167868,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "821df26f-5845-463f-9560-ca2659a9a19d",
+          "File_Modified": "2023-04-02T17:36:02.01",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SOFA/instance.zip",
+          "File_Size": 195553,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        },
+        {
+          "Emiten_Code": "SOFA",
+          "File_ID": "00cdf644-bbb9-41a6-ae97-dd953d141a17",
+          "File_Modified": "2023-04-02T17:36:02.01",
+          "File_Name": "AnnualReport2022-SOFA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/dfa146a557_797e98cdec.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Boston Furniture Industries Tbk.."
+        }
+      ]
+    }
+  ]
+}

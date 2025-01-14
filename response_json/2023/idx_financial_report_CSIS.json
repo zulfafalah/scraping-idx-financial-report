@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "CSIS",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "CSIS",
+      "File_Modified": "2024-04-01T04:22:02.837",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "b9ac0af0-d46c-493e-aba1-d326311bbce7",
+          "File_Modified": "2024-04-01T04:22:02.837",
+          "File_Name": "FinancialStatement-2023-Tahunan-CSIS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CSIS/FinancialStatement-2023-Tahunan-CSIS.pdf",
+          "File_Size": 673615,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "9362c5ca-f542-47d0-865b-414b9d9a64ab",
+          "File_Modified": "2024-04-01T04:22:02.837",
+          "File_Name": "AnnualReport2023-CSIS-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/8c8f718c26_abd5f7284e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "044826b2-3546-4688-bca6-8fbe1bc65cf3",
+          "File_Modified": "2024-04-01T04:22:02.837",
+          "File_Name": "CSIS2023_Signed Consolidated Financial Statements.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CSIS/CSIS2023_Signed Consolidated Financial Statements.pdf",
+          "File_Size": 3262922,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "eeeaf83c-cd18-465b-8069-97d848da9ad2",
+          "File_Modified": "2024-04-01T04:22:02.837",
+          "File_Name": "Analisa kenaikan dan penurunan Desember 2023001.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CSIS/Analisa kenaikan dan penurunan Desember 2023001.pdf",
+          "File_Size": 876315,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "451dd434-1673-40c3-9d37-f8e277c3c05d",
+          "File_Modified": "2024-04-01T04:22:02.837",
+          "File_Name": "Surat Pengantar Laporan Keuangan 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CSIS/Surat Pengantar Laporan Keuangan 2023.pdf",
+          "File_Size": 522690,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "e0e8c48c-b33d-4fcc-be87-fed5feec44cb",
+          "File_Modified": "2024-04-01T04:22:02.837",
+          "File_Name": "AnnualReport2023-CSIS-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f58d57b048_54d3d8e530.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "33b7e222-a3f4-44a4-86dc-37d44612fa5e",
+          "File_Modified": "2024-04-01T04:22:02.837",
+          "File_Name": "FinancialStatement-2023-Tahunan-CSIS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CSIS/FinancialStatement-2023-Tahunan-CSIS.xlsx",
+          "File_Size": 334641,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "ed8fc7dd-737c-41a2-91f0-9ec2035b670a",
+          "File_Modified": "2024-04-01T04:22:02.837",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CSIS/instance.zip",
+          "File_Size": 129113,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "b5fa89c0-bdf8-4706-9e2e-e3c049b0cfc2",
+          "File_Modified": "2024-04-01T04:22:02.837",
+          "File_Name": "AnnualReport2023-CSIS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/31bc846c2c_32db2b3752.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "3489eac3-1e20-413e-868e-f0d5526adaf7",
+          "File_Modified": "2024-04-01T04:22:02.837",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CSIS/inlineXBRL.zip",
+          "File_Size": 240043,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "014c106a-fe58-420e-8b8e-354713dc7879",
+          "File_Modified": "2024-04-01T04:22:02.837",
+          "File_Name": "AnnualReport2023-CSIS.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/9be46dc9d4_b17d3e6292.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "CSIS",
+          "File_ID": "a025b817-d631-4320-9c0b-c8acb526a7fb",
+          "File_Modified": "2024-04-01T04:22:02.837",
+          "File_Name": "Checklist LK Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/CSIS/Checklist LK Desember 2023.pdf",
+          "File_Size": 1297681,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Cahayasakti Investindo Sukses Tbk"
+        }
+      ]
+    }
+  ]
+}

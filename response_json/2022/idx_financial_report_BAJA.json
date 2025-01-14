@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BAJA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BAJA",
+      "File_Modified": "2023-03-31T10:18:20.93",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Saranacentral Bajatama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BAJA",
+          "File_ID": "963de669-780a-4529-b47e-98e32221497e",
+          "File_Modified": "2023-03-31T10:18:20.93",
+          "File_Name": "LKT 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAJA/LKT 2022.pdf",
+          "File_Size": 4500040,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Saranacentral Bajatama Tbk"
+        },
+        {
+          "Emiten_Code": "BAJA",
+          "File_ID": "7b10481f-4742-45a2-9b3b-ad7aab1a8c55",
+          "File_Modified": "2023-03-31T10:18:20.93",
+          "File_Name": "FinancialStatement-2022-Tahunan-BAJA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAJA/FinancialStatement-2022-Tahunan-BAJA.pdf",
+          "File_Size": 145681,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Saranacentral Bajatama Tbk"
+        },
+        {
+          "Emiten_Code": "BAJA",
+          "File_ID": "5074dc85-6b11-4617-a637-7923db30c4e7",
+          "File_Modified": "2023-03-31T10:18:20.93",
+          "File_Name": "Surat Penyampaian LKT - Checklist 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAJA/Surat Penyampaian LKT - Checklist 2022.pdf",
+          "File_Size": 140544,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Saranacentral Bajatama Tbk"
+        },
+        {
+          "Emiten_Code": "BAJA",
+          "File_ID": "3e172b78-7c10-459b-b0ab-e644a2c284b5",
+          "File_Modified": "2023-03-31T10:18:20.93",
+          "File_Name": "AnnualReport2022-BAJA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/3030f6c22b_e455f49ed3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Saranacentral Bajatama Tbk"
+        },
+        {
+          "Emiten_Code": "BAJA",
+          "File_ID": "1d0200ed-1b63-498f-a615-f754f91d2127",
+          "File_Modified": "2023-03-31T10:18:20.93",
+          "File_Name": "Checklist LKT 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAJA/Checklist LKT 2022.pdf",
+          "File_Size": 2381804,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Saranacentral Bajatama Tbk"
+        },
+        {
+          "Emiten_Code": "BAJA",
+          "File_ID": "08745504-38f3-4b1f-8505-3382308253a9",
+          "File_Modified": "2023-03-31T10:18:20.93",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAJA/inlineXBRL.zip",
+          "File_Size": 175935,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Saranacentral Bajatama Tbk"
+        },
+        {
+          "Emiten_Code": "BAJA",
+          "File_ID": "f39f9e71-d10f-4940-849e-b3196c427007",
+          "File_Modified": "2023-03-31T10:18:20.93",
+          "File_Name": "FinancialStatement-2022-Tahunan-BAJA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAJA/FinancialStatement-2022-Tahunan-BAJA.xlsx",
+          "File_Size": 1188151,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Saranacentral Bajatama Tbk"
+        },
+        {
+          "Emiten_Code": "BAJA",
+          "File_ID": "d7192f32-3c27-438c-b252-1e13676c8c40",
+          "File_Modified": "2023-03-31T10:18:20.93",
+          "File_Name": "Surat Penjelasan Perubahan 31 Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAJA/Surat Penjelasan Perubahan 31 Desember 2022.pdf",
+          "File_Size": 453279,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Saranacentral Bajatama Tbk"
+        },
+        {
+          "Emiten_Code": "BAJA",
+          "File_ID": "33fe94dc-7a92-4280-99a3-b07ed9a2e696",
+          "File_Modified": "2023-03-31T10:18:20.93",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BAJA/instance.zip",
+          "File_Size": 186212,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Saranacentral Bajatama Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SIMP",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SIMP",
+      "File_Modified": "2024-02-29T17:01:44.037",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Salim Ivomas Pratama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "7f0c443e-24ea-49c6-80e1-25949c7b6d21",
+          "File_Modified": "2024-02-29T17:01:44.037",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SIMP/inlineXBRL.zip",
+          "File_Size": 264758,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "cd9a9157-8cf8-4551-85a3-d9fd9f468a51",
+          "File_Modified": "2024-02-29T17:01:44.037",
+          "File_Name": "FinancialStatement-2023-Tahunan-SIMP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SIMP/FinancialStatement-2023-Tahunan-SIMP.pdf",
+          "File_Size": 734562,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "99512246-f067-43d9-a5c6-e7aa18809e0d",
+          "File_Modified": "2024-02-29T17:01:44.037",
+          "File_Name": "AnnualReport2023-SIMP.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/3b7292beb6_ce2b80b88d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "68197448-7b68-4551-a89e-39e402f82a69",
+          "File_Modified": "2024-02-29T17:01:44.037",
+          "File_Name": "AnnualReport2023-SIMP-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/c9874d05be_bb169590bf.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "7ddb6c92-5e1c-4649-8707-862d9a39dd97",
+          "File_Modified": "2024-02-29T17:01:44.037",
+          "File_Name": "FinancialStatement-2023-Tahunan-SIMP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SIMP/FinancialStatement-2023-Tahunan-SIMP.xlsx",
+          "File_Size": 363689,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "2034f33d-523b-40e9-8fca-8f731f471178",
+          "File_Modified": "2024-02-29T17:01:44.037",
+          "File_Name": "Surat Pernyataan Direksi SIMP 1223.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SIMP/Surat Pernyataan Direksi SIMP 1223.pdf",
+          "File_Size": 306526,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "38fb8c74-c6f6-4939-a2d4-c42b3b8389f3",
+          "File_Modified": "2024-02-29T17:01:44.037",
+          "File_Name": "SIMP_LK FY 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SIMP/SIMP_LK FY 2023.pdf",
+          "File_Size": 263240,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "dc641087-9236-4313-a4e1-f370cec57758",
+          "File_Modified": "2024-02-29T17:01:44.037",
+          "File_Name": "AnnualReport2023-SIMP-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f335fba3e8_96f4cb4a96.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "ccb935d0-3397-49af-9f0d-01608ed60774",
+          "File_Modified": "2024-02-29T17:01:44.037",
+          "File_Name": "SIMP_Financial Statement FY 2023_bilingual.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SIMP/SIMP_Financial Statement FY 2023_bilingual.pdf",
+          "File_Size": 2056938,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "003e29d4-c0f1-4b3f-856c-0198a9a7313c",
+          "File_Modified": "2024-02-29T17:01:44.037",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SIMP/instance.zip",
+          "File_Size": 128599,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        }
+      ]
+    }
+  ]
+}

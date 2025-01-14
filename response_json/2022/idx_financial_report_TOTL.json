@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TOTL",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TOTL",
+      "File_Modified": "2023-03-31T13:18:28.26",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Total Bangun Persada Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "0810ed63-781a-40e4-8147-4c88ccc8e1b9",
+          "File_Modified": "2023-03-31T13:18:28.26",
+          "File_Name": "FinancialStatement-2022-Tahunan-TOTL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TOTL/FinancialStatement-2022-Tahunan-TOTL.pdf",
+          "File_Size": 97799,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "ba3fcc3b-b0ef-4971-b188-acaafbd0c85c",
+          "File_Modified": "2023-03-31T13:18:28.26",
+          "File_Name": "IDX-OJK Penyampaian Lapkeu FY 2022 TOTL (29Mar23).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TOTL/IDX-OJK Penyampaian Lapkeu FY 2022 TOTL (29Mar23).pdf",
+          "File_Size": 87596,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "b4cfe6cd-bb0a-436b-95db-efd46872686a",
+          "File_Modified": "2023-03-31T13:18:28.26",
+          "File_Name": "AnnualReport2022-TOTL-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/d059f4f710_956e2993ff.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "eb7ba557-5bc2-4ea4-97e6-51ddef68541d",
+          "File_Modified": "2023-03-31T13:18:28.26",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TOTL/inlineXBRL.zip",
+          "File_Size": 107371,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "016fc5b9-71fa-408d-ae49-a3a6db50fcc5",
+          "File_Modified": "2023-03-31T13:18:28.26",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TOTL/instance.zip",
+          "File_Size": 158996,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "d5322d21-b8dd-4f0b-aebe-aa2d2d6214cc",
+          "File_Modified": "2023-03-31T13:18:28.26",
+          "File_Name": "Chekclist TOTL FY 2022 (29Mar23).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TOTL/Chekclist TOTL FY 2022 (29Mar23).pdf",
+          "File_Size": 584651,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "fa4a59d8-1e7c-41ff-8f88-d05592087632",
+          "File_Modified": "2023-03-31T13:18:28.26",
+          "File_Name": "TOTL FY 2022 (29Mar23).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TOTL/TOTL FY 2022 (29Mar23).pdf",
+          "File_Size": 2867466,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "087cf483-1fbe-4c9b-9c9f-09761e48f5f0",
+          "File_Modified": "2023-03-31T13:18:28.26",
+          "File_Name": "SP DIR FY TOTL 2022 R 30-03-23.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TOTL/SP DIR FY TOTL 2022 R 30-03-23.pdf",
+          "File_Size": 270955,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "d7527663-64b7-4e72-aab3-1285d7c0cb31",
+          "File_Modified": "2023-03-31T13:18:28.26",
+          "File_Name": "FinancialStatement-2022-Tahunan-TOTL.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TOTL/FinancialStatement-2022-Tahunan-TOTL.xlsx",
+          "File_Size": 1135841,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        }
+      ]
+    }
+  ]
+}

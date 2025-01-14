@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "STTP",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "STTP",
+      "File_Modified": "2024-04-02T14:27:59.697",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Siantar Top Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "246f90da-183a-4712-b86c-2df0b345a3a0",
+          "File_Modified": "2024-04-02T14:27:59.697",
+          "File_Name": "2023. Ceklist Pengungkapan LK Tahunan (RF).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/STTP/2023. Ceklist Pengungkapan LK Tahunan (RF).pdf",
+          "File_Size": 1000352,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "ee7158c3-9a80-4209-a4c4-2e0325cdece3",
+          "File_Modified": "2024-04-02T14:27:59.697",
+          "File_Name": "AnnualReport2023-STTP-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/a9fee6f023_ddf352d3a8.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "dedb5cbd-9e39-4958-9103-7497d56bc648",
+          "File_Modified": "2024-04-02T14:27:59.697",
+          "File_Name": "FinancialStatement-2023-Tahunan-STTP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/STTP/FinancialStatement-2023-Tahunan-STTP.pdf",
+          "File_Size": 725633,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "b5b3668f-64a0-4c8c-999d-e3220dfad72c",
+          "File_Modified": "2024-04-02T14:27:59.697",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/STTP/inlineXBRL.zip",
+          "File_Size": 266041,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "d12068b7-c51f-40fc-ae1c-06ba979e7f92",
+          "File_Modified": "2024-04-02T14:27:59.697",
+          "File_Name": "Surat CRL 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/STTP/Surat CRL 31 Des 2023.pdf",
+          "File_Size": 5224778,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "48158e89-d70a-47cf-b9cf-8f8fe78d4306",
+          "File_Modified": "2024-04-02T14:27:59.697",
+          "File_Name": "AnnualReport2023-STTP-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/14b352a9ab_3a27113c49.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "beb662aa-f74c-4fe2-a0eb-ae619f0c32d5",
+          "File_Modified": "2024-04-02T14:27:59.697",
+          "File_Name": "Surat Pernyataan Direksi 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/STTP/Surat Pernyataan Direksi 31 Desember 2023.pdf",
+          "File_Size": 422525,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "5d77c81e-6b2a-4212-b4a3-bb260f422ff3",
+          "File_Modified": "2024-04-02T14:27:59.697",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/STTP/instance.zip",
+          "File_Size": 136712,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "2327b778-70c0-4cc1-bb9a-46a1ac0e0083",
+          "File_Modified": "2024-04-02T14:27:59.697",
+          "File_Name": "FinancialStatement-2023-Tahunan-STTP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/STTP/FinancialStatement-2023-Tahunan-STTP.xlsx",
+          "File_Size": 200576,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "177d5aa3-bdda-439a-98de-ed8c5fe3f79b",
+          "File_Modified": "2024-04-02T14:27:59.697",
+          "File_Name": "LK Tahunan STTP 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/STTP/LK Tahunan STTP 31 Desember 2023.pdf",
+          "File_Size": 1935788,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        },
+        {
+          "Emiten_Code": "STTP",
+          "File_ID": "cf80ab7e-6251-42e9-bb8c-f3236b591f62",
+          "File_Modified": "2024-04-02T14:27:59.697",
+          "File_Name": "AnnualReport2023-STTP.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/6f0b188617_56f57805ce.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Siantar Top Tbk"
+        }
+      ]
+    }
+  ]
+}

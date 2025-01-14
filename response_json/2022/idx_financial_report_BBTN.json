@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BBTN",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BBTN",
+      "File_Modified": "2023-02-18T09:45:13.227",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Bank Tabungan Negara (Persero) Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BBTN",
+          "File_ID": "ff4d100c-23cc-49b3-b9ec-813c656da030",
+          "File_Modified": "2023-02-18T09:45:13.227",
+          "File_Name": "AnnualReport2022-BBTN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202302/0fb1f12cd8_8a71685580.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Tabungan Negara (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "BBTN",
+          "File_ID": "5a242d95-776b-4e0f-bdb7-8235f03e2581",
+          "File_Modified": "2023-02-18T09:45:13.227",
+          "File_Name": "btn_billingual_31_des_2022_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BBTN/btn_billingual_31_des_2022_released.pdf",
+          "File_Size": 5292627,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Tabungan Negara (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "BBTN",
+          "File_ID": "73118323-1dd3-47d0-b1d6-a7826097ea67",
+          "File_Modified": "2023-02-18T09:45:13.227",
+          "File_Name": "BTN Lapkeu Q4 2022 English.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BBTN/BTN Lapkeu Q4 2022 English.pdf",
+          "File_Size": 1046461,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Tabungan Negara (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "BBTN",
+          "File_ID": "a8d3b7e4-30dd-45cb-9256-6f5ec4367226",
+          "File_Modified": "2023-02-18T09:45:13.227",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BBTN/instance.zip",
+          "File_Size": 91037,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Tabungan Negara (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "BBTN",
+          "File_ID": "4bf9836f-a21b-450b-80e6-760dff220ed4",
+          "File_Modified": "2023-02-18T09:45:13.227",
+          "File_Name": "BTN Lapkeu Q4 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BBTN/BTN Lapkeu Q4 2022.pdf",
+          "File_Size": 1084180,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Tabungan Negara (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "BBTN",
+          "File_ID": "4e5af4ab-501f-4b84-9c5f-20c78a7fa732",
+          "File_Modified": "2023-02-18T09:45:13.227",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BBTN/inlineXBRL.zip",
+          "File_Size": 106473,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Tabungan Negara (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "BBTN",
+          "File_ID": "b68c1a31-2b02-496d-8778-2df9dd211629",
+          "File_Modified": "2023-02-18T09:45:13.227",
+          "File_Name": "FinancialStatement-2022-Tahunan-BBTN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BBTN/FinancialStatement-2022-Tahunan-BBTN.pdf",
+          "File_Size": 125456,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Tabungan Negara (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "BBTN",
+          "File_ID": "66226759-e762-431d-a394-858064cd5c97",
+          "File_Modified": "2023-02-18T09:45:13.227",
+          "File_Name": "Surat Pernyataan Direksi_Desember 2022_FINAL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BBTN/Surat Pernyataan Direksi_Desember 2022_FINAL.pdf",
+          "File_Size": 834369,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Tabungan Negara (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "BBTN",
+          "File_ID": "f7efedb9-e048-4aa5-a1dc-d91abe0cdb77",
+          "File_Modified": "2023-02-18T09:45:13.227",
+          "File_Name": "FinancialStatement-2022-Tahunan-BBTN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BBTN/FinancialStatement-2022-Tahunan-BBTN.xlsx",
+          "File_Size": 580062,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Tabungan Negara (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "BBTN",
+          "File_ID": "e5c4c961-ead7-4181-a280-dddbcd4dc2a9",
+          "File_Modified": "2023-02-18T09:45:13.227",
+          "File_Name": "Checklist BBTN 31122022 FINAL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BBTN/Checklist BBTN 31122022 FINAL.pdf",
+          "File_Size": 1215247,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Tabungan Negara (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "BBTN",
+          "File_ID": "ca34c9db-8c7c-414f-bb01-f24ac3489cba",
+          "File_Modified": "2023-02-18T09:45:13.227",
+          "File_Name": "223.DIR.CSD.II.2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BBTN/223.DIR.CSD.II.2023.pdf",
+          "File_Size": 214547,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Tabungan Negara (Persero) Tbk"
+        }
+      ]
+    }
+  ]
+}

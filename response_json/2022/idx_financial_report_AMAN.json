@@ -1,0 +1,103 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AMAN",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AMAN",
+      "File_Modified": "2023-04-02T11:58:12.137",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Makmur Berkah Amanda Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "32607b2f-3454-48b9-91f1-1df7afbec55e",
+          "File_Modified": "2023-04-02T11:58:12.137",
+          "File_Name": "AnnualReport2022-AMAN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/b0d21b3903_3cdbe91b8d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "e55934b5-cd83-4593-9937-a5f1e4c2a540",
+          "File_Modified": "2023-04-02T11:58:12.137",
+          "File_Name": "FinancialStatement-2022-Tahunan-AMAN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMAN/FinancialStatement-2022-Tahunan-AMAN.pdf",
+          "File_Size": 131801,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "72cbf33c-e896-4622-bceb-c8293531fd61",
+          "File_Modified": "2023-04-02T11:58:12.137",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMAN/inlineXBRL.zip",
+          "File_Size": 169623,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "22a3b166-241e-48dc-bfc8-1998c5ebfcbd",
+          "File_Modified": "2023-04-02T11:58:12.137",
+          "File_Name": "FinancialStatement-2022-Tahunan-AMAN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMAN/FinancialStatement-2022-Tahunan-AMAN.xlsx",
+          "File_Size": 1134473,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "612c8962-7084-4107-878d-afaf99dbab08",
+          "File_Modified": "2023-04-02T11:58:12.137",
+          "File_Name": "Laporan Keuangan PT MBA Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMAN/Laporan Keuangan PT MBA Desember 2022.pdf",
+          "File_Size": 7034804,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        },
+        {
+          "Emiten_Code": "AMAN",
+          "File_ID": "aeb51323-5cdf-4804-9bd9-8dd5cb17161c",
+          "File_Modified": "2023-04-02T11:58:12.137",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMAN/instance.zip",
+          "File_Size": 165469,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Makmur Berkah Amanda Tbk."
+        }
+      ]
+    }
+  ]
+}

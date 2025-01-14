@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TOPS",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TOPS",
+      "File_Modified": "2022-04-27T15:09:38.72",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Totalindo Eka Persada Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "aadcaee0-ae5e-4f4b-ac91-2ef1689ca979",
+          "File_Modified": "2022-04-27T15:09:38.72",
+          "File_Name": "Surat OJK - Penyampaian LK 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOPS/Surat OJK - Penyampaian LK 31 Des 2021.pdf",
+          "File_Size": 462476,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "ae064646-29d3-474f-bc9c-586e225cbce5",
+          "File_Modified": "2022-04-27T15:09:38.72",
+          "File_Name": "Checlist Pengungkapan LK 31 Des 2021 (1).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOPS/Checlist Pengungkapan LK 31 Des 2021 (1).pdf",
+          "File_Size": 4299733,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "a4c74ab7-baed-4a80-bf1b-e3f39aee9dab",
+          "File_Modified": "2022-04-27T15:09:38.72",
+          "File_Name": "AnnualReport2021-TOPS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/62c14ad9b6_ca8e84baf9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "2767b0ac-2c5f-46b6-91de-0e737a211c6a",
+          "File_Modified": "2022-04-27T15:09:38.72",
+          "File_Name": "Totalindo Eka Persada GA 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOPS/Totalindo Eka Persada GA 31 Des 2021.pdf",
+          "File_Size": 2597767,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "9517cc29-cde4-4304-91a0-c764c85e7b82",
+          "File_Modified": "2022-04-27T15:09:38.72",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOPS/instance.zip",
+          "File_Size": 26918,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "c4367d0b-af55-4003-a465-7b06e024d531",
+          "File_Modified": "2022-04-27T15:09:38.72",
+          "File_Name": "FinancialStatement-2021-Tahunan-TOPS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOPS/FinancialStatement-2021-Tahunan-TOPS.pdf",
+          "File_Size": 45401,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "55568dac-4189-4809-8d4f-9de3e930d3d6",
+          "File_Modified": "2022-04-27T15:09:38.72",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOPS/inlineXBRL.zip",
+          "File_Size": 53678,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "b8e1e989-2663-4f0d-8411-ce95a0b0c1da",
+          "File_Modified": "2022-04-27T15:09:38.72",
+          "File_Name": "FinancialStatement-2021-Tahunan-TOPS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TOPS/FinancialStatement-2021-Tahunan-TOPS.xlsx",
+          "File_Size": 154192,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        }
+      ]
+    }
+  ]
+}

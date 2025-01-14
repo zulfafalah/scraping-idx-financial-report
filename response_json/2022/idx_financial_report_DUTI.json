@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DUTI",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DUTI",
+      "File_Modified": "2023-03-13T18:45:10.237",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Duta Pertiwi Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "aefb16bb-e074-4bc2-9583-b1b355f9acd4",
+          "File_Modified": "2023-03-13T18:45:10.237",
+          "File_Name": "DUTI LK 31 Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DUTI/DUTI LK 31 Desember 2022.pdf",
+          "File_Size": 2484417,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "a8970c8e-3314-4e99-86d7-b1d824bc383e",
+          "File_Modified": "2023-03-13T18:45:10.237",
+          "File_Name": "FinancialStatement-2022-Tahunan-DUTI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DUTI/FinancialStatement-2022-Tahunan-DUTI.pdf",
+          "File_Size": 155779,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "80f9a7fd-c514-4f63-9717-d7c55b3eab6d",
+          "File_Modified": "2023-03-13T18:45:10.237",
+          "File_Name": "FinancialStatement-2022-Tahunan-DUTI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DUTI/FinancialStatement-2022-Tahunan-DUTI.xlsx",
+          "File_Size": 1169597,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "f114706f-c6e6-4810-ac88-e0513f1a2aa7",
+          "File_Modified": "2023-03-13T18:45:10.237",
+          "File_Name": "DUTI Surat Pernyataan Direksi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DUTI/DUTI Surat Pernyataan Direksi.pdf",
+          "File_Size": 97050,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "6a6de0e3-95ab-4b62-9367-638f72cb843a",
+          "File_Modified": "2023-03-13T18:45:10.237",
+          "File_Name": "DUTI Checklist 31.12.2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DUTI/DUTI Checklist 31.12.2022.pdf",
+          "File_Size": 6884360,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "19cd3b34-92f8-4e75-96d3-c8c7159196a7",
+          "File_Modified": "2023-03-13T18:45:10.237",
+          "File_Name": "AnnualReport2022-DUTI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/cbafcc95be_e0ffd3a623.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "206eca49-5960-4810-8302-bbb8c5441b30",
+          "File_Modified": "2023-03-13T18:45:10.237",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DUTI/instance.zip",
+          "File_Size": 177854,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "46ddfb21-1e20-46b2-8aff-6d87297ae8b3",
+          "File_Modified": "2023-03-13T18:45:10.237",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DUTI/inlineXBRL.zip",
+          "File_Size": 175394,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "d867ae44-ed64-4217-bd58-a319f59f5a8d",
+          "File_Modified": "2023-03-13T18:45:10.237",
+          "File_Name": "011.IR-CS.DP.III.2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/DUTI/011.IR-CS.DP.III.2023.pdf",
+          "File_Size": 46689,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        }
+      ]
+    }
+  ]
+}

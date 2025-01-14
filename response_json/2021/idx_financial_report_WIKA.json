@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "WIKA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "WIKA",
+      "File_Modified": "2022-03-14T23:48:59.66",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Wijaya Karya (Persero) Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "cd8c0e1d-2a31-4da7-9acf-1732bd8ae8f7",
+          "File_Modified": "2022-03-14T23:48:59.66",
+          "File_Name": "Surat Penyampaian Laporan Keuangan FY 2021 OJK BEI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WIKA/Surat Penyampaian Laporan Keuangan FY 2021 OJK BEI.pdf",
+          "File_Size": 483303,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "1fa24f0a-e3d6-4ea5-9543-39820a113f50",
+          "File_Modified": "2022-03-14T23:48:59.66",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WIKA/instance.zip",
+          "File_Size": 28156,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "35e6f474-c610-41c7-a704-ec8488744be7",
+          "File_Modified": "2022-03-14T23:48:59.66",
+          "File_Name": "Checklist OJK 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WIKA/Checklist OJK 31 Desember 2021.pdf",
+          "File_Size": 1341942,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "329e5e0c-1b85-47fb-b270-fa8de78dde37",
+          "File_Modified": "2022-03-14T23:48:59.66",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WIKA/inlineXBRL.zip",
+          "File_Size": 55405,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "5d906dd2-d204-4adf-b2e1-81c6563d9fc3",
+          "File_Modified": "2022-03-14T23:48:59.66",
+          "File_Name": "FinancialStatement-2021-Tahunan-WIKA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WIKA/FinancialStatement-2021-Tahunan-WIKA.pdf",
+          "File_Size": 61298,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "155f62a3-4421-48a6-ad63-8e8afeae95dd",
+          "File_Modified": "2022-03-14T23:48:59.66",
+          "File_Name": "FinancialStatement-2021-Tahunan-WIKA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WIKA/FinancialStatement-2021-Tahunan-WIKA.xlsx",
+          "File_Size": 155429,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "fd3b0dcb-a575-4f0a-a413-da2b5a6d8d65",
+          "File_Modified": "2022-03-14T23:48:59.66",
+          "File_Name": "PT Wijaya Karya FY 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/WIKA/PT Wijaya Karya FY 2021.pdf",
+          "File_Size": 6754095,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        }
+      ]
+    }
+  ]
+}

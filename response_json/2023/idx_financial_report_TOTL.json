@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TOTL",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TOTL",
+      "File_Modified": "2024-03-28T22:29:32.567",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Total Bangun Persada Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "bf51b3d5-3485-4d95-86ec-0ed97330a9c4",
+          "File_Modified": "2024-03-28T22:29:32.567",
+          "File_Name": "FinancialStatement-2023-Tahunan-TOTL.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOTL/FinancialStatement-2023-Tahunan-TOTL.xlsx",
+          "File_Size": 164037,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "115a436d-f579-4da8-b781-0ee0b79a1b9e",
+          "File_Modified": "2024-03-28T22:29:32.567",
+          "File_Name": "Checklist TOTL FY 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOTL/Checklist TOTL FY 2023.pdf",
+          "File_Size": 7731774,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "9c862f10-73fe-40ee-9e55-f25cdcdaa837",
+          "File_Modified": "2024-03-28T22:29:32.567",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOTL/instance.zip",
+          "File_Size": 128158,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "a35be09c-fbde-4160-8a07-2046877d046d",
+          "File_Modified": "2024-03-28T22:29:32.567",
+          "File_Name": "AnnualReport2023-TOTL-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/5622130d04_09b6d8729a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "22df4d7d-d281-448b-9263-3eca1c3636ee",
+          "File_Modified": "2024-03-28T22:29:32.567",
+          "File_Name": "FinancialStatement-2023-Tahunan-TOTL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOTL/FinancialStatement-2023-Tahunan-TOTL.pdf",
+          "File_Size": 684298,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "de78fd07-2ee0-4cca-be0e-5d7aa5d95c52",
+          "File_Modified": "2024-03-28T22:29:32.567",
+          "File_Name": "Pengantar LK FY2023_TOTL 27 Mar 24.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOTL/Pengantar LK FY2023_TOTL 27 Mar 24.pdf",
+          "File_Size": 240233,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "ef7b8ef8-b648-4aec-80fb-d137c6f52e0e",
+          "File_Modified": "2024-03-28T22:29:32.567",
+          "File_Name": "PT Total Bangun Persada Tbk FY 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOTL/PT Total Bangun Persada Tbk FY 2023.pdf",
+          "File_Size": 3420018,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "d8c3ffe7-2f65-4552-9200-6fca5e3a9a74",
+          "File_Modified": "2024-03-28T22:29:32.567",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOTL/inlineXBRL.zip",
+          "File_Size": 245500,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "81f615c6-2c6c-4968-92a0-a145bef25648",
+          "File_Modified": "2024-03-28T22:29:32.567",
+          "File_Name": "AnnualReport2023-TOTL-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/77535d697c_06ce34388a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        },
+        {
+          "Emiten_Code": "TOTL",
+          "File_ID": "acabbd81-b546-4992-9bbd-a83fe96770e2",
+          "File_Modified": "2024-03-28T22:29:32.567",
+          "File_Name": "AnnualReport2023-TOTL.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/0e7e8629ac_c3fbcef54d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Total Bangun Persada Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ARNA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ARNA",
+      "File_Modified": "2022-02-14T11:26:30.483",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Arwana Citramulia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "c53ca2bb-4e29-4234-a40f-701de81c489a",
+          "File_Modified": "2022-02-14T11:26:30.483",
+          "File_Name": "Surat Pernyataan Direksi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ARNA/Surat Pernyataan Direksi.pdf",
+          "File_Size": 483127,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "d25121ef-3edd-4d3f-ab93-bbf923c83371",
+          "File_Modified": "2022-02-14T11:26:30.483",
+          "File_Name": "FinancialStatement-2021-Tahunan-ARNA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ARNA/FinancialStatement-2021-Tahunan-ARNA.pdf",
+          "File_Size": 45906,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "4da14ad8-3c83-413b-bbfe-ffb4e4f81643",
+          "File_Modified": "2022-02-14T11:26:30.483",
+          "File_Name": "Surat Pengantar Lap.Keu per 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ARNA/Surat Pengantar Lap.Keu per 31 Des 2021.pdf",
+          "File_Size": 322071,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "73658e4c-31a3-428d-873c-2b96fa0bdd47",
+          "File_Modified": "2022-02-14T11:26:30.483",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ARNA/inlineXBRL.zip",
+          "File_Size": 59476,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "21097cae-4fc5-4378-8823-0677d2de6101",
+          "File_Modified": "2022-02-14T11:26:30.483",
+          "File_Name": "Checklist Pengungkapan LKT 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ARNA/Checklist Pengungkapan LKT 2021.pdf",
+          "File_Size": 1714325,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "3362eba2-8326-47d3-a06b-b0fa0f181cbb",
+          "File_Modified": "2022-02-14T11:26:30.483",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ARNA/instance.zip",
+          "File_Size": 28988,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        },
+        {
+          "Emiten_Code": "ARNA",
+          "File_ID": "8c30d11c-c771-45af-8f30-6c8b02c7cad7",
+          "File_Modified": "2022-02-14T11:26:30.483",
+          "File_Name": "Arwana Citramulia Tbk_31_Des_2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ARNA/Arwana Citramulia Tbk_31_Des_2021.pdf",
+          "File_Size": 3297254,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Arwana Citramulia Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "POOL",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 0,
+  "Results": []
+}

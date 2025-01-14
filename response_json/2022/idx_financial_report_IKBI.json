@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IKBI",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IKBI",
+      "File_Modified": "2023-07-03T16:15:31.5",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Sumi Indo Kabel Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "31f353c5-aa55-4786-a736-ee1bb8c60805",
+          "File_Modified": "2023-07-03T16:15:31.5",
+          "File_Name": "AnnualReport2022-IKBI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202307/246b93182c_a215b167ba.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "87e9634f-9db8-4a6c-85d0-16cc43c2a65b",
+          "File_Modified": "2023-07-03T16:15:31.5",
+          "File_Name": "FinancialStatement-2022-Tahunan-IKBI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IKBI/FinancialStatement-2022-Tahunan-IKBI.pdf",
+          "File_Size": 102899,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "e1a4ea2a-09c2-49cf-a6e4-c9f5baf19f16",
+          "File_Modified": "2023-07-03T16:15:31.5",
+          "File_Name": "FinancialStatement-2022-Tahunan-IKBI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IKBI/FinancialStatement-2022-Tahunan-IKBI.xlsx",
+          "File_Size": 1176764,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "13a65095-0b10-4936-976f-0ad8e7c6376f",
+          "File_Modified": "2023-07-03T16:15:31.5",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IKBI/instance.zip",
+          "File_Size": 169317,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "ac6c00c6-b78f-44f4-a51d-19a5f5a0d14f",
+          "File_Modified": "2023-07-03T16:15:31.5",
+          "File_Name": "sumi indo kabel billingual 31_mar_2023_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IKBI/sumi indo kabel billingual 31_mar_2023_released.pdf",
+          "File_Size": 1631000,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "9ef03f4c-2026-4276-a45c-c318f316a41e",
+          "File_Modified": "2023-07-03T16:15:31.5",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IKBI/inlineXBRL.zip",
+          "File_Size": 209518,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        },
+        {
+          "Emiten_Code": "IKBI",
+          "File_ID": "53fe1b18-b468-417c-a3b3-30115a2e169a",
+          "File_Modified": "2023-07-03T16:15:31.5",
+          "File_Name": "AnnualReport2022-IKBI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202307/740e694e68_6f87e2abeb.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sumi Indo Kabel Tbk"
+        }
+      ]
+    }
+  ]
+}

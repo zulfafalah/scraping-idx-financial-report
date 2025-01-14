@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "WIKA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "WIKA",
+      "File_Modified": "2023-03-24T21:35:12.147",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Wijaya Karya (Persero) Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "08fa0fd7-20d4-4638-86d2-1ecbb3d0bed6",
+          "File_Modified": "2023-03-24T21:35:12.147",
+          "File_Name": "FinancialStatement-2022-Tahunan-WIKA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WIKA/FinancialStatement-2022-Tahunan-WIKA.xlsx",
+          "File_Size": 1171197,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "0baea00f-f561-463d-8bb1-a07d16132a6a",
+          "File_Modified": "2023-03-24T21:35:12.147",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WIKA/instance.zip",
+          "File_Size": 201251,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "699d7085-cd8d-4830-b1a7-a6e1d4b693c3",
+          "File_Modified": "2023-03-24T21:35:12.147",
+          "File_Name": "CHECKLIST LK 31 DEC 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WIKA/CHECKLIST LK 31 DEC 2022.pdf",
+          "File_Size": 1276245,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "55fc06ac-d2d8-4409-a039-cabd6c8f4077",
+          "File_Modified": "2023-03-24T21:35:12.147",
+          "File_Name": "FinancialStatement-2022-Tahunan-WIKA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WIKA/FinancialStatement-2022-Tahunan-WIKA.pdf",
+          "File_Size": 197559,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "025cce3b-3a7e-4e0f-bae5-f2830aebff7b",
+          "File_Modified": "2023-03-24T21:35:12.147",
+          "File_Name": "PT Wijaya Karya (Persero) Tbk FY 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WIKA/PT Wijaya Karya (Persero) Tbk FY 2022.pdf",
+          "File_Size": 8449940,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "fcd40440-0dc4-40b6-b684-02c389c1789d",
+          "File_Modified": "2023-03-24T21:35:12.147",
+          "File_Name": "AnnualReport2022-WIKA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/1aab6d8051_0cf70d76fe.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "3d4f752a-877c-4ce3-ae4c-7b44ff340a89",
+          "File_Modified": "2023-03-24T21:35:12.147",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WIKA/inlineXBRL.zip",
+          "File_Size": 203332,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "5035bf7d-6e3e-4ea4-b655-9b82a923432c",
+          "File_Modified": "2023-03-24T21:35:12.147",
+          "File_Name": "Penyampaian LK FY 2022 IDX OJK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/WIKA/Penyampaian LK FY 2022 IDX OJK.pdf",
+          "File_Size": 360743,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        }
+      ]
+    }
+  ]
+}

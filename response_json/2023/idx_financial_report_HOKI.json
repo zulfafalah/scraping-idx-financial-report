@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "HOKI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "HOKI",
+      "File_Modified": "2024-03-28T16:32:35.277",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Buyung Poetra Sembada Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "9c157114-cb40-4c37-baaf-3d4a690a3026",
+          "File_Modified": "2024-03-28T16:32:35.277",
+          "File_Name": "FinancialStatement-2023-Tahunan-HOKI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HOKI/FinancialStatement-2023-Tahunan-HOKI.xlsx",
+          "File_Size": 155236,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "6e024e2c-2682-4076-a5f0-67e62e2bde75",
+          "File_Modified": "2024-03-28T16:32:35.277",
+          "File_Name": "HOKI 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HOKI/HOKI 2023.pdf",
+          "File_Size": 4214551,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "5f663caa-be84-417e-922c-80d9b6dc04f1",
+          "File_Modified": "2024-03-28T16:32:35.277",
+          "File_Name": "FinancialStatement-2023-Tahunan-HOKI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HOKI/FinancialStatement-2023-Tahunan-HOKI.pdf",
+          "File_Size": 666304,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "3bf2986f-e3c4-4fc2-936b-9e07dea6152d",
+          "File_Modified": "2024-03-28T16:32:35.277",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HOKI/inlineXBRL.zip",
+          "File_Size": 230225,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "39187a12-19b3-442e-813b-a6a3b93a4565",
+          "File_Modified": "2024-03-28T16:32:35.277",
+          "File_Name": "SURAT PENGANTAR PELAPORAN LKT 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HOKI/SURAT PENGANTAR PELAPORAN LKT 2023.pdf",
+          "File_Size": 87976,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "ddb674a7-a873-4b08-8e16-1544d5fbfc58",
+          "File_Modified": "2024-03-28T16:32:35.277",
+          "File_Name": "AnnualReport2023-HOKI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/48afce7f33_91a3da6dbb.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "5537598d-0832-4df6-8f70-4dce111fff96",
+          "File_Modified": "2024-03-28T16:32:35.277",
+          "File_Name": "AnnualReport2023-HOKI-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/f45e7e98ba_c8dff85d8a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "2bc06998-9b25-4d4f-93df-e7342d1bf1b3",
+          "File_Modified": "2024-03-28T16:32:35.277",
+          "File_Name": "AnnualReport2023-HOKI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/af568c9617_cfd9539a87.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "8f62e23a-fa32-4b18-b920-1e5cd34937f9",
+          "File_Modified": "2024-03-28T16:32:35.277",
+          "File_Name": "SURAT PENJELASAN PERUBAHAN 20 PERSEN LKT 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HOKI/SURAT PENJELASAN PERUBAHAN 20 PERSEN LKT 2023.pdf",
+          "File_Size": 78833,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        },
+        {
+          "Emiten_Code": "HOKI",
+          "File_ID": "cb2e077f-9771-476f-8ab5-1ecfb200d10b",
+          "File_Modified": "2024-03-28T16:32:35.277",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/HOKI/instance.zip",
+          "File_Size": 117385,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Buyung Poetra Sembada Tbk."
+        }
+      ]
+    }
+  ]
+}

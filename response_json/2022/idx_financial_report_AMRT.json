@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AMRT",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AMRT",
+      "File_Modified": "2023-03-31T15:32:23.44",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "4bc917c7-ff8f-49b9-b317-dd15202bf98d",
+          "File_Modified": "2023-03-31T15:32:23.44",
+          "File_Name": "AnnualReport2022-AMRT-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/3ddf63d73c_2562d9e0b4.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "5d14dfb5-ed9b-4ca9-a27b-ed3fa5193e93",
+          "File_Modified": "2023-03-31T15:32:23.44",
+          "File_Name": "FinancialStatement-2022-Tahunan-AMRT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMRT/FinancialStatement-2022-Tahunan-AMRT.pdf",
+          "File_Size": 142603,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "739384fb-4048-40c0-81b7-1df44e89d19d",
+          "File_Modified": "2023-03-31T15:32:23.44",
+          "File_Name": "Surat Pernyataan Direksi (Konsolidasi).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMRT/Surat Pernyataan Direksi (Konsolidasi).pdf",
+          "File_Size": 843971,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "f64d7fe2-136f-45d7-a3ee-975f5a0faa60",
+          "File_Modified": "2023-03-31T15:32:23.44",
+          "File_Name": "AMRT LKT 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMRT/AMRT LKT 2022.pdf",
+          "File_Size": 2781169,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "2e31f732-4b66-41d7-9997-d17f29ff7dc7",
+          "File_Modified": "2023-03-31T15:32:23.44",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMRT/inlineXBRL.zip",
+          "File_Size": 217438,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "6182c861-ddbf-48e0-8a7f-f81c7c75f823",
+          "File_Modified": "2023-03-31T15:32:23.44",
+          "File_Name": "FinancialStatement-2022-Tahunan-AMRT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMRT/FinancialStatement-2022-Tahunan-AMRT.xlsx",
+          "File_Size": 1184808,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        },
+        {
+          "Emiten_Code": "AMRT",
+          "File_ID": "ac209b36-77d8-4b89-ba83-b5c9e97d76af",
+          "File_Modified": "2023-03-31T15:32:23.44",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AMRT/instance.zip",
+          "File_Size": 177119,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Sumber Alfaria Trijaya Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AMOR",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AMOR",
+      "File_Modified": "2024-09-05T15:51:33.677",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Ashmore Asset Management Indonesia Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "AMOR",
+          "File_ID": "ce16b78e-7fe3-4e70-9d7c-f9c17106408a",
+          "File_Modified": "2024-09-05T15:51:33.677",
+          "File_Name": "FinancialStatement-2023-Tahunan-AMOR.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMOR/FinancialStatement-2023-Tahunan-AMOR.pdf",
+          "File_Size": 712742,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ashmore Asset Management Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "AMOR",
+          "File_ID": "d2abe534-9039-4fc5-bee6-554e8a2fbf76",
+          "File_Modified": "2024-09-05T15:51:33.677",
+          "File_Name": "The Audited FS PT AAMI Tbk 30 June 2024.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMOR/The Audited FS PT AAMI Tbk 30 June 2024.pdf",
+          "File_Size": 869959,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ashmore Asset Management Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "AMOR",
+          "File_ID": "2dd675aa-eafc-4e67-879d-41b5a2b95a08",
+          "File_Modified": "2024-09-05T15:51:33.677",
+          "File_Name": "FinancialStatement-2023-Tahunan-AMOR.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMOR/FinancialStatement-2023-Tahunan-AMOR.xlsx",
+          "File_Size": 301721,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ashmore Asset Management Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "AMOR",
+          "File_ID": "167b0c34-584b-4092-a224-4f2d2fcfa029",
+          "File_Modified": "2024-09-05T15:51:33.677",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMOR/instance.zip",
+          "File_Size": 112306,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ashmore Asset Management Indonesia Tbk."
+        },
+        {
+          "Emiten_Code": "AMOR",
+          "File_ID": "215bd361-a231-4aa6-a115-d64a0f54b395",
+          "File_Modified": "2024-09-05T15:51:33.677",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/AMOR/inlineXBRL.zip",
+          "File_Size": 223110,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Ashmore Asset Management Indonesia Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TARA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TARA",
+      "File_Modified": "2023-03-31T11:39:51.62",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Agung Semesta Sejahtera Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TARA",
+          "File_ID": "2a63f89b-0fa1-457e-b768-b631f294aa05",
+          "File_Modified": "2023-03-31T11:39:51.62",
+          "File_Name": "Surat Pengantar Penyampaian LK TARA 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TARA/Surat Pengantar Penyampaian LK TARA 31 Des 2022.pdf",
+          "File_Size": 975397,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Semesta Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "TARA",
+          "File_ID": "27f0a449-091a-41f0-a21c-123730bf02f9",
+          "File_Modified": "2023-03-31T11:39:51.62",
+          "File_Name": "LAI PT Agung Semesta Sejahtera 31 Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TARA/LAI PT Agung Semesta Sejahtera 31 Desember 2022.pdf",
+          "File_Size": 2496501,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Semesta Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "TARA",
+          "File_ID": "caf179f8-bbc6-49b4-92a1-4f142ed5a126",
+          "File_Modified": "2023-03-31T11:39:51.62",
+          "File_Name": "jawaban perubahan lebih 20 persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TARA/jawaban perubahan lebih 20 persen.pdf",
+          "File_Size": 212379,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Semesta Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "TARA",
+          "File_ID": "e93188c8-e311-4518-983f-89b4645428f7",
+          "File_Modified": "2023-03-31T11:39:51.62",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TARA/instance.zip",
+          "File_Size": 159265,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Semesta Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "TARA",
+          "File_ID": "e0762efe-0268-4314-b292-e74360d4a03b",
+          "File_Modified": "2023-03-31T11:39:51.62",
+          "File_Name": "FinancialStatement-2022-Tahunan-TARA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TARA/FinancialStatement-2022-Tahunan-TARA.pdf",
+          "File_Size": 87045,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Semesta Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "TARA",
+          "File_ID": "10780a16-2c4a-44ca-97f1-6d7d79720cce",
+          "File_Modified": "2023-03-31T11:39:51.62",
+          "File_Name": "AnnualReport2022-TARA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/a3231cd537_d614ebd920.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Semesta Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "TARA",
+          "File_ID": "0b9b867e-c46d-4532-b2a2-7ac8e5ca13a5",
+          "File_Modified": "2023-03-31T11:39:51.62",
+          "File_Name": "Checklist OJK TARA_311222.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TARA/Checklist OJK TARA_311222.pdf",
+          "File_Size": 1484467,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Semesta Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "TARA",
+          "File_ID": "8b11d502-5732-418d-8681-f6a14e93974d",
+          "File_Modified": "2023-03-31T11:39:51.62",
+          "File_Name": "FinancialStatement-2022-Tahunan-TARA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TARA/FinancialStatement-2022-Tahunan-TARA.xlsx",
+          "File_Size": 1136444,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Semesta Sejahtera Tbk"
+        },
+        {
+          "Emiten_Code": "TARA",
+          "File_ID": "91ba78db-82cc-4a8b-aa80-45d6dcbe0ce2",
+          "File_Modified": "2023-03-31T11:39:51.62",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TARA/inlineXBRL.zip",
+          "File_Size": 105299,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Agung Semesta Sejahtera Tbk"
+        }
+      ]
+    }
+  ]
+}

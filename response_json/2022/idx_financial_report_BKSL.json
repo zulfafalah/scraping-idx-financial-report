@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BKSL",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BKSL",
+      "File_Modified": "2023-04-10T16:32:09.98",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Sentul City Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "d58e6042-3430-4702-9775-2231722da790",
+          "File_Modified": "2023-04-10T16:32:09.98",
+          "File_Name": "FinancialStatement-2022-Tahunan-BKSL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKSL/FinancialStatement-2022-Tahunan-BKSL.pdf",
+          "File_Size": 156757,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "49a6dd12-12f8-44d1-9b18-4bdb300ef0c8",
+          "File_Modified": "2023-04-10T16:32:09.98",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKSL/inlineXBRL.zip",
+          "File_Size": 226097,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "726ac3d5-ca44-46e6-9af0-3b86ea79b3f6",
+          "File_Modified": "2023-04-10T16:32:09.98",
+          "File_Name": "AnnualReport2022-BKSL-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/9bd2fbdd61_9a70598b65.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "1fb27589-4018-43ec-b8de-617735f6f801",
+          "File_Modified": "2023-04-10T16:32:09.98",
+          "File_Name": "FinancialStatement-2022-Tahunan-BKSL.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKSL/FinancialStatement-2022-Tahunan-BKSL.xlsx",
+          "File_Size": 1139657,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "f1198ba3-b74e-449c-9a4d-c577f192c9f8",
+          "File_Modified": "2023-04-10T16:32:09.98",
+          "File_Name": "1222 SC - Checklist OJK - 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKSL/1222 SC - Checklist OJK - 31 Des 2022.pdf",
+          "File_Size": 1805480,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "efd1e075-6c94-45f8-9a79-c99d464c437f",
+          "File_Modified": "2023-04-10T16:32:09.98",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKSL/instance.zip",
+          "File_Size": 179543,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "15f07db9-2406-4c08-943f-e161a1de0a49",
+          "File_Modified": "2023-04-10T16:32:09.98",
+          "File_Name": "Penjelasan Perubahan Neraca SC - Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKSL/Penjelasan Perubahan Neraca SC - Des 2022.pdf",
+          "File_Size": 1426039,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sentul City Tbk"
+        },
+        {
+          "Emiten_Code": "BKSL",
+          "File_ID": "605c0fe4-777f-45b2-9b26-e6363af95fed",
+          "File_Modified": "2023-04-10T16:32:09.98",
+          "File_Name": "LKT - Laporan Keuangan Tahunan SC - 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BKSL/LKT - Laporan Keuangan Tahunan SC - 2022.pdf",
+          "File_Size": 4077161,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Sentul City Tbk"
+        }
+      ]
+    }
+  ]
+}

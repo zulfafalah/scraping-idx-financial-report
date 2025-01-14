@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MKPI",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MKPI",
+      "File_Modified": "2023-04-05T10:53:55.273",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Metropolitan Kentjana Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "7528e69a-175b-4538-99ee-1bab3cc28db2",
+          "File_Modified": "2023-04-05T10:53:55.273",
+          "File_Name": "FinancialStatement-2022-Tahunan-MKPI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MKPI/FinancialStatement-2022-Tahunan-MKPI.pdf",
+          "File_Size": 148555,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "f5d75a7a-7d51-4bfe-af60-39ebcfdb8e4b",
+          "File_Modified": "2023-04-05T10:53:55.273",
+          "File_Name": "AnnualReport2022-MKPI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/e0ec2568b6_499448da3c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "e20196b3-9572-4c94-afc7-e278beb41806",
+          "File_Modified": "2023-04-05T10:53:55.273",
+          "File_Name": "FS MKPI - Des 2022 (Audited).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MKPI/FS MKPI - Des 2022 (Audited).pdf",
+          "File_Size": 6249776,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "bf2f2a37-d53a-4e58-b947-1a5c7dca7edc",
+          "File_Modified": "2023-04-05T10:53:55.273",
+          "File_Name": "AnnualReport2022-MKPI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/e50eb4a20f_e1d9434310.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "9b517728-ef00-4a6a-9dbd-cb29e6969b5a",
+          "File_Modified": "2023-04-05T10:53:55.273",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MKPI/instance.zip",
+          "File_Size": 162099,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "0963c1d2-b86f-40b3-9393-eddd04c76ae1",
+          "File_Modified": "2023-04-05T10:53:55.273",
+          "File_Name": "FinancialStatement-2022-Tahunan-MKPI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MKPI/FinancialStatement-2022-Tahunan-MKPI.xlsx",
+          "File_Size": 1140069,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "1e87c533-030d-4748-8f87-0b30bdcc96c6",
+          "File_Modified": "2023-04-05T10:53:55.273",
+          "File_Name": "Checklist OJK PT MKPI Des 2022 Audited.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MKPI/Checklist OJK PT MKPI Des 2022 Audited.pdf",
+          "File_Size": 2278931,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "ca312d5d-3a78-41fb-8c6c-1ee02d576fb4",
+          "File_Modified": "2023-04-05T10:53:55.273",
+          "File_Name": "AnnualReport2022-MKPI-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/abf7054ac6_2291d482ee.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "12a5d1d4-b208-42a2-8142-760c10191147",
+          "File_Modified": "2023-04-05T10:53:55.273",
+          "File_Name": "FS MKPI - 2022 Audited (Penjelasan).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MKPI/FS MKPI - 2022 Audited (Penjelasan).pdf",
+          "File_Size": 273038,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "a0036c05-e657-4731-8f22-de91e1cb0075",
+          "File_Modified": "2023-04-05T10:53:55.273",
+          "File_Name": "AnnualReport2022-MKPI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/e0ec2568b6_499448da3c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        }
+      ]
+    }
+  ]
+}

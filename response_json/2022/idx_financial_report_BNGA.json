@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BNGA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BNGA",
+      "File_Modified": "2023-02-17T16:35:07.543",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Bank CIMB Niaga Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BNGA",
+          "File_ID": "ef7d9a04-88cc-4e9c-bf72-15ab4e1926b8",
+          "File_Modified": "2023-02-17T16:35:07.543",
+          "File_Name": "FS BNGA 31 Dec22.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNGA/FS BNGA 31 Dec22.pdf",
+          "File_Size": 8468776,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank CIMB Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BNGA",
+          "File_ID": "162b98ca-8b68-40d4-a90b-50f2c8aa1641",
+          "File_Modified": "2023-02-17T16:35:07.543",
+          "File_Name": "FinancialStatement-2022-Tahunan-BNGA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNGA/FinancialStatement-2022-Tahunan-BNGA.pdf",
+          "File_Size": 206450,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank CIMB Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BNGA",
+          "File_ID": "0eed9c62-3adc-4cbc-9dfd-9cd40fd9ae45",
+          "File_Modified": "2023-02-17T16:35:07.543",
+          "File_Name": "7a. Surat Penyampaian - Dewan Komisaris OJK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNGA/7a. Surat Penyampaian - Dewan Komisaris OJK.pdf",
+          "File_Size": 1114387,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank CIMB Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BNGA",
+          "File_ID": "a2a1de27-2a8d-45c9-9260-c9dc1d5b5623",
+          "File_Modified": "2023-02-17T16:35:07.543",
+          "File_Name": "FinancialStatement-2022-Tahunan-BNGA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNGA/FinancialStatement-2022-Tahunan-BNGA.xlsx",
+          "File_Size": 585891,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank CIMB Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BNGA",
+          "File_ID": "58b931b3-ec0c-48ca-a6b8-13045b2c40f8",
+          "File_Modified": "2023-02-17T16:35:07.543",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNGA/inlineXBRL.zip",
+          "File_Size": 160305,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank CIMB Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BNGA",
+          "File_ID": "fd62117f-30c9-4adb-9352-42c95332bbf7",
+          "File_Modified": "2023-02-17T16:35:07.543",
+          "File_Name": "7a. Surat Penyampaian - BEI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNGA/7a. Surat Penyampaian - BEI.pdf",
+          "File_Size": 1086576,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank CIMB Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BNGA",
+          "File_ID": "e4b74963-b2d3-4803-9838-43f15e97f07d",
+          "File_Modified": "2023-02-17T16:35:07.543",
+          "File_Name": "AnnualReport2022-BNGA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202303/50f1c166e1_50d89a9609.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank CIMB Niaga Tbk"
+        },
+        {
+          "Emiten_Code": "BNGA",
+          "File_ID": "75f2373f-3430-4a78-a2af-d37144b5c361",
+          "File_Modified": "2023-02-17T16:35:07.543",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BNGA/instance.zip",
+          "File_Size": 113242,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank CIMB Niaga Tbk"
+        }
+      ]
+    }
+  ]
+}

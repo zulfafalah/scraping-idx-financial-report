@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MIRA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MIRA",
+      "File_Modified": "2022-02-04T19:30:01.123",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Mitra International Resources Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "9628d036-1152-42bd-8f98-8c26988a7411",
+          "File_Modified": "2022-02-04T19:30:01.123",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MIRA/instance.zip",
+          "File_Size": 27114,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "41962dae-9454-4438-8581-e48ada4a559c",
+          "File_Modified": "2022-02-04T19:30:01.123",
+          "File_Name": "Audit Report MIRA 2021FINAL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MIRA/Audit Report MIRA 2021FINAL.pdf",
+          "File_Size": 7334526,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "6491392f-c65c-4354-a6fe-43e5e36fd341",
+          "File_Modified": "2022-02-04T19:30:01.123",
+          "File_Name": "SPD Des 21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MIRA/SPD Des 21.pdf",
+          "File_Size": 272410,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "260d6007-d86b-4ccd-a3de-81863eaf6a75",
+          "File_Modified": "2022-02-04T19:30:01.123",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MIRA/inlineXBRL.zip",
+          "File_Size": 54323,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "7de08c5d-e6c1-4a3f-bad3-1fed6a3670c8",
+          "File_Modified": "2022-02-04T19:30:01.123",
+          "File_Name": "CHECKLIST PENGUNGKAPAN LK MIRA Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MIRA/CHECKLIST PENGUNGKAPAN LK MIRA Des 2021.pdf",
+          "File_Size": 1291271,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "4a244d4c-3a30-44ab-bf24-b84bc0188717",
+          "File_Modified": "2022-02-04T19:30:01.123",
+          "File_Name": "FinancialStatement-2021-Tahunan-MIRA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MIRA/FinancialStatement-2021-Tahunan-MIRA.xlsx",
+          "File_Size": 154522,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "9ee9f26e-0b23-4883-abb8-d8275b27e13e",
+          "File_Modified": "2022-02-04T19:30:01.123",
+          "File_Name": "S-007  Lapkeu Tahunan 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MIRA/S-007  Lapkeu Tahunan 31 Desember 2021.pdf",
+          "File_Size": 293238,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "6ad45618-c093-4e2b-a190-efe1a5e51f9b",
+          "File_Modified": "2022-02-04T19:30:01.123",
+          "File_Name": "FinancialStatement-2021-Tahunan-MIRA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/MIRA/FinancialStatement-2021-Tahunan-MIRA.pdf",
+          "File_Size": 48879,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        }
+      ]
+    }
+  ]
+}

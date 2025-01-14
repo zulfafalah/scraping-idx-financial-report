@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MKPI",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MKPI",
+      "File_Modified": "2024-03-28T09:19:10.993",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Metropolitan Kentjana Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "e713ea09-1ed3-44c6-ae0d-39a2559b6671",
+          "File_Modified": "2024-03-28T09:19:10.993",
+          "File_Name": "FinancialStatement-2023-Tahunan-MKPI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MKPI/FinancialStatement-2023-Tahunan-MKPI.pdf",
+          "File_Size": 704591,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "9c69c4be-da4e-479a-bea3-4d9012f690d2",
+          "File_Modified": "2024-03-28T09:19:10.993",
+          "File_Name": "AnnualReport2023-MKPI.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/ad35c4d03b_d3196af5fd.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "b6c546f1-490d-4116-9ab6-c3969a287d5c",
+          "File_Modified": "2024-03-28T09:19:10.993",
+          "File_Name": "FinancialStatement-2023-Tahunan-MKPI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MKPI/FinancialStatement-2023-Tahunan-MKPI.xlsx",
+          "File_Size": 343645,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "e7bd563d-6a98-40a3-8446-04fbe067ec0f",
+          "File_Modified": "2024-03-28T09:19:10.993",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MKPI/instance.zip",
+          "File_Size": 135126,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "9e6f27ce-75dd-4f37-8a5f-1b7f65711c0c",
+          "File_Modified": "2024-03-28T09:19:10.993",
+          "File_Name": "FS MKPI 2023-12 (Penj Pos Keu).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MKPI/FS MKPI 2023-12 (Penj Pos Keu).pdf",
+          "File_Size": 179691,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "c952c734-fd14-4847-91eb-3bb44452e441",
+          "File_Modified": "2024-03-28T09:19:10.993",
+          "File_Name": "Checklist OJK PT MKPI Des 2023 Audited.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MKPI/Checklist OJK PT MKPI Des 2023 Audited.pdf",
+          "File_Size": 2280818,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "66952a2e-da3f-43ff-a2e6-b7d23b7270eb",
+          "File_Modified": "2024-03-28T09:19:10.993",
+          "File_Name": "FS MKPI - 2023 (Audited).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MKPI/FS MKPI - 2023 (Audited).pdf",
+          "File_Size": 5811968,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "906e1d00-57ae-45f3-98a1-9d007cd951eb",
+          "File_Modified": "2024-03-28T09:19:10.993",
+          "File_Name": "AnnualReport2023-MKPI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/776526a6f2_934f4bf063.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        },
+        {
+          "Emiten_Code": "MKPI",
+          "File_ID": "a1919bf9-78d4-420e-b988-e1cc0589869d",
+          "File_Modified": "2024-03-28T09:19:10.993",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MKPI/inlineXBRL.zip",
+          "File_Size": 242733,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Metropolitan Kentjana Tbk"
+        }
+      ]
+    }
+  ]
+}

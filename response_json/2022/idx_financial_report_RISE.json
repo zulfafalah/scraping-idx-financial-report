@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "RISE",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "RISE",
+      "File_Modified": "2023-04-01T17:08:15.633",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Jaya Sukses Makmur Sentosa Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "RISE",
+          "File_ID": "36e3e120-013f-4fb8-bf59-07cf8415e075",
+          "File_Modified": "2023-04-01T17:08:15.633",
+          "File_Name": "FinancialStatement-2022-Tahunan-RISE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RISE/FinancialStatement-2022-Tahunan-RISE.pdf",
+          "File_Size": 154548,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Jaya Sukses Makmur Sentosa Tbk."
+        },
+        {
+          "Emiten_Code": "RISE",
+          "File_ID": "b206cfa4-db85-4794-b951-139c28846e63",
+          "File_Modified": "2023-04-01T17:08:15.633",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RISE/inlineXBRL.zip",
+          "File_Size": 189290,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Jaya Sukses Makmur Sentosa Tbk."
+        },
+        {
+          "Emiten_Code": "RISE",
+          "File_ID": "13bd0ec3-6cf3-438e-862a-2760b8987549",
+          "File_Modified": "2023-04-01T17:08:15.633",
+          "File_Name": "Checklist JSMS 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RISE/Checklist JSMS 31 Des 2022.pdf",
+          "File_Size": 994658,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Jaya Sukses Makmur Sentosa Tbk."
+        },
+        {
+          "Emiten_Code": "RISE",
+          "File_ID": "4ad1a887-210b-4baf-8fb8-278a76b17489",
+          "File_Modified": "2023-04-01T17:08:15.633",
+          "File_Name": "Surat Penyampaian LK Tahunan JSMS Tbk 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RISE/Surat Penyampaian LK Tahunan JSMS Tbk 2022.pdf",
+          "File_Size": 505075,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Jaya Sukses Makmur Sentosa Tbk."
+        },
+        {
+          "Emiten_Code": "RISE",
+          "File_ID": "8a058dbe-2f02-4396-8a1b-eaf583694fca",
+          "File_Modified": "2023-04-01T17:08:15.633",
+          "File_Name": "FinancialStatement-2022-Tahunan-RISE.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RISE/FinancialStatement-2022-Tahunan-RISE.xlsx",
+          "File_Size": 1144552,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Jaya Sukses Makmur Sentosa Tbk."
+        },
+        {
+          "Emiten_Code": "RISE",
+          "File_ID": "fe316b0d-e90e-4f42-a524-f9db974fc8b7",
+          "File_Modified": "2023-04-01T17:08:15.633",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RISE/instance.zip",
+          "File_Size": 175154,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Jaya Sukses Makmur Sentosa Tbk."
+        },
+        {
+          "Emiten_Code": "RISE",
+          "File_ID": "75dab2ee-334a-4de2-888b-8ad07fff5f93",
+          "File_Modified": "2023-04-01T17:08:15.633",
+          "File_Name": "AnnualReport2022-RISE-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/6ec6e622f3_8becd69b44.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Jaya Sukses Makmur Sentosa Tbk."
+        },
+        {
+          "Emiten_Code": "RISE",
+          "File_ID": "4e0b843d-5c79-4eaa-b6ce-9db52354a15c",
+          "File_Modified": "2023-04-01T17:08:15.633",
+          "File_Name": "Final Report RISE 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/RISE/Final Report RISE 31 Des 2022.pdf",
+          "File_Size": 2559561,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Jaya Sukses Makmur Sentosa Tbk."
+        }
+      ]
+    }
+  ]
+}

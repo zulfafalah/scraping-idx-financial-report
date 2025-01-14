@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PTPS",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PTPS",
+      "File_Modified": "2024-03-28T20:41:41.253",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Pulau Subur Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "PTPS",
+          "File_ID": "dc025f31-61fb-4250-8184-0bb28cd12823",
+          "File_Modified": "2024-03-28T20:41:41.253",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PTPS/inlineXBRL.zip",
+          "File_Size": 243928,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pulau Subur Tbk."
+        },
+        {
+          "Emiten_Code": "PTPS",
+          "File_ID": "5dd02774-b96d-4efa-b223-66b0246b34d5",
+          "File_Modified": "2024-03-28T20:41:41.253",
+          "File_Name": "FinancialStatement-2023-Tahunan-PTPS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PTPS/FinancialStatement-2023-Tahunan-PTPS.pdf",
+          "File_Size": 695010,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pulau Subur Tbk."
+        },
+        {
+          "Emiten_Code": "PTPS",
+          "File_ID": "e14e2a4c-e8fd-4951-9398-bbd16efcdd9f",
+          "File_Modified": "2024-03-28T20:41:41.253",
+          "File_Name": "LAI_PT PULAU SUBUR TBK_31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PTPS/LAI_PT PULAU SUBUR TBK_31 Desember 2023.pdf",
+          "File_Size": 8447667,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pulau Subur Tbk."
+        },
+        {
+          "Emiten_Code": "PTPS",
+          "File_ID": "4c3db5c4-f045-48ee-b2c4-e5b31f7cc208",
+          "File_Modified": "2024-03-28T20:41:41.253",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PTPS/instance.zip",
+          "File_Size": 121335,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pulau Subur Tbk."
+        },
+        {
+          "Emiten_Code": "PTPS",
+          "File_ID": "00b90752-14f6-4a86-8a4e-fde810b85673",
+          "File_Modified": "2024-03-28T20:41:41.253",
+          "File_Name": "AnnualReport2023-PTPS.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/5c0c5a73a2_1519b929da.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pulau Subur Tbk."
+        },
+        {
+          "Emiten_Code": "PTPS",
+          "File_ID": "0b1fead9-62b6-4cf7-a4c2-fed67ab8bee5",
+          "File_Modified": "2024-03-28T20:41:41.253",
+          "File_Name": "Perubahan Aset dan Liabilitas PTPS tahunan 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PTPS/Perubahan Aset dan Liabilitas PTPS tahunan 2023.pdf",
+          "File_Size": 329969,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pulau Subur Tbk."
+        },
+        {
+          "Emiten_Code": "PTPS",
+          "File_ID": "4bd6e0bf-ea31-45f9-8766-68a6c7588eaf",
+          "File_Modified": "2024-03-28T20:41:41.253",
+          "File_Name": "Pernyataan Direksi PTPS LK Tahunan 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PTPS/Pernyataan Direksi PTPS LK Tahunan 2023.pdf",
+          "File_Size": 222779,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pulau Subur Tbk."
+        },
+        {
+          "Emiten_Code": "PTPS",
+          "File_ID": "bdf84f1c-4345-472e-bfd5-17f2ae1333ef",
+          "File_Modified": "2024-03-28T20:41:41.253",
+          "File_Name": "surat pengantar LK 31des2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PTPS/surat pengantar LK 31des2023.pdf",
+          "File_Size": 280500,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pulau Subur Tbk."
+        },
+        {
+          "Emiten_Code": "PTPS",
+          "File_ID": "29a85831-a365-485f-9028-3c23111a9766",
+          "File_Modified": "2024-03-28T20:41:41.253",
+          "File_Name": "FinancialStatement-2023-Tahunan-PTPS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/PTPS/FinancialStatement-2023-Tahunan-PTPS.xlsx",
+          "File_Size": 189637,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Pulau Subur Tbk."
+        }
+      ]
+    }
+  ]
+}

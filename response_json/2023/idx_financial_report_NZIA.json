@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "NZIA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "NZIA",
+      "File_Modified": "2024-03-28T15:30:35.017",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Nusantara Almazia, Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "dd339a4f-ae3a-490c-9e0c-f9ecd2ea8c8a",
+          "File_Modified": "2024-03-28T15:30:35.017",
+          "File_Name": "AnnualReport2023-NZIA-att4.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/a70cdea5df_91f8f47158.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "55a22218-344d-4844-801d-2ae860de9c36",
+          "File_Modified": "2024-03-28T15:30:35.017",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NZIA/instance.zip",
+          "File_Size": 115091,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "76ff7bc9-8631-4ddd-a23a-31989b7a8555",
+          "File_Modified": "2024-03-28T15:30:35.017",
+          "File_Name": "Surat NA ke OJK Lap Keu Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NZIA/Surat NA ke OJK Lap Keu Des 2023.pdf",
+          "File_Size": 472622,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "e984d8a3-7e00-4d46-9ba3-922e49926d44",
+          "File_Modified": "2024-03-28T15:30:35.017",
+          "File_Name": "Report NZIA Tbk Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NZIA/Report NZIA Tbk Des 2023.pdf",
+          "File_Size": 3734343,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "97a02282-a719-489f-ae2e-f0ac62e9970e",
+          "File_Modified": "2024-03-28T15:30:35.017",
+          "File_Name": "AnnualReport2023-NZIA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/8054640389_1270d14cd0.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "a3331cb3-ea80-4755-8cd2-7cd966385382",
+          "File_Modified": "2024-03-28T15:30:35.017",
+          "File_Name": "AnnualReport2023-NZIA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/2afd07d8d6_99bc38aa9e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "80b71318-f6f4-4faf-a3c5-8a0b1cd7e3fd",
+          "File_Modified": "2024-03-28T15:30:35.017",
+          "File_Name": "FinancialStatement-2023-Tahunan-NZIA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NZIA/FinancialStatement-2023-Tahunan-NZIA.pdf",
+          "File_Size": 636414,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "2cb0e07e-3240-4d3f-b5e8-d260051a0c4f",
+          "File_Modified": "2024-03-28T15:30:35.017",
+          "File_Name": "AnnualReport2023-NZIA-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/b012b5e415_a9fc2fc042.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "58600aff-8515-4bc5-a9a7-d8366e9bb0d0",
+          "File_Modified": "2024-03-28T15:30:35.017",
+          "File_Name": "SPD NZIA Tbk Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NZIA/SPD NZIA Tbk Des 2023.pdf",
+          "File_Size": 816963,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "01c6131b-33f2-4335-a0f1-3504f0e1683c",
+          "File_Modified": "2024-03-28T15:30:35.017",
+          "File_Name": "AnnualReport2023-NZIA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202405/491176ca0a_9aed81f1fd.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "efebae00-8c86-40de-9c00-aacf1546ee49",
+          "File_Modified": "2024-03-28T15:30:35.017",
+          "File_Name": "Checklist OJK Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NZIA/Checklist OJK Des 2023.pdf",
+          "File_Size": 1730911,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        },
+        {
+          "Emiten_Code": "NZIA",
+          "File_ID": "da03b9f2-df2b-4b6d-bcfa-ba9e483ff9a6",
+          "File_Modified": "2024-03-28T15:30:35.017",
+          "File_Name": "FinancialStatement-2023-Tahunan-NZIA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/NZIA/FinancialStatement-2023-Tahunan-NZIA.xlsx",
+          "File_Size": 308054,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Nusantara Almazia, Tbk."
+        }
+      ]
+    }
+  ]
+}

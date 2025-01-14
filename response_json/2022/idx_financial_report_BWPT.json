@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BWPT",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BWPT",
+      "File_Modified": "2023-04-14T19:20:30.237",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Eagle High Plantations Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "e64e55f5-43ab-4529-913a-1755c72d301d",
+          "File_Modified": "2023-04-14T19:20:30.237",
+          "File_Name": "AnnualReport2022-BWPT-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/f8e896a50f_582a6e4f6d.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "03815357-b0f0-4edc-b85c-24fb0535af2b",
+          "File_Modified": "2023-04-14T19:20:30.237",
+          "File_Name": "051-Pelaporan LKT 2022 PT EHP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BWPT/051-Pelaporan LKT 2022 PT EHP.pdf",
+          "File_Size": 86964,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "ab005bf3-56ba-4a5a-a452-77a38d409c7a",
+          "File_Modified": "2023-04-14T19:20:30.237",
+          "File_Name": "CHECKLIST PENGUNGKAPAN LKT Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BWPT/CHECKLIST PENGUNGKAPAN LKT Des 2022.pdf",
+          "File_Size": 255959,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "e43670b7-779e-4e81-b04a-a06d832dc3a1",
+          "File_Modified": "2023-04-14T19:20:30.237",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BWPT/inlineXBRL.zip",
+          "File_Size": 239726,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "782152ee-3801-471b-9eac-dc47f52c63fc",
+          "File_Modified": "2023-04-14T19:20:30.237",
+          "File_Name": "LKT 2022 PT EAGLE HIGH PLANTATIONS TBK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BWPT/LKT 2022 PT EAGLE HIGH PLANTATIONS TBK.pdf",
+          "File_Size": 2470313,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "e3b17fd1-db1d-4777-b237-4c571578871a",
+          "File_Modified": "2023-04-14T19:20:30.237",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BWPT/instance.zip",
+          "File_Size": 199107,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "aeb6a82d-8528-4ce8-b5df-63cab75696c9",
+          "File_Modified": "2023-04-14T19:20:30.237",
+          "File_Name": "FinancialStatement-2022-Tahunan-BWPT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BWPT/FinancialStatement-2022-Tahunan-BWPT.xlsx",
+          "File_Size": 1188992,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        },
+        {
+          "Emiten_Code": "BWPT",
+          "File_ID": "fe5e43e8-8586-449a-bc4b-aeb62e9535ad",
+          "File_Modified": "2023-04-14T19:20:30.237",
+          "File_Name": "FinancialStatement-2022-Tahunan-BWPT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/BWPT/FinancialStatement-2022-Tahunan-BWPT.pdf",
+          "File_Size": 201213,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Eagle High Plantations Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SIMP",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SIMP",
+      "File_Modified": "2023-03-03T10:10:33.31",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Salim Ivomas Pratama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "2fa4b3b1-24e0-48a5-afa9-65854aa1f825",
+          "File_Modified": "2023-03-03T10:10:33.31",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SIMP/inlineXBRL.zip",
+          "File_Size": 277223,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "6d73ef92-d906-464a-b365-b69504784276",
+          "File_Modified": "2023-03-03T10:10:33.31",
+          "File_Name": "SIMP_Bilingual_31_Des_2022_Released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SIMP/SIMP_Bilingual_31_Des_2022_Released.pdf",
+          "File_Size": 2133119,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "90293826-ef1d-433f-afc4-be55563591ac",
+          "File_Modified": "2023-03-03T10:10:33.31",
+          "File_Name": "AnnualReport2022-SIMP-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/436c144bc4_5910353856.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "6632b779-9415-4f29-b8a7-c08f323a4571",
+          "File_Modified": "2023-03-03T10:10:33.31",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SIMP/instance.zip",
+          "File_Size": 221567,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "557ec023-46db-4139-898e-ccba816f900b",
+          "File_Modified": "2023-03-03T10:10:33.31",
+          "File_Name": "FinancialStatement-2022-Tahunan-SIMP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SIMP/FinancialStatement-2022-Tahunan-SIMP.xlsx",
+          "File_Size": 1252640,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "8cfa34b4-72de-40b3-9c53-6967278a4f31",
+          "File_Modified": "2023-03-03T10:10:33.31",
+          "File_Name": "FinancialStatement-2022-Tahunan-SIMP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SIMP/FinancialStatement-2022-Tahunan-SIMP.pdf",
+          "File_Size": 386150,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "c2506dcf-da57-4786-b781-75c695986c74",
+          "File_Modified": "2023-03-03T10:10:33.31",
+          "File_Name": "SIMP_LK FY 2022_28 Feb 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SIMP/SIMP_LK FY 2022_28 Feb 2023.pdf",
+          "File_Size": 201914,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        },
+        {
+          "Emiten_Code": "SIMP",
+          "File_ID": "a78e47ad-4744-4b34-a6d7-d00688b1a6b1",
+          "File_Modified": "2023-03-03T10:10:33.31",
+          "File_Name": "Surat Pernyataan Direksi SIMP1222.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/SIMP/Surat Pernyataan Direksi SIMP1222.pdf",
+          "File_Size": 275605,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Salim Ivomas Pratama Tbk"
+        }
+      ]
+    }
+  ]
+}

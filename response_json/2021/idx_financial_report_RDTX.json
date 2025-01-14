@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "RDTX",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "RDTX",
+      "File_Modified": "2022-04-27T13:46:20.48",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Roda Vivatex Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "cfeeaa92-5f65-4721-b2d3-15722c5bd982",
+          "File_Modified": "2022-04-27T13:46:20.48",
+          "File_Name": "FinancialStatement-2021-Tahunan-RDTX.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RDTX/FinancialStatement-2021-Tahunan-RDTX.pdf",
+          "File_Size": 51561,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "ebe7ab9f-d243-4910-84d5-50a0ea4f223e",
+          "File_Modified": "2022-04-27T13:46:20.48",
+          "File_Name": "AnnualReport2021-RDTX-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/5c3b44ee0d_a2097e9e2c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "e18bfee5-eaf1-4433-a95a-6e369a05662c",
+          "File_Modified": "2022-04-27T13:46:20.48",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RDTX/instance.zip",
+          "File_Size": 27147,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "e8e74982-4a9d-4658-9e44-3de3a3798c99",
+          "File_Modified": "2022-04-27T13:46:20.48",
+          "File_Name": "FinancialStatement-2021-Tahunan-RDTX.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RDTX/FinancialStatement-2021-Tahunan-RDTX.xlsx",
+          "File_Size": 154996,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "8ad60e4f-035d-4fad-9e21-9ecd4a95e842",
+          "File_Modified": "2022-04-27T13:46:20.48",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RDTX/inlineXBRL.zip",
+          "File_Size": 54195,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "4c9a887e-5605-4189-a970-a6d211b82477",
+          "File_Modified": "2022-04-27T13:46:20.48",
+          "File_Name": "Digitalisasi Report PT Roda Vivatex Tbk 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RDTX/Digitalisasi Report PT Roda Vivatex Tbk 2021.pdf",
+          "File_Size": 4519120,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "379b15d1-4288-4d26-95e2-3fbb6b7bb17f",
+          "File_Modified": "2022-04-27T13:46:20.48",
+          "File_Name": "IKLAN INVESTOR DAILY.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RDTX/IKLAN INVESTOR DAILY.pdf",
+          "File_Size": 809307,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "e5b11633-9ea6-4977-b3ad-627cb35bad0f",
+          "File_Modified": "2022-04-27T13:46:20.48",
+          "File_Name": "CHECKLIST LAP KEUANGAN 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/RDTX/CHECKLIST LAP KEUANGAN 2021.pdf",
+          "File_Size": 1376793,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        }
+      ]
+    }
+  ]
+}

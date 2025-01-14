@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BABP",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BABP",
+      "File_Modified": "2022-04-14T13:48:43.22",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Bank MNC Internasional Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "ab6b03c0-5907-4023-9c69-04a4a4587956",
+          "File_Modified": "2022-04-14T13:48:43.22",
+          "File_Name": "Surat Pernyataan Direksi LK 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BABP/Surat Pernyataan Direksi LK 31 Des 2021.pdf",
+          "File_Size": 380906,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "9660cca4-7d62-40fb-b87c-6bf55fb72292",
+          "File_Modified": "2022-04-14T13:48:43.22",
+          "File_Name": "AnnualReport2021-BABP-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/65e6b26b2e_355fb2e1f0.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "250d826c-b055-4906-8252-a93d0007c3b1",
+          "File_Modified": "2022-04-14T13:48:43.22",
+          "File_Name": "Materi Pubex BABP 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BABP/Materi Pubex BABP 2022.pdf",
+          "File_Size": 3001611,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "9fd4aa94-6427-4ace-9fd5-b7c046be0b0b",
+          "File_Modified": "2022-04-14T13:48:43.22",
+          "File_Name": "Checklist Laporan Keuangan 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BABP/Checklist Laporan Keuangan 31 Desember 2021.pdf",
+          "File_Size": 3022653,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "9b478e8a-d1cb-4a4c-a4fa-21da5fce37c1",
+          "File_Modified": "2022-04-14T13:48:43.22",
+          "File_Name": "131 MNCB DIR IV 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BABP/131 MNCB DIR IV 2022.pdf",
+          "File_Size": 357057,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "56c75115-1489-4d90-acca-76a55e6904ee",
+          "File_Modified": "2022-04-14T13:48:43.22",
+          "File_Name": "FinancialStatement-2021-Tahunan-BABP.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BABP/FinancialStatement-2021-Tahunan-BABP.pdf",
+          "File_Size": 56188,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "58cd9ef8-9273-40c6-aea4-ca5774ecb0d8",
+          "File_Modified": "2022-04-14T13:48:43.22",
+          "File_Name": "133 MNCB DIR IV 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BABP/133 MNCB DIR IV 2022.pdf",
+          "File_Size": 396733,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "c0cd77c2-1533-4764-bd7f-cf8439efa0ff",
+          "File_Modified": "2022-04-14T13:48:43.22",
+          "File_Name": "Laporan Keuangan Auditan MNC Bank per 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BABP/Laporan Keuangan Auditan MNC Bank per 31 Des 2021.pdf",
+          "File_Size": 3245357,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "e38b9ece-aa80-495c-b98f-0dfdd841d9b1",
+          "File_Modified": "2022-04-14T13:48:43.22",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BABP/inlineXBRL.zip",
+          "File_Size": 59541,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "1928bc73-c2db-4301-ada2-4ace13f384bd",
+          "File_Modified": "2022-04-14T13:48:43.22",
+          "File_Name": "FinancialStatement-2021-Tahunan-BABP.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BABP/FinancialStatement-2021-Tahunan-BABP.xlsx",
+          "File_Size": 160640,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        },
+        {
+          "Emiten_Code": "BABP",
+          "File_ID": "ef994bbc-5af7-4791-bfa6-5985cb90f456",
+          "File_Modified": "2022-04-14T13:48:43.22",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BABP/instance.zip",
+          "File_Size": 30197,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank MNC Internasional Tbk."
+        }
+      ]
+    }
+  ]
+}

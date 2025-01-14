@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "BKSW",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "BKSW",
+      "File_Modified": "2022-03-05T17:13:36.787",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Bank QNB Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "629a2f80-9394-4f80-99a1-6726f01da41d",
+          "File_Modified": "2022-03-05T17:13:36.787",
+          "File_Name": "CHECKLIST PENGUNGKAPAN LAPORAN KEUANGAN_Dec2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BKSW/CHECKLIST PENGUNGKAPAN LAPORAN KEUANGAN_Dec2021.pdf",
+          "File_Size": 833996,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "127c7967-9a23-4164-882e-793e0cf540aa",
+          "File_Modified": "2022-03-05T17:13:36.787",
+          "File_Name": "FinancialStatement-2021-Tahunan-BKSW.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BKSW/FinancialStatement-2021-Tahunan-BKSW.pdf",
+          "File_Size": 55625,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "bc2546ba-78c1-4c2c-9351-0c84145e1926",
+          "File_Modified": "2022-03-05T17:13:36.787",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BKSW/instance.zip",
+          "File_Size": 30204,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "0300820e-1fc5-48a5-9654-9ad7f733522a",
+          "File_Modified": "2022-03-05T17:13:36.787",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BKSW/inlineXBRL.zip",
+          "File_Size": 59557,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "ca53ed96-b3c5-440b-9c20-a06fd2331085",
+          "File_Modified": "2022-03-05T17:13:36.787",
+          "File_Name": "PT Bank QNB Indonesia 31 Des 2021_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BKSW/PT Bank QNB Indonesia 31 Des 2021_released.pdf",
+          "File_Size": 3111756,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "193de385-7fd5-44fc-8052-d760e670b010",
+          "File_Modified": "2022-03-05T17:13:36.787",
+          "File_Name": "FinancialStatement-2021-Tahunan-BKSW.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BKSW/FinancialStatement-2021-Tahunan-BKSW.xlsx",
+          "File_Size": 160675,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "d99c9598-ee0a-4b36-b3e2-0b7b02e5f1ba",
+          "File_Modified": "2022-03-05T17:13:36.787",
+          "File_Name": "Surat Pengantar Penyampaian lap keu Dec21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BKSW/Surat Pengantar Penyampaian lap keu Dec21.pdf",
+          "File_Size": 333105,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "BKSW",
+          "File_ID": "7f913306-7117-4e26-9522-8a31374318f9",
+          "File_Modified": "2022-03-05T17:13:36.787",
+          "File_Name": "SPD PT Bank QNB Indonesia Dec 21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/BKSW/SPD PT Bank QNB Indonesia Dec 21.pdf",
+          "File_Size": 357930,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Bank QNB Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

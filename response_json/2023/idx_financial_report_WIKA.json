@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "WIKA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "WIKA",
+      "File_Modified": "2024-04-01T23:04:31.203",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Wijaya Karya (Persero) Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "4d1485e8-7237-4618-b719-1fe2fa9e3795",
+          "File_Modified": "2024-04-01T23:04:31.203",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WIKA/instance.zip",
+          "File_Size": 161409,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "fd07cab4-53e2-4aee-9e3b-d4ea9185f2d2",
+          "File_Modified": "2024-04-01T23:04:31.203",
+          "File_Name": "FINAL-PT WIjaya Karya (Persero) Tbk GA 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WIKA/FINAL-PT WIjaya Karya (Persero) Tbk GA 2023.pdf",
+          "File_Size": 5759535,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "eb65457d-b2ff-4400-96b5-f2f7d67021fe",
+          "File_Modified": "2024-04-01T23:04:31.203",
+          "File_Name": "AnnualReport2023-WIKA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/2061d6db4a_36105bc95c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "027efbc9-94ca-47dd-85fb-f98d37f43a4e",
+          "File_Modified": "2024-04-01T23:04:31.203",
+          "File_Name": "CHECKLIST PENGUNGKAPAN LK 31 DES 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WIKA/CHECKLIST PENGUNGKAPAN LK 31 DES 2023.pdf",
+          "File_Size": 1143691,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "82706df1-f442-4e49-a9f9-16e69b76897e",
+          "File_Modified": "2024-04-01T23:04:31.203",
+          "File_Name": "AnnualReport2023-WIKA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/341b6f3241_4bc222dcd0.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "2df1301b-c876-424d-900d-c8284bc79561",
+          "File_Modified": "2024-04-01T23:04:31.203",
+          "File_Name": "FinancialStatement-2023-Tahunan-WIKA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WIKA/FinancialStatement-2023-Tahunan-WIKA.xlsx",
+          "File_Size": 208915,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "8a9d42bf-ff57-486a-94b8-d6c4b792675b",
+          "File_Modified": "2024-04-01T23:04:31.203",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WIKA/inlineXBRL.zip",
+          "File_Size": 319222,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "266cd77a-c4dc-4354-ac00-17cc29daf056",
+          "File_Modified": "2024-04-01T23:04:31.203",
+          "File_Name": "AnnualReport2023-WIKA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/7e571baea4_73471e34b2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "6b40784d-072b-442c-8490-a2779278b08e",
+          "File_Modified": "2024-04-01T23:04:31.203",
+          "File_Name": "FinancialStatement-2023-Tahunan-WIKA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WIKA/FinancialStatement-2023-Tahunan-WIKA.pdf",
+          "File_Size": 876685,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        },
+        {
+          "Emiten_Code": "WIKA",
+          "File_ID": "c02dfbe3-d3a2-45aa-8d24-ce0fa87a4527",
+          "File_Modified": "2024-04-01T23:04:31.203",
+          "File_Name": "Penyampaian LK Tahunan Per 31 Desember 2023 .pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/WIKA/Penyampaian LK Tahunan Per 31 Desember 2023 .pdf",
+          "File_Size": 80104,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Wijaya Karya (Persero) Tbk"
+        }
+      ]
+    }
+  ]
+}

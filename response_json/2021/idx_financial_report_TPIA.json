@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TPIA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TPIA",
+      "File_Modified": "2022-03-15T06:29:24.083",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Chandra Asri Pacific Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "9dffafeb-28bb-4ed3-a474-17bf518e4142",
+          "File_Modified": "2022-03-15T06:29:24.083",
+          "File_Name": "Checklist CAP Financial Statements FY 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TPIA/Checklist CAP Financial Statements FY 2021.pdf",
+          "File_Size": 1581077,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "df75e0b9-eabe-470f-b6e1-22e353686be7",
+          "File_Modified": "2022-03-15T06:29:24.083",
+          "File_Name": "CAP Consolidated Financial Statements FY 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TPIA/CAP Consolidated Financial Statements FY 2021.pdf",
+          "File_Size": 2736092,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "1b988e3c-d217-4904-9b26-1ce06ced69b3",
+          "File_Modified": "2022-03-15T06:29:24.083",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TPIA/instance.zip",
+          "File_Size": 28827,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "936c2a6c-bd69-48c0-b8de-91eb367fd526",
+          "File_Modified": "2022-03-15T06:29:24.083",
+          "File_Name": "FinancialStatement-2021-Tahunan-TPIA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TPIA/FinancialStatement-2021-Tahunan-TPIA.xlsx",
+          "File_Size": 159171,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "54cfdf8f-77f1-49c4-81e2-9982083eeab4",
+          "File_Modified": "2022-03-15T06:29:24.083",
+          "File_Name": "Penjelasan Perubahan Total Aktiva LK 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TPIA/Penjelasan Perubahan Total Aktiva LK 31 Des 2021.pdf",
+          "File_Size": 546086,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "52855bf1-c9af-4059-a2ee-d56a712f070a",
+          "File_Modified": "2022-03-15T06:29:24.083",
+          "File_Name": "FinancialStatement-2021-Tahunan-TPIA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TPIA/FinancialStatement-2021-Tahunan-TPIA.pdf",
+          "File_Size": 58575,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "685645d1-3785-42f4-b524-dfa167316847",
+          "File_Modified": "2022-03-15T06:29:24.083",
+          "File_Name": "Surat Pernyataan Direksi - LK 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TPIA/Surat Pernyataan Direksi - LK 31 Desember 2021.pdf",
+          "File_Size": 467644,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "a68693fa-d384-45e7-897b-f74873747fa8",
+          "File_Modified": "2022-03-15T06:29:24.083",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TPIA/inlineXBRL.zip",
+          "File_Size": 59027,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        }
+      ]
+    }
+  ]
+}

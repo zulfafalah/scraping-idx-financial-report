@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TAXI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TAXI",
+      "File_Modified": "2022-05-09T15:04:11.633",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Express Transindo Utama Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "beec64ab-0bed-4f7d-a9c0-4fe4a23fc32b",
+          "File_Modified": "2022-05-09T15:04:11.633",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAXI/inlineXBRL.zip",
+          "File_Size": 51729,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "0b5e1f79-2ef0-42f5-bd19-7f3d6619dbff",
+          "File_Modified": "2022-05-09T15:04:11.633",
+          "File_Name": "FinancialStatement-2021-Tahunan-TAXI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAXI/FinancialStatement-2021-Tahunan-TAXI.pdf",
+          "File_Size": 47910,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "b60e5a4f-8a4e-4dc6-add9-80423e8a7097",
+          "File_Modified": "2022-05-09T15:04:11.633",
+          "File_Name": "AnnualReport2021-TAXI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/f5a665393f_26d8c632df.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "e3f28664-0e80-4adf-958c-a3d7a1677c46",
+          "File_Modified": "2022-05-09T15:04:11.633",
+          "File_Name": "FinancialStatement-2021-Tahunan-TAXI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAXI/FinancialStatement-2021-Tahunan-TAXI.xlsx",
+          "File_Size": 151353,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "004d0ea7-4890-4ff7-a670-de1f997dc21a",
+          "File_Modified": "2022-05-09T15:04:11.633",
+          "File_Name": "Penjelasan Perubahan Aset atas LK 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAXI/Penjelasan Perubahan Aset atas LK 31 Des 2021.pdf",
+          "File_Size": 1445505,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "e13e27bd-02c0-4894-8349-af0974438246",
+          "File_Modified": "2022-05-09T15:04:11.633",
+          "File_Name": "TAXI LK_31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAXI/TAXI LK_31 Des 2021.pdf",
+          "File_Size": 2391405,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "09770ab8-12a2-4a43-921f-69cca9589cbf",
+          "File_Modified": "2022-05-09T15:04:11.633",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAXI/instance.zip",
+          "File_Size": 25735,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        },
+        {
+          "Emiten_Code": "TAXI",
+          "File_ID": "5321a5ff-017f-49b6-af24-e3277345b528",
+          "File_Modified": "2022-05-09T15:04:11.633",
+          "File_Name": "Checklist - LK 31 Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TAXI/Checklist - LK 31 Des 2021.pdf",
+          "File_Size": 879279,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Express Transindo Utama Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "JAYA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "JAYA",
+      "File_Modified": "2022-03-24T19:05:50.843",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Armada Berjaya Trans Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "dcfe8f2e-7c21-4215-8f14-13f0dd75140f",
+          "File_Modified": "2022-03-24T19:05:50.843",
+          "File_Name": "JAYA_SPD_ 31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAYA/JAYA_SPD_ 31 Desember 2021.pdf",
+          "File_Size": 571744,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "49be1418-006c-4810-92b8-30d1195addbc",
+          "File_Modified": "2022-03-24T19:05:50.843",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAYA/instance.zip",
+          "File_Size": 26902,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "ec9cf7a2-2dca-4919-b682-ea68c4cb08a0",
+          "File_Modified": "2022-03-24T19:05:50.843",
+          "File_Name": "JAYA_Audited Konsolidasian_31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAYA/JAYA_Audited Konsolidasian_31 Desember 2021.pdf",
+          "File_Size": 4242993,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "32d1665c-479b-4408-bd55-950b90a356be",
+          "File_Modified": "2022-03-24T19:05:50.843",
+          "File_Name": "JAYA_Checklist_31 Desember 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAYA/JAYA_Checklist_31 Desember 2021.pdf",
+          "File_Size": 1280453,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "38ec6c57-7c3c-4fc8-8b89-ca2926747fac",
+          "File_Modified": "2022-03-24T19:05:50.843",
+          "File_Name": "FinancialStatement-2021-Tahunan-JAYA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAYA/FinancialStatement-2021-Tahunan-JAYA.xlsx",
+          "File_Size": 154302,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "c33240f1-59f8-4ec7-94ef-061f504256f2",
+          "File_Modified": "2022-03-24T19:05:50.843",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAYA/inlineXBRL.zip",
+          "File_Size": 53886,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "0e2aed67-b007-4b9f-b0ee-2b466c8ee719",
+          "File_Modified": "2022-03-24T19:05:50.843",
+          "File_Name": "FinancialStatement-2021-Tahunan-JAYA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAYA/FinancialStatement-2021-Tahunan-JAYA.pdf",
+          "File_Size": 46109,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        },
+        {
+          "Emiten_Code": "JAYA",
+          "File_ID": "5de23334-5929-4f9c-a025-9bf8c6aa59d1",
+          "File_Modified": "2022-03-24T19:05:50.843",
+          "File_Name": "JAYA_Penjelasan Perubahan Aset Liabilitas 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/JAYA/JAYA_Penjelasan Perubahan Aset Liabilitas 2021.pdf",
+          "File_Size": 2174410,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Armada Berjaya Trans Tbk."
+        }
+      ]
+    }
+  ]
+}

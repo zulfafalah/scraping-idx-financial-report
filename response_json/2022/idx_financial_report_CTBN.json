@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "CTBN",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "CTBN",
+      "File_Modified": "2023-03-27T15:33:31.097",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Citra Tubindo Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "CTBN",
+          "File_ID": "b8a42df8-0642-4c5b-82a9-0a004f125afa",
+          "File_Modified": "2023-03-27T15:33:31.097",
+          "File_Name": "AnnualReport2022-CTBN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/d271089347_79cb7647b2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Tubindo Tbk"
+        },
+        {
+          "Emiten_Code": "CTBN",
+          "File_ID": "05a984a6-9a86-4de0-ba6e-5944ccec46cf",
+          "File_Modified": "2023-03-27T15:33:31.097",
+          "File_Name": "AnnualReport2022-CTBN.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/e512c451cc_38500af83b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Tubindo Tbk"
+        },
+        {
+          "Emiten_Code": "CTBN",
+          "File_ID": "7d3cf7b5-2b99-49d8-a558-84e1aae79269",
+          "File_Modified": "2023-03-27T15:33:31.097",
+          "File_Name": "FinancialStatement-2022-Tahunan-CTBN.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CTBN/FinancialStatement-2022-Tahunan-CTBN.xlsx",
+          "File_Size": 1231889,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Tubindo Tbk"
+        },
+        {
+          "Emiten_Code": "CTBN",
+          "File_ID": "9c83185e-40bc-4f2f-b380-b9dc5211542f",
+          "File_Modified": "2023-03-27T15:33:31.097",
+          "File_Name": "PTCT Director Statement Y2022 signed.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CTBN/PTCT Director Statement Y2022 signed.pdf",
+          "File_Size": 205525,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Tubindo Tbk"
+        },
+        {
+          "Emiten_Code": "CTBN",
+          "File_ID": "d8ac1653-03c0-41c6-ad8c-fe3e62342be9",
+          "File_Modified": "2023-03-27T15:33:31.097",
+          "File_Name": "AnnualReport2022-CTBN-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/d271089347_79cb7647b2.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Tubindo Tbk"
+        },
+        {
+          "Emiten_Code": "CTBN",
+          "File_ID": "bfb9d4d1-072c-497d-8016-2b6d94a54737",
+          "File_Modified": "2023-03-27T15:33:31.097",
+          "File_Name": "AnnualReport2022-CTBN-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/6b61da1a97_8d25c2181a.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Tubindo Tbk"
+        },
+        {
+          "Emiten_Code": "CTBN",
+          "File_ID": "3abfbfaa-c06a-4752-a2a9-3446c7efc1c2",
+          "File_Modified": "2023-03-27T15:33:31.097",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CTBN/instance.zip",
+          "File_Size": 185056,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Tubindo Tbk"
+        },
+        {
+          "Emiten_Code": "CTBN",
+          "File_ID": "24d16ce5-5dfb-4a03-86ef-dc3441b7f01b",
+          "File_Modified": "2023-03-27T15:33:31.097",
+          "File_Name": "PTCT Checklist Final Y2022 signed.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CTBN/PTCT Checklist Final Y2022 signed.pdf",
+          "File_Size": 703138,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Tubindo Tbk"
+        },
+        {
+          "Emiten_Code": "CTBN",
+          "File_ID": "dd6d69d3-d21c-464a-bea2-e881486d1eb2",
+          "File_Modified": "2023-03-27T15:33:31.097",
+          "File_Name": "FinancialStatement-2022-Tahunan-CTBN.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CTBN/FinancialStatement-2022-Tahunan-CTBN.pdf",
+          "File_Size": 142807,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Tubindo Tbk"
+        },
+        {
+          "Emiten_Code": "CTBN",
+          "File_ID": "9773b794-9d11-40dd-934e-629b38147bca",
+          "File_Modified": "2023-03-27T15:33:31.097",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CTBN/inlineXBRL.zip",
+          "File_Size": 154592,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Tubindo Tbk"
+        },
+        {
+          "Emiten_Code": "CTBN",
+          "File_ID": "e9c15282-bd8a-4bec-9c22-cb93f47cd35b",
+          "File_Modified": "2023-03-27T15:33:31.097",
+          "File_Name": "PT Citra Tubindo Tbk Subs - 31Dec2022 released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/CTBN/PT Citra Tubindo Tbk Subs - 31Dec2022 released.pdf",
+          "File_Size": 2969458,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Citra Tubindo Tbk"
+        }
+      ]
+    }
+  ]
+}

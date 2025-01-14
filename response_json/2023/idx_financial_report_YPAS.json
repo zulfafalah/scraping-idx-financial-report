@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "YPAS",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "YPAS",
+      "File_Modified": "2024-03-27T10:48:34.013",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Yanaprima Hastapersada Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "31cde055-7ecc-4dcb-95ed-606c283e0b42",
+          "File_Modified": "2024-03-27T10:48:34.013",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YPAS/instance.zip",
+          "File_Size": 125738,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "2d22a2e0-e376-43df-874f-6ecdcfca5e4b",
+          "File_Modified": "2024-03-27T10:48:34.013",
+          "File_Name": "FinancialStatement-2023-Tahunan-YPAS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YPAS/FinancialStatement-2023-Tahunan-YPAS.xlsx",
+          "File_Size": 352932,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "8014df66-b7ca-4f91-acad-e89dd552c2a0",
+          "File_Modified": "2024-03-27T10:48:34.013",
+          "File_Name": "FinancialStatement-2023-Tahunan-YPAS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YPAS/FinancialStatement-2023-Tahunan-YPAS.pdf",
+          "File_Size": 710123,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "54d52224-70e5-4fd5-b321-7ab29d943037",
+          "File_Modified": "2024-03-27T10:48:34.013",
+          "File_Name": "AnnualReport2023-YPAS.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/bf7e392780_2f22210a49.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "0ef181ec-f998-4c4a-a534-ac260c86bb55",
+          "File_Modified": "2024-03-27T10:48:34.013",
+          "File_Name": "YPAS Check List 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YPAS/YPAS Check List 31 Des 2023.pdf",
+          "File_Size": 825865,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "2cfca1c4-8e6a-49f1-951f-c7b3daaefc25",
+          "File_Modified": "2024-03-27T10:48:34.013",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YPAS/inlineXBRL.zip",
+          "File_Size": 254708,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "9425b7cf-85cb-4d02-baf0-d7ea5e2db241",
+          "File_Modified": "2024-03-27T10:48:34.013",
+          "File_Name": "YPAS Lap Keu KAP 31 Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/YPAS/YPAS Lap Keu KAP 31 Des 2023.pdf",
+          "File_Size": 1832999,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        },
+        {
+          "Emiten_Code": "YPAS",
+          "File_ID": "b59ac5a4-65fe-435d-9359-4a3874d1093f",
+          "File_Modified": "2024-03-27T10:48:34.013",
+          "File_Name": "AnnualReport2023-YPAS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/6413f67470_1a6d95e729.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Yanaprima Hastapersada Tbk"
+        }
+      ]
+    }
+  ]
+}

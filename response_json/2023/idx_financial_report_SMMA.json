@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "SMMA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "SMMA",
+      "File_Modified": "2024-04-04T11:25:54.027",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Sinar Mas Multiartha Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "c764c0bd-31c5-4639-959e-4f1dd85fcdcf",
+          "File_Modified": "2024-04-04T11:25:54.027",
+          "File_Name": "AnnualReport2023-SMMA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/14be27121a_e99b1bf2f4.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        },
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "850ac52c-0df3-4de0-9214-53bd43d0364f",
+          "File_Modified": "2024-04-04T11:25:54.027",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SMMA/inlineXBRL.zip",
+          "File_Size": 137454,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        },
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "fcdd5081-9f24-4c65-8145-d9d0311ee1bb",
+          "File_Modified": "2024-04-04T11:25:54.027",
+          "File_Name": "AnnualReport2023-SMMA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/699b6a90a3_39af6ed9c9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        },
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "393b5b73-21fb-4bc0-9719-e709e7da6220",
+          "File_Modified": "2024-04-04T11:25:54.027",
+          "File_Name": "FinancialStatement-2023-Tahunan-SMMA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SMMA/FinancialStatement-2023-Tahunan-SMMA.xlsx",
+          "File_Size": 183307,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        },
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "2934889d-2cb1-49ab-a63b-e7fbf6d97f62",
+          "File_Modified": "2024-04-04T11:25:54.027",
+          "File_Name": "FinancialStatement-2023-Tahunan-SMMA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SMMA/FinancialStatement-2023-Tahunan-SMMA.pdf",
+          "File_Size": 335086,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        },
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "639e7f3b-524b-4854-aec7-6d3625c943d7",
+          "File_Modified": "2024-04-04T11:25:54.027",
+          "File_Name": "PT SMMA Tbk-Final FS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SMMA/PT SMMA Tbk-Final FS.pdf",
+          "File_Size": 4726571,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        },
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "ebf6a14d-de9e-4f35-b749-b28f2656de27",
+          "File_Modified": "2024-04-04T11:25:54.027",
+          "File_Name": "AnnualReport2023-SMMA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/b8bf1dbbf6_372aac4159.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        },
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "248a145f-e06d-4b09-a0bb-85ba2ba4a05d",
+          "File_Modified": "2024-04-04T11:25:54.027",
+          "File_Name": "SPD Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SMMA/SPD Des 2023.pdf",
+          "File_Size": 414237,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        },
+        {
+          "Emiten_Code": "SMMA",
+          "File_ID": "17897c06-0a71-4a34-b0df-9651d8d3a81d",
+          "File_Modified": "2024-04-04T11:25:54.027",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/SMMA/instance.zip",
+          "File_Size": 76575,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Sinar Mas Multiartha Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TOPS",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TOPS",
+      "File_Modified": "2024-06-10T15:41:08.407",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Totalindo Eka Persada Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "8b247695-84aa-4f2f-9fd3-fe101b49dbb0",
+          "File_Modified": "2024-06-10T15:41:08.407",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOPS/instance.zip",
+          "File_Size": 132010,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "752f1c2f-da0a-426c-8386-0ac58dacde78",
+          "File_Modified": "2024-06-10T15:41:08.407",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOPS/inlineXBRL.zip",
+          "File_Size": 264349,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "83c67834-68dd-4969-9598-141ff1cff281",
+          "File_Modified": "2024-06-10T15:41:08.407",
+          "File_Name": "AnnualReport2023-TOPS-att3.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202406/42f5a6c6ed_7d922d4098.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "c890a2e3-cc92-425e-9ed8-843df8957e62",
+          "File_Modified": "2024-06-10T15:41:08.407",
+          "File_Name": "FinancialStatement-2023-Tahunan-TOPS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOPS/FinancialStatement-2023-Tahunan-TOPS.pdf",
+          "File_Size": 719341,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "fd2e556b-0b50-4184-a0ef-ad4e838e3548",
+          "File_Modified": "2024-06-10T15:41:08.407",
+          "File_Name": "AnnualReport2023-TOPS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202406/ee2dd1174f_890c4bccf7.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "95baa262-6c8d-4e2f-a4f6-107d829682f4",
+          "File_Modified": "2024-06-10T15:41:08.407",
+          "File_Name": "Ceklis OJK 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOPS/Ceklis OJK 31 Desember 2023.pdf",
+          "File_Size": 965119,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "80e39651-efa3-40c6-a362-c9745b4b969a",
+          "File_Modified": "2024-06-10T15:41:08.407",
+          "File_Name": "AnnualReport2023-TOPS-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202406/d4836dbb0a_60a0e79f13.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "2b8fdd6c-01e8-455b-acb8-2538d0cf1299",
+          "File_Modified": "2024-06-10T15:41:08.407",
+          "File_Name": "AnnualReport2023-TOPS.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202406/b60f37f4c7_dd496e03dc.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "83a25846-b83a-4029-a402-4d66e9e1827a",
+          "File_Modified": "2024-06-10T15:41:08.407",
+          "File_Name": "LK FINAL Totalindo Eka Persada Tbk.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOPS/LK FINAL Totalindo Eka Persada Tbk.pdf",
+          "File_Size": 2774265,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        },
+        {
+          "Emiten_Code": "TOPS",
+          "File_ID": "56752cfc-18d9-4480-81e5-9d36e790d588",
+          "File_Modified": "2024-06-10T15:41:08.407",
+          "File_Name": "FinancialStatement-2023-Tahunan-TOPS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TOPS/FinancialStatement-2023-Tahunan-TOPS.xlsx",
+          "File_Size": 367084,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Totalindo Eka Persada Tbk."
+        }
+      ]
+    }
+  ]
+}

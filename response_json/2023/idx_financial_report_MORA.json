@@ -1,0 +1,181 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MORA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MORA",
+      "File_Modified": "2024-03-18T10:50:15.053",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Mora Telematika Indonesia Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "0e74cf3b-fdf3-4ed4-a01a-eea46ce9e3ca",
+          "File_Modified": "2024-03-18T10:50:15.053",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MORA/instance.zip",
+          "File_Size": 129614,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "0d6f8d7e-38ef-430f-af19-f559f93a47ce",
+          "File_Modified": "2024-03-18T10:50:15.053",
+          "File_Name": "AnnualReport2023-MORA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/5af5c365a3_1d28f438eb.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "62fa0e32-92bb-4023-b206-1afe0aa4e221",
+          "File_Modified": "2024-03-18T10:50:15.053",
+          "File_Name": "FinancialStatement-2023-Tahunan-MORA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MORA/FinancialStatement-2023-Tahunan-MORA.xlsx",
+          "File_Size": 358975,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "c2e5dc3c-0ae0-4557-bdf0-27797e82dcf5",
+          "File_Modified": "2024-03-18T10:50:15.053",
+          "File_Name": "Cheklist OJK.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MORA/Cheklist OJK.pdf",
+          "File_Size": 1551781,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "0e446feb-e43d-4356-9131-34f22c43e62f",
+          "File_Modified": "2024-03-18T10:50:15.053",
+          "File_Name": "6. Pengantar Aset dan Liabilitas LKT 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MORA/6. Pengantar Aset dan Liabilitas LKT 2023.pdf",
+          "File_Size": 391378,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "acf8e451-b053-4670-8119-b72083080436",
+          "File_Modified": "2024-03-18T10:50:15.053",
+          "File_Name": "AnnualReport2023-MORA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/b880ab8c6b_cdba339b12.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "fdb6fe5d-8f3b-46ab-bb60-b811250329f1",
+          "File_Modified": "2024-03-18T10:50:15.053",
+          "File_Name": "AnnualReport2023-MORA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/31f057b62f_533bb41be5.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "6325d668-dca7-42dd-b122-bda2a1abcb10",
+          "File_Modified": "2024-03-18T10:50:15.053",
+          "File_Name": "Surat Pernyataan Direksi MTI Des 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MORA/Surat Pernyataan Direksi MTI Des 2023.pdf",
+          "File_Size": 495653,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "1e171584-ae70-4a0b-b29a-050f00968fa9",
+          "File_Modified": "2024-03-18T10:50:15.053",
+          "File_Name": "6. Pengantar LKT 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MORA/6. Pengantar LKT 2023.pdf",
+          "File_Size": 1455108,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "4fc53718-3494-4d63-8845-49cc32e62a89",
+          "File_Modified": "2024-03-18T10:50:15.053",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MORA/inlineXBRL.zip",
+          "File_Size": 260118,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "047b659b-54fc-420d-a662-6982ec49ea44",
+          "File_Modified": "2024-03-18T10:50:15.053",
+          "File_Name": "Mora Telematika Indonesia Tbk.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MORA/Mora Telematika Indonesia Tbk.pdf",
+          "File_Size": 2351503,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        },
+        {
+          "Emiten_Code": "MORA",
+          "File_ID": "34286222-42f0-47a2-9f54-f697564baaca",
+          "File_Modified": "2024-03-18T10:50:15.053",
+          "File_Name": "FinancialStatement-2023-Tahunan-MORA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MORA/FinancialStatement-2023-Tahunan-MORA.pdf",
+          "File_Size": 718966,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Mora Telematika Indonesia Tbk"
+        }
+      ]
+    }
+  ]
+}

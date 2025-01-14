@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TPIA",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TPIA",
+      "File_Modified": "2023-03-31T18:25:41.173",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Chandra Asri Pacific Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "764989b6-32d6-4407-bf2f-617272c602d3",
+          "File_Modified": "2023-03-31T18:25:41.173",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TPIA/instance.zip",
+          "File_Size": 218207,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "d0b9a9a4-b562-494b-8a86-efcfa859100b",
+          "File_Modified": "2023-03-31T18:25:41.173",
+          "File_Name": "CAP Financial Statements Checklist FY 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TPIA/CAP Financial Statements Checklist FY 2022.pdf",
+          "File_Size": 1545300,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "3ddf44b5-09ac-4a72-a4f0-365a56ae2dcb",
+          "File_Modified": "2023-03-31T18:25:41.173",
+          "File_Name": "CAP Consolidated Financial Statements FY 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TPIA/CAP Consolidated Financial Statements FY 2022.pdf",
+          "File_Size": 2212608,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "ac1e8e3a-0def-422d-aba0-825a12941a60",
+          "File_Modified": "2023-03-31T18:25:41.173",
+          "File_Name": "FinancialStatement-2022-Tahunan-TPIA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TPIA/FinancialStatement-2022-Tahunan-TPIA.pdf",
+          "File_Size": 279827,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "ef962fb8-f80e-4b8d-a7e8-db4ed47935fe",
+          "File_Modified": "2023-03-31T18:25:41.173",
+          "File_Name": "Surat Pernyataan Direksi - LK 31 Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TPIA/Surat Pernyataan Direksi - LK 31 Desember 2022.pdf",
+          "File_Size": 94140,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "90310928-c6c5-4129-ae73-f50459b7acf3",
+          "File_Modified": "2023-03-31T18:25:41.173",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TPIA/inlineXBRL.zip",
+          "File_Size": 282027,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "0f9126a6-d046-4102-ad96-fc7ccd6cb40d",
+          "File_Modified": "2023-03-31T18:25:41.173",
+          "File_Name": "AnnualReport2022-TPIA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/f74bdb42a9_ea696558a0.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        },
+        {
+          "Emiten_Code": "TPIA",
+          "File_ID": "827f685b-a389-49ea-8b21-3bb09ab9e0aa",
+          "File_Modified": "2023-03-31T18:25:41.173",
+          "File_Name": "FinancialStatement-2022-Tahunan-TPIA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/TPIA/FinancialStatement-2022-Tahunan-TPIA.xlsx",
+          "File_Size": 1204614,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Chandra Asri Pacific Tbk"
+        }
+      ]
+    }
+  ]
+}

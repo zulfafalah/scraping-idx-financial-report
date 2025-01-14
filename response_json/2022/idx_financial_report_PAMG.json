@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PAMG",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PAMG",
+      "File_Modified": "2023-03-28T11:29:34.64",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Bima Sakti Pertiwi Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "fc56acef-33a4-431c-9cab-127828d98451",
+          "File_Modified": "2023-03-28T11:29:34.64",
+          "File_Name": "AnnualReport2022-PAMG-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/e44e1155d8_227b17dc7b.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "009038a1-f465-49ca-b5cf-d923e26e2f6c",
+          "File_Modified": "2023-03-28T11:29:34.64",
+          "File_Name": "FinancialStatement-2022-Tahunan-PAMG.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PAMG/FinancialStatement-2022-Tahunan-PAMG.xlsx",
+          "File_Size": 1138693,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "86d50396-6505-411c-8ee3-d960ef0395df",
+          "File_Modified": "2023-03-28T11:29:34.64",
+          "File_Name": "Surat Pernyataan Direksi 31 Desember 2022 PAMG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PAMG/Surat Pernyataan Direksi 31 Desember 2022 PAMG.pdf",
+          "File_Size": 1028312,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "94eaf583-d373-4b92-bb31-fc506c1fce76",
+          "File_Modified": "2023-03-28T11:29:34.64",
+          "File_Name": "Laporan Keuangan 31 Desember 2022 PAMG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PAMG/Laporan Keuangan 31 Desember 2022 PAMG.pdf",
+          "File_Size": 6334158,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "c146743b-5e92-457a-8adf-1684e79fb7d7",
+          "File_Modified": "2023-03-28T11:29:34.64",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PAMG/instance.zip",
+          "File_Size": 174953,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "2b496aec-a2cd-4248-98a4-4ef0301a4fd8",
+          "File_Modified": "2023-03-28T11:29:34.64",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PAMG/inlineXBRL.zip",
+          "File_Size": 196413,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "cf91e5aa-bfd0-475f-acc9-f4483c4d3912",
+          "File_Modified": "2023-03-28T11:29:34.64",
+          "File_Name": "FinancialStatement-2022-Tahunan-PAMG.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PAMG/FinancialStatement-2022-Tahunan-PAMG.pdf",
+          "File_Size": 133578,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "PAMG",
+          "File_ID": "51b14c2f-2f95-4a4a-ad07-f2263f1e4eb0",
+          "File_Modified": "2023-03-28T11:29:34.64",
+          "File_Name": "Checklist OJK PT Bima Sakti Pertiwi Tbk.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/PAMG/Checklist OJK PT Bima Sakti Pertiwi Tbk.pdf",
+          "File_Size": 1500890,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bima Sakti Pertiwi Tbk"
+        }
+      ]
+    }
+  ]
+}

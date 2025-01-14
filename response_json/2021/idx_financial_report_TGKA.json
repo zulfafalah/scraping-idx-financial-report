@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TGKA",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TGKA",
+      "File_Modified": "2022-04-14T22:14:55.197",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Tigaraksa Satria Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "8cb6ef0f-2fac-4a10-b3be-635cc534cc56",
+          "File_Modified": "2022-04-14T22:14:55.197",
+          "File_Name": "FinancialStatement-2021-Tahunan-TGKA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TGKA/FinancialStatement-2021-Tahunan-TGKA.pdf",
+          "File_Size": 53864,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "e71071ed-491a-4dbd-aa86-774e9099a6d9",
+          "File_Modified": "2022-04-14T22:14:55.197",
+          "File_Name": "TGKA-PT Tigaraksa Satria Tbk_LK_31 Dec 21.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TGKA/TGKA-PT Tigaraksa Satria Tbk_LK_31 Dec 21.pdf",
+          "File_Size": 2796576,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "ebddf8ce-f4c5-4f0b-b28a-8859fc227ab8",
+          "File_Modified": "2022-04-14T22:14:55.197",
+          "File_Name": "Kontan Kamis 14 April 2022 Hal 11.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TGKA/Kontan Kamis 14 April 2022 Hal 11.pdf",
+          "File_Size": 3616861,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "8291c6ee-f984-4d84-808c-a3611a712639",
+          "File_Modified": "2022-04-14T22:14:55.197",
+          "File_Name": "FinancialStatement-2021-Tahunan-TGKA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TGKA/FinancialStatement-2021-Tahunan-TGKA.xlsx",
+          "File_Size": 159953,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "6433b65c-3752-46d4-987a-3df2a1970672",
+          "File_Modified": "2022-04-14T22:14:55.197",
+          "File_Name": "Pernyataan Direksi-2021-Tahunan-TGKA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TGKA/Pernyataan Direksi-2021-Tahunan-TGKA.pdf",
+          "File_Size": 2009838,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "d4489e0c-c4cf-4d9d-b14f-dfd5a197d34e",
+          "File_Modified": "2022-04-14T22:14:55.197",
+          "File_Name": "Checklist Pengungkapan Laporan Keuangan 2021-TGKA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TGKA/Checklist Pengungkapan Laporan Keuangan 2021-TGKA.pdf",
+          "File_Size": 1667426,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "bd9cd99f-9e6b-45fe-834e-00db0310e93e",
+          "File_Modified": "2022-04-14T22:14:55.197",
+          "File_Name": "AnnualReport2021-TGKA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202212/3e68e0559d_6849180517.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "e68faebc-5117-4870-ad11-16fcbcb86801",
+          "File_Modified": "2022-04-14T22:14:55.197",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TGKA/inlineXBRL.zip",
+          "File_Size": 59493,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        },
+        {
+          "Emiten_Code": "TGKA",
+          "File_ID": "2b7b227c-d237-42eb-abd1-c341ce0b67ac",
+          "File_Modified": "2022-04-14T22:14:55.197",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/TGKA/instance.zip",
+          "File_Size": 29319,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Tigaraksa Satria Tbk"
+        }
+      ]
+    }
+  ]
+}

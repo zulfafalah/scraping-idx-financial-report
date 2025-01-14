@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "DUTI",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "DUTI",
+      "File_Modified": "2022-04-21T11:54:23.633",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Duta Pertiwi Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "3d85413f-881c-469e-ac1b-6821ceade7ca",
+          "File_Modified": "2022-04-21T11:54:23.633",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DUTI/inlineXBRL.zip",
+          "File_Size": 55137,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "c7b0af83-6a0f-4ca7-936c-01a5e51ce36e",
+          "File_Modified": "2022-04-21T11:54:23.633",
+          "File_Name": "FinancialStatement-2021-Tahunan-DUTI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DUTI/FinancialStatement-2021-Tahunan-DUTI.xlsx",
+          "File_Size": 155662,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "c75520b2-b6a9-4b10-b423-ebefc0d1490b",
+          "File_Modified": "2022-04-21T11:54:23.633",
+          "File_Name": "DUTI Checklist.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DUTI/DUTI Checklist.pdf",
+          "File_Size": 6496353,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "72b00042-2be3-4aa5-814d-fe43882cc674",
+          "File_Modified": "2022-04-21T11:54:23.633",
+          "File_Name": "022.IR-CS.DP.III.2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DUTI/022.IR-CS.DP.III.2022.pdf",
+          "File_Size": 54884,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "62f1ceaa-f559-48ae-8fc2-4c75ded40b7a",
+          "File_Modified": "2022-04-21T11:54:23.633",
+          "File_Name": "FinancialStatement-2021-Tahunan-DUTI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DUTI/FinancialStatement-2021-Tahunan-DUTI.pdf",
+          "File_Size": 56807,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "ce28a6a4-b6e5-4652-874b-a63eb7635612",
+          "File_Modified": "2022-04-21T11:54:23.633",
+          "File_Name": "AnnualReport2021-DUTI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/d0e02ffd64_455c60a8c9.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "162183da-c9e4-40ea-b888-85e1079b63bd",
+          "File_Modified": "2022-04-21T11:54:23.633",
+          "File_Name": "LK DUTI 31122021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DUTI/LK DUTI 31122021.pdf",
+          "File_Size": 1391316,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        },
+        {
+          "Emiten_Code": "DUTI",
+          "File_ID": "857b17fa-9174-4124-ba0f-ef8a47adbe86",
+          "File_Modified": "2022-04-21T11:54:23.633",
+          "File_Name": "019.IR-CS.DP.III.2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/DUTI/019.IR-CS.DP.III.2022.pdf",
+          "File_Size": 43133,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Duta Pertiwi Tbk"
+        }
+      ]
+    }
+  ]
+}

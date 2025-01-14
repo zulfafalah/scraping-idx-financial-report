@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "RDTX",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "RDTX",
+      "File_Modified": "2024-04-02T10:44:43.313",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Roda Vivatex Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "3dbef4e4-776b-47a2-bdaa-9bb511fd3de3",
+          "File_Modified": "2024-04-02T10:44:43.313",
+          "File_Name": "PENJELASAN 20 PERSEN POS TOTAL LIABILITAS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RDTX/PENJELASAN 20 PERSEN POS TOTAL LIABILITAS.pdf",
+          "File_Size": 371813,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "4a561d12-c05e-4faf-9de8-92e717c97ab1",
+          "File_Modified": "2024-04-02T10:44:43.313",
+          "File_Name": "AnnualReport2023-RDTX.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/3ea9b560bb_c7307c96b5.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "8119ed67-0364-4640-94f6-efd84d1c1b80",
+          "File_Modified": "2024-04-02T10:44:43.313",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RDTX/instance.zip",
+          "File_Size": 135881,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "fa2c14eb-5a23-45e3-9bf0-f53f0881e384",
+          "File_Modified": "2024-04-02T10:44:43.313",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RDTX/inlineXBRL.zip",
+          "File_Size": 245684,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "ee787cad-7ae5-4f87-a087-0059231da6f2",
+          "File_Modified": "2024-04-02T10:44:43.313",
+          "File_Name": "IKLAN INVESTOR DAILY.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RDTX/IKLAN INVESTOR DAILY.pdf",
+          "File_Size": 794775,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "cb3b0450-3eff-471c-8703-1907e4ba1c17",
+          "File_Modified": "2024-04-02T10:44:43.313",
+          "File_Name": "CHECKLIST LAP KEUANGAN 12 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RDTX/CHECKLIST LAP KEUANGAN 12 2023.pdf",
+          "File_Size": 1343767,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "30cf6f7f-461d-449d-a738-b7472764b047",
+          "File_Modified": "2024-04-02T10:44:43.313",
+          "File_Name": "AnnualReport2023-RDTX-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/af26513147_7746c22a55.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "b4eeed2f-6dea-4e8f-a3eb-2a29f637a211",
+          "File_Modified": "2024-04-02T10:44:43.313",
+          "File_Name": "Digital Report Roda Vivatex Konsol 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RDTX/Digital Report Roda Vivatex Konsol 2023.pdf",
+          "File_Size": 1831928,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "ba2fe514-0fc7-4e07-ae23-619e030d90c9",
+          "File_Modified": "2024-04-02T10:44:43.313",
+          "File_Name": "FinancialStatement-2023-Tahunan-RDTX.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RDTX/FinancialStatement-2023-Tahunan-RDTX.pdf",
+          "File_Size": 748118,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        },
+        {
+          "Emiten_Code": "RDTX",
+          "File_ID": "1be90dd4-b834-441f-92f4-9ef080e718a4",
+          "File_Modified": "2024-04-02T10:44:43.313",
+          "File_Name": "FinancialStatement-2023-Tahunan-RDTX.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RDTX/FinancialStatement-2023-Tahunan-RDTX.xlsx",
+          "File_Size": 349249,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Roda Vivatex Tbk"
+        }
+      ]
+    }
+  ]
+}

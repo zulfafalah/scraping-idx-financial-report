@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "OBMD",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "OBMD",
+      "File_Modified": "2024-03-29T22:27:02.047",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT OBM Drilchem Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "911bc105-c7e2-42ef-87ff-06b30c64cc83",
+          "File_Modified": "2024-03-29T22:27:02.047",
+          "File_Name": "FinancialStatement-2023-Tahunan-OBMD.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/OBMD/FinancialStatement-2023-Tahunan-OBMD.pdf",
+          "File_Size": 673101,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        },
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "96c25d07-0103-4912-84ff-d6d0514bc358",
+          "File_Modified": "2024-03-29T22:27:02.047",
+          "File_Name": "AnnualReport2023-OBMD-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/afdc7499d2_0def5a3d11.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        },
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "b00d7c17-e6a1-4a6b-80c2-faf12d72cb07",
+          "File_Modified": "2024-03-29T22:27:02.047",
+          "File_Name": "FinancialStatement-2023-Tahunan-OBMD.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/OBMD/FinancialStatement-2023-Tahunan-OBMD.xlsx",
+          "File_Size": 166064,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        },
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "737c8841-fab9-44d0-bb86-04b24a25f145",
+          "File_Modified": "2024-03-29T22:27:02.047",
+          "File_Name": "AnnualReport2023-OBMD.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/c6ad19caa0_d179b98c21.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        },
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "741ee600-bbcc-46a4-9dc3-64edc7309aa2",
+          "File_Modified": "2024-03-29T22:27:02.047",
+          "File_Name": "AnnualReport2023-OBMD-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/1aca96ef4b_9ee11545e4.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        },
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "e9d1e3ec-1e63-4c48-ad35-f05ac90328d5",
+          "File_Modified": "2024-03-29T22:27:02.047",
+          "File_Name": "SURAT PERNYATAAN DIREKSI Q4 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/OBMD/SURAT PERNYATAAN DIREKSI Q4 2023.pdf",
+          "File_Size": 482553,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        },
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "ca04ad27-4b6b-4365-a7d1-f78e6241cae8",
+          "File_Modified": "2024-03-29T22:27:02.047",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/OBMD/inlineXBRL.zip",
+          "File_Size": 231886,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        },
+        {
+          "Emiten_Code": "OBMD",
+          "File_ID": "676c7b1a-8b4d-46a4-9b95-8128048aaf08",
+          "File_Modified": "2024-03-29T22:27:02.047",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/OBMD/instance.zip",
+          "File_Size": 116826,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT OBM Drilchem Tbk"
+        }
+      ]
+    }
+  ]
+}

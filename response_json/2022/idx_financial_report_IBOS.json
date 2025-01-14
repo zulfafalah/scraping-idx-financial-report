@@ -1,0 +1,155 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "IBOS",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "IBOS",
+      "File_Modified": "2023-06-07T15:50:34.14",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Indo Boga Sukses Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "IBOS",
+          "File_ID": "cd09f33a-2341-4449-9373-3c81093075a3",
+          "File_Modified": "2023-06-07T15:50:34.14",
+          "File_Name": "Test-AnnualReport2022-IBOS-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/14f208e4cd_73808c5104.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indo Boga Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "IBOS",
+          "File_ID": "24f74873-4813-4cc0-89c9-0cc8a69c52a3",
+          "File_Modified": "2023-06-07T15:50:34.14",
+          "File_Name": "FinancialStatement-2022-Tahunan-IBOS.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IBOS/FinancialStatement-2022-Tahunan-IBOS.pdf",
+          "File_Size": 105644,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indo Boga Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "IBOS",
+          "File_ID": "d59e5e89-eb62-410d-94e5-a2a91810f6e8",
+          "File_Modified": "2023-06-07T15:50:34.14",
+          "File_Name": "Srt Pengantar Lap Keu Tahunan 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IBOS/Srt Pengantar Lap Keu Tahunan 2022.pdf",
+          "File_Size": 102272,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indo Boga Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "IBOS",
+          "File_ID": "20b29eac-4124-4229-bd9d-c3c0024c6a7f",
+          "File_Modified": "2023-06-07T15:50:34.14",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IBOS/instance.zip",
+          "File_Size": 172667,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indo Boga Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "IBOS",
+          "File_ID": "684692e1-a673-4cd5-93c4-dafc0cc90a15",
+          "File_Modified": "2023-06-07T15:50:34.14",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IBOS/inlineXBRL.zip",
+          "File_Size": 211413,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indo Boga Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "IBOS",
+          "File_ID": "580c7de8-a1e0-4ac8-9968-87900c8e8a87",
+          "File_Modified": "2023-06-07T15:50:34.14",
+          "File_Name": "LKT 31 Desember 2022 Konsolidasi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IBOS/LKT 31 Desember 2022 Konsolidasi.pdf",
+          "File_Size": 4695825,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indo Boga Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "IBOS",
+          "File_ID": "bda026ed-6746-48d1-8208-23fd36fefcbe",
+          "File_Modified": "2023-06-07T15:50:34.14",
+          "File_Name": "FinancialStatement-2022-Tahunan-IBOS.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IBOS/FinancialStatement-2022-Tahunan-IBOS.xlsx",
+          "File_Size": 1180530,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indo Boga Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "IBOS",
+          "File_ID": "6ead3997-7951-4cb0-ab7d-650c48c8e4e5",
+          "File_Modified": "2023-06-07T15:50:34.14",
+          "File_Name": "SPD Lap Keu Tahunan 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IBOS/SPD Lap Keu Tahunan 2022.pdf",
+          "File_Size": 657086,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indo Boga Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "IBOS",
+          "File_ID": "3b9c338f-5adb-4521-9080-cddf6d3f81b4",
+          "File_Modified": "2023-06-07T15:50:34.14",
+          "File_Name": "Checklist Pengungkapan Lap Keu.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IBOS/Checklist Pengungkapan Lap Keu.pdf",
+          "File_Size": 763819,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indo Boga Sukses Tbk"
+        },
+        {
+          "Emiten_Code": "IBOS",
+          "File_ID": "4f17605b-be8a-45f2-87b5-d967d7eae2bf",
+          "File_Modified": "2023-06-07T15:50:34.14",
+          "File_Name": "Penjelasan Perubahan Pos Total Aset.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/IBOS/Penjelasan Perubahan Pos Total Aset.pdf",
+          "File_Size": 1477264,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Indo Boga Sukses Tbk"
+        }
+      ]
+    }
+  ]
+}

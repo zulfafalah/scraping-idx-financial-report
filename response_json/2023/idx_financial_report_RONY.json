@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "RONY",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "RONY",
+      "File_Modified": "2024-05-28T16:00:36.757",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Aesler Grup Internasional Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "RONY",
+          "File_ID": "069d7052-69c2-4944-b992-15a4317b2f29",
+          "File_Modified": "2024-05-28T16:00:36.757",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RONY/inlineXBRL.zip",
+          "File_Size": 223838,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aesler Grup Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "RONY",
+          "File_ID": "1cfd2fe1-6c15-46e8-b179-897469c88e62",
+          "File_Modified": "2024-05-28T16:00:36.757",
+          "File_Name": "FinancialStatement-2023-Tahunan-RONY.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RONY/FinancialStatement-2023-Tahunan-RONY.pdf",
+          "File_Size": 661291,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aesler Grup Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "RONY",
+          "File_ID": "13d71168-7214-481f-9418-ecd5f0ea341e",
+          "File_Modified": "2024-05-28T16:00:36.757",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RONY/instance.zip",
+          "File_Size": 113040,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aesler Grup Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "RONY",
+          "File_ID": "b3648913-7cfb-4887-a0c1-019231dbf239",
+          "File_Modified": "2024-05-28T16:00:36.757",
+          "File_Name": "FinancialStatement-2023-Tahunan-RONY.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RONY/FinancialStatement-2023-Tahunan-RONY.xlsx",
+          "File_Size": 317867,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aesler Grup Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "RONY",
+          "File_ID": "55fa3b82-03d1-4655-8569-38c451571305",
+          "File_Modified": "2024-05-28T16:00:36.757",
+          "File_Name": "FS PT Aesler Grup Internasional Tbk 23 FINAL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/RONY/FS PT Aesler Grup Internasional Tbk 23 FINAL.pdf",
+          "File_Size": 2894627,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aesler Grup Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "RONY",
+          "File_ID": "bd6f8ee4-ee5a-4cf7-95a4-9afba1d0a6f4",
+          "File_Modified": "2024-05-28T16:00:36.757",
+          "File_Name": "AnnualReport2023-RONY.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202409/92d409430c_504f3728b8.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aesler Grup Internasional Tbk"
+        },
+        {
+          "Emiten_Code": "RONY",
+          "File_ID": "aa1a4471-e2e4-405a-8b36-bbdb09302efa",
+          "File_Modified": "2024-05-28T16:00:36.757",
+          "File_Name": "AnnualReport2023-RONY-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202409/73a6d562b7_96d28db000.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Aesler Grup Internasional Tbk"
+        }
+      ]
+    }
+  ]
+}

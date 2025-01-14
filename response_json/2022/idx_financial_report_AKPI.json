@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AKPI",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AKPI",
+      "File_Modified": "2023-03-30T17:24:11.59",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Argha Karya Prima Ind. Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "c23c685b-764d-414e-a099-786ffc93d47f",
+          "File_Modified": "2023-03-30T17:24:11.59",
+          "File_Name": "FinancialStatement-2022-Tahunan-AKPI.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AKPI/FinancialStatement-2022-Tahunan-AKPI.pdf",
+          "File_Size": 149276,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "f99b3b21-7eba-4ff8-9f94-c6257b3790c0",
+          "File_Modified": "2023-03-30T17:24:11.59",
+          "File_Name": "CHECKLIST.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AKPI/CHECKLIST.pdf",
+          "File_Size": 1705416,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "d27194e9-5fbd-40b9-be95-65f665e6b892",
+          "File_Modified": "2023-03-30T17:24:11.59",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AKPI/instance.zip",
+          "File_Size": 176571,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "8259482c-c219-469a-9edc-a57b57341e0a",
+          "File_Modified": "2023-03-30T17:24:11.59",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AKPI/inlineXBRL.zip",
+          "File_Size": 224455,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "4ad96a6d-4d2f-48a0-b9fe-7fd412a8c821",
+          "File_Modified": "2023-03-30T17:24:11.59",
+          "File_Name": "FinancialStatement-2022-Tahunan-AKPI.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AKPI/FinancialStatement-2022-Tahunan-AKPI.xlsx",
+          "File_Size": 1184381,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "2dfe6b42-97cb-4df4-865f-ffbff81673e4",
+          "File_Modified": "2023-03-30T17:24:11.59",
+          "File_Name": "Argha Karya Dec 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AKPI/Argha Karya Dec 2022.pdf",
+          "File_Size": 2315546,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        },
+        {
+          "Emiten_Code": "AKPI",
+          "File_ID": "97d46ecb-076a-4b3a-9619-08daf47f3396",
+          "File_Modified": "2023-03-30T17:24:11.59",
+          "File_Name": "AnnualReport2022-AKPI-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/d040d8eda5_4bfd3fc718.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Argha Karya Prima Ind. Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "LAND",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "LAND",
+      "File_Modified": "2023-04-06T15:37:11.503",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Trimitra Propertindo Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "ec176778-49f0-43f1-a304-cafb4e09d48c",
+          "File_Modified": "2023-04-06T15:37:11.503",
+          "File_Name": "AnnualReport2022-LAND-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/b51f528972_ce94e102f3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "9d5db4c1-9994-46f7-932f-ecdd4a3bc3a0",
+          "File_Modified": "2023-04-06T15:37:11.503",
+          "File_Name": "FinancialStatement-2022-Tahunan-LAND.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/LAND/FinancialStatement-2022-Tahunan-LAND.pdf",
+          "File_Size": 121803,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "a9116c4f-945f-4a11-9a5b-4fcf9056610f",
+          "File_Modified": "2023-04-06T15:37:11.503",
+          "File_Name": "AnnualReport2022-LAND.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/20ba6210ce_8275f2695c.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "34de281d-711f-4873-a4e7-3952bc30712b",
+          "File_Modified": "2023-04-06T15:37:11.503",
+          "File_Name": "Release Report TMP - 31 Des 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/LAND/Release Report TMP - 31 Des 2022.pdf",
+          "File_Size": 4994499,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "615b29da-0b76-4266-866a-c3bfe7121641",
+          "File_Modified": "2023-04-06T15:37:11.503",
+          "File_Name": "AnnualReport2022-LAND-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/c0ef0fc199_b10e24d0aa.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "ca3d837e-62cc-4ab2-8ce2-0876d0fb9d60",
+          "File_Modified": "2023-04-06T15:37:11.503",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/LAND/inlineXBRL.zip",
+          "File_Size": 161784,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "66ba78ec-2c7c-4343-9481-9b3b3108a817",
+          "File_Modified": "2023-04-06T15:37:11.503",
+          "File_Name": "AnnualReport2022-LAND-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/b51f528972_ce94e102f3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "2c624c58-c739-436c-83e0-c1ca3717bcfa",
+          "File_Modified": "2023-04-06T15:37:11.503",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/LAND/instance.zip",
+          "File_Size": 178627,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        },
+        {
+          "Emiten_Code": "LAND",
+          "File_ID": "c4681717-f242-4dc2-bff4-c6fb3a392ba8",
+          "File_Modified": "2023-04-06T15:37:11.503",
+          "File_Name": "FinancialStatement-2022-Tahunan-LAND.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/LAND/FinancialStatement-2022-Tahunan-LAND.xlsx",
+          "File_Size": 1180434,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Trimitra Propertindo Tbk."
+        }
+      ]
+    }
+  ]
+}

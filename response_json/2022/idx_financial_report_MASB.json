@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MASB",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MASB",
+      "File_Modified": "2023-03-31T23:18:55.74",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Bank Multiarta Sentosa Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MASB",
+          "File_ID": "2405fccf-e890-4c3b-8b89-58704b7fa546",
+          "File_Modified": "2023-03-31T23:18:55.74",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MASB/instance.zip",
+          "File_Size": 101105,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Multiarta Sentosa Tbk"
+        },
+        {
+          "Emiten_Code": "MASB",
+          "File_ID": "bb8f8562-d923-4404-8a01-0be3205a39be",
+          "File_Modified": "2023-03-31T23:18:55.74",
+          "File_Name": "Penjelasan 20 persen Desember 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MASB/Penjelasan 20 persen Desember 2022.pdf",
+          "File_Size": 170752,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Multiarta Sentosa Tbk"
+        },
+        {
+          "Emiten_Code": "MASB",
+          "File_ID": "510e92c5-2318-48cf-9365-200b1c920d6f",
+          "File_Modified": "2023-03-31T23:18:55.74",
+          "File_Name": "FinancialStatement-2022-Tahunan-MASB.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MASB/FinancialStatement-2022-Tahunan-MASB.xlsx",
+          "File_Size": 580160,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Multiarta Sentosa Tbk"
+        },
+        {
+          "Emiten_Code": "MASB",
+          "File_ID": "0b15543a-bec1-4724-a96d-37edf8213124",
+          "File_Modified": "2023-03-31T23:18:55.74",
+          "File_Name": "AnnualReport2022-MASB-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/fb201bb033_df7df08ffb.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Multiarta Sentosa Tbk"
+        },
+        {
+          "Emiten_Code": "MASB",
+          "File_ID": "01e15277-3e0a-4bf1-b1f1-9ef4f06e5f05",
+          "File_Modified": "2023-03-31T23:18:55.74",
+          "File_Name": "Bank Multiarta Sentosa Tbk Dec 31 2022 Released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MASB/Bank Multiarta Sentosa Tbk Dec 31 2022 Released.pdf",
+          "File_Size": 5574217,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Multiarta Sentosa Tbk"
+        },
+        {
+          "Emiten_Code": "MASB",
+          "File_ID": "bea72730-431d-448f-b695-f0c1972abda2",
+          "File_Modified": "2023-03-31T23:18:55.74",
+          "File_Name": "FinancialStatement-2022-Tahunan-MASB.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MASB/FinancialStatement-2022-Tahunan-MASB.pdf",
+          "File_Size": 182735,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Multiarta Sentosa Tbk"
+        },
+        {
+          "Emiten_Code": "MASB",
+          "File_ID": "a1b143bf-0230-4c15-a270-fd06a2e43b13",
+          "File_Modified": "2023-03-31T23:18:55.74",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/MASB/inlineXBRL.zip",
+          "File_Size": 149527,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Bank Multiarta Sentosa Tbk"
+        }
+      ]
+    }
+  ]
+}

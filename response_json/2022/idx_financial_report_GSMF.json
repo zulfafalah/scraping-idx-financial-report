@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "GSMF",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "GSMF",
+      "File_Modified": "2023-04-12T17:57:13.723",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "Equity Development Investment Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "GSMF",
+          "File_ID": "896a17a7-adf4-4ac0-ade0-0cbf5946f724",
+          "File_Modified": "2023-04-12T17:57:13.723",
+          "File_Name": "Penyampaian Lapkeu 31 Desember 2022 PT EDI Tbk.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GSMF/Penyampaian Lapkeu 31 Desember 2022 PT EDI Tbk.pdf",
+          "File_Size": 497766,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Equity Development Investment Tbk"
+        },
+        {
+          "Emiten_Code": "GSMF",
+          "File_ID": "3fe592f8-bcbf-4e14-b121-f047294369df",
+          "File_Modified": "2023-04-12T17:57:13.723",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GSMF/instance.zip",
+          "File_Size": 188459,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Equity Development Investment Tbk"
+        },
+        {
+          "Emiten_Code": "GSMF",
+          "File_ID": "21cb518d-8fc2-424a-9bd2-31520c46312c",
+          "File_Modified": "2023-04-12T17:57:13.723",
+          "File_Name": "FinancialStatement-2022-Tahunan-GSMF.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GSMF/FinancialStatement-2022-Tahunan-GSMF.xlsx",
+          "File_Size": 1199982,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Equity Development Investment Tbk"
+        },
+        {
+          "Emiten_Code": "GSMF",
+          "File_ID": "dceb0fbc-f22d-4821-9d47-be84bd0e0a7c",
+          "File_Modified": "2023-04-12T17:57:13.723",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GSMF/inlineXBRL.zip",
+          "File_Size": 183418,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Equity Development Investment Tbk"
+        },
+        {
+          "Emiten_Code": "GSMF",
+          "File_ID": "600e7a91-0fa9-41c1-a047-bba7d150e3ce",
+          "File_Modified": "2023-04-12T17:57:13.723",
+          "File_Name": "Surat Pernyataan Direksi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GSMF/Surat Pernyataan Direksi.pdf",
+          "File_Size": 834317,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Equity Development Investment Tbk"
+        },
+        {
+          "Emiten_Code": "GSMF",
+          "File_ID": "20898c62-6510-4d2e-b340-1dcc1692b2a6",
+          "File_Modified": "2023-04-12T17:57:13.723",
+          "File_Name": "FinancialStatement-2022-Tahunan-GSMF.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GSMF/FinancialStatement-2022-Tahunan-GSMF.pdf",
+          "File_Size": 135864,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Equity Development Investment Tbk"
+        },
+        {
+          "Emiten_Code": "GSMF",
+          "File_ID": "b634cd14-cb7c-45ad-ab68-8fe0f090c7ec",
+          "File_Modified": "2023-04-12T17:57:13.723",
+          "File_Name": "AnnualReport2022-GSMF-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202304/4f4c02341d_b0488539e3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Equity Development Investment Tbk"
+        },
+        {
+          "Emiten_Code": "GSMF",
+          "File_ID": "9812efb1-2f14-461d-b4ce-b3f76d529352",
+          "File_Modified": "2023-04-12T17:57:13.723",
+          "File_Name": "LapKeu EDI 31 Desember 2022_released.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/GSMF/LapKeu EDI 31 Desember 2022_released.pdf",
+          "File_Size": 4146202,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "Equity Development Investment Tbk"
+        }
+      ]
+    }
+  ]
+}

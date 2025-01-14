@@ -1,0 +1,129 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "ASJT",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "ASJT",
+      "File_Modified": "2022-04-28T13:26:26.4",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "Asuransi Jasa Tania Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "6472c2d6-bb1a-41be-9768-2e1685a22f53",
+          "File_Modified": "2022-04-28T13:26:26.4",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ASJT/instance.zip",
+          "File_Size": 24164,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "e24392ad-e1d5-48a3-b9ca-84869218a63d",
+          "File_Modified": "2022-04-28T13:26:26.4",
+          "File_Name": "AnnualReport2021-ASJT-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202205/8793002aa0_6685b150ea.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "db304182-7dc5-4695-a7c8-aee0fc328825",
+          "File_Modified": "2022-04-28T13:26:26.4",
+          "File_Name": "FinancialStatement-2021-Tahunan-ASJT.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ASJT/FinancialStatement-2021-Tahunan-ASJT.pdf",
+          "File_Size": 45521,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "3a4e1591-a1b0-44c9-a6e0-0c79eaa85772",
+          "File_Modified": "2022-04-28T13:26:26.4",
+          "File_Name": "PT Asuransi Jasa Tania Tbk 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ASJT/PT Asuransi Jasa Tania Tbk 2021.pdf",
+          "File_Size": 1287685,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "da43b849-6e31-4fb3-b4fd-8a2a40797f3b",
+          "File_Modified": "2022-04-28T13:26:26.4",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ASJT/inlineXBRL.zip",
+          "File_Size": 47376,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "495a8220-4249-4849-b229-90bfe5d54ed8",
+          "File_Modified": "2022-04-28T13:26:26.4",
+          "File_Name": "FinancialStatement-2021-Tahunan-ASJT.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ASJT/FinancialStatement-2021-Tahunan-ASJT.xlsx",
+          "File_Size": 147316,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "9d3f50ec-e988-4285-99b6-3a68b0dfdecc",
+          "File_Modified": "2022-04-28T13:26:26.4",
+          "File_Name": "Perubahan Aset dan Liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ASJT/Perubahan Aset dan Liabilitas.pdf",
+          "File_Size": 408737,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        },
+        {
+          "Emiten_Code": "ASJT",
+          "File_ID": "3db134c6-cc8d-4f0f-ad9b-57def5b0d392",
+          "File_Modified": "2022-04-28T13:26:26.4",
+          "File_Name": "Surat Pernyataan Direksi LKT 2021 (Audited).pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/ASJT/Surat Pernyataan Direksi LKT 2021 (Audited).pdf",
+          "File_Size": 125034,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "Asuransi Jasa Tania Tbk"
+        }
+      ]
+    }
+  ]
+}

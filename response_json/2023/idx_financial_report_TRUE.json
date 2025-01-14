@@ -1,0 +1,116 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "TRUE",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "TRUE",
+      "File_Modified": "2024-03-30T09:22:19.577",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "PT Triniti Dinamik Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "12543e65-869c-4555-97e9-306521fc8483",
+          "File_Modified": "2024-03-30T09:22:19.577",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TRUE/instance.zip",
+          "File_Size": 134852,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "367a3e96-1e18-438f-832a-676c6d069466",
+          "File_Modified": "2024-03-30T09:22:19.577",
+          "File_Name": "PT Triniti Dinamik Tbk 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TRUE/PT Triniti Dinamik Tbk 31 Desember 2023.pdf",
+          "File_Size": 6947445,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "46899f8d-0b51-41b0-8504-0e241fa72cd7",
+          "File_Modified": "2024-03-30T09:22:19.577",
+          "File_Name": "FinancialStatement-2023-Tahunan-TRUE.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TRUE/FinancialStatement-2023-Tahunan-TRUE.xlsx",
+          "File_Size": 75384,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "2abba6c2-a86d-45d8-ad60-1525569359b2",
+          "File_Modified": "2024-03-30T09:22:19.577",
+          "File_Name": "AnnualReport2023-TRUE-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/5ce3aba6f0_4af796c8fe.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "98e82b32-fcde-4fad-afec-4c8a9096d3fa",
+          "File_Modified": "2024-03-30T09:22:19.577",
+          "File_Name": "FinancialStatement-2023-Tahunan-TRUE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TRUE/FinancialStatement-2023-Tahunan-TRUE.pdf",
+          "File_Size": 704202,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "8e0d93b0-4793-4b44-bf4d-ddb0d86e2145",
+          "File_Modified": "2024-03-30T09:22:19.577",
+          "File_Name": "AnnualReport2023-TRUE.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/04c4059d84_98d3dfc8d5.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        },
+        {
+          "Emiten_Code": "TRUE",
+          "File_ID": "e948b312-24b3-413f-894c-d63360f93120",
+          "File_Modified": "2024-03-30T09:22:19.577",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/TRUE/inlineXBRL.zip",
+          "File_Size": 243647,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "PT Triniti Dinamik Tbk"
+        }
+      ]
+    }
+  ]
+}

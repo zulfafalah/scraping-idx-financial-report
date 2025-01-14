@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "AXIO",
+    "Year": "2022",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "AXIO",
+      "File_Modified": "2023-04-03T14:49:24.473",
+      "Report_Period": "Audit",
+      "Report_Year": "2022",
+      "NamaEmiten": "PT Tera Data Indonusa Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "AXIO",
+          "File_ID": "27755c8d-d231-491f-ae86-66008e3441ec",
+          "File_Modified": "2023-04-03T14:49:24.473",
+          "File_Name": "FinancialStatement-2022-Tahunan-AXIO.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AXIO/FinancialStatement-2022-Tahunan-AXIO.xlsx",
+          "File_Size": 1218865,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Tera Data Indonusa Tbk"
+        },
+        {
+          "Emiten_Code": "AXIO",
+          "File_ID": "f64984a0-0576-4fca-90e6-8fc9143ddd3a",
+          "File_Modified": "2023-04-03T14:49:24.473",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AXIO/inlineXBRL.zip",
+          "File_Size": 203913,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Tera Data Indonusa Tbk"
+        },
+        {
+          "Emiten_Code": "AXIO",
+          "File_ID": "51a3b903-2ed7-4294-8c71-97b825eccd55",
+          "File_Modified": "2023-04-03T14:49:24.473",
+          "File_Name": "FinancialStatement-2022-Tahunan-AXIO.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AXIO/FinancialStatement-2022-Tahunan-AXIO.pdf",
+          "File_Size": 195341,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Tera Data Indonusa Tbk"
+        },
+        {
+          "Emiten_Code": "AXIO",
+          "File_ID": "a5404046-5a92-4eec-b16a-c659969a38b4",
+          "File_Modified": "2023-04-03T14:49:24.473",
+          "File_Name": "CHECKLIST PENGUNGKAPAN LK PT TDI DEC 2022-FINAL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AXIO/CHECKLIST PENGUNGKAPAN LK PT TDI DEC 2022-FINAL.pdf",
+          "File_Size": 947935,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Tera Data Indonusa Tbk"
+        },
+        {
+          "Emiten_Code": "AXIO",
+          "File_ID": "5b753c5c-3359-49e5-83a7-3b6bf33fe549",
+          "File_Modified": "2023-04-03T14:49:24.473",
+          "File_Name": "PT Tera Data Indonusa Tbk dan Entitas Anak - 2022.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AXIO/PT Tera Data Indonusa Tbk dan Entitas Anak - 2022.pdf",
+          "File_Size": 6279307,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Tera Data Indonusa Tbk"
+        },
+        {
+          "Emiten_Code": "AXIO",
+          "File_ID": "686d98ea-7b26-4d95-a295-993d630f453b",
+          "File_Modified": "2023-04-03T14:49:24.473",
+          "File_Name": "AnnualReport2022-AXIO-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202305/f57932ac26_8592d18559.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Tera Data Indonusa Tbk"
+        },
+        {
+          "Emiten_Code": "AXIO",
+          "File_ID": "a8ee25c0-7b6a-4c22-9e71-28c19e45f6a9",
+          "File_Modified": "2023-04-03T14:49:24.473",
+          "File_Name": "Perubahan atas Aset dan Liabilitas.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AXIO/Perubahan atas Aset dan Liabilitas.pdf",
+          "File_Size": 2972179,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Tera Data Indonusa Tbk"
+        },
+        {
+          "Emiten_Code": "AXIO",
+          "File_ID": "d6e93c9f-dbf0-434d-bfca-a221792b6331",
+          "File_Modified": "2023-04-03T14:49:24.473",
+          "File_Name": "Surat Pernyataan Dewan Direksi.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AXIO/Surat Pernyataan Dewan Direksi.pdf",
+          "File_Size": 1032120,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Tera Data Indonusa Tbk"
+        },
+        {
+          "Emiten_Code": "AXIO",
+          "File_ID": "eb56d70d-d124-4fcc-9b80-eea7d83ecdea",
+          "File_Modified": "2023-04-03T14:49:24.473",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2022/Audit/AXIO/instance.zip",
+          "File_Size": 192561,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2022",
+          "NamaEmiten": "PT Tera Data Indonusa Tbk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "PEGE",
+    "Year": "2021",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "PEGE",
+      "File_Modified": "2022-04-13T09:39:10.487",
+      "Report_Period": "Audit",
+      "Report_Year": "2021",
+      "NamaEmiten": "PT Panca Global Kapital Tbk.",
+      "Attachments": [
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "9facb3e0-c288-4759-85ad-945f81d6e998",
+          "File_Modified": "2022-04-13T09:39:10.487",
+          "File_Name": "Perubahan Total Aset dan Kewajiban 20persen.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PEGE/Perubahan Total Aset dan Kewajiban 20persen.pdf",
+          "File_Size": 950363,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "e3a72c10-96b3-4aa8-979a-2ec8d7e6500b",
+          "File_Modified": "2022-04-13T09:39:10.487",
+          "File_Name": "TJ LK Des 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PEGE/TJ LK Des 2021.pdf",
+          "File_Size": 546475,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "2d478602-bed2-4de6-b890-a73fc765e35f",
+          "File_Modified": "2022-04-13T09:39:10.487",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PEGE/instance.zip",
+          "File_Size": 28502,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "7d58b80c-48a5-469c-a657-dccb890f0cc7",
+          "File_Modified": "2022-04-13T09:39:10.487",
+          "File_Name": "AnnualReport2021-PEGE-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202206/9aad263515_c0f199e33e.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "58b4ff51-d82c-4071-a812-f6875b2540b1",
+          "File_Modified": "2022-04-13T09:39:10.487",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PEGE/inlineXBRL.zip",
+          "File_Size": 58665,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "73f1e36b-a15d-4687-807e-a15dfe5ccf88",
+          "File_Modified": "2022-04-13T09:39:10.487",
+          "File_Name": "FinancialStatement-2021-Tahunan-PEGE.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PEGE/FinancialStatement-2021-Tahunan-PEGE.xlsx",
+          "File_Size": 159185,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "e74bf1f5-d945-4b9c-aa6b-bb0a4d2ae716",
+          "File_Modified": "2022-04-13T09:39:10.487",
+          "File_Name": "LK PT Panca Global Kapital Tbk Des 2021 KONSOL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PEGE/LK PT Panca Global Kapital Tbk Des 2021 KONSOL.pdf",
+          "File_Size": 1651367,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "64ad5655-6f96-40df-856a-d327e4d9ffcb",
+          "File_Modified": "2022-04-13T09:39:10.487",
+          "File_Name": "Checklist LK Audit Tahun 2021.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PEGE/Checklist LK Audit Tahun 2021.pdf",
+          "File_Size": 1116449,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        },
+        {
+          "Emiten_Code": "PEGE",
+          "File_ID": "34d68bb6-eaae-4894-8774-ed6f05fb0d04",
+          "File_Modified": "2022-04-13T09:39:10.487",
+          "File_Name": "FinancialStatement-2021-Tahunan-PEGE.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2021/Audit/PEGE/FinancialStatement-2021-Tahunan-PEGE.pdf",
+          "File_Size": 43303,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2021",
+          "NamaEmiten": "PT Panca Global Kapital Tbk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Search": {
+    "ReportType": "rdf",
+    "KodeEmiten": "MIRA",
+    "Year": "2023",
+    "SortColumn": "KodeEmiten",
+    "SortOrder": "asc",
+    "EmitenType": "s",
+    "Periode": "audit",
+    "indexfrom": 1,
+    "pagesize": 12
+  },
+  "ResultCount": 1,
+  "Results": [
+    {
+      "KodeEmiten": "MIRA",
+      "File_Modified": "2024-04-01T09:05:06.993",
+      "Report_Period": "Audit",
+      "Report_Year": "2023",
+      "NamaEmiten": "Mitra International Resources Tbk",
+      "Attachments": [
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "c88aa2f6-01cf-453c-800a-43717193b7c2",
+          "File_Modified": "2024-04-01T09:05:06.993",
+          "File_Name": "AnnualReport2023-MIRA.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/16f9902253_1d449818f3.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "9e6b3aff-49b7-49d3-b2f7-571324e6d4ca",
+          "File_Modified": "2024-04-01T09:05:06.993",
+          "File_Name": "FinancialStatement-2023-Tahunan-MIRA.xlsx",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MIRA/FinancialStatement-2023-Tahunan-MIRA.xlsx",
+          "File_Size": 306985,
+          "File_Type": ".xlsx",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "1cef9303-90a1-4911-acae-71275587dc41",
+          "File_Modified": "2024-04-01T09:05:06.993",
+          "File_Name": "MIRA Konsol 31 Desember 23_FINAL.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MIRA/MIRA Konsol 31 Desember 23_FINAL.pdf",
+          "File_Size": 2760485,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "1f22c13f-e084-4e3e-852b-c429ceb473c5",
+          "File_Modified": "2024-04-01T09:05:06.993",
+          "File_Name": "inlineXBRL.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MIRA/inlineXBRL.zip",
+          "File_Size": 219489,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "122a5ccd-de70-45e5-9a49-c4b359fa87ca",
+          "File_Modified": "2024-04-01T09:05:06.993",
+          "File_Name": "S-008 Penyampaian Lapkeu Tahunan 31 Desember 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MIRA/S-008 Penyampaian Lapkeu Tahunan 31 Desember 2023.pdf",
+          "File_Size": 187327,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "715fe302-911a-4c48-a589-c54087b51a3b",
+          "File_Modified": "2024-04-01T09:05:06.993",
+          "File_Name": "AnnualReport2023-MIRA-att2.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/ccfc7435fe_35320f8173.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "99988bf2-ad57-46f7-afec-2480e5bcff10",
+          "File_Modified": "2024-04-01T09:05:06.993",
+          "File_Name": "SPD MIRA 2023.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MIRA/SPD MIRA 2023.pdf",
+          "File_Size": 359927,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "03357a1d-b69e-4f1a-aa86-399887d76f17",
+          "File_Modified": "2024-04-01T09:05:06.993",
+          "File_Name": "AnnualReport2023-MIRA-att1.pdf",
+          "File_Path": "/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202404/82f0421677_4b54d02b72.pdf",
+          "File_Size": 0,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "6e9fad47-4cb9-45b1-bd1b-c2cb0d3974df",
+          "File_Modified": "2024-04-01T09:05:06.993",
+          "File_Name": "instance.zip",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MIRA/instance.zip",
+          "File_Size": 122927,
+          "File_Type": ".zip",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "5975f5da-329b-464f-a673-e875f9717c92",
+          "File_Modified": "2024-04-01T09:05:06.993",
+          "File_Name": "FinancialStatement-2023-Tahunan-MIRA.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MIRA/FinancialStatement-2023-Tahunan-MIRA.pdf",
+          "File_Size": 636212,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        },
+        {
+          "Emiten_Code": "MIRA",
+          "File_ID": "74e21bc0-b4f5-4f84-9630-0d11214eef4f",
+          "File_Modified": "2024-04-01T09:05:06.993",
+          "File_Name": "CHECKLIST PENGUNGKAPAN LKMIRA Des 23.pdf",
+          "File_Path": "/Portals/0/StaticData/ListedCompanies/Corporate_Actions/New_Info_JSX/Jenis_Informasi/01_Laporan_Keuangan/02_Soft_Copy_Laporan_Keuangan//Laporan Keuangan Tahun 2023/Audit/MIRA/CHECKLIST PENGUNGKAPAN LKMIRA Des 23.pdf",
+          "File_Size": 1699213,
+          "File_Type": ".pdf",
+          "Report_Period": "Audit",
+          "Report_Type": "rdf",
+          "Report_Year": "2023",
+          "NamaEmiten": "Mitra International Resources Tbk"
+        }
+      ]
+    }
+  ]
+}
